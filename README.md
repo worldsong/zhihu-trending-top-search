@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 17 2022 15:03:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 17 2022 16:07:51 GMT+0800 (China Standard Time) -->
 
 1. [小布丁雪糕抽检不合格](https://www.zhihu.com/search?q=小布丁雪糕抽检不合格)
 1. [苏炳添说对不起大家](https://www.zhihu.com/search?q=苏炳添说对不起大家)

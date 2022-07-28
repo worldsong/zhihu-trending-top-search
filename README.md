@@ -14,10 +14,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 28 2022 07:03:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 28 2022 08:32:07 GMT+0800 (China Standard Time) -->
 
 1. [电锯人第二部更新](https://www.zhihu.com/search?q=电锯人第二部更新)
-1. [横山寺未发现为关东军立牌位](https://www.zhihu.com/search?q=横山寺未发现为关东军立牌位)
 1. [周劼已被停职](https://www.zhihu.com/search?q=周劼已被停职)
 1. [女子穿马面裙进迪奥拍照被制止](https://www.zhihu.com/search?q=女子穿马面裙进迪奥拍照被制止)
 1. [菲律宾发生 7.0 级地震](https://www.zhihu.com/search?q=菲律宾发生 7.0 级地震)
@@ -26,6 +25,8 @@
 1. [四川沐川通报持枪伤人案](https://www.zhihu.com/search?q=四川沐川通报持枪伤人案)
 1. [美联储预计加息 75 个基点](https://www.zhihu.com/search?q=美联储预计加息 75 个基点)
 1. [特朗普重回华盛顿](https://www.zhihu.com/search?q=特朗普重回华盛顿)
+1. [夏日祭在全国设置 21 场活动](https://www.zhihu.com/search?q=夏日祭在全国设置 21 场活动)
+1. [横山寺未发现为关东军立牌位](https://www.zhihu.com/search?q=横山寺未发现为关东军立牌位)
 
 <!-- END -->
 

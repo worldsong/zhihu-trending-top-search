@@ -14,11 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 02 2022 18:05:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 02 2022 19:03:07 GMT+0800 (China Standard Time) -->
 
-1. [两部门发文打击对新冠康复者就业歧视](https://www.zhihu.com/search?q=两部门发文打击对新冠康复者就业歧视)
-1. [扬州大学教师出国游学倒欠学校 7 万元](https://www.zhihu.com/search?q=扬州大学教师出国游学倒欠学校 7 万元)
-1. [中国人开始不爱吃辣了吗](https://www.zhihu.com/search?q=中国人开始不爱吃辣了吗)
 1. [美官员放风称「佩洛西将访问台湾」](https://www.zhihu.com/search?q=美官员放风称「佩洛西将访问台湾」)
 1. [东部战区发文](https://www.zhihu.com/search?q=东部战区发文)
 1. [网传周周在西非失联](https://www.zhihu.com/search?q=网传周周在西非失联)
@@ -26,6 +23,12 @@
 1. [美击毙「基地」组织头目](https://www.zhihu.com/search?q=美击毙「基地」组织头目)
 1. [日本美滨核电站泄漏](https://www.zhihu.com/search?q=日本美滨核电站泄漏)
 1. [南海渤海部分海域禁止驶入](https://www.zhihu.com/search?q=南海渤海部分海域禁止驶入)
+1. [佩洛西行程](https://www.zhihu.com/search?q=佩洛西行程)
+1. [诛仙动画开播](https://www.zhihu.com/search?q=诛仙动画开播)
+1. [海贼王 1056 话情报](https://www.zhihu.com/search?q=海贼王 1056 话情报)
+1. [两部门发文打击对新冠康复者就业歧视](https://www.zhihu.com/search?q=两部门发文打击对新冠康复者就业歧视)
+1. [扬州大学教师出国游学倒欠学校 7 万元](https://www.zhihu.com/search?q=扬州大学教师出国游学倒欠学校 7 万元)
+1. [中国人开始不爱吃辣了吗](https://www.zhihu.com/search?q=中国人开始不爱吃辣了吗)
 1. [桂宝大电影上映](https://www.zhihu.com/search?q=桂宝大电影上映)
 1. [外交部正告美方中方正严阵以待](https://www.zhihu.com/search?q=外交部正告美方中方正严阵以待)
 1. [iPhone14 或无 mini 版](https://www.zhihu.com/search?q=iPhone14 或无 mini 版)

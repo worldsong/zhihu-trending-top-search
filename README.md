@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 21 2022 19:02:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 21 2022 20:09:14 GMT+0800 (China Standard Time) -->
 
 1. [特朗普或将面临刑事起诉](https://www.zhihu.com/search?q=特朗普或将面临刑事起诉)
 1. [RNG 1:3 不敌 EDG](https://www.zhihu.com/search?q=RNG 1:3 不敌 EDG)

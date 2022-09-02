@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 02 2022 13:17:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 02 2022 14:30:18 GMT+0800 (China Standard Time) -->
 
 1. [反诈骗法通过](https://www.zhihu.com/search?q=反诈骗法通过)
 1. [辣目洋子恢复本名](https://www.zhihu.com/search?q=辣目洋子恢复本名)

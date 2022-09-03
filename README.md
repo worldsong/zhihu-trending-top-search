@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 03 2022 16:07:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 03 2022 17:04:33 GMT+0800 (China Standard Time) -->
 
 1. [Steam 游戏落叶城发售](https://www.zhihu.com/search?q=Steam 游戏落叶城发售)
 1. [EDG 让二追三 RNG](https://www.zhihu.com/search?q=EDG 让二追三 RNG)

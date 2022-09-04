@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 04 2022 19:02:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 04 2022 20:10:52 GMT+0800 (China Standard Time) -->
 
 1. [上海市监局回应巴黎贝甜被罚](https://www.zhihu.com/search?q=上海市监局回应巴黎贝甜被罚)
 1. [刘德华线上演唱会](https://www.zhihu.com/search?q=刘德华线上演唱会)

@@ -14,9 +14,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 05 2022 21:32:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 05 2022 22:09:52 GMT+0800 (China Standard Time) -->
 
-1. [中方陆空战术群在俄罗斯演习](https://www.zhihu.com/search?q=中方陆空战术群在俄罗斯演习)
 1. [今夏全国平均气温为 1961 年以来同期最高](https://www.zhihu.com/search?q=今夏全国平均气温为 1961
    年以来同期最高)
 1. [RNG 晋级世界赛](https://www.zhihu.com/search?q=RNG 晋级世界赛)
@@ -29,6 +28,7 @@
 1. [玩游戏花 17 万致父母卖房](https://www.zhihu.com/search?q=玩游戏花 17 万致父母卖房)
 1. [韩国最大在野党对总统尹锡悦提起诉讼](https://www.zhihu.com/search?q=韩国最大在野党对总统尹锡悦提起诉讼)
 1. [四川甘孜 6.8 级地震](https://www.zhihu.com/search?q=四川甘孜 6.8 级地震)
+1. [中方陆空战术群在俄罗斯演习](https://www.zhihu.com/search?q=中方陆空战术群在俄罗斯演习)
 1. [泸定强震已致 21 人遇难](https://www.zhihu.com/search?q=泸定强震已致 21 人遇难)
 1. [原神联动高德地图](https://www.zhihu.com/search?q=原神联动高德地图)
 1. [四川绵竹疑现大量蝙蝠](https://www.zhihu.com/search?q=四川绵竹疑现大量蝙蝠)

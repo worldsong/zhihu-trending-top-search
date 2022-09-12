@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 12 2022 18:07:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 12 2022 19:05:22 GMT+0800 (China Standard Time) -->
 
 1. [中方就美对西工大网络攻击窃密提出严正交涉](https://www.zhihu.com/search?q=中方就美对西工大网络攻击窃密提出严正交涉)
 1. [华鼎奖取消李易峰称号](https://www.zhihu.com/search?q=华鼎奖取消李易峰称号)

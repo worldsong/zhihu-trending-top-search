@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 13 2022 18:08:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 13 2022 19:04:50 GMT+0800 (China Standard Time) -->
 
 1. [新番莉可丽丝更新](https://www.zhihu.com/search?q=新番莉可丽丝更新)
 1. [歌手傅松因口腔癌去世](https://www.zhihu.com/search?q=歌手傅松因口腔癌去世)

@@ -14,12 +14,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 18 2022 08:40:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 18 2022 11:40:13 GMT+0800 (China Standard Time) -->
 
 1. [英语四六级](https://www.zhihu.com/search?q=英语四六级)
 1. [一人之下锈铁](https://www.zhihu.com/search?q=一人之下锈铁)
-1. [云南泥石流已造成 3 人遇难](https://www.zhihu.com/search?q=云南泥石流已造成 3 人遇难)
 1. [卧龙：苍天陨落试玩版](https://www.zhihu.com/search?q=卧龙：苍天陨落试玩版)
+1. [云南泥石流已造成 3 人遇难](https://www.zhihu.com/search?q=云南泥石流已造成 3 人遇难)
 1. [南开胡金牛教授](https://www.zhihu.com/search?q=南开胡金牛教授)
 1. [吴尊友回应是否还有漏网猴痘病例](https://www.zhihu.com/search?q=吴尊友回应是否还有漏网猴痘病例)
 1. [印度多地爆发牛块状皮肤病](https://www.zhihu.com/search?q=印度多地爆发牛块状皮肤病)

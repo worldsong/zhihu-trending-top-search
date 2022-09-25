@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 25 2022 17:07:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 25 2022 18:06:36 GMT+0800 (China Standard Time) -->
 
 1. [我们的歌三代同台](https://www.zhihu.com/search?q=我们的歌三代同台)
 1. [全国仅有 5 株 5000 岁古树](https://www.zhihu.com/search?q=全国仅有 5 株 5000 岁古树)

@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 21 2022 02:23:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 21 2022 03:18:45 GMT+0800 (China Standard Time) -->
 
 1. [美国宣布从战略储备中释放 1500 万桶石油](https://www.zhihu.com/search?q=美国宣布从战略储备中释放 1500
    万桶石油)

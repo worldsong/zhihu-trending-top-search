@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 21 2022 12:11:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 21 2022 13:42:12 GMT+0800 (China Standard Time) -->
 
 1. [寂静岭和风新作](https://www.zhihu.com/search?q=寂静岭和风新作)
 1. [瘟疫传说：安魂曲](https://www.zhihu.com/search?q=瘟疫传说：安魂曲)

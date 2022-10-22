@@ -1,5 +1,4 @@
 [
-  { "query": "赫尔松之战", "display_query": "赫尔松之战" },
   { "query": "全职猎人复刊更新", "display_query": "全职猎人复刊更新" },
   { "query": "一拳超人 217 话", "display_query": "一拳超人 217 话" },
   { "query": "一人之下 636 话", "display_query": "一人之下 636 话" },
@@ -9,5 +8,6 @@
   { "query": "151 日元兑换 1 美元", "display_query": "151 日元兑换 1 美元" },
   { "query": "韩检方中止起诉拜登保镖", "display_query": "韩检方中止起诉拜登保镖" },
   { "query": "美俄两国防长通电话", "display_query": "美俄两国防长通电话" },
+  { "query": "赫尔松之战", "display_query": "赫尔松之战" },
   { "query": "JDG 晋级四强", "display_query": "JDG 晋级四强" }
 ]

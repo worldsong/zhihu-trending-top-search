@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 10 2022 12:27:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 10 2022 13:17:12 GMT+0800 (China Standard Time) -->
 
 1. [我国首个住房租赁基金正式设立](https://www.zhihu.com/search?q=我国首个住房租赁基金正式设立)
 1. [官方回应「学生隔离期下楼被开除学籍」](https://www.zhihu.com/search?q=官方回应「学生隔离期下楼被开除学籍」)
@@ -24,6 +24,8 @@
 1. [广州三区静默八区停课](https://www.zhihu.com/search?q=广州三区静默八区停课)
 1. [生稻种植一次可连续免耕收获 3-4 年](https://www.zhihu.com/search?q=生稻种植一次可连续免耕收获 3-4 年)
 1. [iOS 16 正式版默认不接受隔空投送](https://www.zhihu.com/search?q=iOS 16 正式版默认不接受隔空投送)
+1. [男子多次闯入母婴室接水](https://www.zhihu.com/search?q=男子多次闯入母婴室接水)
+1. [一流星被证实来自另一个恒星系统](https://www.zhihu.com/search?q=一流星被证实来自另一个恒星系统)
 1. [电锯人第五集](https://www.zhihu.com/search?q=电锯人第五集)
 1. [短道速滑刘氏兄弟申请变更国籍](https://www.zhihu.com/search?q=短道速滑刘氏兄弟申请变更国籍)
 1. [全国核酸检测再降价](https://www.zhihu.com/search?q=全国核酸检测再降价)

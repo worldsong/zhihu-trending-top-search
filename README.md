@@ -14,7 +14,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 27 2022 19:01:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 27 2022 20:09:03 GMT+0800 (China Standard Time) -->
 
 1. [广东佛山核酸聚集导致踩踏？官方回应](https://www.zhihu.com/search?q=广东佛山核酸聚集导致踩踏？官方回应)
 1. [莱万传射波兰 2:0 沙特](https://www.zhihu.com/search?q=莱万传射波兰 2:0 沙特)

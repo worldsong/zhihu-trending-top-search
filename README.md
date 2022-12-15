@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 15 2022 16:07:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 15 2022 17:04:49 GMT+0800 (China Standard Time) -->
 
 1. [考研可设置核酸阳性考场](https://www.zhihu.com/search?q=考研可设置核酸阳性考场)
 1. [宫崎骏新作公开](https://www.zhihu.com/search?q=宫崎骏新作公开)

@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 16 2022 16:07:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 16 2022 17:03:05 GMT+0800 (China Standard Time) -->
 
 1. [钟南山：不主张「大家一起阳」](https://www.zhihu.com/search?q=钟南山：不主张「大家一起阳」)
 1. [杭州天空有疑似陨石掉落](https://www.zhihu.com/search?q=杭州天空有疑似陨石掉落)
@@ -24,6 +24,7 @@
 1. [阿凡达 2 上映](https://www.zhihu.com/search?q=阿凡达 2 上映)
 1. [国考定于 1 月 8 日开考](https://www.zhihu.com/search?q=国考定于 1 月 8
    日开考)
+1. [麦田「长出」十层高楼当地避而不谈](https://www.zhihu.com/search?q=麦田「长出」十层高楼当地避而不谈)
 1. [贵州火灾致 4人遇难19 栋房屋被烧毁](https://www.zhihu.com/search?q=贵州火灾致
    4人遇难19 栋房屋被烧毁)
 1. [杨迪已被注册成商标](https://www.zhihu.com/search?q=杨迪已被注册成商标)

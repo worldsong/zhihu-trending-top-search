@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 28 2022 14:07:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 28 2022 15:02:42 GMT+0800 (China Standard Time) -->
 
 1. [重症白肺死亡率 40% 以上](https://www.zhihu.com/search?q=重症白肺死亡率 40%
    以上)

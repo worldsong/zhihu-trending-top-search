@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jan 24 2023 06:03:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jan 24 2023 07:03:06 GMT+0800 (China Standard Time) -->
 
 1. [AI 为你画出兔年祝福](https://www.zhihu.com/search?q=AI 为你画出兔年祝福)
 1. [222 个账号涉炫耀服刑被处置](https://www.zhihu.com/search?q=222

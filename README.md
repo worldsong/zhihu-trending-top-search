@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 24 2023 14:08:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 24 2023 15:03:54 GMT+0800 (China Standard Time) -->
 
 1. [乌克兰要求停售游戏原子之心](https://www.zhihu.com/search?q=乌克兰要求停售游戏原子之心)
 1. [艾尔登法环突破两千万套](https://www.zhihu.com/search?q=艾尔登法环突破两千万套)

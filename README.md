@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 08 2023 07:04:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 08 2023 08:33:29 GMT+0800 (China Standard Time) -->
 
 1. [谭克非回应军费预算增长](https://www.zhihu.com/search?q=谭克非回应军费预算增长)
 1. [建议推进「共享员工」模式](https://www.zhihu.com/search?q=建议推进「共享员工」模式)
@@ -25,6 +25,7 @@
 1. [人民网评鸡你太美是恶俗烂梗](https://www.zhihu.com/search?q=人民网评鸡你太美是恶俗烂梗)
 1. [TES 0:2 不敌 LNG](https://www.zhihu.com/search?q=TES 0:2 不敌 LNG)
 1. [不再保留中国人民银行县市支行](https://www.zhihu.com/search?q=不再保留中国人民银行县市支行)
+1. [「三八」国际妇女节](https://www.zhihu.com/search?q=「三八」国际妇女节)
 
 <!-- END -->
 

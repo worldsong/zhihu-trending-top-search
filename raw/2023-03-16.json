@@ -2,10 +2,6 @@
   { "query": "315", "display_query": "315" },
   { "query": "315 晚会", "display_query": "315 晚会" },
   { "query": "OpenAI 发布 GPT-4", "display_query": "OpenAI 发布 GPT-4" },
-  {
-    "query": "吉野家吃出蟑螂后检查又发现 43 只",
-    "display_query": "吉野家吃出蟑螂后检查又发现 43 只"
-  },
   { "query": "不可注射的美容针", "display_query": "不可注射的美容针" },
   {
     "query": "直播间苦情戏：「儿子」们专骗老人",
@@ -21,6 +17,10 @@
   {
     "query": "《炉石传说》被取消亚运项目资格",
     "display_query": "《炉石传说》被取消亚运项目资格"
+  },
+  {
+    "query": "吉野家吃出蟑螂后检查又发现 43 只",
+    "display_query": "吉野家吃出蟑螂后检查又发现 43 只"
   },
   {
     "query": "洪都拉斯寻求与中国正式建立外交关系",

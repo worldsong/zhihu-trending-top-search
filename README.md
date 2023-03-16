@@ -15,12 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 16 2023 06:03:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Mar 16 2023 08:32:44 GMT+0800 (China Standard Time) -->
 
 1. [315](https://www.zhihu.com/search?q=315)
 1. [315 晚会](https://www.zhihu.com/search?q=315 晚会)
 1. [OpenAI 发布 GPT-4](https://www.zhihu.com/search?q=OpenAI 发布 GPT-4)
-1. [国考成绩公布](https://www.zhihu.com/search?q=国考成绩公布)
 1. [哈兰德五球曼城晋级](https://www.zhihu.com/search?q=哈兰德五球曼城晋级)
 1. [美国 2 月 CPI 同比涨 6% ](https://www.zhihu.com/search?q=美国 2 月 CPI
    同比涨 6% )
@@ -29,6 +28,9 @@
 1. [吉野家吃出蟑螂后检查又发现 43
    只](https://www.zhihu.com/search?q=吉野家吃出蟑螂后检查又发现 43 只)
 1. [不可注射的美容针](https://www.zhihu.com/search?q=不可注射的美容针)
+1. [直播间苦情戏：「儿子」们专骗老人](https://www.zhihu.com/search?q=直播间苦情戏：「儿子」们专骗老人)
+1. [部分头盔成戴在头上的刀片](https://www.zhihu.com/search?q=部分头盔成戴在头上的刀片)
+1. [国考成绩公布](https://www.zhihu.com/search?q=国考成绩公布)
 
 <!-- END -->
 

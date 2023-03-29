@@ -1,7 +1,5 @@
 [
   { "query": "塞尔达传说：王国之泪", "display_query": "塞尔达传说：王国之泪" },
-  { "query": "多地现不明飞行物", "display_query": "多地现不明飞行物" },
-  { "query": "带薪休假难", "display_query": "带薪休假难" },
   {
     "query": "全球最大交易所CEO 被起诉",
     "display_query": "全球最大交易所CEO 被起诉"
@@ -20,5 +18,12 @@
   {
     "query": "成年子女不能与父母同住标间",
     "display_query": "成年子女不能与父母同住标间"
-  }
+  },
+  {
+    "query": "京剧表演艺术家孙毓敏去世",
+    "display_query": "京剧表演艺术家孙毓敏去世"
+  },
+  { "query": "月壤储水量新发现", "display_query": "月壤储水量新发现" },
+  { "query": "多地现不明飞行物", "display_query": "多地现不明飞行物" },
+  { "query": "带薪休假难", "display_query": "带薪休假难" }
 ]

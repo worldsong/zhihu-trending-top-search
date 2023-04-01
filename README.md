@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 01 2023 10:26:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 01 2023 11:03:53 GMT+0800 (China Standard Time) -->
 
 1. [京津冀取消异地就医备案](https://www.zhihu.com/search?q=京津冀取消异地就医备案)
 1. [新冠患者医保报销调整](https://www.zhihu.com/search?q=新冠患者医保报销调整)

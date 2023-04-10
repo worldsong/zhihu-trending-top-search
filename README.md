@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 10 2023 16:07:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 10 2023 17:03:44 GMT+0800 (China Standard Time) -->
 
 1. [GEN 夺得春季赛冠军](https://www.zhihu.com/search?q=GEN 夺得春季赛冠军)
 1. [男子因感情纠纷撞人致3死](https://www.zhihu.com/search?q=男子因感情纠纷撞人致3死)
@@ -26,6 +26,7 @@
 1. [餐厅「纸巾刺客」](https://www.zhihu.com/search?q=餐厅「纸巾刺客」)
 1. [崩坏星穹铁道姬子 PV](https://www.zhihu.com/search?q=崩坏星穹铁道姬子 PV)
 1. [安徽全省整治剧本杀](https://www.zhihu.com/search?q=安徽全省整治剧本杀)
+1. [马力欧大电影首周票房破纪录](https://www.zhihu.com/search?q=马力欧大电影首周票房破纪录)
 1. [年轻人为啥会被胃癌盯上](https://www.zhihu.com/search?q=年轻人为啥会被胃癌盯上)
 1. [「做四休三」能实现吗？](https://www.zhihu.com/search?q=「做四休三」能实现吗？)
 1. [白糖减产 17 万吨](https://www.zhihu.com/search?q=白糖减产 17 万吨)

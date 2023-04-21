@@ -6,5 +6,9 @@
     "display_query": "宝马 mini 展区被指区别对待"
   },
   { "query": "SpaceX 星舰发射失败", "display_query": "SpaceX 星舰发射失败" },
+  {
+    "query": "宝马 MINI 再道歉:「老外」是同事",
+    "display_query": "宝马 MINI 再道歉:「老外」是同事"
+  },
   { "query": "ASTRO 成员文彬去世", "display_query": "ASTRO 成员文彬去世" }
 ]

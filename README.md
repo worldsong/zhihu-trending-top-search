@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Apr 24 2023 04:03:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Apr 24 2023 05:02:11 GMT+0800 (China Standard Time) -->
 
 1. [2023世界读书日](https://www.zhihu.com/search?q=2023世界读书日)
 

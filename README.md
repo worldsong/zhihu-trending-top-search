@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 11 2023 07:02:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 11 2023 08:36:40 GMT+0800 (China Standard Time) -->
 
 1. [12306 试行在线选铺服务](https://www.zhihu.com/search?q=12306
    试行在线选铺服务)
@@ -24,6 +24,7 @@
 1. [杨立昆表示类 GPT
    主流路线存在局限](https://www.zhihu.com/search?q=杨立昆表示类 GPT
    主流路线存在局限)
+1. [曼城首夺欧冠](https://www.zhihu.com/search?q=曼城首夺欧冠)
 
 <!-- END -->
 

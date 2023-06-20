@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 20 2023 12:06:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 20 2023 13:02:47 GMT+0800 (China Standard Time) -->
 
 1. [鼠头鸭脖涉事企业经营 700
    多个食堂](https://www.zhihu.com/search?q=鼠头鸭脖涉事企业经营 700 多个食堂)

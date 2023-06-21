@@ -15,11 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 21 2023 08:32:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 21 2023 10:03:46 GMT+0800 (China Standard Time) -->
 
 1. [高考用 0.7 的笔可以吗](https://www.zhihu.com/search?q=高考用 0.7 的笔可以吗)
 1. [房贷降息](https://www.zhihu.com/search?q=房贷降息)
 1. [国足 2:0 战胜巴勒斯坦](https://www.zhihu.com/search?q=国足 2:0 战胜巴勒斯坦)
+1. [燃气灶增加患白血病风险](https://www.zhihu.com/search?q=燃气灶增加患白血病风险)
+1. [二手房交易已转变为买方市场](https://www.zhihu.com/search?q=二手房交易已转变为买方市场)
 
 <!-- END -->
 

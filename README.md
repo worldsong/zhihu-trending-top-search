@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 23 2023 18:06:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 23 2023 19:02:25 GMT+0800 (China Standard Time) -->
 
 1. [高考志愿填报攻略](https://www.zhihu.com/search?q=高考志愿填报攻略)
 1. [少年行开播](https://www.zhihu.com/search?q=少年行开播)

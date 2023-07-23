@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jul 23 2023 11:03:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jul 23 2023 16:06:15 GMT+0800 (China Standard Time) -->
 
+1. [李昌钰被指伪造证据](https://www.zhihu.com/search?q=李昌钰被指伪造证据)
 1. [结账时发现东西很贵咋办](https://www.zhihu.com/search?q=结账时发现东西很贵咋办)
 1. [西安「回流生」](https://www.zhihu.com/search?q=西安「回流生」)
 

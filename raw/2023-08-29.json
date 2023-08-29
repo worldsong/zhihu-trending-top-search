@@ -1,9 +1,6 @@
 [
   { "query": "日式餐厅何去何从", "display_query": "日式餐厅何去何从" },
-  {
-    "query": "典型的东北家庭是什么氛围",
-    "display_query": "典型的东北家庭是什么氛围"
-  },
+  { "query": "典型的东北家庭氛围", "display_query": "典型的东北家庭氛围" },
   {
     "query": "考霸唐尚珺宣布继续复读",
     "display_query": "考霸唐尚珺宣布继续复读"
@@ -26,6 +23,10 @@
   {
     "query": "大厂程序员感觉信仰崩塌",
     "display_query": "大厂程序员感觉信仰崩塌"
+  },
+  {
+    "query": "典型的东北家庭是什么氛围",
+    "display_query": "典型的东北家庭是什么氛围"
   },
   { "query": "A 股三大指数集体高开", "display_query": "A 股三大指数集体高开" },
   { "query": "北方多地开启入秋进程", "display_query": "北方多地开启入秋进程" }

@@ -2,10 +2,6 @@
   { "query": "华为 Mate 60 Pro", "display_query": "华为 Mate 60 Pro" },
   { "query": "命运的齿轮开始倒转", "display_query": "命运的齿轮开始倒转" },
   { "query": "在作文里撒过哪些谎", "display_query": "在作文里撒过哪些谎" },
-  { "query": "中药材价格「狂飙」", "display_query": "中药材价格「狂飙」" },
-  { "query": "上海「认房不认贷」", "display_query": "上海「认房不认贷」" },
-  { "query": "港深两地通勤", "display_query": "港深两地通勤" },
-  { "query": "日本渔业", "display_query": "日本渔业" },
   {
     "query": "天山天池发现「银色水怪」",
     "display_query": "天山天池发现「银色水怪」"
@@ -22,6 +18,19 @@
     "query": "贾宝玉会觉得炸鸡汉堡好吃吗",
     "display_query": "贾宝玉会觉得炸鸡汉堡好吃吗"
   },
+  {
+    "query": "学霸的努力程度有多可怕",
+    "display_query": "学霸的努力程度有多可怕"
+  },
+  { "query": "茅台瑞幸酱香拿铁", "display_query": "茅台瑞幸酱香拿铁" },
+  {
+    "query": "上海出现不明飞行物高速坠落",
+    "display_query": "上海出现不明飞行物高速坠落"
+  },
+  { "query": "中药材价格「狂飙」", "display_query": "中药材价格「狂飙」" },
+  { "query": "上海「认房不认贷」", "display_query": "上海「认房不认贷」" },
+  { "query": "港深两地通勤", "display_query": "港深两地通勤" },
+  { "query": "日本渔业", "display_query": "日本渔业" },
   { "query": "国美上半年营收塌方", "display_query": "国美上半年营收塌方" },
   { "query": "同事相处最忌讳什么", "display_query": "同事相处最忌讳什么" },
   { "query": "印度发射太阳探测器", "display_query": "印度发射太阳探测器" },

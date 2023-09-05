@@ -6,10 +6,6 @@
     "display_query": "贾宝玉会觉得炸鸡汉堡好吃吗"
   },
   {
-    "query": "如何评价瑞幸「酱香拿铁」",
-    "display_query": "如何评价瑞幸「酱香拿铁」"
-  },
-  {
     "query": "老师怎么看出来作文是抄的",
     "display_query": "老师怎么看出来作文是抄的"
   },
@@ -24,6 +20,14 @@
   },
   { "query": "什么动物没有痛觉", "display_query": "什么动物没有痛觉" },
   { "query": "被推向工厂的 95 后", "display_query": "被推向工厂的 95 后" },
+  {
+    "query": "急诊夜班见过最离谱的事",
+    "display_query": "急诊夜班见过最离谱的事"
+  },
+  {
+    "query": "如何评价瑞幸「酱香拿铁」",
+    "display_query": "如何评价瑞幸「酱香拿铁」"
+  },
   { "query": "华为 Mate 60 Pro", "display_query": "华为 Mate 60 Pro" },
   { "query": "易建联回忆奥运会", "display_query": "易建联回忆奥运会" },
   { "query": "酱香拿铁 酒驾", "display_query": "酱香拿铁 酒驾" },

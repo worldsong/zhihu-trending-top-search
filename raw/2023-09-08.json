@@ -5,7 +5,6 @@
     "query": "急诊夜班见过最离谱的事",
     "display_query": "急诊夜班见过最离谱的事"
   },
-  { "query": "跳水掰掰", "display_query": "跳水掰掰" },
   {
     "query": "华为Mate 60 Pro出货量",
     "display_query": "华为Mate 60 Pro出货量"
@@ -18,6 +17,11 @@
     "display_query": "工作中遇到过最离谱的事"
   },
   { "query": "网络主播或要持分上岗", "display_query": "网络主播或要持分上岗" },
+  {
+    "query": "小米汽车已试生产近一个月",
+    "display_query": "小米汽车已试生产近一个月"
+  },
+  { "query": "跳水掰掰", "display_query": "跳水掰掰" },
   {
     "query": "iPhone信号太差或将解决",
     "display_query": "iPhone信号太差或将解决"

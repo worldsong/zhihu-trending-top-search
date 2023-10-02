@@ -1,8 +1,4 @@
 [
-  {
-    "query": "马斯克称生孩子是拯救世界",
-    "display_query": "马斯克称生孩子是拯救世界"
-  },
   { "query": "mate60pro值得买吗", "display_query": "mate60pro值得买吗" },
   { "query": "蓝牙耳机", "display_query": "蓝牙耳机" },
   { "query": "五条悟被腰斩", "display_query": "五条悟被腰斩" },
@@ -25,5 +21,9 @@
     "display_query": "法国年底前从尼日尔撤军"
   },
   { "query": "mate60pro性价比", "display_query": "mate60pro性价比" },
+  {
+    "query": "马斯克称生孩子是拯救世界",
+    "display_query": "马斯克称生孩子是拯救世界"
+  },
   { "query": "国庆节", "display_query": "国庆节" }
 ]

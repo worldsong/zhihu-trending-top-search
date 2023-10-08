@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 08 2023 23:02:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 09 2023 00:03:39 GMT+0800 (China Standard Time) -->
 
 1. [以色列正式向哈马斯宣战](https://www.zhihu.com/search?q=以色列正式向哈马斯宣战)
 1. [原神新角色](https://www.zhihu.com/search?q=原神新角色)
@@ -27,12 +27,6 @@
 1. [世界大学排名揭晓](https://www.zhihu.com/search?q=世界大学排名揭晓)
 1. [花西子再发声](https://www.zhihu.com/search?q=花西子再发声)
 1. [华为1999手机壳](https://www.zhihu.com/search?q=华为1999手机壳)
-1. [运动蓝牙耳机推荐](https://www.zhihu.com/search?q=运动蓝牙耳机推荐)
-1. [无线耳机](https://www.zhihu.com/search?q=无线耳机)
-1. [张艺谋翻车](https://www.zhihu.com/search?q=张艺谋翻车)
-1. [真无线耳机](https://www.zhihu.com/search?q=真无线耳机)
-1. [华为蓝牙耳机值得买吗](https://www.zhihu.com/search?q=华为蓝牙耳机值得买吗)
-1. [平板电脑推荐](https://www.zhihu.com/search?q=平板电脑推荐)
 
 <!-- END -->
 

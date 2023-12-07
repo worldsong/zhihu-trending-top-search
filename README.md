@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 07 2023 23:04:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 08 2023 00:07:08 GMT+0800 (China Standard Time) -->
 
 1. [考研调剂](https://www.zhihu.com/search?q=考研调剂)
 1. [国考报名人数](https://www.zhihu.com/search?q=国考报名人数)
@@ -27,12 +27,6 @@
 1. [第一学历真的很重要吗](https://www.zhihu.com/search?q=第一学历真的很重要吗)
 1. [考公资料](https://www.zhihu.com/search?q=考公资料)
 1. [公考常识](https://www.zhihu.com/search?q=公考常识)
-1. [考研经验分享](https://www.zhihu.com/search?q=考研经验分享)
-1. [留学生开放定向选调](https://www.zhihu.com/search?q=留学生开放定向选调)
-1. [运动会加油稿小众惊艳150字](https://www.zhihu.com/search?q=运动会加油稿小众惊艳150字)
-1. [太阳vs湖人](https://www.zhihu.com/search?q=太阳vs湖人)
-1. [剪辑教程](https://www.zhihu.com/search?q=剪辑教程)
-1. [张艺兴新歌](https://www.zhihu.com/search?q=张艺兴新歌)
 
 <!-- END -->
 

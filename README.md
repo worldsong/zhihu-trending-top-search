@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 05 2024 15:07:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 05 2024 16:07:53 GMT+0800 (China Standard Time) -->
 
 1. [世界癌症日](https://www.zhihu.com/search?q=世界癌症日)
 1. [申论课程哪个老师好](https://www.zhihu.com/search?q=申论课程哪个老师好)
@@ -26,6 +26,7 @@
 1. [法硕非法学](https://www.zhihu.com/search?q=法硕非法学)
 1. [选调生报名基本条件](https://www.zhihu.com/search?q=选调生报名基本条件)
 1. [非全日制](https://www.zhihu.com/search?q=非全日制)
+1. [蔡徐坤新歌](https://www.zhihu.com/search?q=蔡徐坤新歌)
 1. [非全日制研究生](https://www.zhihu.com/search?q=非全日制研究生)
 1. [春节加班费该怎么算](https://www.zhihu.com/search?q=春节加班费该怎么算)
 1. [省考时间汇总](https://www.zhihu.com/search?q=省考时间汇总)

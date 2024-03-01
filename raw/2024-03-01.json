@@ -1,7 +1,6 @@
 [
   { "query": "四六级成绩", "display_query": "四六级成绩" },
   { "query": "英语四六级", "display_query": "英语四六级" },
-  { "query": "今日A股市场", "display_query": "今日A股市场" },
   { "query": "英语六级", "display_query": "英语六级" },
   { "query": "英语四级", "display_query": "英语四级" },
   { "query": "什么是声子", "display_query": "什么是声子" },
@@ -21,6 +20,11 @@
     "query": "大陆电影译名最烂的是哪一部",
     "display_query": "大陆电影译名最烂的是哪一部"
   },
+  {
+    "query": "为什么很多人对「女司机」有看法",
+    "display_query": "为什么很多人对「女司机」有看法"
+  },
+  { "query": "今日A股市场", "display_query": "今日A股市场" },
   {
     "query": "你经历过的最让你震惊的事情",
     "display_query": "你经历过的最让你震惊的事情"

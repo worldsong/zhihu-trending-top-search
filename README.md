@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 31 2024 09:44:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 31 2024 10:17:15 GMT+0800 (China Standard Time) -->
 
 1. [碳中和](https://www.zhihu.com/search?q=碳中和)
 1. [今日A股市场](https://www.zhihu.com/search?q=今日A股市场)

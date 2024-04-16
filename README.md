@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 16 2024 19:02:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 16 2024 20:10:13 GMT+0800 (China Standard Time) -->
 
 1. [碳中和](https://www.zhihu.com/search?q=碳中和)
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)

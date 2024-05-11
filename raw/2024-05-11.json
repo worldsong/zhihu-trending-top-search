@@ -10,7 +10,6 @@
     "query": "嫦娥六号顺利进入环月轨道",
     "display_query": "嫦娥六号顺利进入环月轨道"
   },
-  { "query": "世界微笑日", "display_query": "世界微笑日" },
   {
     "query": "椰树涉擦边广告被罚40万",
     "display_query": "椰树涉擦边广告被罚40万"
@@ -28,6 +27,7 @@
     "query": "中国或支持特斯拉测试「无人驾驶出租」",
     "display_query": "中国或支持特斯拉测试「无人驾驶出租」"
   },
+  { "query": "世界微笑日", "display_query": "世界微笑日" },
   {
     "query": "TikTok与字节在美提起诉讼",
     "display_query": "TikTok与字节在美提起诉讼"

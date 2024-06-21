@@ -1,8 +1,8 @@
 [
-  { "query": "怎么看待A股市场", "display_query": "怎么看待A股市场" },
+  { "query": "蛟龙行动有自己的转场", "display_query": "蛟龙行动有自己的转场" },
   {
-    "query": "韩国人知道自己的国家小吗",
-    "display_query": "韩国人知道自己的国家小吗"
+    "query": "健康管理我们和医生有哪些信息差",
+    "display_query": "健康管理我们和医生有哪些信息差"
   },
   {
     "query": "日本食人菌感染病例增至近千例",
@@ -22,6 +22,15 @@
   {
     "query": "Shopee研发中心员工猝死",
     "display_query": "Shopee研发中心员工猝死"
+  },
+  {
+    "query": "阿里发布数学竞赛决赛通知",
+    "display_query": "阿里发布数学竞赛决赛通知"
+  },
+  { "query": "怎么看待A股市场", "display_query": "怎么看待A股市场" },
+  {
+    "query": "韩国人知道自己的国家小吗",
+    "display_query": "韩国人知道自己的国家小吗"
   },
   {
     "query": "退休人员基本养老金上调3%",

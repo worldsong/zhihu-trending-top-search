@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 02 2024 23:06:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 03 2024 00:08:27 GMT+0800 (China Standard Time) -->
 
 1. [B 站崩了](https://www.zhihu.com/search?q=B 站崩了)
 1. [A股市场](https://www.zhihu.com/search?q=A股市场)
@@ -27,16 +27,6 @@
 1. [贾玲](https://www.zhihu.com/search?q=贾玲)
 1. [小林制药问题保健品调查结果](https://www.zhihu.com/search?q=小林制药问题保健品调查结果)
 1. [欧洲杯](https://www.zhihu.com/search?q=欧洲杯)
-1. [周迅二封白玉兰视后](https://www.zhihu.com/search?q=周迅二封白玉兰视后)
-1. [王老师花小龙事件](https://www.zhihu.com/search?q=王老师花小龙事件)
-1. [这才是该有的农村生活](https://www.zhihu.com/search?q=这才是该有的农村生活)
-1. [吴艳妮晋级决赛](https://www.zhihu.com/search?q=吴艳妮晋级决赛)
-1. [北京下雨](https://www.zhihu.com/search?q=北京下雨)
-1. [胖东来为一碗擀面皮补偿近九百万](https://www.zhihu.com/search?q=胖东来为一碗擀面皮补偿近九百万)
-1. [陈昊宇总冠军](https://www.zhihu.com/search?q=陈昊宇总冠军)
-1. [福建考生高考语文获满分](https://www.zhihu.com/search?q=福建考生高考语文获满分)
-1. [高考语文满分考生出现](https://www.zhihu.com/search?q=高考语文满分考生出现)
-1. [玖月晞《小南风》被判定抄袭](https://www.zhihu.com/search?q=玖月晞《小南风》被判定抄袭)
 
 <!-- END -->
 

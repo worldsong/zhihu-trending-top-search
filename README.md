@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 02 2024 15:07:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 02 2024 16:09:05 GMT+0800 (China Standard Time) -->
 
-1. [王老师花小龙事件](https://www.zhihu.com/search?q=王老师花小龙事件)
-1. [这才是该有的农村生活](https://www.zhihu.com/search?q=这才是该有的农村生活)
+1. [B 站崩了](https://www.zhihu.com/search?q=B 站崩了)
 1. [A股市场](https://www.zhihu.com/search?q=A股市场)
 1. [比亚迪销量](https://www.zhihu.com/search?q=比亚迪销量)
 1. [如何看待今日A股市场](https://www.zhihu.com/search?q=如何看待今日A股市场)
@@ -27,7 +26,9 @@
 1. [贾玲](https://www.zhihu.com/search?q=贾玲)
 1. [小林制药问题保健品调查结果](https://www.zhihu.com/search?q=小林制药问题保健品调查结果)
 1. [欧洲杯](https://www.zhihu.com/search?q=欧洲杯)
-1. [B 站崩了](https://www.zhihu.com/search?q=B 站崩了)
+1. [周迅二封白玉兰视后](https://www.zhihu.com/search?q=周迅二封白玉兰视后)
+1. [王老师花小龙事件](https://www.zhihu.com/search?q=王老师花小龙事件)
+1. [这才是该有的农村生活](https://www.zhihu.com/search?q=这才是该有的农村生活)
 1. [度华年](https://www.zhihu.com/search?q=度华年)
 1. [吴艳妮晋级决赛](https://www.zhihu.com/search?q=吴艳妮晋级决赛)
 1. [北京下雨](https://www.zhihu.com/search?q=北京下雨)

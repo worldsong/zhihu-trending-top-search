@@ -1,6 +1,7 @@
 [
   { "query": "B 站崩了", "display_query": "B 站崩了" },
   { "query": "A股市场", "display_query": "A股市场" },
+  { "query": "度华年", "display_query": "度华年" },
   { "query": "比亚迪销量", "display_query": "比亚迪销量" },
   { "query": "如何看待今日A股市场", "display_query": "如何看待今日A股市场" },
   { "query": "东方甄选", "display_query": "东方甄选" },
@@ -14,7 +15,6 @@
   { "query": "周迅二封白玉兰视后", "display_query": "周迅二封白玉兰视后" },
   { "query": "王老师花小龙事件", "display_query": "王老师花小龙事件" },
   { "query": "这才是该有的农村生活", "display_query": "这才是该有的农村生活" },
-  { "query": "度华年", "display_query": "度华年" },
   { "query": "吴艳妮晋级决赛", "display_query": "吴艳妮晋级决赛" },
   { "query": "北京下雨", "display_query": "北京下雨" },
   {

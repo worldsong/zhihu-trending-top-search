@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 25 2024 10:29:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 25 2024 11:07:25 GMT+0800 (China Standard Time) -->
 
 1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
@@ -26,6 +26,8 @@
 1. [郭士强担任中国男篮主教练](https://www.zhihu.com/search?q=郭士强担任中国男篮主教练)
 1. [广汽丰田否认退出价格战](https://www.zhihu.com/search?q=广汽丰田否认退出价格战)
 1. [王贵元](https://www.zhihu.com/search?q=王贵元)
+1. [长沙五一广场车祸致 8 伤](https://www.zhihu.com/search?q=长沙五一广场车祸致 8
+   伤)
 1. [以色列埃拉特传出爆炸声](https://www.zhihu.com/search?q=以色列埃拉特传出爆炸声)
 1. [拜登退选](https://www.zhihu.com/search?q=拜登退选)
 

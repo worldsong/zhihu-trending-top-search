@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 20 2024 11:09:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 20 2024 12:09:32 GMT+0800 (China Standard Time) -->
 
 1. [中国医师节](https://www.zhihu.com/search?q=中国医师节)
 1. [公积金是否能视为收入](https://www.zhihu.com/search?q=公积金是否能视为收入)
@@ -25,6 +25,8 @@
 1. [北溪事件美试图将全部责任推给乌克兰](https://www.zhihu.com/search?q=北溪事件美试图将全部责任推给乌克兰)
 1. [范丞丞方回应](https://www.zhihu.com/search?q=范丞丞方回应)
 1. [当事老板娘回应穿着清凉被拍](https://www.zhihu.com/search?q=当事老板娘回应穿着清凉被拍)
+1. [乌东部枢纽城市敦促平民撤离](https://www.zhihu.com/search?q=乌东部枢纽城市敦促平民撤离)
+1. [超级牛散章建平被证监会处罚](https://www.zhihu.com/search?q=超级牛散章建平被证监会处罚)
 1. [山西五家医院涉嫌欺诈骗保](https://www.zhihu.com/search?q=山西五家医院涉嫌欺诈骗保)
 1. [41 人入职事业单位后被清退](https://www.zhihu.com/search?q=41
    人入职事业单位后被清退)

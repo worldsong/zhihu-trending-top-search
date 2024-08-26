@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 26 2024 14:10:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 26 2024 15:07:25 GMT+0800 (China Standard Time) -->
 
 1. [孙杨](https://www.zhihu.com/search?q=孙杨)
 1. [陈芋汐说有全红婵我是幸运的](https://www.zhihu.com/search?q=陈芋汐说有全红婵我是幸运的)
@@ -23,6 +23,7 @@
 1. [国足公布18强赛大名单](https://www.zhihu.com/search?q=国足公布18强赛大名单)
 1. [小鹏减亏但还没脱困](https://www.zhihu.com/search?q=小鹏减亏但还没脱困)
 1. [全红婵展示猫眼美甲](https://www.zhihu.com/search?q=全红婵展示猫眼美甲)
+1. [如何评价「黑神话悟空」](https://www.zhihu.com/search?q=如何评价「黑神话悟空」)
 1. [出圈的是悟空出海的是中国文化](https://www.zhihu.com/search?q=出圈的是悟空出海的是中国文化)
 1. [黑神话悟空上线后已有多人被骗](https://www.zhihu.com/search?q=黑神话悟空上线后已有多人被骗)
 1. [父子俩同时收到大学录取通知书](https://www.zhihu.com/search?q=父子俩同时收到大学录取通知书)

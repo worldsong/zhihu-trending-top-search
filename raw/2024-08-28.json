@@ -2,10 +2,6 @@
   { "query": "任天堂直面会", "display_query": "任天堂直面会" },
   { "query": "孙杨", "display_query": "孙杨" },
   {
-    "query": "以军空袭加沙致7人死亡",
-    "display_query": "以军空袭加沙致7人死亡"
-  },
-  {
     "query": "外媒称普华永道可能停业 6 个月",
     "display_query": "外媒称普华永道可能停业 6 个月"
   },
@@ -32,6 +28,11 @@
   {
     "query": "部分骑行团存在「暴骑」等安全问题",
     "display_query": "部分骑行团存在「暴骑」等安全问题"
+  },
+  { "query": "房屋养老金是什么", "display_query": "房屋养老金是什么" },
+  {
+    "query": "以军空袭加沙致7人死亡",
+    "display_query": "以军空袭加沙致7人死亡"
   },
   { "query": "代做手抄报成热门生意", "display_query": "代做手抄报成热门生意" },
   {

@@ -1,4 +1,10 @@
 [
+  { "query": "任天堂直面会", "display_query": "任天堂直面会" },
+  { "query": "孙杨", "display_query": "孙杨" },
+  {
+    "query": "以军空袭加沙致7人死亡",
+    "display_query": "以军空袭加沙致7人死亡"
+  },
   {
     "query": "外媒称普华永道可能停业 6 个月",
     "display_query": "外媒称普华永道可能停业 6 个月"
@@ -35,11 +41,6 @@
   {
     "query": "北京 30 多家外卖店铺共同一张执照",
     "display_query": "北京 30 多家外卖店铺共同一张执照"
-  },
-  { "query": "孙杨", "display_query": "孙杨" },
-  {
-    "query": "以军空袭加沙致7人死亡",
-    "display_query": "以军空袭加沙致7人死亡"
   },
   { "query": "你觉得什么才叫遗憾", "display_query": "你觉得什么才叫遗憾" },
   {

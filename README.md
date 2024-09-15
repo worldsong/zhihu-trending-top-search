@@ -15,11 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 15 2024 11:14:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 15 2024 12:08:59 GMT+0800 (China Standard Time) -->
 
 1. [苹果官网崩了](https://www.zhihu.com/search?q=苹果官网崩了)
 1. [国足首发](https://www.zhihu.com/search?q=国足首发)
-1. [华为三折叠屏手机售价19999元起](https://www.zhihu.com/search?q=华为三折叠屏手机售价19999元起)
 1. [孙颖莎3比0战胜田志希](https://www.zhihu.com/search?q=孙颖莎3比0战胜田志希)
 1. [华为三折叠价格19999起](https://www.zhihu.com/search?q=华为三折叠价格19999起)
 1. [王楚钦迎奥运会后首秀](https://www.zhihu.com/search?q=王楚钦迎奥运会后首秀)
@@ -27,6 +26,8 @@
 1. [库里官宣王者荣耀联动](https://www.zhihu.com/search?q=库里官宣王者荣耀联动)
 1. [哥伦比亚2:1阿根廷](https://www.zhihu.com/search?q=哥伦比亚2:1阿根廷)
 1. [无人机导致天津大面积航班延误](https://www.zhihu.com/search?q=无人机导致天津大面积航班延误)
+1. [经济学专家称「未来房子或将变消费品」](https://www.zhihu.com/search?q=经济学专家称「未来房子或将变消费品」)
+1. [华为三折叠屏手机售价19999元起](https://www.zhihu.com/search?q=华为三折叠屏手机售价19999元起)
 1. [为何台风摩羯仍有较大破坏力](https://www.zhihu.com/search?q=为何台风摩羯仍有较大破坏力)
 1. [海银财富](https://www.zhihu.com/search?q=海银财富)
 

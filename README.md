@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 30 2024 15:08:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 30 2024 16:12:05 GMT+0800 (China Standard Time) -->
 
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
 1. [大碗娱乐宣布所有艺人合约到期不续](https://www.zhihu.com/search?q=大碗娱乐宣布所有艺人合约到期不续)

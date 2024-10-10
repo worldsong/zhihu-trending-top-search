@@ -1,6 +1,9 @@
 [
-  { "query": "世界精神卫生日", "display_query": "世界精神卫生日" },
-  { "query": "A股", "display_query": "A股" },
+  {
+    "query": "体质差从什么运动开始比较舒服",
+    "display_query": "体质差从什么运动开始比较舒服"
+  },
+  { "query": "雾不清竹不清", "display_query": "雾不清竹不清" },
   { "query": "美股三大指数集体收涨", "display_query": "美股三大指数集体收涨" },
   {
     "query": "为什么有人宁愿走国道也不愿走高速 ",
@@ -15,7 +18,10 @@
     "query": "上交所延长接受指定交易申报指令时间",
     "display_query": "上交所延长接受指定交易申报指令时间"
   },
-  { "query": "踏空者焦虑情绪升温", "display_query": "踏空者焦虑情绪升温" },
+  {
+    "query": "鬼吹灯系列哪个墓最难盗",
+    "display_query": "鬼吹灯系列哪个墓最难盗"
+  },
   {
     "query": "詹姆斯布朗尼同场并肩作战",
     "display_query": "詹姆斯布朗尼同场并肩作战"
@@ -24,6 +30,9 @@
     "query": "四分之一以色列人考虑离开该国",
     "display_query": "四分之一以色列人考虑离开该国"
   },
+  { "query": "世界精神卫生日", "display_query": "世界精神卫生日" },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "踏空者焦虑情绪升温", "display_query": "踏空者焦虑情绪升温" },
   { "query": "皇马卡瓦哈尔重伤", "display_query": "皇马卡瓦哈尔重伤" },
   {
     "query": "王曼昱退出亚锦赛女单、女双和团体比赛",

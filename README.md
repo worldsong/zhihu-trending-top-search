@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 13 2024 15:06:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 13 2024 16:09:25 GMT+0800 (China Standard Time) -->
 
-1. [世界精神卫生日](https://www.zhihu.com/search?q=世界精神卫生日)
 1. [向科学要答案](https://www.zhihu.com/search?q=向科学要答案)
 1. [诺贝尔文学奖揭晓](https://www.zhihu.com/search?q=诺贝尔文学奖揭晓)
 1. [重阳节](https://www.zhihu.com/search?q=重阳节)
@@ -28,6 +27,7 @@
 1. [居民消费价格同比上涨](https://www.zhihu.com/search?q=居民消费价格同比上涨)
 1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=发现孩子很普通怎么办)
 1. [你在体制内捅过的最大篓子是什么](https://www.zhihu.com/search?q=你在体制内捅过的最大篓子是什么)
+1. [世界精神卫生日](https://www.zhihu.com/search?q=世界精神卫生日)
 1. [孙颖莎](https://www.zhihu.com/search?q=孙颖莎)
 
 <!-- END -->

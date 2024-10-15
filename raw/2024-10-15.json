@@ -4,6 +4,7 @@
     "query": "存量房贷利率25日起调整",
     "display_query": "存量房贷利率25日起调整"
   },
+  { "query": "诺贝尔经济学奖公布", "display_query": "诺贝尔经济学奖公布" },
   { "query": "天猫双11攻略", "display_query": "天猫双11攻略" },
   { "query": "三大指数集体高开", "display_query": "三大指数集体高开" },
   {
@@ -13,6 +14,7 @@
   { "query": "台湾当归", "display_query": "台湾当归" },
   { "query": "居民消费价格同比上涨", "display_query": "居民消费价格同比上涨" },
   { "query": "张本智和", "display_query": "张本智和" },
+  { "query": "工业克苏鲁什么意思", "display_query": "工业克苏鲁什么意思" },
   { "query": "英格兰胜芬兰", "display_query": "英格兰胜芬兰" },
   {
     "query": "你在体制内捅过的最大篓子是什么",
@@ -43,7 +45,6 @@
     "query": "大冰老师直播口碑大翻身",
     "display_query": "大冰老师直播口碑大翻身"
   },
-  { "query": "诺贝尔经济学奖公布", "display_query": "诺贝尔经济学奖公布" },
   { "query": "G2对战BLG", "display_query": "G2对战BLG" },
   { "query": "林诗栋vs张本智和", "display_query": "林诗栋vs张本智和" }
 ]

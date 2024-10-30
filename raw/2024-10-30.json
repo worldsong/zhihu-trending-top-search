@@ -1,8 +1,5 @@
 [
-  {
-    "query": "男子为林黛玉发 240 分钟澄清视频",
-    "display_query": "男子为林黛玉发 240 分钟澄清视频"
-  },
+  { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
   { "query": "自首路上被抓算自首吗", "display_query": "自首路上被抓算自首吗" },
   { "query": "独行侠力克森林狼", "display_query": "独行侠力克森林狼" },
   {
@@ -30,8 +27,11 @@
     "display_query": "为什么高铁实际运行速度没有达到最高速"
   },
   { "query": "双十一买什么", "display_query": "双十一买什么" },
+  {
+    "query": "男子为林黛玉发 240 分钟澄清视频",
+    "display_query": "男子为林黛玉发 240 分钟澄清视频"
+  },
   { "query": "WBG对战BLG", "display_query": "WBG对战BLG" },
-  { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
   { "query": "库里受伤", "display_query": "库里受伤" },
   { "query": "金球奖颁奖典礼", "display_query": "金球奖颁奖典礼" },
   { "query": "勇士vs快船", "display_query": "勇士vs快船" },

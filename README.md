@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 06 2024 23:07:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 07 2024 00:09:05 GMT+0800 (China Standard Time) -->
 
 1. [T1](https://www.zhihu.com/search?q=T1)
 1. [BLG](https://www.zhihu.com/search?q=BLG)
@@ -27,8 +27,6 @@
 1. [那些真的「好」的好物](https://www.zhihu.com/search?q=那些真的「好」的好物)
 1. [今年最「卷」的好物颁奖礼](https://www.zhihu.com/search?q=今年最「卷」的好物颁奖礼)
 1. [年度巨制无广的好物推荐](https://www.zhihu.com/search?q=年度巨制无广的好物推荐)
-1. [郑钦文](https://www.zhihu.com/search?q=郑钦文)
-1. [t1夺冠](https://www.zhihu.com/search?q=t1夺冠)
 
 <!-- END -->
 

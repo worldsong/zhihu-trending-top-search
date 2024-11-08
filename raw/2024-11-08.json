@@ -1,4 +1,5 @@
 [
+  { "query": "立冬", "display_query": "立冬" },
   { "query": "油价下调", "display_query": "油价下调" },
   { "query": "中国记者节", "display_query": "中国记者节" },
   { "query": "双十一买什么", "display_query": "双十一买什么" },
@@ -30,6 +31,5 @@
   {
     "query": "你在体制内捅过的最大篓子是什么",
     "display_query": "你在体制内捅过的最大篓子是什么"
-  },
-  { "query": "立冬", "display_query": "立冬" }
+  }
 ]

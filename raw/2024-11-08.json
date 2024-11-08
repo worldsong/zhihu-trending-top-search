@@ -1,5 +1,4 @@
 [
-  { "query": "立冬", "display_query": "立冬" },
   { "query": "油价下调", "display_query": "油价下调" },
   { "query": "中国记者节", "display_query": "中国记者节" },
   { "query": "湖人vs活塞", "display_query": "湖人vs活塞" },
@@ -18,5 +17,6 @@
   {
     "query": "年度巨制无广的好物推荐",
     "display_query": "年度巨制无广的好物推荐"
-  }
+  },
+  { "query": "立冬", "display_query": "立冬" }
 ]

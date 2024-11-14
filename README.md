@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 14 2024 16:11:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 14 2024 17:08:15 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [为何古人不用琥珀来给尸体做防腐](https://www.zhihu.com/search?q=为何古人不用琥珀来给尸体做防腐)

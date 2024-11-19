@@ -15,12 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 19 2024 20:14:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 19 2024 21:18:55 GMT+0800 (China Standard Time) -->
 
-1. [老街区里潮流新](https://www.zhihu.com/search?q=老街区里潮流新)
-1. [如何看待传言 Grok-3
-   证明黎曼猜想](https://www.zhihu.com/search?q=如何看待传言 Grok-3
-   证明黎曼猜想)
+1. [勇士vs快船](https://www.zhihu.com/search?q=勇士vs快船)
 1. [创业板指跌逾1%](https://www.zhihu.com/search?q=创业板指跌逾1%)
 1. [支付宝崩了](https://www.zhihu.com/search?q=支付宝崩了)
 1. [独行侠险胜雷霆](https://www.zhihu.com/search?q=独行侠险胜雷霆)
@@ -32,7 +29,11 @@
 1. [腾讯第三季度营收 1672 亿](https://www.zhihu.com/search?q=腾讯第三季度营收
    1672 亿)
 1. [李行亮 求救信号](https://www.zhihu.com/search?q=李行亮 求救信号)
-1. [勇士vs快船](https://www.zhihu.com/search?q=勇士vs快船)
+1. [国足赢了](https://www.zhihu.com/search?q=国足赢了)
+1. [老街区里潮流新](https://www.zhihu.com/search?q=老街区里潮流新)
+1. [如何看待传言 Grok-3
+   证明黎曼猜想](https://www.zhihu.com/search?q=如何看待传言 Grok-3
+   证明黎曼猜想)
 1. [苏-57 上演旱地拔葱落叶飘等高难动作](https://www.zhihu.com/search?q=苏-57
    上演旱地拔葱落叶飘等高难动作)
 1. [俄传奇试飞员驾驶苏-57

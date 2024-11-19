@@ -1,9 +1,5 @@
 [
-  { "query": "老街区里潮流新", "display_query": "老街区里潮流新" },
-  {
-    "query": "如何看待传言 Grok-3 证明黎曼猜想",
-    "display_query": "如何看待传言 Grok-3 证明黎曼猜想"
-  },
+  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
   { "query": "创业板指跌逾1%", "display_query": "创业板指跌逾1%" },
   { "query": "支付宝崩了", "display_query": "支付宝崩了" },
   { "query": "独行侠险胜雷霆", "display_query": "独行侠险胜雷霆" },
@@ -21,7 +17,12 @@
     "display_query": "腾讯第三季度营收 1672 亿"
   },
   { "query": "李行亮 求救信号", "display_query": "李行亮 求救信号" },
-  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
+  { "query": "国足赢了", "display_query": "国足赢了" },
+  { "query": "老街区里潮流新", "display_query": "老街区里潮流新" },
+  {
+    "query": "如何看待传言 Grok-3 证明黎曼猜想",
+    "display_query": "如何看待传言 Grok-3 证明黎曼猜想"
+  },
   {
     "query": "苏-57 上演旱地拔葱落叶飘等高难动作",
     "display_query": "苏-57 上演旱地拔葱落叶飘等高难动作"

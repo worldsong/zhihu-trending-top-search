@@ -2,7 +2,6 @@
   { "query": "国考笔试", "display_query": "国考笔试" },
   { "query": "申论", "display_query": "申论" },
   { "query": "申论大作文", "display_query": "申论大作文" },
-  { "query": "国考答案", "display_query": "国考答案" },
   { "query": "国考弃考", "display_query": "国考弃考" },
   { "query": "你见过的狠人有多绝", "display_query": "你见过的狠人有多绝" },
   {
@@ -18,6 +17,11 @@
     "display_query": "快手电商宣布「废止退款不退货规则」"
   },
   { "query": "《异环》首测", "display_query": "《异环》首测" },
+  {
+    "query": "官方证实 OPPO 杭州全球总部停工",
+    "display_query": "官方证实 OPPO 杭州全球总部停工"
+  },
+  { "query": "国考答案", "display_query": "国考答案" },
   { "query": "红米 K80", "display_query": "红米 K80" },
   { "query": "华为 Mate 70 价格", "display_query": "华为 Mate 70 价格" },
   {

@@ -1,7 +1,5 @@
 [
   { "query": "国考笔试", "display_query": "国考笔试" },
-  { "query": "申论", "display_query": "申论" },
-  { "query": "申论大作文", "display_query": "申论大作文" },
   { "query": "国考弃考", "display_query": "国考弃考" },
   {
     "query": "为什么检查上级都会提前通知",
@@ -20,15 +18,17 @@
   },
   { "query": "华为纯血鸿蒙平板", "display_query": "华为纯血鸿蒙平板" },
   {
+    "query": "家长只喂米糊两月龄宝宝多脏器衰竭",
+    "display_query": "家长只喂米糊两月龄宝宝多脏器衰竭"
+  },
+  { "query": "申论", "display_query": "申论" },
+  { "query": "申论大作文", "display_query": "申论大作文" },
+  {
     "query": "姆巴佩是因为什么问题导致状态不好呢",
     "display_query": "姆巴佩是因为什么问题导致状态不好呢"
   },
   {
     "query": "董宇辉在西安成立新公司",
     "display_query": "董宇辉在西安成立新公司"
-  },
-  {
-    "query": "家长只喂米糊两月龄宝宝多脏器衰竭",
-    "display_query": "家长只喂米糊两月龄宝宝多脏器衰竭"
   }
 ]

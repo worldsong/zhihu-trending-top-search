@@ -1,6 +1,4 @@
 [
-  { "query": "国考笔试", "display_query": "国考笔试" },
-  { "query": "国考弃考", "display_query": "国考弃考" },
   {
     "query": "为什么检查上级都会提前通知",
     "display_query": "为什么检查上级都会提前通知"
@@ -21,6 +19,10 @@
     "query": "家长只喂米糊两月龄宝宝多脏器衰竭",
     "display_query": "家长只喂米糊两月龄宝宝多脏器衰竭"
   },
+  { "query": "利物浦 2:0 皇马", "display_query": "利物浦 2:0 皇马" },
+  { "query": "姆巴佩失点", "display_query": "姆巴佩失点" },
+  { "query": "国考笔试", "display_query": "国考笔试" },
+  { "query": "国考弃考", "display_query": "国考弃考" },
   { "query": "申论", "display_query": "申论" },
   { "query": "申论大作文", "display_query": "申论大作文" },
   {

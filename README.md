@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 05 2024 10:21:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 05 2024 11:27:34 GMT+0800 (China Standard Time) -->
 
-1. [为什么检查上级都会提前通知](https://www.zhihu.com/search?q=为什么检查上级都会提前通知)
+1. [教授谈赖清德过境夏威夷](https://www.zhihu.com/search?q=教授谈赖清德过境夏威夷)
+1. [传小米集团副总裁马骥离职](https://www.zhihu.com/search?q=传小米集团副总裁马骥离职)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=你见过的狠人有多绝)
 1. [韩国](https://www.zhihu.com/search?q=韩国)
 1. [湖人vs森林狼](https://www.zhihu.com/search?q=湖人vs森林狼)
@@ -26,6 +27,7 @@
 1. [利物浦 2:0 皇马](https://www.zhihu.com/search?q=利物浦 2:0 皇马)
 1. [姆巴佩失点](https://www.zhihu.com/search?q=姆巴佩失点)
 1. [雷霆 105:101 勇士](https://www.zhihu.com/search?q=雷霆 105:101 勇士)
+1. [为什么检查上级都会提前通知](https://www.zhihu.com/search?q=为什么检查上级都会提前通知)
 1. [官方证实 OPPO 杭州全球总部停工](https://www.zhihu.com/search?q=官方证实 OPPO
    杭州全球总部停工)
 1. [贝莱德将收购私人信贷公司hps](https://www.zhihu.com/search?q=贝莱德将收购私人信贷公司hps)

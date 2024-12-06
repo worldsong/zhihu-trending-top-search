@@ -1,9 +1,9 @@
 [
   {
-    "query": "为什么检查上级都会提前通知",
-    "display_query": "为什么检查上级都会提前通知"
+    "query": "大雄有多啦a梦什么还只是平平",
+    "display_query": "大雄有多啦a梦什么还只是平平"
   },
-  { "query": "韩国", "display_query": "韩国" },
+  { "query": "美图秀秀", "display_query": "美图秀秀" },
   {
     "query": "沪深京三市成交额突破1万亿元",
     "display_query": "沪深京三市成交额突破1万亿元"
@@ -30,6 +30,11 @@
     "display_query": "韩国流行周五下班去中国"
   },
   { "query": "绅装骑行引发争议", "display_query": "绅装骑行引发争议" },
+  {
+    "query": "为什么检查上级都会提前通知",
+    "display_query": "为什么检查上级都会提前通知"
+  },
+  { "query": "韩国", "display_query": "韩国" },
   { "query": "古人为什么强调孝", "display_query": "古人为什么强调孝" },
   {
     "query": "祖父母拒与非婚生孙女分亡父赔偿金",

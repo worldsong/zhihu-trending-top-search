@@ -1,12 +1,9 @@
 [
   {
-    "query": "明十三陵永陵和思陵首次对外开放",
-    "display_query": "明十三陵永陵和思陵首次对外开放"
+    "query": "OpenAI正式推出AI视频生成模型Sora",
+    "display_query": "OpenAI正式推出AI视频生成模型Sora"
   },
-  {
-    "query": "大冰为困难人员发羽绒服被薅羊毛",
-    "display_query": "大冰为困难人员发羽绒服被薅羊毛"
-  },
+  { "query": "崇礼又见谷爱凌", "display_query": "崇礼又见谷爱凌" },
   { "query": "有哪些演员戏路很窄", "display_query": "有哪些演员戏路很窄" },
   {
     "query": "纳斯达克中国金龙指数大涨",
@@ -28,6 +25,18 @@
   {
     "query": "朱啸虎公开回应月之暗面纠纷",
     "display_query": "朱啸虎公开回应月之暗面纠纷"
+  },
+  {
+    "query": "华为何刚谈mate70系列的芯片",
+    "display_query": "华为何刚谈mate70系列的芯片"
+  },
+  {
+    "query": "明十三陵永陵和思陵首次对外开放",
+    "display_query": "明十三陵永陵和思陵首次对外开放"
+  },
+  {
+    "query": "大冰为困难人员发羽绒服被薅羊毛",
+    "display_query": "大冰为困难人员发羽绒服被薅羊毛"
   },
   { "query": "琼瑶儿子发声", "display_query": "琼瑶儿子发声" },
   { "query": "纯血鸿蒙上架卓易通", "display_query": "纯血鸿蒙上架卓易通" },

@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 11 2024 21:20:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 11 2024 22:08:17 GMT+0800 (China Standard Time) -->
 
-1. [有哪些演员戏路很窄](https://www.zhihu.com/search?q=有哪些演员戏路很窄)
-1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=照骗能骗到什么程度)
+1. [中国是全球产供链稳定器](https://www.zhihu.com/search?q=中国是全球产供链稳定器)
+1. [11月电影总票房18.77亿元](https://www.zhihu.com/search?q=11月电影总票房18.77亿元)
 1. [独行侠vs雷霆](https://www.zhihu.com/search?q=独行侠vs雷霆)
 1. [数学是从什么时候开始反直觉的](https://www.zhihu.com/search?q=数学是从什么时候开始反直觉的)
 1. [98 万部老人机被远程控制偷扣话费](https://www.zhihu.com/search?q=98
@@ -30,6 +30,8 @@
 1. [从 2006 到 2024 中美出口管制角色互换](https://www.zhihu.com/search?q=从 2006
    到 2024 中美出口管制角色互换)
 1. [冰雪运动为什么让人越来越上头](https://www.zhihu.com/search?q=冰雪运动为什么让人越来越上头)
+1. [有哪些演员戏路很窄](https://www.zhihu.com/search?q=有哪些演员戏路很窄)
+1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=照骗能骗到什么程度)
 1. [A股高开低走](https://www.zhihu.com/search?q=A股高开低走)
 1. [A股三大指数高开](https://www.zhihu.com/search?q=A股三大指数高开)
 1. [英伟达被立案调查](https://www.zhihu.com/search?q=英伟达被立案调查)

@@ -1,5 +1,6 @@
 [
   { "query": "11", "display_query": "11" },
+  { "query": "A股", "display_query": "A股" },
   { "query": "斯诺克苏格兰公开赛", "display_query": "斯诺克苏格兰公开赛" },
   { "query": "李铁", "display_query": "李铁" },
   {
@@ -21,7 +22,6 @@
     "query": "员工要求罢免上司作为老板你会怎么办",
     "display_query": "员工要求罢免上司作为老板你会怎么办"
   },
-  { "query": "A股", "display_query": "A股" },
   {
     "query": "韩国国会要求逮捕尹锡悦",
     "display_query": "韩国国会要求逮捕尹锡悦"

@@ -1,10 +1,13 @@
 [
-  { "query": "毛石富庄小周连麦", "display_query": "毛石富庄小周连麦" },
-  { "query": "人生有遗憾该怎么面对", "display_query": "人生有遗憾该怎么面对" },
+  { "query": "11 月 70 城房价出炉", "display_query": "11 月 70 城房价出炉" },
   { "query": "石宇奇夺男单冠军", "display_query": "石宇奇夺男单冠军" },
   {
     "query": "为什么现在年轻人存不下钱",
     "display_query": "为什么现在年轻人存不下钱"
+  },
+  {
+    "query": "哈尔滨还会复制去年的火爆吗",
+    "display_query": "哈尔滨还会复制去年的火爆吗"
   },
   { "query": "养乐多上海公司解散", "display_query": "养乐多上海公司解散" },
   { "query": "《黑神话：悟空》更新", "display_query": "《黑神话：悟空》更新" },
@@ -24,7 +27,8 @@
     "query": "胖东来真有网上说的那么好吗",
     "display_query": "胖东来真有网上说的那么好吗"
   },
-  { "query": "11 月 70 城房价出炉", "display_query": "11 月 70 城房价出炉" },
+  { "query": "毛石富庄小周连麦", "display_query": "毛石富庄小周连麦" },
+  { "query": "人生有遗憾该怎么面对", "display_query": "人生有遗憾该怎么面对" },
   {
     "query": "明十三陵永陵和思陵首次对外开放",
     "display_query": "明十三陵永陵和思陵首次对外开放"

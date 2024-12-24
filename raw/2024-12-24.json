@@ -1,7 +1,9 @@
 [
-  { "query": "考研结束", "display_query": "考研结束" },
-  { "query": "考研数学", "display_query": "考研数学" },
-  { "query": "考研第一天", "display_query": "考研第一天" },
+  { "query": "长沙下雪", "display_query": "长沙下雪" },
+  {
+    "query": "全员上桌和配角掀桌有什么差别",
+    "display_query": "全员上桌和配角掀桌有什么差别"
+  },
   { "query": "掘金vs鹈鹕", "display_query": "掘金vs鹈鹕" },
   {
     "query": "你见过哪些不动声色的善良",
@@ -11,6 +13,7 @@
     "query": "人民币重回全球第四大最活跃货币",
     "display_query": "人民币重回全球第四大最活跃货币"
   },
+  { "query": "考研第一天", "display_query": "考研第一天" },
   {
     "query": "如何看待光威新出的国产ddr5内存",
     "display_query": "如何看待光威新出的国产ddr5内存"
@@ -24,6 +27,8 @@
     "query": "美国加州松鼠时兴捕田鼠吃",
     "display_query": "美国加州松鼠时兴捕田鼠吃"
   },
+  { "query": "考研结束", "display_query": "考研结束" },
+  { "query": "考研数学", "display_query": "考研数学" },
   { "query": "超大城市「电鸡围城」", "display_query": "超大城市「电鸡围城」" },
   { "query": "2025 考研英语", "display_query": "2025 考研英语" },
   { "query": "考研英语难度", "display_query": "考研英语难度" },

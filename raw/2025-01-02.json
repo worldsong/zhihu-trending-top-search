@@ -1,6 +1,12 @@
 [
-  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
-  { "query": "央视跨年晚会", "display_query": "央视跨年晚会" },
+  {
+    "query": "外媒关注中国六代机试飞",
+    "display_query": "外媒关注中国六代机试飞"
+  },
+  {
+    "query": "英伟达计划 2025 上半年发布人形机器人芯片",
+    "display_query": "英伟达计划 2025 上半年发布人形机器人芯片"
+  },
   {
     "query": "为什么唐尚珺不继续复读了",
     "display_query": "为什么唐尚珺不继续复读了"
@@ -14,5 +20,7 @@
   {
     "query": "小红书开店月入三万攻略",
     "display_query": "小红书开店月入三万攻略"
-  }
+  },
+  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
+  { "query": "央视跨年晚会", "display_query": "央视跨年晚会" }
 ]

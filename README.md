@@ -15,10 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 02 2025 11:12:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 02 2025 12:09:38 GMT+0800 (China Standard Time) -->
 
-1. [勇士vs快船](https://www.zhihu.com/search?q=勇士vs快船)
-1. [央视跨年晚会](https://www.zhihu.com/search?q=央视跨年晚会)
+1. [外媒关注中国六代机试飞](https://www.zhihu.com/search?q=外媒关注中国六代机试飞)
+1. [英伟达计划 2025
+   上半年发布人形机器人芯片](https://www.zhihu.com/search?q=英伟达计划 2025
+   上半年发布人形机器人芯片)
 1. [为什么唐尚珺不继续复读了](https://www.zhihu.com/search?q=为什么唐尚珺不继续复读了)
 1. [加入知乎推文团队](https://www.zhihu.com/search?q=加入知乎推文团队)
 1. [我是真的爱上你翻唱](https://www.zhihu.com/search?q=我是真的爱上你翻唱)
@@ -27,6 +29,8 @@
 1. [短剧推广操作及授权](https://www.zhihu.com/search?q=短剧推广操作及授权)
 1. [普通人赚钱门路推荐](https://www.zhihu.com/search?q=普通人赚钱门路推荐)
 1. [小红书开店月入三万攻略](https://www.zhihu.com/search?q=小红书开店月入三万攻略)
+1. [勇士vs快船](https://www.zhihu.com/search?q=勇士vs快船)
+1. [央视跨年晚会](https://www.zhihu.com/search?q=央视跨年晚会)
 
 <!-- END -->
 

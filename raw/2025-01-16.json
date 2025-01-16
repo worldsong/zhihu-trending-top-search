@@ -1,6 +1,12 @@
 [
-  { "query": "国考", "display_query": "国考" },
-  { "query": "有哪些演员戏路很窄", "display_query": "有哪些演员戏路很窄" },
+  {
+    "query": "童程童美员工被曝停发工资",
+    "display_query": "童程童美员工被曝停发工资"
+  },
+  {
+    "query": "从何时开始六国联手也打不过秦国了",
+    "display_query": "从何时开始六国联手也打不过秦国了"
+  },
   {
     "query": "被时代淘汰的水果有哪些",
     "display_query": "被时代淘汰的水果有哪些"
@@ -20,5 +26,7 @@
   },
   { "query": "小红书月入几万避坑", "display_query": "小红书月入几万避坑" },
   { "query": "抖音赚钱模式与逻辑", "display_query": "抖音赚钱模式与逻辑" },
-  { "query": "新手无货源开网店", "display_query": "新手无货源开网店" }
+  { "query": "新手无货源开网店", "display_query": "新手无货源开网店" },
+  { "query": "国考", "display_query": "国考" },
+  { "query": "有哪些演员戏路很窄", "display_query": "有哪些演员戏路很窄" }
 ]

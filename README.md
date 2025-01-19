@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 19 2025 23:07:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 20 2025 00:07:23 GMT+0800 (China Standard Time) -->
 
 1. [以军轰炸加沙地带多地](https://www.zhihu.com/search?q=以军轰炸加沙地带多地)
 1. [t1对战dk](https://www.zhihu.com/search?q=t1对战dk)
@@ -27,7 +27,6 @@
 1. [小红书养号与变现技巧](https://www.zhihu.com/search?q=小红书养号与变现技巧)
 1. [抖音快速涨 1000 粉](https://www.zhihu.com/search?q=抖音快速涨 1000 粉)
 1. [短剧推广授权获取](https://www.zhihu.com/search?q=短剧推广授权获取)
-1. [为什么检查上级都会提前通知](https://www.zhihu.com/search?q=为什么检查上级都会提前通知)
 
 <!-- END -->
 

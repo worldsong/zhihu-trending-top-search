@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 26 2025 15:06:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 26 2025 16:08:48 GMT+0800 (China Standard Time) -->
 
 1. [掘金vs森林狼](https://www.zhihu.com/search?q=掘金vs森林狼)
 1. [烂高中到底多差](https://www.zhihu.com/search?q=烂高中到底多差)

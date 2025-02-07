@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 07 2025 20:13:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 07 2025 21:14:15 GMT+0800 (China Standard Time) -->
 
-1. [申真谞谈柯洁 LG 杯事件](https://www.zhihu.com/search?q=申真谞谈柯洁 LG
-   杯事件)
+1. [北京大风](https://www.zhihu.com/search?q=北京大风)
 1. [新一轮油价调整搁浅](https://www.zhihu.com/search?q=新一轮油价调整搁浅)
 1. [孙颖莎vs何卓佳](https://www.zhihu.com/search?q=孙颖莎vs何卓佳)
 1. [为何马谡置之死地就真死了](https://www.zhihu.com/search?q=为何马谡置之死地就真死了)
@@ -28,7 +27,8 @@
 1. [知乎蛇年活动](https://www.zhihu.com/search?q=知乎蛇年活动)
 1. [知乎春节活动](https://www.zhihu.com/search?q=知乎春节活动)
 1. [过年玩什么，好运贪吃蛇](https://www.zhihu.com/search?q=过年玩什么，好运贪吃蛇)
-1. [北京大风](https://www.zhihu.com/search?q=北京大风)
+1. [申真谞谈柯洁 LG 杯事件](https://www.zhihu.com/search?q=申真谞谈柯洁 LG
+   杯事件)
 1. [OpenAI 升级 o3-mini 模型思维链](https://www.zhihu.com/search?q=OpenAI 升级
    o3-mini 模型思维链)
 1. [为什么 DeepSeek 要开源](https://www.zhihu.com/search?q=为什么 DeepSeek

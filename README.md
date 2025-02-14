@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 14 2025 23:07:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 15 2025 00:08:55 GMT+0800 (China Standard Time) -->
 
 1. [情人节](https://www.zhihu.com/search?q=情人节)
 1. [大学生兼职](https://www.zhihu.com/search?q=大学生兼职)
@@ -27,8 +27,6 @@
 1. [知乎写作计划](https://www.zhihu.com/search?q=知乎写作计划)
 1. [大学生线上兼职](https://www.zhihu.com/search?q=大学生线上兼职)
 1. [赚钱副业推荐](https://www.zhihu.com/search?q=赚钱副业推荐)
-1. [麦当劳涨价](https://www.zhihu.com/search?q=麦当劳涨价)
-1. [小说推文赚钱](https://www.zhihu.com/search?q=小说推文赚钱)
 
 <!-- END -->
 

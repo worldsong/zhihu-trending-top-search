@@ -1,9 +1,7 @@
 [
-  {
-    "query": "衡阳通报医生售卖出生证",
-    "display_query": "衡阳通报医生售卖出生证"
-  },
-  { "query": "陈晓陈妍希离婚", "display_query": "陈晓陈妍希离婚" },
+  { "query": "黄金价格大跳水", "display_query": "黄金价格大跳水" },
+  { "query": "小说推文", "display_query": "小说推文" },
+  { "query": "雨水", "display_query": "雨水" },
   {
     "query": "你最意外的一笔收入是什么",
     "display_query": "你最意外的一笔收入是什么"
@@ -17,6 +15,11 @@
   { "query": "短剧推广躺赚", "display_query": "短剧推广躺赚" },
   { "query": "无货源开网店", "display_query": "无货源开网店" },
   { "query": "线上兼职推荐", "display_query": "线上兼职推荐" },
+  {
+    "query": "衡阳通报医生售卖出生证",
+    "display_query": "衡阳通报医生售卖出生证"
+  },
+  { "query": "陈晓陈妍希离婚", "display_query": "陈晓陈妍希离婚" },
   { "query": "知乎写小说赚钱", "display_query": "知乎写小说赚钱" },
   {
     "query": "为何中国读者很厌恶玻璃大炮而国外都喜欢",
@@ -37,7 +40,5 @@
   {
     "query": "一影院支持哪吒 2 暂不排片美队 4",
     "display_query": "一影院支持哪吒 2 暂不排片美队 4"
-  },
-  { "query": "黄金价格大跳水", "display_query": "黄金价格大跳水" },
-  { "query": "小说推文", "display_query": "小说推文" }
+  }
 ]

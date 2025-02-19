@@ -1,9 +1,9 @@
 [
+  { "query": "小说推文", "display_query": "小说推文" },
   {
-    "query": "多城宣布空置房可以少缴物业费",
-    "display_query": "多城宣布空置房可以少缴物业费"
+    "query": "你最意外的一笔收入是什么",
+    "display_query": "你最意外的一笔收入是什么"
   },
-  { "query": "modelq谍照首曝", "display_query": "modelq谍照首曝" },
   {
     "query": "你最高光的时刻是什么时候",
     "display_query": "你最高光的时刻是什么时候"
@@ -15,11 +15,11 @@
   { "query": "线上兼职推荐", "display_query": "线上兼职推荐" },
   { "query": "写作能力提升", "display_query": "写作能力提升" },
   { "query": "小说签约赚钱", "display_query": "小说签约赚钱" },
-  { "query": "小说推文", "display_query": "小说推文" },
   {
-    "query": "你最意外的一笔收入是什么",
-    "display_query": "你最意外的一笔收入是什么"
+    "query": "多城宣布空置房可以少缴物业费",
+    "display_query": "多城宣布空置房可以少缴物业费"
   },
+  { "query": "modelq谍照首曝", "display_query": "modelq谍照首曝" },
   {
     "query": "马斯克成立AI游戏工作室",
     "display_query": "马斯克成立AI游戏工作室"

@@ -15,10 +15,6 @@
     "display_query": "王健林 7702 万股权被冻结"
   },
   {
-    "query": "微信灰度测试接入DeepSeek-R1",
-    "display_query": "微信灰度测试接入DeepSeek-R1"
-  },
-  {
     "query": "《我是哪吒 2》 被批诈骗",
     "display_query": "《我是哪吒 2》 被批诈骗"
   },
@@ -28,6 +24,10 @@
     "display_query": "格力专卖店改名董明珠健康家"
   },
   { "query": "董明珠健康家", "display_query": "董明珠健康家" },
+  {
+    "query": "微信灰度测试接入DeepSeek-R1",
+    "display_query": "微信灰度测试接入DeepSeek-R1"
+  },
   { "query": "詹姆斯退出全明星正赛", "display_query": "詹姆斯退出全明星正赛" },
   {
     "query": "如何看待游客看打铁花致衣服被烧",

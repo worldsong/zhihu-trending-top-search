@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 28 2025 01:07:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 28 2025 02:11:11 GMT+0800 (China Standard Time) -->
 
 1. [四六级成绩](https://www.zhihu.com/search?q=四六级成绩)
 1. [独行侠VS湖人](https://www.zhihu.com/search?q=独行侠VS湖人)

@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 04 2025 12:10:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 04 2025 13:08:26 GMT+0800 (China Standard Time) -->
 
 1. [快船vs湖人](https://www.zhihu.com/search?q=快船vs湖人)
 1. [金价下跌](https://www.zhihu.com/search?q=金价下跌)
@@ -26,14 +26,18 @@
 1. [小米 SU7 Ultra 大定破 1W 台](https://www.zhihu.com/search?q=小米 SU7 Ultra
    大定破 1W 台)
 1. [猫猫的奇幻漂流上映](https://www.zhihu.com/search?q=猫猫的奇幻漂流上映)
+1. [DeepSeek 首次公布模型推理优化细节](https://www.zhihu.com/search?q=DeepSeek
+   首次公布模型推理优化细节)
+1. [DeepSeek 公布 V3 / R1 推理系统概览](https://www.zhihu.com/search?q=DeepSeek
+   公布 V3 / R1 推理系统概览)
+1. [DeepSeek 公布模型推理成本利润细节](https://www.zhihu.com/search?q=DeepSeek
+   公布模型推理成本利润细节)
 1. [独家：DeepSeek 公布 V3 / R1
    推理系统解析](https://www.zhihu.com/search?q=独家：DeepSeek 公布 V3 / R1
    推理系统解析)
 1. [独家：DeepSeek 公布 V3 / R1
    推理系统概览](https://www.zhihu.com/search?q=独家：DeepSeek 公布 V3 / R1
    推理系统概览)
-1. [DeepSeek 首次公布模型推理优化细节](https://www.zhihu.com/search?q=DeepSeek
-   首次公布模型推理优化细节)
 1. [湖人vs快船](https://www.zhihu.com/search?q=湖人vs快船)
 1. [openai推出gpt-4.5](https://www.zhihu.com/search?q=openai推出gpt-4.5)
 1. [美乌矿产协议未能签署](https://www.zhihu.com/search?q=美乌矿产协议未能签署)

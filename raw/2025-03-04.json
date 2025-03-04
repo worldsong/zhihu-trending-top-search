@@ -16,16 +16,24 @@
   },
   { "query": "猫猫的奇幻漂流上映", "display_query": "猫猫的奇幻漂流上映" },
   {
+    "query": "DeepSeek 首次公布模型推理优化细节",
+    "display_query": "DeepSeek 首次公布模型推理优化细节"
+  },
+  {
+    "query": "DeepSeek 公布 V3 / R1 推理系统概览",
+    "display_query": "DeepSeek 公布 V3 / R1 推理系统概览"
+  },
+  {
+    "query": "DeepSeek 公布模型推理成本利润细节",
+    "display_query": "DeepSeek 公布模型推理成本利润细节"
+  },
+  {
     "query": "独家：DeepSeek 公布 V3 / R1 推理系统解析",
     "display_query": "独家：DeepSeek 公布 V3 / R1 推理系统解析"
   },
   {
     "query": "独家：DeepSeek 公布 V3 / R1 推理系统概览",
     "display_query": "独家：DeepSeek 公布 V3 / R1 推理系统概览"
-  },
-  {
-    "query": "DeepSeek 首次公布模型推理优化细节",
-    "display_query": "DeepSeek 首次公布模型推理优化细节"
   },
   { "query": "湖人vs快船", "display_query": "湖人vs快船" },
   { "query": "openai推出gpt-4.5", "display_query": "openai推出gpt-4.5" },

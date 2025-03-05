@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 05 2025 17:08:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 05 2025 18:08:48 GMT+0800 (China Standard Time) -->
 
 1. [快船vs湖人](https://www.zhihu.com/search?q=快船vs湖人)
 1. [皇马vs马竞](https://www.zhihu.com/search?q=皇马vs马竞)
@@ -26,9 +26,11 @@
 1. [小米 SU7 Ultra 定价 52.99 万元](https://www.zhihu.com/search?q=小米 SU7
    Ultra 定价 52.99 万元)
 1. [猫猫的奇幻漂流上映](https://www.zhihu.com/search?q=猫猫的奇幻漂流上映)
+1. [中国足协发布球员自荐系统](https://www.zhihu.com/search?q=中国足协发布球员自荐系统)
+1. [ 1.88元考试神器已售100万件](https://www.zhihu.com/search?q=
+   1.88元考试神器已售100万件)
 1. [歌手方大同去世](https://www.zhihu.com/search?q=歌手方大同去世)
 1. [方大同](https://www.zhihu.com/search?q=方大同)
-1. [中国足协发布球员自荐系统](https://www.zhihu.com/search?q=中国足协发布球员自荐系统)
 1. [美国多州报告李斯特菌感染病例](https://www.zhihu.com/search?q=美国多州报告李斯特菌感染病例)
 1. [DeepSeek 首次公布模型推理优化细节](https://www.zhihu.com/search?q=DeepSeek
    首次公布模型推理优化细节)

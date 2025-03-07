@@ -1,16 +1,9 @@
 [
-  {
-    "query": "3 亿中国人送到澳大利亚要多久",
-    "display_query": "3 亿中国人送到澳大利亚要多久"
-  },
+  { "query": "皇马vs马竞", "display_query": "皇马vs马竞" },
+  { "query": "你捡过最大的漏是什么", "display_query": "你捡过最大的漏是什么" },
   {
     "query": "为什么检查上级都会提前通知",
     "display_query": "为什么检查上级都会提前通知"
-  },
-  { "query": "你捡过最大的漏是什么", "display_query": "你捡过最大的漏是什么" },
-  {
-    "query": "超 90% 成年人体内携带接吻病毒",
-    "display_query": "超 90% 成年人体内携带接吻病毒"
   },
   {
     "query": "男人有胡子和没胡子颜值差距有多大",
@@ -30,8 +23,15 @@
     "query": "RTX 5070Ti 显卡国行售价 6299 起",
     "display_query": "RTX 5070Ti 显卡国行售价 6299 起"
   },
-  { "query": "皇马vs马竞", "display_query": "皇马vs马竞" },
   { "query": "猫猫的奇幻漂流上映", "display_query": "猫猫的奇幻漂流上映" },
+  {
+    "query": "3 亿中国人送到澳大利亚要多久",
+    "display_query": "3 亿中国人送到澳大利亚要多久"
+  },
+  {
+    "query": "超 90% 成年人体内携带接吻病毒",
+    "display_query": "超 90% 成年人体内携带接吻病毒"
+  },
   {
     "query": "中国足协发布球员自荐系统",
     "display_query": "中国足协发布球员自荐系统"

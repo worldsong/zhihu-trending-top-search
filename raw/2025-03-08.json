@@ -1,6 +1,5 @@
 [
   { "query": "妇女节", "display_query": "妇女节" },
-  { "query": "教资", "display_query": "教资" },
   { "query": "你捡过最大的漏是什么", "display_query": "你捡过最大的漏是什么" },
   {
     "query": "男人有胡子和没胡子颜值差距有多大",
@@ -27,6 +26,11 @@
     "query": "蒋胜男建议删除离婚冷静期条款",
     "display_query": "蒋胜男建议删除离婚冷静期条款"
   },
+  {
+    "query": "为什么日本出不了 DeepSeek",
+    "display_query": "为什么日本出不了 DeepSeek"
+  },
+  { "query": "教资", "display_query": "教资" },
   { "query": "猫猫的奇幻漂流上映", "display_query": "猫猫的奇幻漂流上映" },
   {
     "query": "为什么菜鸟驿站那么多转让的",
@@ -35,9 +39,5 @@
   {
     "query": "太乙真人未完成任务为何没受到惩罚",
     "display_query": "太乙真人未完成任务为何没受到惩罚"
-  },
-  {
-    "query": "为什么日本出不了 DeepSeek",
-    "display_query": "为什么日本出不了 DeepSeek"
   }
 ]

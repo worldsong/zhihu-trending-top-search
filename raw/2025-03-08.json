@@ -1,8 +1,6 @@
 [
-  {
-    "query": "为什么菜鸟驿站那么多转让的",
-    "display_query": "为什么菜鸟驿站那么多转让的"
-  },
+  { "query": "妇女节", "display_query": "妇女节" },
+  { "query": "你捡过最大的漏是什么", "display_query": "你捡过最大的漏是什么" },
   {
     "query": "男人有胡子和没胡子颜值差距有多大",
     "display_query": "男人有胡子和没胡子颜值差距有多大"
@@ -26,17 +24,19 @@
     "display_query": "DeepSeek 公布模型推理成本利润细节"
   },
   {
+    "query": "蒋胜男建议删除离婚冷静期条款",
+    "display_query": "蒋胜男建议删除离婚冷静期条款"
+  },
+  {
+    "query": "为什么菜鸟驿站那么多转让的",
+    "display_query": "为什么菜鸟驿站那么多转让的"
+  },
+  {
     "query": "太乙真人未完成任务为何没受到惩罚",
     "display_query": "太乙真人未完成任务为何没受到惩罚"
   },
   {
     "query": "为什么日本出不了 DeepSeek",
     "display_query": "为什么日本出不了 DeepSeek"
-  },
-  { "query": "妇女节", "display_query": "妇女节" },
-  { "query": "你捡过最大的漏是什么", "display_query": "你捡过最大的漏是什么" },
-  {
-    "query": "蒋胜男建议删除离婚冷静期条款",
-    "display_query": "蒋胜男建议删除离婚冷静期条款"
   }
 ]

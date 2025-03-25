@@ -15,10 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 25 2025 06:07:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 25 2025 15:08:48 GMT+0800 (China Standard Time) -->
 
+1. [北京大风](https://www.zhihu.com/search?q=北京大风)
 1. [金价还会涨吗](https://www.zhihu.com/search?q=金价还会涨吗)
+1. [今日辟谣](https://www.zhihu.com/search?q=今日辟谣)
 1. [以前的铁道部算是一个超级大部门吗](https://www.zhihu.com/search?q=以前的铁道部算是一个超级大部门吗)
+1. [你见过哪些令人尴尬的名字](https://www.zhihu.com/search?q=你见过哪些令人尴尬的名字)
 1. [国际乒联公布徐克与女运动员聊天记录](https://www.zhihu.com/search?q=国际乒联公布徐克与女运动员聊天记录)
 1. [我国成功发射通信技术试验卫星十五号](https://www.zhihu.com/search?q=我国成功发射通信技术试验卫星十五号)
 1. [零跑B10预售](https://www.zhihu.com/search?q=零跑B10预售)

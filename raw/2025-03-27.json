@@ -1,6 +1,5 @@
 [
   { "query": "全能型寒潮来袭", "display_query": "全能型寒潮来袭" },
-  { "query": "今日辟谣", "display_query": "今日辟谣" },
   {
     "query": "你最讨厌微信朋友圈什么行为",
     "display_query": "你最讨厌微信朋友圈什么行为"
@@ -21,6 +20,8 @@
   { "query": "AWE 未来生活家", "display_query": "AWE 未来生活家" },
   { "query": "卷出新高度的 AI 家电", "display_query": "卷出新高度的 AI 家电" },
   { "query": "看见未来家", "display_query": "看见未来家" },
+  { "query": "让家电回归工具本质", "display_query": "让家电回归工具本质" },
+  { "query": "今日辟谣", "display_query": "今日辟谣" },
   {
     "query": "以前的铁道部算是一个超级大部门吗",
     "display_query": "以前的铁道部算是一个超级大部门吗"

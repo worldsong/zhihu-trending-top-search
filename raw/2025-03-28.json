@@ -1,8 +1,11 @@
 [
-  { "query": "全能型寒潮来袭", "display_query": "全能型寒潮来袭" },
   {
     "query": "你最讨厌微信朋友圈什么行为",
     "display_query": "你最讨厌微信朋友圈什么行为"
+  },
+  {
+    "query": "为什么只有中国饮食没有被西化",
+    "display_query": "为什么只有中国饮食没有被西化"
   },
   {
     "query": "郑钦文0比2不敌萨巴伦卡",
@@ -20,5 +23,6 @@
   { "query": "AWE 未来生活家", "display_query": "AWE 未来生活家" },
   { "query": "卷出新高度的 AI 家电", "display_query": "卷出新高度的 AI 家电" },
   { "query": "看见未来家", "display_query": "看见未来家" },
-  { "query": "让家电回归工具本质", "display_query": "让家电回归工具本质" }
+  { "query": "让家电回归工具本质", "display_query": "让家电回归工具本质" },
+  { "query": "全能型寒潮来袭", "display_query": "全能型寒潮来袭" }
 ]

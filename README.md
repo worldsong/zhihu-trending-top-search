@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 04 2025 21:18:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 04 2025 22:07:57 GMT+0800 (China Standard Time) -->
 
 1. [油价上涨](https://www.zhihu.com/search?q=油价上涨)
 1. [湖人战胜火箭](https://www.zhihu.com/search?q=湖人战胜火箭)

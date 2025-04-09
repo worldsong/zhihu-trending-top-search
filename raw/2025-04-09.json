@@ -1,5 +1,5 @@
 [
-  { "query": "A股", "display_query": "A股" },
+  { "query": "A股三大指数集体低开", "display_query": "A股三大指数集体低开" },
   { "query": "有什么著名的阳谋", "display_query": "有什么著名的阳谋" },
   {
     "query": "中国人玩阳谋到底有多牛",
@@ -10,6 +10,7 @@
     "query": "中年夫妻之间最简单的情话是什么",
     "display_query": "中年夫妻之间最简单的情话是什么"
   },
+  { "query": "美股", "display_query": "美股" },
   {
     "query": "AI 时代下的家电智能化",
     "display_query": "AI 时代下的家电智能化"
@@ -20,5 +21,6 @@
   },
   { "query": "AWE 未来生活家", "display_query": "AWE 未来生活家" },
   { "query": "卷出新高度的 AI 家电", "display_query": "卷出新高度的 AI 家电" },
+  { "query": "A股", "display_query": "A股" },
   { "query": "看见未来家", "display_query": "看见未来家" }
 ]

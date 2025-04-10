@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 10 2025 14:12:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 10 2025 16:11:55 GMT+0800 (China Standard Time) -->
 
+1. [亚马逊推出nova sonic](https://www.zhihu.com/search?q=亚马逊推出nova sonic)
+1. [为什么中国网友对甲亢哥普遍好评](https://www.zhihu.com/search?q=为什么中国网友对甲亢哥普遍好评)
 1. [有什么著名的阳谋](https://www.zhihu.com/search?q=有什么著名的阳谋)
 1. [中国人玩阳谋到底有多牛](https://www.zhihu.com/search?q=中国人玩阳谋到底有多牛)
 1. [中年夫妻之间最简单的情话是什么](https://www.zhihu.com/search?q=中年夫妻之间最简单的情话是什么)

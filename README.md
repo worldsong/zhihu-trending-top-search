@@ -15,12 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 25 2025 18:07:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 25 2025 19:06:32 GMT+0800 (China Standard Time) -->
 
 1. [蔡徐坤新歌](https://www.zhihu.com/search?q=蔡徐坤新歌)
 1. [鹿晗新歌](https://www.zhihu.com/search?q=鹿晗新歌)
 1. [武汉暴雨](https://www.zhihu.com/search?q=武汉暴雨)
 1. [国乒男双无缘四强](https://www.zhihu.com/search?q=国乒男双无缘四强)
+1. [孙颖莎vs王曼昱](https://www.zhihu.com/search?q=孙颖莎vs王曼昱)
 1. [23999元的鸿蒙电脑值得买吗](https://www.zhihu.com/search?q=23999元的鸿蒙电脑值得买吗)
 1. [小米YU7全新配色「宝石绿」亮相](https://www.zhihu.com/search?q=小米YU7全新配色「宝石绿」亮相)
 1. [小米天际屏全景显示亮相](https://www.zhihu.com/search?q=小米天际屏全景显示亮相)

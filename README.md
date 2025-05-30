@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 30 2025 05:08:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 30 2025 11:36:10 GMT+0800 (China Standard Time) -->
 
 1. [最尴尬能有多尴尬](https://www.zhihu.com/search?q=最尴尬能有多尴尬)
 1. [燃油附加费下调](https://www.zhihu.com/search?q=燃油附加费下调)

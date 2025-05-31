@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 30 2025 21:22:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 01 2025 04:08:24 GMT+0800 (China Standard Time) -->
 
-1. [最尴尬能有多尴尬](https://www.zhihu.com/search?q=最尴尬能有多尴尬)
+1. [世界无烟日](https://www.zhihu.com/search?q=世界无烟日)
 1. [燃油附加费下调](https://www.zhihu.com/search?q=燃油附加费下调)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618 洗衣机推荐)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618 家电推荐)
@@ -27,9 +27,6 @@
 1. [能提升幸福感的家居好物](https://www.zhihu.com/search?q=能提升幸福感的家居好物)
 1. [让家充满艺术气息的好物](https://www.zhihu.com/search?q=让家充满艺术气息的好物)
 1. [618 好看的家具推荐](https://www.zhihu.com/search?q=618 好看的家具推荐)
-1. [华熙生物和巨子生物干仗](https://www.zhihu.com/search?q=华熙生物和巨子生物干仗)
-1. [网络树洞倾听者年赚 3 万多](https://www.zhihu.com/search?q=网络树洞倾听者年赚
-   3 万多)
 
 <!-- END -->
 

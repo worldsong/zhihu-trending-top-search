@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 08 2025 14:12:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 09 2025 06:07:35 GMT+0800 (China Standard Time) -->
 
-1. [北京高考作文](https://www.zhihu.com/search?q=北京高考作文)
+1. [高考英语](https://www.zhihu.com/search?q=高考英语)
 1. [国足首发](https://www.zhihu.com/search?q=国足首发)
 1. [长沙暴雨](https://www.zhihu.com/search?q=长沙暴雨)
 1. [如何看待美国识字率只有
@@ -28,7 +28,6 @@
 1. [618 家电推荐](https://www.zhihu.com/search?q=618 家电推荐)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618 价格暴降家电)
 1. [618 护眼灯选购](https://www.zhihu.com/search?q=618 护眼灯选购)
-1. [618 洗烘套装推荐](https://www.zhihu.com/search?q=618 洗烘套装推荐)
 
 <!-- END -->
 

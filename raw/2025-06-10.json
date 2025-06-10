@@ -1,9 +1,12 @@
 [
   {
-    "query": "金庸小说最匪夷所思的是哪一片段",
-    "display_query": "金庸小说最匪夷所思的是哪一片段"
+    "query": "动物园回应长臂猿猴高考不对外展出",
+    "display_query": "动物园回应长臂猿猴高考不对外展出"
   },
-  { "query": "春运", "display_query": "春运" },
+  {
+    "query": "小米 SU7 加入游戏 「GT赛车 7」",
+    "display_query": "小米 SU7 加入游戏 「GT赛车 7」"
+  },
   { "query": "如何评价大冰", "display_query": "如何评价大冰" },
   {
     "query": "娶自己的发小是什么感觉",
@@ -17,5 +20,10 @@
   {
     "query": "能提升幸福感的家居好物",
     "display_query": "能提升幸福感的家居好物"
-  }
+  },
+  {
+    "query": "金庸小说最匪夷所思的是哪一片段",
+    "display_query": "金庸小说最匪夷所思的是哪一片段"
+  },
+  { "query": "春运", "display_query": "春运" }
 ]

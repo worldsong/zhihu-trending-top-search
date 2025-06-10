@@ -15,22 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 10 2025 17:10:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 11 2025 04:10:31 GMT+0800 (China Standard Time) -->
 
-1. [金庸小说最匪夷所思的是哪一片段](https://www.zhihu.com/search?q=金庸小说最匪夷所思的是哪一片段)
-1. [春运](https://www.zhihu.com/search?q=春运)
+1. [高考结束](https://www.zhihu.com/search?q=高考结束)
 1. [如何评价大冰](https://www.zhihu.com/search?q=如何评价大冰)
+1. [国足vs巴林](https://www.zhihu.com/search?q=国足vs巴林)
 1. [体制内着装最忌讳的是什么](https://www.zhihu.com/search?q=体制内着装最忌讳的是什么)
+1. [AL战胜BLG](https://www.zhihu.com/search?q=AL战胜BLG)
 1. [娶自己的发小是什么感觉](https://www.zhihu.com/search?q=娶自己的发小是什么感觉)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618 洗衣机推荐)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618 家电推荐)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618 价格暴降家电)
 1. [618 护眼灯选购](https://www.zhihu.com/search?q=618 护眼灯选购)
-1. [618 洗烘套装推荐](https://www.zhihu.com/search?q=618 洗烘套装推荐)
-1. [动物园回应长臂猿猴高考不对外展出](https://www.zhihu.com/search?q=动物园回应长臂猿猴高考不对外展出)
-1. [小米 SU7 加入游戏 「GT赛车 7」](https://www.zhihu.com/search?q=小米 SU7
-   加入游戏 「GT赛车 7」)
-1. [能提升幸福感的家居好物](https://www.zhihu.com/search?q=能提升幸福感的家居好物)
 
 <!-- END -->
 

@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 13 2025 08:44:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 13 2025 12:17:21 GMT+0800 (China Standard Time) -->
 
 1. [B 站崩了](https://www.zhihu.com/search?q=B 站崩了)
 1. [广东启动防风ⅳ级应急响应](https://www.zhihu.com/search?q=广东启动防风ⅳ级应急响应)

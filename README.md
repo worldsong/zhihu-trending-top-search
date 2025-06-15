@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 15 2025 11:44:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 16 2025 01:06:49 GMT+0800 (China Standard Time) -->
 
-1. [四六级](https://www.zhihu.com/search?q=四六级)
 1. [B站崩了](https://www.zhihu.com/search?q=B站崩了)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618 洗衣机推荐)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618 家电推荐)
@@ -27,6 +26,7 @@
 1. [能提升幸福感的家居好物](https://www.zhihu.com/search?q=能提升幸福感的家居好物)
 1. [让家充满艺术气息的好物](https://www.zhihu.com/search?q=让家充满艺术气息的好物)
 1. [618 好看的家具推荐](https://www.zhihu.com/search?q=618 好看的家具推荐)
+1. [适合懒人入手的做饭好物](https://www.zhihu.com/search?q=适合懒人入手的做饭好物)
 
 <!-- END -->
 

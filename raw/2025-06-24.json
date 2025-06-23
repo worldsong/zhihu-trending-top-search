@@ -1,0 +1,21 @@
+[
+  { "query": "高考查分", "display_query": "高考查分" },
+  { "query": "皇马vs帕丘卡", "display_query": "皇马vs帕丘卡" },
+  { "query": "广州震感", "display_query": "广州震感" },
+  { "query": "步行者vs雷霆", "display_query": "步行者vs雷霆" },
+  { "query": "蔡依林新专辑pleasure", "display_query": "蔡依林新专辑pleasure" },
+  { "query": "雷霆vs步行者", "display_query": "雷霆vs步行者" },
+  {
+    "query": "哪吒汽车正式被申请破产",
+    "display_query": "哪吒汽车正式被申请破产"
+  },
+  {
+    "query": "Labubu大量补货造成二手价格腰斩",
+    "display_query": "Labubu大量补货造成二手价格腰斩"
+  },
+  {
+    "query": "余承东称鸿蒙开发者突破 800 万",
+    "display_query": "余承东称鸿蒙开发者突破 800 万"
+  },
+  { "query": "宇树完成C轮融资交割", "display_query": "宇树完成C轮融资交割" }
+]

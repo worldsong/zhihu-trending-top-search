@@ -1,4 +1,5 @@
 [
+  { "query": "成都地震", "display_query": "成都地震" },
   { "query": "高考查分", "display_query": "高考查分" },
   { "query": "皇马vs帕丘卡", "display_query": "皇马vs帕丘卡" },
   { "query": "广州震感", "display_query": "广州震感" },

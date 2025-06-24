@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 24 2025 03:07:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 24 2025 10:40:59 GMT+0800 (China Standard Time) -->
 
+1. [成都地震](https://www.zhihu.com/search?q=成都地震)
 1. [高考查分](https://www.zhihu.com/search?q=高考查分)
 1. [皇马vs帕丘卡](https://www.zhihu.com/search?q=皇马vs帕丘卡)
 1. [广州震感](https://www.zhihu.com/search?q=广州震感)

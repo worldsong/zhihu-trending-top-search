@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 24 2025 10:40:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 24 2025 11:41:52 GMT+0800 (China Standard Time) -->
 
 1. [成都地震](https://www.zhihu.com/search?q=成都地震)
 1. [高考查分](https://www.zhihu.com/search?q=高考查分)
@@ -25,10 +25,10 @@
 1. [蔡依林新专辑pleasure](https://www.zhihu.com/search?q=蔡依林新专辑pleasure)
 1. [雷霆vs步行者](https://www.zhihu.com/search?q=雷霆vs步行者)
 1. [哪吒汽车正式被申请破产](https://www.zhihu.com/search?q=哪吒汽车正式被申请破产)
-1. [Labubu大量补货造成二手价格腰斩](https://www.zhihu.com/search?q=Labubu大量补货造成二手价格腰斩)
 1. [余承东称鸿蒙开发者突破 800
    万](https://www.zhihu.com/search?q=余承东称鸿蒙开发者突破 800 万)
 1. [宇树完成C轮融资交割](https://www.zhihu.com/search?q=宇树完成C轮融资交割)
+1. [Labubu大量补货造成二手价格腰斩](https://www.zhihu.com/search?q=Labubu大量补货造成二手价格腰斩)
 
 <!-- END -->
 

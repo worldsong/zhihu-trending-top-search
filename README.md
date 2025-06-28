@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jun 28 2025 17:08:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jun 28 2025 18:08:32 GMT+0800 (China Standard Time) -->
 
 1. [高考失利怎么办](https://www.zhihu.com/search?q=高考失利怎么办)
 1. [高考失利](https://www.zhihu.com/search?q=高考失利)

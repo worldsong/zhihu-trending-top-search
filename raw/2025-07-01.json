@@ -1,5 +1,4 @@
 [
-  { "query": "充电宝", "display_query": "充电宝" },
   { "query": "高考查分", "display_query": "高考查分" },
   { "query": "A 股上半年收官", "display_query": "A 股上半年收官" },
   { "query": "全国高考成绩陆续公布", "display_query": "全国高考成绩陆续公布" },
@@ -7,15 +6,19 @@
   { "query": "广东高考出分", "display_query": "广东高考出分" },
   { "query": "一分一段表", "display_query": "一分一段表" },
   {
+    "query": "中国记者遭乌无人机袭击受伤",
+    "display_query": "中国记者遭乌无人机袭击受伤"
+  },
+  { "query": "我家这样过夏天", "display_query": "我家这样过夏天" },
+  { "query": "2025 清凉智选季", "display_query": "2025 清凉智选季" },
+  { "query": "我的清凉家", "display_query": "我的清凉家" },
+  { "query": "充电宝", "display_query": "充电宝" },
+  {
     "query": "禁止携无 3C 标识及被召回充电宝乘境内航班",
     "display_query": "禁止携无 3C 标识及被召回充电宝乘境内航班"
   },
   {
     "query": "「京东外卖」小范围测试骑手帮扔垃圾服务",
     "display_query": "「京东外卖」小范围测试骑手帮扔垃圾服务"
-  },
-  {
-    "query": "中国记者遭乌无人机袭击受伤",
-    "display_query": "中国记者遭乌无人机袭击受伤"
   }
 ]

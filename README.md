@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 01 2025 20:17:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 02 2025 02:12:30 GMT+0800 (China Standard Time) -->
 
 1. [建党节](https://www.zhihu.com/search?q=建党节)
 1. [尊界s800](https://www.zhihu.com/search?q=尊界s800)
@@ -27,17 +27,6 @@
 1. [我的清凉家](https://www.zhihu.com/search?q=我的清凉家)
 1. [消暑家电选购清单](https://www.zhihu.com/search?q=消暑家电选购清单)
 1. [不靠心静靠硬实力](https://www.zhihu.com/search?q=不靠心静靠硬实力)
-1. [高考查分](https://www.zhihu.com/search?q=高考查分)
-1. [A 股上半年收官](https://www.zhihu.com/search?q=A 股上半年收官)
-1. [全国高考成绩陆续公布](https://www.zhihu.com/search?q=全国高考成绩陆续公布)
-1. [2025广东高考分数线](https://www.zhihu.com/search?q=2025广东高考分数线)
-1. [广东高考出分](https://www.zhihu.com/search?q=广东高考出分)
-1. [中国记者遭乌无人机袭击受伤](https://www.zhihu.com/search?q=中国记者遭乌无人机袭击受伤)
-1. [充电宝](https://www.zhihu.com/search?q=充电宝)
-1. [禁止携无 3C
-   标识及被召回充电宝乘境内航班](https://www.zhihu.com/search?q=禁止携无 3C
-   标识及被召回充电宝乘境内航班)
-1. [「京东外卖」小范围测试骑手帮扔垃圾服务](https://www.zhihu.com/search?q=「京东外卖」小范围测试骑手帮扔垃圾服务)
 
 <!-- END -->
 

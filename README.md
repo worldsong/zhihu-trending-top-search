@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 11 2025 21:25:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 12 2025 01:09:44 GMT+0800 (China Standard Time) -->
 
 1. [成都暴雨](https://www.zhihu.com/search?q=成都暴雨)
 1. [GEN击败T1](https://www.zhihu.com/search?q=GEN击败T1)

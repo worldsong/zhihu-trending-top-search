@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 18 2025 19:08:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 18 2025 20:18:17 GMT+0800 (China Standard Time) -->
 
 1. [薛之谦新歌](https://www.zhihu.com/search?q=薛之谦新歌)
 1. [说说你身边最震惊你的八卦](https://www.zhihu.com/search?q=说说你身边最震惊你的八卦)

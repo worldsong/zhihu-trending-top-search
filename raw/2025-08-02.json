@@ -13,15 +13,26 @@
     "display_query": "一个演员的演技能好到什么程度"
   },
   { "query": "南京照相馆票房", "display_query": "南京照相馆票房" },
-  {
-    "query": "邝兆镭加盟西协乙莱里达体育",
-    "display_query": "邝兆镭加盟西协乙莱里达体育"
-  },
-  { "query": "城市小剧场爆火", "display_query": "城市小剧场爆火" },
   { "query": "索尼起诉腾讯新游抄袭", "display_query": "索尼起诉腾讯新游抄袭" },
   {
     "query": "一超市多名顾客强行开榴莲试吃",
     "display_query": "一超市多名顾客强行开榴莲试吃"
   },
-  { "query": "哀牢山发现7株冥界之花", "display_query": "哀牢山发现7株冥界之花" }
+  {
+    "query": "哀牢山发现7株冥界之花",
+    "display_query": "哀牢山发现7株冥界之花"
+  },
+  {
+    "query": "武大杨景媛毕业论文被疑用AIGC完成",
+    "display_query": "武大杨景媛毕业论文被疑用AIGC完成"
+  },
+  {
+    "query": "答主发杨景媛论文造假视频被上门警告",
+    "display_query": "答主发杨景媛论文造假视频被上门警告"
+  },
+  {
+    "query": "邝兆镭加盟西协乙莱里达体育",
+    "display_query": "邝兆镭加盟西协乙莱里达体育"
+  },
+  { "query": "城市小剧场爆火", "display_query": "城市小剧场爆火" }
 ]

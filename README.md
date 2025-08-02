@@ -15,18 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 02 2025 01:12:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 02 2025 16:11:35 GMT+0800 (China Standard Time) -->
 
 1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=哪句话让你突然沉默了很久)
 1. [陈芋汐10米台冠军](https://www.zhihu.com/search?q=陈芋汐10米台冠军)
 1. [8月起这些新规开始施行](https://www.zhihu.com/search?q=8月起这些新规开始施行)
 1. [一个演员的演技能好到什么程度](https://www.zhihu.com/search?q=一个演员的演技能好到什么程度)
 1. [南京照相馆票房](https://www.zhihu.com/search?q=南京照相馆票房)
-1. [邝兆镭加盟西协乙莱里达体育](https://www.zhihu.com/search?q=邝兆镭加盟西协乙莱里达体育)
-1. [城市小剧场爆火](https://www.zhihu.com/search?q=城市小剧场爆火)
 1. [索尼起诉腾讯新游抄袭](https://www.zhihu.com/search?q=索尼起诉腾讯新游抄袭)
 1. [一超市多名顾客强行开榴莲试吃](https://www.zhihu.com/search?q=一超市多名顾客强行开榴莲试吃)
 1. [哀牢山发现7株冥界之花](https://www.zhihu.com/search?q=哀牢山发现7株冥界之花)
+1. [武大杨景媛毕业论文被疑用AIGC完成](https://www.zhihu.com/search?q=武大杨景媛毕业论文被疑用AIGC完成)
+1. [答主发杨景媛论文造假视频被上门警告](https://www.zhihu.com/search?q=答主发杨景媛论文造假视频被上门警告)
+1. [邝兆镭加盟西协乙莱里达体育](https://www.zhihu.com/search?q=邝兆镭加盟西协乙莱里达体育)
+1. [城市小剧场爆火](https://www.zhihu.com/search?q=城市小剧场爆火)
 
 <!-- END -->
 

@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 07 2025 04:10:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 07 2025 10:56:13 GMT+0800 (China Standard Time) -->
 
-1. [什么叫演戏用力过猛](https://www.zhihu.com/search?q=什么叫演戏用力过猛)
-1. [男女力量差距真的那么大么](https://www.zhihu.com/search?q=男女力量差距真的那么大么)
+1. [ChatGPT 周活跃用户将达 7 亿](https://www.zhihu.com/search?q=ChatGPT
+   周活跃用户将达 7 亿)
+1. [为什么好多人喜欢飞机刚停稳就站起来](https://www.zhihu.com/search?q=为什么好多人喜欢飞机刚停稳就站起来)
 1. [逐步推行免费学前教育](https://www.zhihu.com/search?q=逐步推行免费学前教育)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=人的大脑会不会出现「过拟合」病)
 1. [你卡过最厉害的 bug 是什么](https://www.zhihu.com/search?q=你卡过最厉害的 bug
@@ -29,6 +30,8 @@
 1. [亮证女司机为何知道男子信息](https://www.zhihu.com/search?q=亮证女司机为何知道男子信息)
 1. [如何解读司机射钢珠致 4
    人受伤](https://www.zhihu.com/search?q=如何解读司机射钢珠致 4 人受伤)
+1. [什么叫演戏用力过猛](https://www.zhihu.com/search?q=什么叫演戏用力过猛)
+1. [男女力量差距真的那么大么](https://www.zhihu.com/search?q=男女力量差距真的那么大么)
 
 <!-- END -->
 

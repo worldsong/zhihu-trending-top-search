@@ -1,8 +1,11 @@
 [
-  { "query": "什么叫演戏用力过猛", "display_query": "什么叫演戏用力过猛" },
   {
-    "query": "男女力量差距真的那么大么",
-    "display_query": "男女力量差距真的那么大么"
+    "query": "ChatGPT 周活跃用户将达 7 亿",
+    "display_query": "ChatGPT 周活跃用户将达 7 亿"
+  },
+  {
+    "query": "为什么好多人喜欢飞机刚停稳就站起来",
+    "display_query": "为什么好多人喜欢飞机刚停稳就站起来"
   },
   { "query": "逐步推行免费学前教育", "display_query": "逐步推行免费学前教育" },
   {
@@ -29,5 +32,10 @@
   {
     "query": "如何解读司机射钢珠致 4 人受伤",
     "display_query": "如何解读司机射钢珠致 4 人受伤"
+  },
+  { "query": "什么叫演戏用力过猛", "display_query": "什么叫演戏用力过猛" },
+  {
+    "query": "男女力量差距真的那么大么",
+    "display_query": "男女力量差距真的那么大么"
   }
 ]

@@ -15,13 +15,18 @@
   },
   { "query": "兰坎获成都世运会首金", "display_query": "兰坎获成都世运会首金" },
   {
-    "query": "Alin彭佳慧合唱《伤痕》",
-    "display_query": "Alin彭佳慧合唱《伤痕》"
-  },
-  { "query": "杭州余杭自来水发黄", "display_query": "杭州余杭自来水发黄" },
-  {
     "query": "一医院禁止规培生进职工餐厅吃饭",
     "display_query": "一医院禁止规培生进职工餐厅吃饭"
   },
-  { "query": "徐杰被曝出轨", "display_query": "徐杰被曝出轨" }
+  { "query": "徐杰被曝出轨", "display_query": "徐杰被曝出轨" },
+  {
+    "query": "云南大理一7岁小孩在苍山走失",
+    "display_query": "云南大理一7岁小孩在苍山走失"
+  },
+  { "query": "OpenAI重新上线GPT4o", "display_query": "OpenAI重新上线GPT4o" },
+  {
+    "query": "Alin彭佳慧合唱《伤痕》",
+    "display_query": "Alin彭佳慧合唱《伤痕》"
+  },
+  { "query": "杭州余杭自来水发黄", "display_query": "杭州余杭自来水发黄" }
 ]

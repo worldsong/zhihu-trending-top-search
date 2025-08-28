@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 29 2025 02:12:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 29 2025 05:07:48 GMT+0800 (China Standard Time) -->
 
 1. [北京强降雨](https://www.zhihu.com/search?q=北京强降雨)
 1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=为什么老一辈人厌恶游戏)

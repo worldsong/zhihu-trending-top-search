@@ -1,9 +1,4 @@
 [
-  { "query": "北京强降雨", "display_query": "北京强降雨" },
-  {
-    "query": "为什么老一辈人厌恶游戏",
-    "display_query": "为什么老一辈人厌恶游戏"
-  },
   {
     "query": "我国成功发射卫星互联网低轨卫星",
     "display_query": "我国成功发射卫星互联网低轨卫星"
@@ -12,6 +7,7 @@
     "query": "你去过最离谱的景区是什么",
     "display_query": "你去过最离谱的景区是什么"
   },
+  { "query": "欧冠抽签", "display_query": "欧冠抽签" },
   {
     "query": "人的大脑会不会出现「过拟合」病",
     "display_query": "人的大脑会不会出现「过拟合」病"
@@ -33,5 +29,11 @@
     "display_query": "美团订单被曝退款未到账"
   },
   { "query": "老潘财商 虞书欣", "display_query": "老潘财商 虞书欣" },
+  { "query": "小众丑菜越来越多", "display_query": "小众丑菜越来越多" },
+  { "query": "北京强降雨", "display_query": "北京强降雨" },
+  {
+    "query": "为什么老一辈人厌恶游戏",
+    "display_query": "为什么老一辈人厌恶游戏"
+  },
   { "query": "星舰第 10 次试飞", "display_query": "星舰第 10 次试飞" }
 ]

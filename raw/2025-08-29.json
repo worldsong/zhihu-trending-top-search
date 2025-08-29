@@ -28,9 +28,10 @@
     "query": " LV 口红首发中国 1200元 一支",
     "display_query": " LV 口红首发中国 1200元 一支"
   },
-  { "query": "星舰第 10 次试飞", "display_query": "星舰第 10 次试飞" },
   {
     "query": "美团订单被曝退款未到账",
     "display_query": "美团订单被曝退款未到账"
-  }
+  },
+  { "query": "老潘财商 虞书欣", "display_query": "老潘财商 虞书欣" },
+  { "query": "星舰第 10 次试飞", "display_query": "星舰第 10 次试飞" }
 ]

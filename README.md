@@ -15,17 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 31 2025 10:23:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 31 2025 20:14:37 GMT+0800 (China Standard Time) -->
 
 1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=你去过最离谱的景区是什么)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=人的大脑会不会出现「过拟合」病)
 1. [一个人可以蠢到什么程度](https://www.zhihu.com/search?q=一个人可以蠢到什么程度)
 1. [体制内你见到最狠的是什么样](https://www.zhihu.com/search?q=体制内你见到最狠的是什么样)
-1. [老潘财商 虞书欣](https://www.zhihu.com/search?q=老潘财商 虞书欣)
-1. [日本呼吁各国不要参加九三阅兵](https://www.zhihu.com/search?q=日本呼吁各国不要参加九三阅兵)
 1. [《三体》重构了什么样的宇宙](https://www.zhihu.com/search?q=《三体》重构了什么样的宇宙)
 1. [谷歌正式发布nano banana模型](https://www.zhihu.com/search?q=谷歌正式发布nano
    banana模型)
+1. [为啥西瓜这么好成活](https://www.zhihu.com/search?q=为啥西瓜这么好成活)
+1. [成都车展 8 大豪华品牌集体缺席](https://www.zhihu.com/search?q=成都车展 8
+   大豪华品牌集体缺席)
+1. [老漂族吐槽自己是「不花钱保姆」](https://www.zhihu.com/search?q=老漂族吐槽自己是「不花钱保姆」)
+1. [上海一条百万元的龙鱼做手术修眼](https://www.zhihu.com/search?q=上海一条百万元的龙鱼做手术修眼)
+1. [老潘财商 虞书欣](https://www.zhihu.com/search?q=老潘财商 虞书欣)
+1. [日本呼吁各国不要参加九三阅兵](https://www.zhihu.com/search?q=日本呼吁各国不要参加九三阅兵)
 1. [SpaceX星舰第十次试飞圆满结束](https://www.zhihu.com/search?q=SpaceX星舰第十次试飞圆满结束)
 1. [罕见天象血月将现身](https://www.zhihu.com/search?q=罕见天象血月将现身)
 

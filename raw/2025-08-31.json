@@ -15,11 +15,6 @@
     "query": "体制内你见到最狠的是什么样",
     "display_query": "体制内你见到最狠的是什么样"
   },
-  { "query": "老潘财商 虞书欣", "display_query": "老潘财商 虞书欣" },
-  {
-    "query": "日本呼吁各国不要参加九三阅兵",
-    "display_query": "日本呼吁各国不要参加九三阅兵"
-  },
   {
     "query": "《三体》重构了什么样的宇宙",
     "display_query": "《三体》重构了什么样的宇宙"
@@ -27,6 +22,24 @@
   {
     "query": "谷歌正式发布nano banana模型",
     "display_query": "谷歌正式发布nano banana模型"
+  },
+  { "query": "为啥西瓜这么好成活", "display_query": "为啥西瓜这么好成活" },
+  {
+    "query": "成都车展 8 大豪华品牌集体缺席",
+    "display_query": "成都车展 8 大豪华品牌集体缺席"
+  },
+  {
+    "query": "老漂族吐槽自己是「不花钱保姆」",
+    "display_query": "老漂族吐槽自己是「不花钱保姆」"
+  },
+  {
+    "query": "上海一条百万元的龙鱼做手术修眼",
+    "display_query": "上海一条百万元的龙鱼做手术修眼"
+  },
+  { "query": "老潘财商 虞书欣", "display_query": "老潘财商 虞书欣" },
+  {
+    "query": "日本呼吁各国不要参加九三阅兵",
+    "display_query": "日本呼吁各国不要参加九三阅兵"
   },
   {
     "query": "SpaceX星舰第十次试飞圆满结束",

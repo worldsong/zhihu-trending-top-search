@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 31 2025 20:14:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 31 2025 22:06:40 GMT+0800 (China Standard Time) -->
 
+1. [王楚钦2比3徐瑛彬](https://www.zhihu.com/search?q=王楚钦2比3徐瑛彬)
 1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=你去过最离谱的景区是什么)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=人的大脑会不会出现「过拟合」病)
 1. [一个人可以蠢到什么程度](https://www.zhihu.com/search?q=一个人可以蠢到什么程度)

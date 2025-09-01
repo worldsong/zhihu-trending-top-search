@@ -15,12 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 01 2025 06:07:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 01 2025 18:10:32 GMT+0800 (China Standard Time) -->
 
 1. [王楚钦2比3徐瑛彬](https://www.zhihu.com/search?q=王楚钦2比3徐瑛彬)
+1. [为什么父母会把两三万的学费非常当回事](https://www.zhihu.com/search?q=为什么父母会把两三万的学费非常当回事)
+1. [长的漂亮真的很有优势吗](https://www.zhihu.com/search?q=长的漂亮真的很有优势吗)
 1. [《三体》重构了什么样的宇宙](https://www.zhihu.com/search?q=《三体》重构了什么样的宇宙)
-1. [东思嘉 南京大学](https://www.zhihu.com/search?q=东思嘉 南京大学)
-1. [网传南京大学青年教师东思嘉离世](https://www.zhihu.com/search?q=网传南京大学青年教师东思嘉离世)
 1. [安徽最大蝗虫现身合肥](https://www.zhihu.com/search?q=安徽最大蝗虫现身合肥)
 1. [蜜雪冰城回应网友玩梗「蜜鼠冰城」](https://www.zhihu.com/search?q=蜜雪冰城回应网友玩梗「蜜鼠冰城」)
 1. [家长建议禁止学生带电话手表上学](https://www.zhihu.com/search?q=家长建议禁止学生带电话手表上学)
@@ -28,6 +28,8 @@
    元去讲 PPT)
 1. [你对泰勒·斯威夫特订婚有哪些祝福](https://www.zhihu.com/search?q=你对泰勒·斯威夫特订婚有哪些祝福)
 1. [网红过沙漠刀锋车辆侧翻身亡](https://www.zhihu.com/search?q=网红过沙漠刀锋车辆侧翻身亡)
+1. [东思嘉 南京大学](https://www.zhihu.com/search?q=东思嘉 南京大学)
+1. [网传南京大学青年教师东思嘉离世](https://www.zhihu.com/search?q=网传南京大学青年教师东思嘉离世)
 
 <!-- END -->
 

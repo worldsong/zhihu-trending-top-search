@@ -15,16 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 12 2025 03:03:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 12 2025 22:08:00 GMT+0800 (China Standard Time) -->
 
-1. [河南暴雨](https://www.zhihu.com/search?q=河南暴雨)
 1. [为什么要实行薪酬保密](https://www.zhihu.com/search?q=为什么要实行薪酬保密)
 1. [老师怎么看出来作文是抄的](https://www.zhihu.com/search?q=老师怎么看出来作文是抄的)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=你的学校发生过最扯的事是什么)
 1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=中国有多少城市能撑起来七日游)
-1. [郑州暴雨](https://www.zhihu.com/search?q=郑州暴雨)
 1. [你听过最野的野史有多野](https://www.zhihu.com/search?q=你听过最野的野史有多野)
+1. [买了小米SU7的人现在怎么样了](https://www.zhihu.com/search?q=买了小米SU7的人现在怎么样了)
+1. [面相长的凶是什么体验](https://www.zhihu.com/search?q=面相长的凶是什么体验)
+1. [你能容忍小朋友跪在地上玩吗](https://www.zhihu.com/search?q=你能容忍小朋友跪在地上玩吗)
+1. [为什么枯山水在中国不流行](https://www.zhihu.com/search?q=为什么枯山水在中国不流行)
+1. [河南暴雨](https://www.zhihu.com/search?q=河南暴雨)
+1. [郑州暴雨](https://www.zhihu.com/search?q=郑州暴雨)
 1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=你见过哪些不动声色的善良)
 1. [孩子为什么越大越不愿意跟我们说话](https://www.zhihu.com/search?q=孩子为什么越大越不愿意跟我们说话)
 

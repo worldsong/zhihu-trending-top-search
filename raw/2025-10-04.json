@@ -1,4 +1,5 @@
 [
+  { "query": "王楚钦孙颖莎混双夺冠", "display_query": "王楚钦孙颖莎混双夺冠" },
   { "query": "霉霉新专", "display_query": "霉霉新专" },
   {
     "query": "你什么时候意识到自己没见过世面",
@@ -8,6 +9,8 @@
     "query": "电车贬值整体幅度为什么比油车贬值更大",
     "display_query": "电车贬值整体幅度为什么比油车贬值更大"
   },
+  { "query": "孙颖莎vs陈幸同", "display_query": "孙颖莎vs陈幸同" },
+  { "query": "台风红色预警发布", "display_query": "台风红色预警发布" },
   {
     "query": "王楚钦孙颖莎晋级混双决赛",
     "display_query": "王楚钦孙颖莎晋级混双决赛"

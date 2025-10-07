@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 07 2025 13:08:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 07 2025 15:09:15 GMT+0800 (China Standard Time) -->
 
 1. [诺贝尔生理学或医学奖揭晓](https://www.zhihu.com/search?q=诺贝尔生理学或医学奖揭晓)
 1. [太阳vs湖人](https://www.zhihu.com/search?q=太阳vs湖人)

@@ -1,9 +1,9 @@
 [
+  { "query": "世界粮食日", "display_query": "世界粮食日" },
   {
-    "query": "c罗独享世预赛射手王荣耀",
-    "display_query": "c罗独享世预赛射手王荣耀"
+    "query": "哪一刻让你终于意识到了这就是命",
+    "display_query": "哪一刻让你终于意识到了这就是命"
   },
-  { "query": "固态电池新突破", "display_query": "固态电池新突破" },
   {
     "query": "人的意识究竟是怎么产生的",
     "display_query": "人的意识究竟是怎么产生的"
@@ -32,5 +32,10 @@
   {
     "query": "孩子出生当天你发了什么朋友圈",
     "display_query": "孩子出生当天你发了什么朋友圈"
-  }
+  },
+  {
+    "query": "c罗独享世预赛射手王荣耀",
+    "display_query": "c罗独享世预赛射手王荣耀"
+  },
+  { "query": "固态电池新突破", "display_query": "固态电池新突破" }
 ]

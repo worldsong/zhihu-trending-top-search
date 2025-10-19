@@ -1,4 +1,6 @@
 [
+  { "query": "A股", "display_query": "A股" },
+  { "query": "世界粮食日", "display_query": "世界粮食日" },
   {
     "query": "为什么有些人的预判能力这么强",
     "display_query": "为什么有些人的预判能力这么强"
@@ -32,7 +34,5 @@
   {
     "query": "人到中年除了钱还有什么最重要",
     "display_query": "人到中年除了钱还有什么最重要"
-  },
-  { "query": "A股", "display_query": "A股" },
-  { "query": "世界粮食日", "display_query": "世界粮食日" }
+  }
 ]

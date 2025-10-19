@@ -15,10 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 19 2025 08:47:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 19 2025 10:29:05 GMT+0800 (China Standard Time) -->
 
-1. [A股](https://www.zhihu.com/search?q=A股)
-1. [世界粮食日](https://www.zhihu.com/search?q=世界粮食日)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [为什么优秀员工往往最先离职](https://www.zhihu.com/search?q=为什么优秀员工往往最先离职)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
@@ -27,6 +25,10 @@
 1. [如何用最少的钱打扮自己](https://www.zhihu.com/search?q=如何用最少的钱打扮自己)
 1. [AL对战GEN](https://www.zhihu.com/search?q=AL对战GEN)
 1. [德国的工业已经退到什么地步了](https://www.zhihu.com/search?q=德国的工业已经退到什么地步了)
+1. [如何评价《战地6》](https://www.zhihu.com/search?q=如何评价《战地6》)
+1. [人到中年除了钱还有什么最重要](https://www.zhihu.com/search?q=人到中年除了钱还有什么最重要)
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [世界粮食日](https://www.zhihu.com/search?q=世界粮食日)
 
 <!-- END -->
 

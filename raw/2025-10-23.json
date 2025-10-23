@@ -1,6 +1,12 @@
 [
-  { "query": "今日霜降", "display_query": "今日霜降" },
-  { "query": "蔚来李斌内部讲话流出", "display_query": "蔚来李斌内部讲话流出" },
+  {
+    "query": "如何将算法翻译成verilog代码",
+    "display_query": "如何将算法翻译成verilog代码"
+  },
+  {
+    "query": "金价大跌有人一夜亏5万",
+    "display_query": "金价大跌有人一夜亏5万"
+  },
   { "query": "什么叫中国人的浪漫", "display_query": "什么叫中国人的浪漫" },
   {
     "query": "被查房时怎么证明是情侣关系",
@@ -21,6 +27,8 @@
   { "query": "GEN对战TES", "display_query": "GEN对战TES" },
   { "query": "王源演唱会", "display_query": "王源演唱会" },
   { "query": "杨和苏 Asen", "display_query": "杨和苏 Asen" },
+  { "query": "今日霜降", "display_query": "今日霜降" },
+  { "query": "蔚来李斌内部讲话流出", "display_query": "蔚来李斌内部讲话流出" },
   {
     "query": "常年独居的人靠什么抵抗孤独",
     "display_query": "常年独居的人靠什么抵抗孤独"

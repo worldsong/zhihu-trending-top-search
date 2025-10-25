@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 25 2025 13:08:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 25 2025 14:11:42 GMT+0800 (China Standard Time) -->
 
-1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=你对什么食物是无法接受的)
-1. [被查房时怎么证明是情侣关系](https://www.zhihu.com/search?q=被查房时怎么证明是情侣关系)
+1. [红米K90测评](https://www.zhihu.com/search?q=红米K90测评)
+1. [男童喝珍珠奶茶窒息身亡](https://www.zhihu.com/search?q=男童喝珍珠奶茶窒息身亡)
 1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=中国有多少城市能撑起来七日游)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=常年独居的人靠什么抵抗孤独)
@@ -27,6 +27,8 @@
 1. [你心目中排名第一的饮料是什么](https://www.zhihu.com/search?q=你心目中排名第一的饮料是什么)
 1. [大家提升自己最快的方式是什么](https://www.zhihu.com/search?q=大家提升自己最快的方式是什么)
 1. [德国的工业已经退到什么地步了](https://www.zhihu.com/search?q=德国的工业已经退到什么地步了)
+1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=你对什么食物是无法接受的)
+1. [被查房时怎么证明是情侣关系](https://www.zhihu.com/search?q=被查房时怎么证明是情侣关系)
 1. [lv大衣被指撞衫一中学校服](https://www.zhihu.com/search?q=lv大衣被指撞衫一中学校服)
 1. [阿里通义千问拿下爱彼迎](https://www.zhihu.com/search?q=阿里通义千问拿下爱彼迎)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)

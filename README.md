@@ -15,16 +15,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 27 2025 10:42:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 27 2025 11:44:17 GMT+0800 (China Standard Time) -->
 
-1. [云南房子被外地人买爆](https://www.zhihu.com/search?q=云南房子被外地人买爆)
-1. [阿里通义千问拿下爱彼迎](https://www.zhihu.com/search?q=阿里通义千问拿下爱彼迎)
+1. [日本新型H3火箭发射升空](https://www.zhihu.com/search?q=日本新型H3火箭发射升空)
+1. [印度被曝正仿制中国霹雳-15
+   导弹](https://www.zhihu.com/search?q=印度被曝正仿制中国霹雳-15 导弹)
+1. [有球迷建议杨瀚森去发展联盟锻炼](https://www.zhihu.com/search?q=有球迷建议杨瀚森去发展联盟锻炼)
+1. [编剧芦苇拒绝《封神三部曲》损失2100万](https://www.zhihu.com/search?q=编剧芦苇拒绝《封神三部曲》损失2100万)
 1. [王自如自曝负债 1 个亿](https://www.zhihu.com/search?q=王自如自曝负债 1 个亿)
 1. [CS2更新](https://www.zhihu.com/search?q=CS2更新)
 1. [我国成功研制出新型芯片](https://www.zhihu.com/search?q=我国成功研制出新型芯片)
 1. [CSGO游戏更新导致游戏外市场崩溃](https://www.zhihu.com/search?q=CSGO游戏更新导致游戏外市场崩溃)
 1. [逃离鸭科夫为何受欢迎](https://www.zhihu.com/search?q=逃离鸭科夫为何受欢迎)
 1. [教育部：不得以考试成绩对学生进行排名](https://www.zhihu.com/search?q=教育部：不得以考试成绩对学生进行排名)
+1. [云南房子被外地人买爆](https://www.zhihu.com/search?q=云南房子被外地人买爆)
+1. [阿里通义千问拿下爱彼迎](https://www.zhihu.com/search?q=阿里通义千问拿下爱彼迎)
 1. [年轻人玩剧本杀寻找完美恋人](https://www.zhihu.com/search?q=年轻人玩剧本杀寻找完美恋人)
 1. [《喜人奇妙夜》第二季第五期](https://www.zhihu.com/search?q=《喜人奇妙夜》第二季第五期)
 1. [日本地震](https://www.zhihu.com/search?q=日本地震)

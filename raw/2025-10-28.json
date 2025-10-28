@@ -1,6 +1,10 @@
 [
-  { "query": "张杰青岛演唱会的排面", "display_query": "张杰青岛演唱会的排面" },
-  { "query": "黄金还能不能跌回900", "display_query": "黄金还能不能跌回900" },
+  { "query": "阿斯顿维拉1比0曼城", "display_query": "阿斯顿维拉1比0曼城" },
+  {
+    "query": "中年男人最大的悲哀是什么",
+    "display_query": "中年男人最大的悲哀是什么"
+  },
+  { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" },
   { "query": "皇马vs巴萨", "display_query": "皇马vs巴萨" },
   {
     "query": "常年独居的人靠什么抵抗孤独",
@@ -15,12 +19,16 @@
     "query": "现在的大学生到底是什么状态",
     "display_query": "现在的大学生到底是什么状态"
   },
+  {
+    "query": "为什么都说人生的容错率大到无法想象",
+    "display_query": "为什么都说人生的容错率大到无法想象"
+  },
   { "query": "人真的一定要上班吗", "display_query": "人真的一定要上班吗" },
+  { "query": "张杰青岛演唱会的排面", "display_query": "张杰青岛演唱会的排面" },
+  { "query": "黄金还能不能跌回900", "display_query": "黄金还能不能跌回900" },
   { "query": "有什么震惊了你的名言", "display_query": "有什么震惊了你的名言" },
   {
     "query": "你心目中排名第一的饮料是什么",
     "display_query": "你心目中排名第一的饮料是什么"
-  },
-  { "query": "阿斯顿维拉1比0曼城", "display_query": "阿斯顿维拉1比0曼城" },
-  { "query": "照骗能骗到什么程度", "display_query": "照骗能骗到什么程度" }
+  }
 ]

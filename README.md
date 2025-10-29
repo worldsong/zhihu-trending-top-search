@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 29 2025 08:44:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 29 2025 10:27:32 GMT+0800 (China Standard Time) -->
 
-1. [世界动画日](https://www.zhihu.com/search?q=世界动画日)
+1. [杨紫玉兰花开君再来人设](https://www.zhihu.com/search?q=杨紫玉兰花开君再来人设)
 1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=你对什么食物是无法接受的)
 1. [中年男人最大的悲哀是什么](https://www.zhihu.com/search?q=中年男人最大的悲哀是什么)
 1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=照骗能骗到什么程度)
@@ -27,6 +27,7 @@
 1. [现在的大学生到底是什么状态](https://www.zhihu.com/search?q=现在的大学生到底是什么状态)
 1. [为什么都说人生的容错率大到无法想象](https://www.zhihu.com/search?q=为什么都说人生的容错率大到无法想象)
 1. [从哪些方面可以看出钱不好赚了](https://www.zhihu.com/search?q=从哪些方面可以看出钱不好赚了)
+1. [世界动画日](https://www.zhihu.com/search?q=世界动画日)
 
 <!-- END -->
 

@@ -1,6 +1,9 @@
 [
-  { "query": "重阳节", "display_query": "重阳节" },
-  { "query": "今日重阳", "display_query": "今日重阳" },
+  {
+    "query": "穿不了高领衣服原来是一种病",
+    "display_query": "穿不了高领衣服原来是一种病"
+  },
+  { "query": "Uber计划投资小马智行", "display_query": "Uber计划投资小马智行" },
   { "query": "ELLE红毯", "display_query": "ELLE红毯" },
   { "query": "快船vs勇士", "display_query": "快船vs勇士" },
   { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
@@ -18,6 +21,8 @@
     "query": "有什么骇人听闻的真实案件",
     "display_query": "有什么骇人听闻的真实案件"
   },
+  { "query": "重阳节", "display_query": "重阳节" },
+  { "query": "今日重阳", "display_query": "今日重阳" },
   { "query": "WTA总决赛抽签", "display_query": "WTA总决赛抽签" },
   {
     "query": "你因为什么而打赏过骑手",

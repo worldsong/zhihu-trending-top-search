@@ -1,9 +1,5 @@
 [
-  {
-    "query": "外媒称美国做好对委内瑞拉动武准备",
-    "display_query": "外媒称美国做好对委内瑞拉动武准备"
-  },
-  { "query": "多人在水库岸边放生猫", "display_query": "多人在水库岸边放生猫" },
+  { "query": "湖人vs热火", "display_query": "湖人vs热火" },
   {
     "query": "哪句话让你突然沉默了很久",
     "display_query": "哪句话让你突然沉默了很久"
@@ -24,9 +20,13 @@
     "display_query": "被保护得太好的人是怎样的"
   },
   { "query": "湖人vs开拓者", "display_query": "湖人vs开拓者" },
-  { "query": "湖人vs热火", "display_query": "湖人vs热火" },
   {
     "query": "现在的大学生到底是什么状态",
     "display_query": "现在的大学生到底是什么状态"
-  }
+  },
+  {
+    "query": "外媒称美国做好对委内瑞拉动武准备",
+    "display_query": "外媒称美国做好对委内瑞拉动武准备"
+  },
+  { "query": "多人在水库岸边放生猫", "display_query": "多人在水库岸边放生猫" }
 ]

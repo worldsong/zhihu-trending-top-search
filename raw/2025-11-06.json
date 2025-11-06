@@ -1,8 +1,11 @@
 [
-  { "query": "史上最长春节假期", "display_query": "史上最长春节假期" },
   {
-    "query": "哪句话让你突然沉默了很久",
-    "display_query": "哪句话让你突然沉默了很久"
+    "query": "全球80%海域发现吃塑料细菌",
+    "display_query": "全球80%海域发现吃塑料细菌"
+  },
+  {
+    "query": "养猫之后你的底线降到哪一步了",
+    "display_query": "养猫之后你的底线降到哪一步了"
   },
   { "query": "你见过的狠人有多绝", "display_query": "你见过的狠人有多绝" },
   {
@@ -23,5 +26,10 @@
     "display_query": "被保护得太好的人是怎样的"
   },
   { "query": "有什么尴尬到爆的经历", "display_query": "有什么尴尬到爆的经历" },
-  { "query": "不鸡娃的结果是什么", "display_query": "不鸡娃的结果是什么" }
+  { "query": "不鸡娃的结果是什么", "display_query": "不鸡娃的结果是什么" },
+  { "query": "史上最长春节假期", "display_query": "史上最长春节假期" },
+  {
+    "query": "哪句话让你突然沉默了很久",
+    "display_query": "哪句话让你突然沉默了很久"
+  }
 ]

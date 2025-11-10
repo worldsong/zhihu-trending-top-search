@@ -15,9 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 10 2025 16:15:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 10 2025 17:11:52 GMT+0800 (China Standard Time) -->
 
-1. [T1夺冠](https://www.zhihu.com/search?q=T1夺冠)
+1. [胖东来销售额破200亿
+   控速宣告失败](https://www.zhihu.com/search?q=胖东来销售额破200亿
+   控速宣告失败)
+1. [TVB演员海俊杰众筹150万给妻子治病](https://www.zhihu.com/search?q=TVB演员海俊杰众筹150万给妻子治病)
 1. [你知道的最震惊的冷知识是什么](https://www.zhihu.com/search?q=你知道的最震惊的冷知识是什么)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [你见过最真实的商战是什么](https://www.zhihu.com/search?q=你见过最真实的商战是什么)
@@ -28,6 +31,7 @@
    外骨骼有用吗)
 1. [长辈上下楼梯困难 解决方案](https://www.zhihu.com/search?q=长辈上下楼梯困难
    解决方案)
+1. [T1夺冠](https://www.zhihu.com/search?q=T1夺冠)
 1. [预防老人跌倒 助行设备](https://www.zhihu.com/search?q=预防老人跌倒 助行设备)
 1. [哈尔滨一小区内有人遛企鹅](https://www.zhihu.com/search?q=哈尔滨一小区内有人遛企鹅)
 1. [奥恰洛夫3:1张本智和](https://www.zhihu.com/search?q=奥恰洛夫3:1张本智和)

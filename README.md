@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 11 2025 14:14:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 11 2025 15:09:50 GMT+0800 (China Standard Time) -->
 
-1. [大长今当初为什么那么火爆](https://www.zhihu.com/search?q=大长今当初为什么那么火爆)
+1. [记者节](https://www.zhihu.com/search?q=记者节)
 1. [火箭战胜雄鹿](https://www.zhihu.com/search?q=火箭战胜雄鹿)
 1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=你最讨厌微信朋友圈什么行为)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
@@ -27,7 +27,7 @@
 1. [你见过最真实的商战是什么](https://www.zhihu.com/search?q=你见过最真实的商战是什么)
 1. [颛顼为什么要绝地天通](https://www.zhihu.com/search?q=颛顼为什么要绝地天通)
 1. [灰熊vs雷霆](https://www.zhihu.com/search?q=灰熊vs雷霆)
-1. [记者节](https://www.zhihu.com/search?q=记者节)
+1. [大长今当初为什么那么火爆](https://www.zhihu.com/search?q=大长今当初为什么那么火爆)
 1. [T1夺冠](https://www.zhihu.com/search?q=T1夺冠)
 1. [人真的一定要上班吗](https://www.zhihu.com/search?q=人真的一定要上班吗)
 1. [包头禁飞区现蝴蝶状飞行物](https://www.zhihu.com/search?q=包头禁飞区现蝴蝶状飞行物)

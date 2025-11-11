@@ -1,5 +1,9 @@
 [
-  { "query": "记者节", "display_query": "记者节" },
+  {
+    "query": "包头禁飞区现蝴蝶状飞行物",
+    "display_query": "包头禁飞区现蝴蝶状飞行物"
+  },
+  { "query": "S15决赛T1战胜KT夺冠", "display_query": "S15决赛T1战胜KT夺冠" },
   { "query": "T1夺冠", "display_query": "T1夺冠" },
   { "query": "火箭战胜雄鹿", "display_query": "火箭战胜雄鹿" },
   {
@@ -23,5 +27,6 @@
     "display_query": "你见过最真实的商战是什么"
   },
   { "query": "颛顼为什么要绝地天通", "display_query": "颛顼为什么要绝地天通" },
+  { "query": "记者节", "display_query": "记者节" },
   { "query": "灰熊vs雷霆", "display_query": "灰熊vs雷霆" }
 ]

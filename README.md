@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 13 2025 08:44:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 13 2025 10:27:27 GMT+0800 (China Standard Time) -->
 
-1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
-1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=你最讨厌微信朋友圈什么行为)
+1. [西安秦岭保护区铁网上装带刺铁丝环](https://www.zhihu.com/search?q=西安秦岭保护区铁网上装带刺铁丝环)
+1. [长辈上下楼梯困难 解决方案](https://www.zhihu.com/search?q=长辈上下楼梯困难
+   解决方案)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=工业克苏鲁什么意思)
 1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=演员知道自己正在拍一部烂片吗)
@@ -27,6 +28,8 @@
 1. [为什么会人走茶凉](https://www.zhihu.com/search?q=为什么会人走茶凉)
 1. [你受过最狠的羞辱是什么](https://www.zhihu.com/search?q=你受过最狠的羞辱是什么)
 1. [为什么现在的员工都不爱公司](https://www.zhihu.com/search?q=为什么现在的员工都不爱公司)
+1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
+1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=你最讨厌微信朋友圈什么行为)
 
 <!-- END -->
 

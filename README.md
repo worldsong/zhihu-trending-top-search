@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 15 2025 14:12:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 15 2025 15:07:38 GMT+0800 (China Standard Time) -->
 
-1. [演员拍戏挑左右脸是常见现象](https://www.zhihu.com/search?q=演员拍戏挑左右脸是常见现象)
-1. [如何评价离婚证背面印「囍」字](https://www.zhihu.com/search?q=如何评价离婚证背面印「囍」字)
+1. [10月70城房价出炉](https://www.zhihu.com/search?q=10月70城房价出炉)
+1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [孙颖莎晋级女单四强](https://www.zhihu.com/search?q=孙颖莎晋级女单四强)
 1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=演员知道自己正在拍一部烂片吗)
@@ -27,8 +27,8 @@
 1. [四川舰](https://www.zhihu.com/search?q=四川舰)
 1. [比特币跌破10万美元](https://www.zhihu.com/search?q=比特币跌破10万美元)
 1. [黄金到底能涨到什么地步](https://www.zhihu.com/search?q=黄金到底能涨到什么地步)
-1. [10月70城房价出炉](https://www.zhihu.com/search?q=10月70城房价出炉)
-1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
+1. [演员拍戏挑左右脸是常见现象](https://www.zhihu.com/search?q=演员拍戏挑左右脸是常见现象)
+1. [如何评价离婚证背面印「囍」字](https://www.zhihu.com/search?q=如何评价离婚证背面印「囍」字)
 1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=你最讨厌微信朋友圈什么行为)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=工业克苏鲁什么意思)
 

@@ -15,11 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 16 2025 08:48:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 16 2025 10:41:39 GMT+0800 (China Standard Time) -->
 
-1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=金鸡奖获奖名单)
-1. [10月70城房价出炉](https://www.zhihu.com/search?q=10月70城房价出炉)
-1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
+1. [四分之一决赛陈梦4比2蒯曼](https://www.zhihu.com/search?q=四分之一决赛陈梦4比2蒯曼)
+1. [为什么西方去核电而中国却大力发展](https://www.zhihu.com/search?q=为什么西方去核电而中国却大力发展)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [孙颖莎晋级女单四强](https://www.zhihu.com/search?q=孙颖莎晋级女单四强)
 1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=演员知道自己正在拍一部烂片吗)
@@ -27,6 +26,10 @@
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
 1. [四川舰](https://www.zhihu.com/search?q=四川舰)
 1. [比特币跌破10万美元](https://www.zhihu.com/search?q=比特币跌破10万美元)
+1. [黄金到底能涨到什么地步](https://www.zhihu.com/search?q=黄金到底能涨到什么地步)
+1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=金鸡奖获奖名单)
+1. [10月70城房价出炉](https://www.zhihu.com/search?q=10月70城房价出炉)
+1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=你们闻过最臭的是什么)
 
 <!-- END -->
 

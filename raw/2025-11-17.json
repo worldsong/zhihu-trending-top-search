@@ -1,6 +1,6 @@
 [
-  { "query": "金鸡奖获奖名单", "display_query": "金鸡奖获奖名单" },
-  { "query": "孙颖莎vs王曼昱", "display_query": "孙颖莎vs王曼昱" },
+  { "query": "韩国 55 万人参加高考", "display_query": "韩国 55 万人参加高考" },
+  { "query": "张雨霏200蝶季军", "display_query": "张雨霏200蝶季军" },
   {
     "query": "影视作品中哪个武器最奇葩",
     "display_query": "影视作品中哪个武器最奇葩"
@@ -30,5 +30,7 @@
     "query": "女歌手意外受到电动座椅架挤压身亡",
     "display_query": "女歌手意外受到电动座椅架挤压身亡"
   },
+  { "query": "金鸡奖获奖名单", "display_query": "金鸡奖获奖名单" },
+  { "query": "孙颖莎vs王曼昱", "display_query": "孙颖莎vs王曼昱" },
   { "query": "唐朝诡事录之长安", "display_query": "唐朝诡事录之长安" }
 ]

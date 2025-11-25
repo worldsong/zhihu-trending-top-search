@@ -15,11 +15,14 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 25 2025 14:15:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 25 2025 15:10:48 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [你吃过最奢侈的一道菜](https://www.zhihu.com/search?q=你吃过最奢侈的一道菜)
+1. [新疆到底有多干燥](https://www.zhihu.com/search?q=新疆到底有多干燥)
 1. [你有哪些当初没听出来的弦外之音](https://www.zhihu.com/search?q=你有哪些当初没听出来的弦外之音)
+1. [长得帅在生活中有多大优势](https://www.zhihu.com/search?q=长得帅在生活中有多大优势)
 1. [美乌发布联合声明](https://www.zhihu.com/search?q=美乌发布联合声明)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)

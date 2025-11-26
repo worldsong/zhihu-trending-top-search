@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 26 2025 10:27:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 26 2025 11:40:39 GMT+0800 (China Standard Time) -->
 
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [史上最严充电宝新规将落地](https://www.zhihu.com/search?q=史上最严充电宝新规将落地)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
 1. [新疆到底有多干燥](https://www.zhihu.com/search?q=新疆到底有多干燥)
 1. [你有哪些当初没听出来的弦外之音](https://www.zhihu.com/search?q=你有哪些当初没听出来的弦外之音)
@@ -27,6 +27,7 @@
 1. [如何看待健身锻炼到最后一身伤病](https://www.zhihu.com/search?q=如何看待健身锻炼到最后一身伤病)
 1. [为什么木叶会允许玖辛奈怀孕生子](https://www.zhihu.com/search?q=为什么木叶会允许玖辛奈怀孕生子)
 1. [为什么玉石在中国才值钱](https://www.zhihu.com/search?q=为什么玉石在中国才值钱)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [人在 45 岁是一种什么感觉](https://www.zhihu.com/search?q=人在 45
    岁是一种什么感觉)
 1. [父母腿脚不便 辅助工具](https://www.zhihu.com/search?q=父母腿脚不便 辅助工具)

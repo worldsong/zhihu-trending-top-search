@@ -2,16 +2,20 @@
   { "query": "行测", "display_query": "行测" },
   { "query": "申论", "display_query": "申论" },
   {
+    "query": "有没有可以笑上一年的笑话",
+    "display_query": "有没有可以笑上一年的笑话"
+  },
+  {
+    "query": "如何看待美国网友咆哮物价太高",
+    "display_query": "如何看待美国网友咆哮物价太高"
+  },
+  {
+    "query": "社会上有哪些人是不能招惹的",
+    "display_query": "社会上有哪些人是不能招惹的"
+  },
+  {
     "query": "网传南大教授闻海虎发邮件回应举报",
     "display_query": "网传南大教授闻海虎发邮件回应举报"
-  },
-  {
-    "query": "黑龙江大学校史首篇nature",
-    "display_query": "黑龙江大学校史首篇nature"
-  },
-  {
-    "query": "Qwen论文获评NeurIPS 2025最佳论文",
-    "display_query": "Qwen论文获评NeurIPS 2025最佳论文"
   },
   {
     "query": "美团发布上下文级联压缩技术",
@@ -22,6 +26,14 @@
   {
     "query": "多家手机厂商取消air机型",
     "display_query": "多家手机厂商取消air机型"
+  },
+  {
+    "query": "黑龙江大学校史首篇nature",
+    "display_query": "黑龙江大学校史首篇nature"
+  },
+  {
+    "query": "Qwen论文获评NeurIPS 2025最佳论文",
+    "display_query": "Qwen论文获评NeurIPS 2025最佳论文"
   },
   {
     "query": "王牧疑似回复闻海虎澄清信",

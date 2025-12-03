@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 03 2025 08:44:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 03 2025 10:28:15 GMT+0800 (China Standard Time) -->
 
-1. [人间清醒是什么样子](https://www.zhihu.com/search?q=人间清醒是什么样子)
+1. [高校开始流行「三分钟学术演讲」](https://www.zhihu.com/search?q=高校开始流行「三分钟学术演讲」)
+1. [新能源汽车正进入下行周期](https://www.zhihu.com/search?q=新能源汽车正进入下行周期)
 1. [行测](https://www.zhihu.com/search?q=行测)
 1. [太阳vs湖人](https://www.zhihu.com/search?q=太阳vs湖人)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
@@ -26,6 +27,7 @@
 1. [12月起这些新规开始施行](https://www.zhihu.com/search?q=12月起这些新规开始施行)
 1. [有没有可以笑上一年的笑话](https://www.zhihu.com/search?q=有没有可以笑上一年的笑话)
 1. [12月第一天](https://www.zhihu.com/search?q=12月第一天)
+1. [人间清醒是什么样子](https://www.zhihu.com/search?q=人间清醒是什么样子)
 1. [如何看待美国网友咆哮物价太高](https://www.zhihu.com/search?q=如何看待美国网友咆哮物价太高)
 
 <!-- END -->

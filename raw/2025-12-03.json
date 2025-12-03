@@ -1,12 +1,6 @@
 [
-  {
-    "query": "误会孩子后是否会主动跟他道歉",
-    "display_query": "误会孩子后是否会主动跟他道歉"
-  },
-  {
-    "query": "明年起避孕药品和用具征收增值税",
-    "display_query": "明年起避孕药品和用具征收增值税"
-  },
+  { "query": "国际残疾人日", "display_query": "国际残疾人日" },
+  { "query": "人间清醒是什么样子", "display_query": "人间清醒是什么样子" },
   { "query": "行测", "display_query": "行测" },
   { "query": "太阳vs湖人", "display_query": "太阳vs湖人" },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
@@ -24,7 +18,14 @@
     "query": "前两年冲动买房的人怎么样了",
     "display_query": "前两年冲动买房的人怎么样了"
   },
-  { "query": "人间清醒是什么样子", "display_query": "人间清醒是什么样子" },
+  {
+    "query": "误会孩子后是否会主动跟他道歉",
+    "display_query": "误会孩子后是否会主动跟他道歉"
+  },
+  {
+    "query": "明年起避孕药品和用具征收增值税",
+    "display_query": "明年起避孕药品和用具征收增值税"
+  },
   { "query": "12月第一天", "display_query": "12月第一天" },
   {
     "query": "持500股即免峨眉山景区门票",

@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 04 2025 15:11:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 04 2025 16:14:19 GMT+0800 (China Standard Time) -->
 
-1. [国际残疾人日](https://www.zhihu.com/search?q=国际残疾人日)
+1. [安徽广德三件套爆火](https://www.zhihu.com/search?q=安徽广德三件套爆火)
+1. [安徽广德三件套火出圈](https://www.zhihu.com/search?q=安徽广德三件套火出圈)
 1. [人间清醒是什么样子](https://www.zhihu.com/search?q=人间清醒是什么样子)
 1. [你身边有年纪轻轻就去世的人吗](https://www.zhihu.com/search?q=你身边有年纪轻轻就去世的人吗)
 1. [中国人玩阳谋到底有多牛](https://www.zhihu.com/search?q=中国人玩阳谋到底有多牛)
@@ -26,6 +27,7 @@
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)
 1. [为什么销冠一般最先离职](https://www.zhihu.com/search?q=为什么销冠一般最先离职)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
+1. [国际残疾人日](https://www.zhihu.com/search?q=国际残疾人日)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [38岁想把英语学好还有必要吗](https://www.zhihu.com/search?q=38岁想把英语学好还有必要吗)
 1. [如何看待健身锻炼到最后一身伤病](https://www.zhihu.com/search?q=如何看待健身锻炼到最后一身伤病)

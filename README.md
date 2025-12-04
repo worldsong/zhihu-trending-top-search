@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 04 2025 10:29:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 04 2025 11:45:10 GMT+0800 (China Standard Time) -->
 
-1. [高市早苗涉台最新表态](https://www.zhihu.com/search?q=高市早苗涉台最新表态)
-1. [38岁想把英语学好还有必要吗](https://www.zhihu.com/search?q=38岁想把英语学好还有必要吗)
+1. [国际残疾人日](https://www.zhihu.com/search?q=国际残疾人日)
 1. [人间清醒是什么样子](https://www.zhihu.com/search?q=人间清醒是什么样子)
 1. [前两年冲动买房的人怎么样了](https://www.zhihu.com/search?q=前两年冲动买房的人怎么样了)
 1. [真正打动过你的一个设计是什么](https://www.zhihu.com/search?q=真正打动过你的一个设计是什么)
@@ -26,8 +25,9 @@
 1. [为什么销冠一般最先离职](https://www.zhihu.com/search?q=为什么销冠一般最先离职)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
+1. [38岁想把英语学好还有必要吗](https://www.zhihu.com/search?q=38岁想把英语学好还有必要吗)
 1. [如何看待健身锻炼到最后一身伤病](https://www.zhihu.com/search?q=如何看待健身锻炼到最后一身伤病)
-1. [国际残疾人日](https://www.zhihu.com/search?q=国际残疾人日)
+1. [高市早苗涉台最新表态](https://www.zhihu.com/search?q=高市早苗涉台最新表态)
 
 <!-- END -->
 

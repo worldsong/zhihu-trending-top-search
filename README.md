@@ -15,10 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Dec 04 2025 11:45:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Dec 04 2025 12:19:31 GMT+0800 (China Standard Time) -->
 
 1. [国际残疾人日](https://www.zhihu.com/search?q=国际残疾人日)
 1. [人间清醒是什么样子](https://www.zhihu.com/search?q=人间清醒是什么样子)
+1. [你身边有年纪轻轻就去世的人吗](https://www.zhihu.com/search?q=你身边有年纪轻轻就去世的人吗)
+1. [中国人玩阳谋到底有多牛](https://www.zhihu.com/search?q=中国人玩阳谋到底有多牛)
 1. [前两年冲动买房的人怎么样了](https://www.zhihu.com/search?q=前两年冲动买房的人怎么样了)
 1. [真正打动过你的一个设计是什么](https://www.zhihu.com/search?q=真正打动过你的一个设计是什么)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)

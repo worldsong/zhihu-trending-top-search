@@ -1,6 +1,12 @@
 [
-  { "query": "中法发布联合声明", "display_query": "中法发布联合声明" },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  {
+    "query": "巴奴新菜「水性杨花」被指有歧义",
+    "display_query": "巴奴新菜「水性杨花」被指有歧义"
+  },
+  {
+    "query": "你给孩子最大的托底是什么",
+    "display_query": "你给孩子最大的托底是什么"
+  },
   { "query": "有哪些好用的开源软件", "display_query": "有哪些好用的开源软件" },
   { "query": "新疆地震", "display_query": "新疆地震" },
   {
@@ -18,7 +24,9 @@
   { "query": "马刺vs魔术", "display_query": "马刺vs魔术" },
   { "query": "勇士vs76人", "display_query": "勇士vs76人" },
   {
-    "query": "你给孩子最大的托底是什么",
-    "display_query": "你给孩子最大的托底是什么"
-  }
+    "query": "外卖平台推荐性国家标准发布实施",
+    "display_query": "外卖平台推荐性国家标准发布实施"
+  },
+  { "query": "中法发布联合声明", "display_query": "中法发布联合声明" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" }
 ]

@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 06 2025 15:08:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 06 2025 16:11:35 GMT+0800 (China Standard Time) -->
 
-1. [中法发布联合声明](https://www.zhihu.com/search?q=中法发布联合声明)
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [巴奴新菜「水性杨花」被指有歧义](https://www.zhihu.com/search?q=巴奴新菜「水性杨花」被指有歧义)
+1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
 1. [有哪些好用的开源软件](https://www.zhihu.com/search?q=有哪些好用的开源软件)
 1. [新疆地震](https://www.zhihu.com/search?q=新疆地震)
 1. [你身边有年纪轻轻就去世的人吗](https://www.zhihu.com/search?q=你身边有年纪轻轻就去世的人吗)
@@ -26,7 +26,9 @@
 1. [中国人玩阳谋到底有多牛](https://www.zhihu.com/search?q=中国人玩阳谋到底有多牛)
 1. [马刺vs魔术](https://www.zhihu.com/search?q=马刺vs魔术)
 1. [勇士vs76人](https://www.zhihu.com/search?q=勇士vs76人)
-1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
+1. [外卖平台推荐性国家标准发布实施](https://www.zhihu.com/search?q=外卖平台推荐性国家标准发布实施)
+1. [中法发布联合声明](https://www.zhihu.com/search?q=中法发布联合声明)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 
 <!-- END -->
 

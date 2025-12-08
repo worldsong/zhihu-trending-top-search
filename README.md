@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 08 2025 17:15:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 08 2025 18:11:28 GMT+0800 (China Standard Time) -->
 
 1. [F1](https://www.zhihu.com/search?q=F1)
 1. [省考](https://www.zhihu.com/search?q=省考)

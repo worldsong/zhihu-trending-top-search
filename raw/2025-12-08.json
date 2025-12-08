@@ -1,8 +1,6 @@
 [
-  { "query": "爱奇艺尖叫之夜", "display_query": "爱奇艺尖叫之夜" },
   { "query": "F1", "display_query": "F1" },
   { "query": "省考", "display_query": "省考" },
-  { "query": "爱奇艺道歉", "display_query": "爱奇艺道歉" },
   {
     "query": "你认为最失败的 Logo 设计有哪些",
     "display_query": "你认为最失败的 Logo 设计有哪些"
@@ -10,10 +8,6 @@
   {
     "query": "无正当理由拒篮球国家队征召将遭行业惩戒",
     "display_query": "无正当理由拒篮球国家队征召将遭行业惩戒"
-  },
-  {
-    "query": "詹姆斯连续 1297 场上双神迹终结",
-    "display_query": "詹姆斯连续 1297 场上双神迹终结"
   },
   {
     "query": "22岁小伙吃红烧肘子后进ICU",
@@ -25,6 +19,18 @@
     "display_query": "《喜人奇妙夜》第二季总决赛"
   },
   {
+    "query": "胖东来再招人年薪不低于100万",
+    "display_query": "胖东来再招人年薪不低于100万"
+  },
+  { "query": "中法发表多份联合声明", "display_query": "中法发表多份联合声明" },
+  { "query": "《疯狂动物城2》热映", "display_query": "《疯狂动物城2》热映" },
+  { "query": "爱奇艺尖叫之夜", "display_query": "爱奇艺尖叫之夜" },
+  { "query": "爱奇艺道歉", "display_query": "爱奇艺道歉" },
+  {
+    "query": "詹姆斯连续 1297 场上双神迹终结",
+    "display_query": "詹姆斯连续 1297 场上双神迹终结"
+  },
+  {
     "query": "摩尔线程高开468%一签盈利近27万",
     "display_query": "摩尔线程高开468%一签盈利近27万"
   },
@@ -32,7 +38,6 @@
     "query": "中国自行车协会回应新国标相关问题",
     "display_query": "中国自行车协会回应新国标相关问题"
   },
-  { "query": "中法发表多份联合声明", "display_query": "中法发表多份联合声明" },
   {
     "query": "为什么人会在短期内多次感冒",
     "display_query": "为什么人会在短期内多次感冒"

@@ -3,7 +3,6 @@
     "query": "中俄两军组织实施联合空中战略巡航",
     "display_query": "中俄两军组织实施联合空中战略巡航"
   },
-  { "query": "F1", "display_query": "F1" },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "省考", "display_query": "省考" },
   { "query": "尖叫之夜", "display_query": "尖叫之夜" },
@@ -16,6 +15,7 @@
     "display_query": "写西幻该如何避免写成中式西幻"
   },
   { "query": "维斯塔潘杆位", "display_query": "维斯塔潘杆位" },
+  { "query": "F1", "display_query": "F1" },
   {
     "query": "北京国安队夺得足协杯冠军",
     "display_query": "北京国安队夺得足协杯冠军"

@@ -1,9 +1,16 @@
 [
   {
+    "query": "得闲谨制能成为年末黑马爆款吗",
+    "display_query": "得闲谨制能成为年末黑马爆款吗"
+  },
+  {
+    "query": "如何看待11月份比亚迪海外销量",
+    "display_query": "如何看待11月份比亚迪海外销量"
+  },
+  {
     "query": "什么样的人算是中了基因彩票",
     "display_query": "什么样的人算是中了基因彩票"
   },
-  { "query": "美联储降息25个基点", "display_query": "美联储降息25个基点" },
   { "query": "创业板指涨逾1%", "display_query": "创业板指涨逾1%" },
   { "query": "男人的快乐有多简单", "display_query": "男人的快乐有多简单" },
   { "query": "尼克斯vs猛龙", "display_query": "尼克斯vs猛龙" },
@@ -17,6 +24,7 @@
     "display_query": "你给孩子最大的托底是什么"
   },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  { "query": "美联储降息25个基点", "display_query": "美联储降息25个基点" },
   {
     "query": "如何看待健身锻炼到最后一身伤病",
     "display_query": "如何看待健身锻炼到最后一身伤病"

@@ -15,13 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 15 2025 19:09:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 15 2025 20:20:06 GMT+0800 (China Standard Time) -->
 
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
+1. [T1夺冠](https://www.zhihu.com/search?q=T1夺冠)
 1. [四级作文](https://www.zhihu.com/search?q=四级作文)
+1. [麦当劳回应涨价](https://www.zhihu.com/search?q=麦当劳回应涨价)
 1. [麦当劳涨价](https://www.zhihu.com/search?q=麦当劳涨价)
 1. [哪一刻让你终于意识到了这就是命](https://www.zhihu.com/search?q=哪一刻让你终于意识到了这就是命)
 1. [你见过最恶心的邻居是什么样子](https://www.zhihu.com/search?q=你见过最恶心的邻居是什么样子)
 1. [王楚钦 vs 莫雷加德](https://www.zhihu.com/search?q=王楚钦 vs 莫雷加德)
+1. [勇士vs开拓者](https://www.zhihu.com/search?q=勇士vs开拓者)
 1. [泰柬冲突](https://www.zhihu.com/search?q=泰柬冲突)
 1. [爱你老己 明天见](https://www.zhihu.com/search?q=爱你老己 明天见)
 1. [中国贸易顺差首次超1万亿美元](https://www.zhihu.com/search?q=中国贸易顺差首次超1万亿美元)

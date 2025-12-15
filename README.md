@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 15 2025 14:17:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 15 2025 15:14:58 GMT+0800 (China Standard Time) -->
 
 1. [四级作文](https://www.zhihu.com/search?q=四级作文)
 1. [麦当劳涨价](https://www.zhihu.com/search?q=麦当劳涨价)
@@ -23,11 +23,12 @@
 1. [你见过最恶心的邻居是什么样子](https://www.zhihu.com/search?q=你见过最恶心的邻居是什么样子)
 1. [王楚钦 vs 莫雷加德](https://www.zhihu.com/search?q=王楚钦 vs 莫雷加德)
 1. [泰柬冲突](https://www.zhihu.com/search?q=泰柬冲突)
+1. [爱你老己 明天见](https://www.zhihu.com/search?q=爱你老己 明天见)
 1. [中国贸易顺差首次超1万亿美元](https://www.zhihu.com/search?q=中国贸易顺差首次超1万亿美元)
 1. [美军扣押委内瑞拉油轮](https://www.zhihu.com/search?q=美军扣押委内瑞拉油轮)
+1. [护士称电子体温计不准是使用方法不对](https://www.zhihu.com/search?q=护士称电子体温计不准是使用方法不对)
 1. [OpenAI 正式发布 GPT-5.2](https://www.zhihu.com/search?q=OpenAI 正式发布
    GPT-5.2)
-1. [护士称电子体温计不准是使用方法不对](https://www.zhihu.com/search?q=护士称电子体温计不准是使用方法不对)
 1. [4斤黄金凤冠被毁业内称重做20万起](https://www.zhihu.com/search?q=4斤黄金凤冠被毁业内称重做20万起)
 1. [迪士尼对OpenAI进行10亿美元股权投资](https://www.zhihu.com/search?q=迪士尼对OpenAI进行10亿美元股权投资)
 1. [张本智和夺冠](https://www.zhihu.com/search?q=张本智和夺冠)

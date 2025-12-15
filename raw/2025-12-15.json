@@ -1,6 +1,5 @@
 [
-  { "query": "四级作文", "display_query": "四级作文" },
-  { "query": "王楚钦 vs 莫雷加德", "display_query": "王楚钦 vs 莫雷加德" },
+  { "query": "张本智和夺冠", "display_query": "张本智和夺冠" },
   { "query": "泰柬冲突", "display_query": "泰柬冲突" },
   {
     "query": "中国贸易顺差首次超1万亿美元",
@@ -24,11 +23,13 @@
     "query": "全国首家现代骑手学院成立",
     "display_query": "全国首家现代骑手学院成立"
   },
+  { "query": "日本发生 6.8 级地震", "display_query": "日本发生 6.8 级地震" },
+  { "query": "四级作文", "display_query": "四级作文" },
+  { "query": "王楚钦 vs 莫雷加德", "display_query": "王楚钦 vs 莫雷加德" },
   {
     "query": "男子每天吃40个水煮蛋持续5年",
     "display_query": "男子每天吃40个水煮蛋持续5年"
   },
-  { "query": "日本发生 6.8 级地震", "display_query": "日本发生 6.8 级地震" },
   {
     "query": "用东方树叶养茶菌当宠物",
     "display_query": "用东方树叶养茶菌当宠物"

@@ -1,12 +1,5 @@
 [
-  {
-    "query": "如何评价「大生意人」结局",
-    "display_query": "如何评价「大生意人」结局"
-  },
-  {
-    "query": "突然中了1亿彩票你会做什么",
-    "display_query": "突然中了1亿彩票你会做什么"
-  },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
   { "query": "T1夺冠", "display_query": "T1夺冠" },
   { "query": "麦当劳回应涨价", "display_query": "麦当劳回应涨价" },
@@ -24,10 +17,17 @@
     "display_query": "你干过最牛的一件事是什么"
   },
   { "query": "勇士vs开拓者", "display_query": "勇士vs开拓者" },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   {
     "query": "为什么人不能靠意志力戒毒",
     "display_query": "为什么人不能靠意志力戒毒"
+  },
+  {
+    "query": "如何评价「大生意人」结局",
+    "display_query": "如何评价「大生意人」结局"
+  },
+  {
+    "query": "突然中了1亿彩票你会做什么",
+    "display_query": "突然中了1亿彩票你会做什么"
   },
   {
     "query": "如何评价「再见爱人5」第九期",

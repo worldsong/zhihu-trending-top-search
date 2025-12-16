@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 16 2025 16:14:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 16 2025 17:14:58 GMT+0800 (China Standard Time) -->
 
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [如何评价「大生意人」结局](https://www.zhihu.com/search?q=如何评价「大生意人」结局)
+1. [突然中了1亿彩票你会做什么](https://www.zhihu.com/search?q=突然中了1亿彩票你会做什么)
 1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
 1. [T1夺冠](https://www.zhihu.com/search?q=T1夺冠)
 1. [麦当劳回应涨价](https://www.zhihu.com/search?q=麦当劳回应涨价)
@@ -26,6 +27,7 @@
 1. [你见过最恶心的邻居是什么样子](https://www.zhihu.com/search?q=你见过最恶心的邻居是什么样子)
 1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=你干过最牛的一件事是什么)
 1. [勇士vs开拓者](https://www.zhihu.com/search?q=勇士vs开拓者)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [如何评价「再见爱人5」第九期](https://www.zhihu.com/search?q=如何评价「再见爱人5」第九期)
 1. [企业展示最新芯片样品不翼而飞](https://www.zhihu.com/search?q=企业展示最新芯片样品不翼而飞)

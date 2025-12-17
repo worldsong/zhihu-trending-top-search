@@ -1,12 +1,6 @@
 [
-  {
-    "query": "姚明女儿15岁身高已达1米9",
-    "display_query": "姚明女儿15岁身高已达1米9"
-  },
-  {
-    "query": "首批L3自动驾驶车型获批",
-    "display_query": "首批L3自动驾驶车型获批"
-  },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
   { "query": "t1夺冠", "display_query": "t1夺冠" },
   { "query": "世界强化免疫日", "display_query": "世界强化免疫日" },
   { "query": "麦当劳涨价", "display_query": "麦当劳涨价" },
@@ -24,8 +18,14 @@
   },
   { "query": "金价又涨了", "display_query": "金价又涨了" },
   { "query": "有什么震惊了你的名言", "display_query": "有什么震惊了你的名言" },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
-  { "query": "湖人vs太阳", "display_query": "湖人vs太阳" },
+  {
+    "query": "姚明女儿15岁身高已达1米9",
+    "display_query": "姚明女儿15岁身高已达1米9"
+  },
+  {
+    "query": "首批L3自动驾驶车型获批",
+    "display_query": "首批L3自动驾驶车型获批"
+  },
   {
     "query": "为什么人不能靠意志力戒毒",
     "display_query": "为什么人不能靠意志力戒毒"

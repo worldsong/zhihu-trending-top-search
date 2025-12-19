@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Dec 19 2025 17:13:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Dec 19 2025 18:10:19 GMT+0800 (China Standard Time) -->
 
-1. [你看过哪些让人惊艳的绘画作品](https://www.zhihu.com/search?q=你看过哪些让人惊艳的绘画作品)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [鞠婧祎 丝芭](https://www.zhihu.com/search?q=鞠婧祎 丝芭)
 1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=你干过最牛的一件事是什么)
 1. [有什么震惊了你的名言](https://www.zhihu.com/search?q=有什么震惊了你的名言)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
@@ -26,9 +27,8 @@
 1. [你是如何理解「当时只道是寻常」的](https://www.zhihu.com/search?q=你是如何理解「当时只道是寻常」的)
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
 1. [如何通俗解释大数定律](https://www.zhihu.com/search?q=如何通俗解释大数定律)
+1. [你看过哪些让人惊艳的绘画作品](https://www.zhihu.com/search?q=你看过哪些让人惊艳的绘画作品)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
-1. [鞠婧祎 丝芭](https://www.zhihu.com/search?q=鞠婧祎 丝芭)
 1. [如何评价电视剧《新三国》](https://www.zhihu.com/search?q=如何评价电视剧《新三国》)
 1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=用DeepSeek选股炒股可行吗)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)

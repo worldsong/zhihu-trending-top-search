@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 20 2025 10:25:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 20 2025 11:41:44 GMT+0800 (China Standard Time) -->
 
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [纪晓芙一定要死吗](https://www.zhihu.com/search?q=纪晓芙一定要死吗)
+1. [目前你总结出最大的旅行经验](https://www.zhihu.com/search?q=目前你总结出最大的旅行经验)
 1. [有什么震惊了你的名言](https://www.zhihu.com/search?q=有什么震惊了你的名言)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
@@ -26,6 +27,7 @@
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=你给孩子最大的托底是什么)
 1. [2025世界人形机器人运动会](https://www.zhihu.com/search?q=2025世界人形机器人运动会)
 1. [如何通俗解释大数定律](https://www.zhihu.com/search?q=如何通俗解释大数定律)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 
 <!-- END -->

@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 22 2025 16:15:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 22 2025 17:16:33 GMT+0800 (China Standard Time) -->
 
-1. [考研数学](https://www.zhihu.com/search?q=考研数学)
 1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
 1. [有哪些世界地理冷知识](https://www.zhihu.com/search?q=有哪些世界地理冷知识)
 1. [生活中你们见过最愚蠢的设计是啥](https://www.zhihu.com/search?q=生活中你们见过最愚蠢的设计是啥)
@@ -27,12 +26,13 @@
 1. [最顶级的情绪价值是什么](https://www.zhihu.com/search?q=最顶级的情绪价值是什么)
 1. [你知道有哪些信息差](https://www.zhihu.com/search?q=你知道有哪些信息差)
 1. [宁波通报女婴术后离世医疗事件调查进展](https://www.zhihu.com/search?q=宁波通报女婴术后离世医疗事件调查进展)
+1. [OpenAI 被曝正寻求千亿美元融资](https://www.zhihu.com/search?q=OpenAI
+   被曝正寻求千亿美元融资)
+1. [考研数学](https://www.zhihu.com/search?q=考研数学)
 1. [宠物狗上桌吃餐盘食物](https://www.zhihu.com/search?q=宠物狗上桌吃餐盘食物)
 1. [星光大赏红毯](https://www.zhihu.com/search?q=星光大赏红毯)
 1. [阿维塔智驾状态下撞大货车](https://www.zhihu.com/search?q=阿维塔智驾状态下撞大货车)
 1. [周杰伦代言美团外卖](https://www.zhihu.com/search?q=周杰伦代言美团外卖)
-1. [OpenAI 被曝正寻求千亿美元融资](https://www.zhihu.com/search?q=OpenAI
-   被曝正寻求千亿美元融资)
 1. [新概念英语过时了吗](https://www.zhihu.com/search?q=新概念英语过时了吗)
 1. [小车刹车失灵狂奔490公里油耗尽才停](https://www.zhihu.com/search?q=小车刹车失灵狂奔490公里油耗尽才停)
 1. [南博出示专家鉴定记录](https://www.zhihu.com/search?q=南博出示专家鉴定记录)

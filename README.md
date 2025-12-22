@@ -15,20 +15,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 22 2025 08:51:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 22 2025 10:53:09 GMT+0800 (China Standard Time) -->
 
-1. [考研数学](https://www.zhihu.com/search?q=考研数学)
-1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
+1. [台北车站袭击案致4死5伤](https://www.zhihu.com/search?q=台北车站袭击案致4死5伤)
+1. [贵州百灵3年虚增利润6.5亿元](https://www.zhihu.com/search?q=贵州百灵3年虚增利润6.5亿元)
 1. [泰柬冲突](https://www.zhihu.com/search?q=泰柬冲突)
-1. [宁波通报女婴术后离世医疗事件调查进展](https://www.zhihu.com/search?q=宁波通报女婴术后离世医疗事件调查进展)
+1. [考研数学](https://www.zhihu.com/search?q=考研数学)
 1. [谷歌发布 Gemini 3 Flash](https://www.zhihu.com/search?q=谷歌发布 Gemini 3
    Flash)
 1. [周杰伦代言美团外卖](https://www.zhihu.com/search?q=周杰伦代言美团外卖)
 1. [阿维塔智驾状态下撞大货车](https://www.zhihu.com/search?q=阿维塔智驾状态下撞大货车)
-1. [《再见爱人 5》第十期](https://www.zhihu.com/search?q=《再见爱人 5》第十期)
 1. [OpenAI 被曝正寻求千亿美元融资](https://www.zhihu.com/search?q=OpenAI
    被曝正寻求千亿美元融资)
 1. [新概念英语过时了吗](https://www.zhihu.com/search?q=新概念英语过时了吗)
+1. [小车刹车失灵狂奔490公里油耗尽才停](https://www.zhihu.com/search?q=小车刹车失灵狂奔490公里油耗尽才停)
+1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
+1. [宁波通报女婴术后离世医疗事件调查进展](https://www.zhihu.com/search?q=宁波通报女婴术后离世医疗事件调查进展)
+1. [《再见爱人 5》第十期](https://www.zhihu.com/search?q=《再见爱人 5》第十期)
 
 <!-- END -->
 

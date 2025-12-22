@@ -1,17 +1,9 @@
 [
-  {
-    "query": "台北车站袭击案致4死5伤",
-    "display_query": "台北车站袭击案致4死5伤"
-  },
-  {
-    "query": "贵州百灵3年虚增利润6.5亿元",
-    "display_query": "贵州百灵3年虚增利润6.5亿元"
-  },
-  { "query": "泰柬冲突", "display_query": "泰柬冲突" },
   { "query": "考研数学", "display_query": "考研数学" },
+  { "query": "今日冬至", "display_query": "今日冬至" },
   {
-    "query": "谷歌发布 Gemini 3 Flash",
-    "display_query": "谷歌发布 Gemini 3 Flash"
+    "query": "宁波通报女婴术后离世医疗事件调查进展",
+    "display_query": "宁波通报女婴术后离世医疗事件调查进展"
   },
   { "query": "周杰伦代言美团外卖", "display_query": "周杰伦代言美团外卖" },
   {
@@ -27,10 +19,23 @@
     "query": "小车刹车失灵狂奔490公里油耗尽才停",
     "display_query": "小车刹车失灵狂奔490公里油耗尽才停"
   },
-  { "query": "今日冬至", "display_query": "今日冬至" },
+  { "query": "南博出示专家鉴定记录", "display_query": "南博出示专家鉴定记录" },
   {
-    "query": "宁波通报女婴术后离世医疗事件调查进展",
-    "display_query": "宁波通报女婴术后离世医疗事件调查进展"
+    "query": "独身女子去世存款无法支付医疗费",
+    "display_query": "独身女子去世存款无法支付医疗费"
+  },
+  {
+    "query": "台北车站袭击案致4死5伤",
+    "display_query": "台北车站袭击案致4死5伤"
+  },
+  {
+    "query": "贵州百灵3年虚增利润6.5亿元",
+    "display_query": "贵州百灵3年虚增利润6.5亿元"
+  },
+  { "query": "泰柬冲突", "display_query": "泰柬冲突" },
+  {
+    "query": "谷歌发布 Gemini 3 Flash",
+    "display_query": "谷歌发布 Gemini 3 Flash"
   },
   { "query": "《再见爱人 5》第十期", "display_query": "《再见爱人 5》第十期" }
 ]

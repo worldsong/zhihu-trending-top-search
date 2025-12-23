@@ -15,11 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Dec 23 2025 22:10:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Dec 23 2025 23:10:18 GMT+0800 (China Standard Time) -->
 
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [湖人vs太阳](https://www.zhihu.com/search?q=湖人vs太阳)
-1. [考研数学](https://www.zhihu.com/search?q=考研数学)
 1. [今日冬至](https://www.zhihu.com/search?q=今日冬至)
 1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=有哪些瞬间你秒懂了别人的暗示)
 1. [有哪些世界地理冷知识](https://www.zhihu.com/search?q=有哪些世界地理冷知识)
@@ -27,6 +26,8 @@
 1. [曼城vs西汉姆联](https://www.zhihu.com/search?q=曼城vs西汉姆联)
 1. [金价又涨了](https://www.zhihu.com/search?q=金价又涨了)
 1. [生活中你们见过最愚蠢的设计是啥](https://www.zhihu.com/search?q=生活中你们见过最愚蠢的设计是啥)
+1. [黄蜂vs骑士](https://www.zhihu.com/search?q=黄蜂vs骑士)
+1. [考研数学](https://www.zhihu.com/search?q=考研数学)
 1. [德甲乒乓球联赛](https://www.zhihu.com/search?q=德甲乒乓球联赛)
 1. [阿信摔下舞台](https://www.zhihu.com/search?q=阿信摔下舞台)
 1. [湖人vs快船](https://www.zhihu.com/search?q=湖人vs快船)

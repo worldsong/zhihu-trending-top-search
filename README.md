@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 29 2025 06:08:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 29 2025 07:08:49 GMT+0800 (China Standard Time) -->
 
 1. [福建震感](https://www.zhihu.com/search?q=福建震感)
 1. [泉州震感](https://www.zhihu.com/search?q=泉州震感)

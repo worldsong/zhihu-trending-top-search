@@ -1,14 +1,15 @@
 [
-  { "query": "深圳大学乒超女团夺冠", "display_query": "深圳大学乒超女团夺冠" },
-  { "query": "跨年晚会", "display_query": "跨年晚会" },
+  {
+    "query": "潜意识为什么往往不听意识的话",
+    "display_query": "潜意识为什么往往不听意识的话"
+  },
+  {
+    "query": "太平天国为什么最后打不过曾国藩",
+    "display_query": "太平天国为什么最后打不过曾国藩"
+  },
   { "query": "央视跨年晚会", "display_query": "央视跨年晚会" },
   { "query": "跨年朋友圈文案", "display_query": "跨年朋友圈文案" },
-  {
-    "query": "为什么现在不创造新的汉字了",
-    "display_query": "为什么现在不创造新的汉字了"
-  },
   { "query": "A股行情", "display_query": "A股行情" },
-  { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
   {
     "query": "你觉得学英语最大的阻碍是什么",
     "display_query": "你觉得学英语最大的阻碍是什么"
@@ -17,6 +18,25 @@
     "query": "大家提升自己最快的方式是什么",
     "display_query": "大家提升自己最快的方式是什么"
   },
+  {
+    "query": "乘客吐槽飞机「直角」椅背",
+    "display_query": "乘客吐槽飞机「直角」椅背"
+  },
+  {
+    "query": "陈鲁豫回应「何不食肉糜」争议",
+    "display_query": "陈鲁豫回应「何不食肉糜」争议"
+  },
+  {
+    "query": "《疯狂动物城2》内地票房破 40 亿",
+    "display_query": "《疯狂动物城2》内地票房破 40 亿"
+  },
+  { "query": "深圳大学乒超女团夺冠", "display_query": "深圳大学乒超女团夺冠" },
+  { "query": "跨年晚会", "display_query": "跨年晚会" },
+  {
+    "query": "为什么现在不创造新的汉字了",
+    "display_query": "为什么现在不创造新的汉字了"
+  },
+  { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   { "query": "孙颖莎退出多哈冠军赛​", "display_query": "孙颖莎退出多哈冠军赛​" },
   {

@@ -1,9 +1,6 @@
 [
-  {
-    "query": "看多了短视频的孩子会变傻吗",
-    "display_query": "看多了短视频的孩子会变傻吗"
-  },
-  { "query": "杨瀚森3分4篮板", "display_query": "杨瀚森3分4篮板" },
+  { "query": "湖人vs活塞", "display_query": "湖人vs活塞" },
+  { "query": "深圳大学乒超女团夺冠", "display_query": "深圳大学乒超女团夺冠" },
   { "query": "跨年晚会", "display_query": "跨年晚会" },
   { "query": "央视跨年晚会", "display_query": "央视跨年晚会" },
   { "query": "跨年朋友圈文案", "display_query": "跨年朋友圈文案" },
@@ -21,6 +18,11 @@
     "display_query": "为什么人不能靠意志力戒毒"
   },
   { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
+  {
+    "query": "看多了短视频的孩子会变傻吗",
+    "display_query": "看多了短视频的孩子会变傻吗"
+  },
+  { "query": "杨瀚森3分4篮板", "display_query": "杨瀚森3分4篮板" },
   {
     "query": "潜意识为什么往往不听意识的话",
     "display_query": "潜意识为什么往往不听意识的话"
@@ -49,7 +51,6 @@
     "query": "《疯狂动物城2》内地票房破 40 亿",
     "display_query": "《疯狂动物城2》内地票房破 40 亿"
   },
-  { "query": "深圳大学乒超女团夺冠", "display_query": "深圳大学乒超女团夺冠" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   { "query": "孙颖莎退出多哈冠军赛​", "display_query": "孙颖莎退出多哈冠军赛​" },
   {

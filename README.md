@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jan 04 2026 00:10:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 04 2026 02:13:08 GMT+0800 (China Standard Time) -->
 
 1. [超级月亮](https://www.zhihu.com/search?q=超级月亮)
 1. [知乎个人年度报告](https://www.zhihu.com/search?q=知乎个人年度报告)

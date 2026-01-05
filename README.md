@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 05 2026 19:10:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 05 2026 20:20:04 GMT+0800 (China Standard Time) -->
 
+1. [上海春考](https://www.zhihu.com/search?q=上海春考)
+1. [元旦假期最后一天](https://www.zhihu.com/search?q=元旦假期最后一天)
 1. [一个人最大的底气来自哪里](https://www.zhihu.com/search?q=一个人最大的底气来自哪里)
 1. [76人vs尼克斯](https://www.zhihu.com/search?q=76人vs尼克斯)
 1. [雷霆vs勇士](https://www.zhihu.com/search?q=雷霆vs勇士)
@@ -31,8 +33,6 @@
 1. [你认为什么样的人值得尊敬](https://www.zhihu.com/search?q=你认为什么样的人值得尊敬)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
-1. [上海春考](https://www.zhihu.com/search?q=上海春考)
-1. [元旦假期最后一天](https://www.zhihu.com/search?q=元旦假期最后一天)
 1. [灰熊vs湖人](https://www.zhihu.com/search?q=灰熊vs湖人)
 1. [超级月亮](https://www.zhihu.com/search?q=超级月亮)
 

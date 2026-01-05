@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 05 2026 15:19:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 05 2026 18:12:56 GMT+0800 (China Standard Time) -->
 
+1. [上海春考作文题井水不犯河水](https://www.zhihu.com/search?q=上海春考作文题井水不犯河水)
+1. [你认为什么样的人值得尊敬](https://www.zhihu.com/search?q=你认为什么样的人值得尊敬)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [一个人最大的底气来自哪里](https://www.zhihu.com/search?q=一个人最大的底气来自哪里)
 1. [76人vs尼克斯](https://www.zhihu.com/search?q=76人vs尼克斯)

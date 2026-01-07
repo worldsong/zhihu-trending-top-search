@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 07 2026 11:56:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 07 2026 12:32:07 GMT+0800 (China Standard Time) -->
 
-1. [四足扫地机](https://www.zhihu.com/search?q=四足扫地机)
+1. [箱根驿传](https://www.zhihu.com/search?q=箱根驿传)
+1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=有哪些瞬间你秒懂了别人的暗示)
 1. [哪个角色小时候讨厌长大就理解了](https://www.zhihu.com/search?q=哪个角色小时候讨厌长大就理解了)
 1. [哪些演员演什么像什么](https://www.zhihu.com/search?q=哪些演员演什么像什么)
 1. [如何看待大量水库改名为湖](https://www.zhihu.com/search?q=如何看待大量水库改名为湖)
@@ -26,9 +27,8 @@
 1. [怎么在 40 岁成为副厅](https://www.zhihu.com/search?q=怎么在 40 岁成为副厅)
 1. [知乎个人年度报告](https://www.zhihu.com/search?q=知乎个人年度报告)
 1. [知乎年度盘点](https://www.zhihu.com/search?q=知乎年度盘点)
+1. [四足扫地机](https://www.zhihu.com/search?q=四足扫地机)
 1. [知乎年终盘点](https://www.zhihu.com/search?q=知乎年终盘点)
-1. [箱根驿传](https://www.zhihu.com/search?q=箱根驿传)
-1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=有哪些瞬间你秒懂了别人的暗示)
 1. [知乎2025年度盘点](https://www.zhihu.com/search?q=知乎2025年度盘点)
 1. [到底什么是真的](https://www.zhihu.com/search?q=到底什么是真的)
 

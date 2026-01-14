@@ -1,5 +1,8 @@
 [
-  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
+  {
+    "query": "张勇重新担任海底捞 CEO",
+    "display_query": "张勇重新担任海底捞 CEO"
+  },
   { "query": "国考成绩", "display_query": "国考成绩" },
   {
     "query": "为什么在中国邮箱不流行",
@@ -24,6 +27,7 @@
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"
   },
+  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   { "query": "如何成为逻辑清晰的人", "display_query": "如何成为逻辑清晰的人" },
   {
     "query": "普通家庭对孩子最好的托举是什么",

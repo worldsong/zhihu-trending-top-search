@@ -1,5 +1,12 @@
 [
-  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
+  {
+    "query": "博主牢 A 称已离开美国",
+    "display_query": "博主牢 A 称已离开美国"
+  },
+  {
+    "query": "手术时把大脑拿出来还能放回去吗",
+    "display_query": "手术时把大脑拿出来还能放回去吗"
+  },
   { "query": "国考成绩", "display_query": "国考成绩" },
   { "query": "国考分数线公布", "display_query": "国考分数线公布" },
   { "query": "WBG对战IG", "display_query": "WBG对战IG" },
@@ -14,6 +21,7 @@
     "query": "普通家庭怎么带孩子见世面",
     "display_query": "普通家庭怎么带孩子见世面"
   },
+  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   {
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"

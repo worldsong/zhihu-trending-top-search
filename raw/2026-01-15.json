@@ -1,12 +1,9 @@
 [
-  { "query": "职场中什么最可怕", "display_query": "职场中什么最可怕" },
+  { "query": "星链可以取代5G吗", "display_query": "星链可以取代5G吗" },
   {
-    "query": "中国对美韩太阳能级多晶硅征税",
-    "display_query": "中国对美韩太阳能级多晶硅征税"
+    "query": "蔡依林台北演唱会亏损超7千万",
+    "display_query": "蔡依林台北演唱会亏损超7千万"
   },
-  { "query": "国考成绩", "display_query": "国考成绩" },
-  { "query": "国考分数线公布", "display_query": "国考分数线公布" },
-  { "query": "降息", "display_query": "降息" },
   { "query": "WBG对战IG", "display_query": "WBG对战IG" },
   { "query": "TES对战JDG", "display_query": "TES对战JDG" },
   { "query": "掘金vs鹈鹕", "display_query": "掘金vs鹈鹕" },
@@ -15,11 +12,27 @@
     "query": "邓布利多为什么要让海格成为老师",
     "display_query": "邓布利多为什么要让海格成为老师"
   },
-  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   {
     "query": "普通家庭怎么带孩子见世面",
     "display_query": "普通家庭怎么带孩子见世面"
   },
+  {
+    "query": "人在什么情况下成长的最快",
+    "display_query": "人在什么情况下成长的最快"
+  },
+  {
+    "query": "汇报工作时如何做到清晰有条理",
+    "display_query": "汇报工作时如何做到清晰有条理"
+  },
+  { "query": "职场中什么最可怕", "display_query": "职场中什么最可怕" },
+  {
+    "query": "中国对美韩太阳能级多晶硅征税",
+    "display_query": "中国对美韩太阳能级多晶硅征税"
+  },
+  { "query": "国考成绩", "display_query": "国考成绩" },
+  { "query": "国考分数线公布", "display_query": "国考分数线公布" },
+  { "query": "降息", "display_query": "降息" },
+  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   { "query": "推荐一个耐玩的游戏", "display_query": "推荐一个耐玩的游戏" },
   {
     "query": "死了么app更名为demumu",
@@ -32,10 +45,6 @@
   {
     "query": "手术时把大脑拿出来还能放回去吗",
     "display_query": "手术时把大脑拿出来还能放回去吗"
-  },
-  {
-    "query": "人在什么情况下成长的最快",
-    "display_query": "人在什么情况下成长的最快"
   },
   {
     "query": "普通家庭对孩子最好的托举是什么",

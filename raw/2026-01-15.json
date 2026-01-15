@@ -1,5 +1,9 @@
 [
-  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
+  { "query": "职场中什么最可怕", "display_query": "职场中什么最可怕" },
+  {
+    "query": "中国对美韩太阳能级多晶硅征税",
+    "display_query": "中国对美韩太阳能级多晶硅征税"
+  },
   { "query": "国考成绩", "display_query": "国考成绩" },
   { "query": "国考分数线公布", "display_query": "国考分数线公布" },
   { "query": "降息", "display_query": "降息" },
@@ -11,6 +15,7 @@
     "query": "邓布利多为什么要让海格成为老师",
     "display_query": "邓布利多为什么要让海格成为老师"
   },
+  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   {
     "query": "普通家庭怎么带孩子见世面",
     "display_query": "普通家庭怎么带孩子见世面"

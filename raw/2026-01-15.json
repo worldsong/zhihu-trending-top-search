@@ -1,5 +1,9 @@
 [
-  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
+  { "query": "推荐一个耐玩的游戏", "display_query": "推荐一个耐玩的游戏" },
+  {
+    "query": "死了么app更名为demumu",
+    "display_query": "死了么app更名为demumu"
+  },
   { "query": "国考成绩", "display_query": "国考成绩" },
   { "query": "国考分数线公布", "display_query": "国考分数线公布" },
   { "query": "降息", "display_query": "降息" },
@@ -11,6 +15,7 @@
     "query": "邓布利多为什么要让海格成为老师",
     "display_query": "邓布利多为什么要让海格成为老师"
   },
+  { "query": "国考成绩公布", "display_query": "国考成绩公布" },
   {
     "query": "普通家庭怎么带孩子见世面",
     "display_query": "普通家庭怎么带孩子见世面"

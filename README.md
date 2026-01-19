@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jan 19 2026 10:59:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jan 19 2026 12:10:50 GMT+0800 (China Standard Time) -->
 
-1. [因涨薪20元致歉公司已连续37年涨薪](https://www.zhihu.com/search?q=因涨薪20元致歉公司已连续37年涨薪)
-1. [胖东来599元羽绒服充绒量213克](https://www.zhihu.com/search?q=胖东来599元羽绒服充绒量213克)
+1. [坐高铁再也不用扛行李了](https://www.zhihu.com/search?q=坐高铁再也不用扛行李了)
 1. [聂卫平](https://www.zhihu.com/search?q=聂卫平)
 1. [聂卫平战日本特意穿了国乒球衣](https://www.zhihu.com/search?q=聂卫平战日本特意穿了国乒球衣)
 1. [聂卫平去世](https://www.zhihu.com/search?q=聂卫平去世)
@@ -29,9 +28,10 @@
 1. [尹锡悦涉内乱案一审被判 5
    年](https://www.zhihu.com/search?q=尹锡悦涉内乱案一审被判 5 年)
 1. [特斯拉与小米推出低息购车政策](https://www.zhihu.com/search?q=特斯拉与小米推出低息购车政策)
-1. [坐高铁再也不用扛行李了](https://www.zhihu.com/search?q=坐高铁再也不用扛行李了)
 1. [李湘名下近 7 成企业已注销](https://www.zhihu.com/search?q=李湘名下近 7
    成企业已注销)
+1. [因涨薪20元致歉公司已连续37年涨薪](https://www.zhihu.com/search?q=因涨薪20元致歉公司已连续37年涨薪)
+1. [胖东来599元羽绒服充绒量213克](https://www.zhihu.com/search?q=胖东来599元羽绒服充绒量213克)
 1. [福耀科技大学大一学生被企业抢光](https://www.zhihu.com/search?q=福耀科技大学大一学生被企业抢光)
 1. [男子从喉咙痛到进ICU只用1小时](https://www.zhihu.com/search?q=男子从喉咙痛到进ICU只用1小时)
 1. [胖东来599元羽绒服进价457.9元](https://www.zhihu.com/search?q=胖东来599元羽绒服进价457.9元)

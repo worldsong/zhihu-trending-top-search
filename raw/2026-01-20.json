@@ -1,5 +1,12 @@
 [
-  { "query": "河南进入雨雪最强时段", "display_query": "河南进入雨雪最强时段" },
+  {
+    "query": "一批人正在把母鸡当宠物养",
+    "display_query": "一批人正在把母鸡当宠物养"
+  },
+  {
+    "query": "云南女婴在母婴店泡药浴后离世",
+    "display_query": "云南女婴在母婴店泡药浴后离世"
+  },
   { "query": "JDG战胜AL", "display_query": "JDG战胜AL" },
   { "query": "湖人vs开拓者", "display_query": "湖人vs开拓者" },
   {
@@ -23,5 +30,6 @@
     "query": "什么样的版图可以称为美观",
     "display_query": "什么样的版图可以称为美观"
   },
+  { "query": "河南进入雨雪最强时段", "display_query": "河南进入雨雪最强时段" },
   { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" }
 ]

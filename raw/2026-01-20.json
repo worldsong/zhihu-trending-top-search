@@ -1,9 +1,5 @@
 [
-  { "query": "轧戏封面", "display_query": "轧戏封面" },
-  {
-    "query": "网红餐厅圈养鲨鱼企鹅供观赏引争议",
-    "display_query": "网红餐厅圈养鲨鱼企鹅供观赏引争议"
-  },
+  { "query": "火箭vs森林狼", "display_query": "火箭vs森林狼" },
   { "query": "河南进入雨雪最强时段", "display_query": "河南进入雨雪最强时段" },
   {
     "query": "为什么现在不创造新的汉字了",
@@ -24,11 +20,16 @@
     "display_query": "如何用最少的钱打扮自己"
   },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
-  { "query": "blg战胜tes", "display_query": "blg战胜tes" },
   {
     "query": "最顶级的情绪价值是什么",
     "display_query": "最顶级的情绪价值是什么"
   },
+  { "query": "轧戏封面", "display_query": "轧戏封面" },
+  {
+    "query": "网红餐厅圈养鲨鱼企鹅供观赏引争议",
+    "display_query": "网红餐厅圈养鲨鱼企鹅供观赏引争议"
+  },
+  { "query": "blg战胜tes", "display_query": "blg战胜tes" },
   {
     "query": "人在什么情况下成长的最快",
     "display_query": "人在什么情况下成长的最快"

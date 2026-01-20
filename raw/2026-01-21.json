@@ -1,9 +1,5 @@
 [
-  { "query": "警方通报叶文斌失联案", "display_query": "警方通报叶文斌失联案" },
-  {
-    "query": "游戏《鲁特里一家死了》追加官方中文版",
-    "display_query": "游戏《鲁特里一家死了》追加官方中文版"
-  },
+  { "query": "blg战胜tes", "display_query": "blg战胜tes" },
   { "query": "河南进入雨雪最强时段", "display_query": "河南进入雨雪最强时段" },
   {
     "query": "为什么现在不创造新的汉字了",
@@ -24,9 +20,13 @@
   },
   { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
   { "query": "挣钱的本质是什么", "display_query": "挣钱的本质是什么" },
-  { "query": "blg战胜tes", "display_query": "blg战胜tes" },
   {
     "query": "从体制内出去的人会后悔吗",
     "display_query": "从体制内出去的人会后悔吗"
+  },
+  { "query": "警方通报叶文斌失联案", "display_query": "警方通报叶文斌失联案" },
+  {
+    "query": "游戏《鲁特里一家死了》追加官方中文版",
+    "display_query": "游戏《鲁特里一家死了》追加官方中文版"
   }
 ]

@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 21 2026 01:18:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 21 2026 02:18:24 GMT+0800 (China Standard Time) -->
 
-1. [警方通报叶文斌失联案](https://www.zhihu.com/search?q=警方通报叶文斌失联案)
-1. [游戏《鲁特里一家死了》追加官方中文版](https://www.zhihu.com/search?q=游戏《鲁特里一家死了》追加官方中文版)
+1. [blg战胜tes](https://www.zhihu.com/search?q=blg战胜tes)
 1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=河南进入雨雪最强时段)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
 1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=哪些东西已经贵到不值得买了)
@@ -27,8 +26,9 @@
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=黄金什么时候会大跌)
 1. [挣钱的本质是什么](https://www.zhihu.com/search?q=挣钱的本质是什么)
-1. [blg战胜tes](https://www.zhihu.com/search?q=blg战胜tes)
 1. [从体制内出去的人会后悔吗](https://www.zhihu.com/search?q=从体制内出去的人会后悔吗)
+1. [警方通报叶文斌失联案](https://www.zhihu.com/search?q=警方通报叶文斌失联案)
+1. [游戏《鲁特里一家死了》追加官方中文版](https://www.zhihu.com/search?q=游戏《鲁特里一家死了》追加官方中文版)
 
 <!-- END -->
 

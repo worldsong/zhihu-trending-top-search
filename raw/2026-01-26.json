@@ -1,11 +1,17 @@
 [
-  { "query": "腊八节", "display_query": "腊八节" },
-  { "query": "亚洲杯", "display_query": "亚洲杯" },
+  {
+    "query": "江苏一工程挖到7000年遗址",
+    "display_query": "江苏一工程挖到7000年遗址"
+  },
+  {
+    "query": "买钻戒送银杯如今身价被反超",
+    "display_query": "买钻戒送银杯如今身价被反超"
+  },
   {
     "query": "你看过最感动的短篇漫画是什么",
     "display_query": "你看过最感动的短篇漫画是什么"
   },
-  { "query": "勇士vs森林狼", "display_query": "勇士vs森林狼" },
+  { "query": "山东gdp突破10万亿元", "display_query": "山东gdp突破10万亿元" },
   { "query": "腊八美食图鉴", "display_query": "腊八美食图鉴" },
   { "query": "阿森纳vs曼联", "display_query": "阿森纳vs曼联" },
   { "query": "你们觉得穷游有意义吗", "display_query": "你们觉得穷游有意义吗" },
@@ -18,6 +24,9 @@
     "display_query": "北方用饺子接待客人是重视吗"
   },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  { "query": "腊八节", "display_query": "腊八节" },
+  { "query": "亚洲杯", "display_query": "亚洲杯" },
+  { "query": "勇士vs森林狼", "display_query": "勇士vs森林狼" },
   {
     "query": "贾国龙回应罗永浩污蔑诽谤",
     "display_query": "贾国龙回应罗永浩污蔑诽谤"

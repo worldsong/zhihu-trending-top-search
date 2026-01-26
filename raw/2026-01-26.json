@@ -2,6 +2,11 @@
   { "query": "腊八节", "display_query": "腊八节" },
   { "query": "亚洲杯", "display_query": "亚洲杯" },
   {
+    "query": "贾国龙回应罗永浩污蔑诽谤",
+    "display_query": "贾国龙回应罗永浩污蔑诽谤"
+  },
+  { "query": "贾国龙第二篇回应", "display_query": "贾国龙第二篇回应" },
+  {
     "query": "程序员周末猝死后还收到工作消息",
     "display_query": "程序员周末猝死后还收到工作消息"
   },

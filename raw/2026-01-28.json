@@ -1,5 +1,8 @@
 [
-  { "query": "国际银价缘何破百", "display_query": "国际银价缘何破百" },
+  {
+    "query": "为什么现在不创造新的汉字了",
+    "display_query": "为什么现在不创造新的汉字了"
+  },
   { "query": "如何评价大冰", "display_query": "如何评价大冰" },
   { "query": "勇士vs森林狼", "display_query": "勇士vs森林狼" },
   { "query": "腊八美食图鉴", "display_query": "腊八美食图鉴" },
@@ -17,5 +20,6 @@
   {
     "query": "北方用饺子接待客人是重视吗",
     "display_query": "北方用饺子接待客人是重视吗"
-  }
+  },
+  { "query": "国际银价缘何破百", "display_query": "国际银价缘何破百" }
 ]

@@ -1,9 +1,6 @@
 [
-  {
-    "query": "妈妈辅导作业崩溃吞下整罐安眠药",
-    "display_query": "妈妈辅导作业崩溃吞下整罐安眠药"
-  },
-  { "query": "Rodin Gen-2正式发布", "display_query": "Rodin Gen-2正式发布" },
+  { "query": "勇士vs森林狼", "display_query": "勇士vs森林狼" },
+  { "query": "火箭vs灰熊", "display_query": "火箭vs灰熊" },
   {
     "query": "哪些东西已经贵到不值得买了",
     "display_query": "哪些东西已经贵到不值得买了"
@@ -29,5 +26,10 @@
   {
     "query": "为什么欧洲人画不出动人的写意画",
     "display_query": "为什么欧洲人画不出动人的写意画"
-  }
+  },
+  {
+    "query": "妈妈辅导作业崩溃吞下整罐安眠药",
+    "display_query": "妈妈辅导作业崩溃吞下整罐安眠药"
+  },
+  { "query": "Rodin Gen-2正式发布", "display_query": "Rodin Gen-2正式发布" }
 ]

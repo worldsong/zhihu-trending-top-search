@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 28 2026 10:55:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 28 2026 12:00:58 GMT+0800 (China Standard Time) -->
 
+1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
 1. [如何评价大冰](https://www.zhihu.com/search?q=如何评价大冰)
 1. [勇士vs森林狼](https://www.zhihu.com/search?q=勇士vs森林狼)
 1. [腊八美食图鉴](https://www.zhihu.com/search?q=腊八美食图鉴)
@@ -27,7 +28,6 @@
 1. [你觉得学英语最大的阻碍是什么](https://www.zhihu.com/search?q=你觉得学英语最大的阻碍是什么)
 1. [北方用饺子接待客人是重视吗](https://www.zhihu.com/search?q=北方用饺子接待客人是重视吗)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
-1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
 1. [国际银价缘何破百](https://www.zhihu.com/search?q=国际银价缘何破百)
 
 <!-- END -->

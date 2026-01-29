@@ -1,8 +1,6 @@
 [
-  {
-    "query": "美国冬季风暴已致至少25死",
-    "display_query": "美国冬季风暴已致至少25死"
-  },
+  { "query": "美联储维持利率不变", "display_query": "美联储维持利率不变" },
+  { "query": "勇士vs森林狼", "display_query": "勇士vs森林狼" },
   { "query": "火箭vs灰熊", "display_query": "火箭vs灰熊" },
   {
     "query": "哪些东西已经贵到不值得买了",
@@ -27,6 +25,10 @@
   },
   { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
   {
+    "query": "美国冬季风暴已致至少25死",
+    "display_query": "美国冬季风暴已致至少25死"
+  },
+  {
     "query": "为什么欧洲人画不出动人的写意画",
     "display_query": "为什么欧洲人画不出动人的写意画"
   },
@@ -38,7 +40,6 @@
     "query": "10岁白血病男孩豪豪离世",
     "display_query": "10岁白血病男孩豪豪离世"
   },
-  { "query": "勇士vs森林狼", "display_query": "勇士vs森林狼" },
   {
     "query": "妈妈辅导作业崩溃吞下整罐安眠药",
     "display_query": "妈妈辅导作业崩溃吞下整罐安眠药"

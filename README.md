@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 29 2026 12:59:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 29 2026 13:42:03 GMT+0800 (China Standard Time) -->
 
-1. [美国冬季风暴已致至少25死](https://www.zhihu.com/search?q=美国冬季风暴已致至少25死)
+1. [美联储维持利率不变](https://www.zhihu.com/search?q=美联储维持利率不变)
+1. [勇士vs森林狼](https://www.zhihu.com/search?q=勇士vs森林狼)
 1. [火箭vs灰熊](https://www.zhihu.com/search?q=火箭vs灰熊)
 1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=哪些东西已经贵到不值得买了)
 1. [你觉得学英语最大的阻碍是什么](https://www.zhihu.com/search?q=你觉得学英语最大的阻碍是什么)
@@ -26,10 +27,10 @@
 1. [什么时候开始意识到自己老了](https://www.zhihu.com/search?q=什么时候开始意识到自己老了)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=黄金什么时候会大跌)
+1. [美国冬季风暴已致至少25死](https://www.zhihu.com/search?q=美国冬季风暴已致至少25死)
 1. [为什么欧洲人画不出动人的写意画](https://www.zhihu.com/search?q=为什么欧洲人画不出动人的写意画)
 1. [不当催婚催生可能涉嫌违法](https://www.zhihu.com/search?q=不当催婚催生可能涉嫌违法)
 1. [10岁白血病男孩豪豪离世](https://www.zhihu.com/search?q=10岁白血病男孩豪豪离世)
-1. [勇士vs森林狼](https://www.zhihu.com/search?q=勇士vs森林狼)
 1. [妈妈辅导作业崩溃吞下整罐安眠药](https://www.zhihu.com/search?q=妈妈辅导作业崩溃吞下整罐安眠药)
 1. [Rodin Gen-2正式发布](https://www.zhihu.com/search?q=Rodin Gen-2正式发布)
 

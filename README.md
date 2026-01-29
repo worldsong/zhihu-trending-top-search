@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jan 29 2026 14:30:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jan 29 2026 15:31:32 GMT+0800 (China Standard Time) -->
 
 1. [美联储维持利率不变](https://www.zhihu.com/search?q=美联储维持利率不变)
 1. [勇士vs森林狼](https://www.zhihu.com/search?q=勇士vs森林狼)
+1. [湖人vs骑士](https://www.zhihu.com/search?q=湖人vs骑士)
 1. [火箭vs灰熊](https://www.zhihu.com/search?q=火箭vs灰熊)
 1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=哪些东西已经贵到不值得买了)
 1. [你觉得学英语最大的阻碍是什么](https://www.zhihu.com/search?q=你觉得学英语最大的阻碍是什么)

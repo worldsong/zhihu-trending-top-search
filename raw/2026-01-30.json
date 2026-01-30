@@ -1,6 +1,12 @@
 [
-  { "query": "美联储维持利率不变", "display_query": "美联储维持利率不变" },
-  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  {
+    "query": "中国科学家研发出柔性AI芯片",
+    "display_query": "中国科学家研发出柔性AI芯片"
+  },
+  {
+    "query": "阿里正式发布千问最强模型来了",
+    "display_query": "阿里正式发布千问最强模型来了"
+  },
   {
     "query": "沪深两市成交额突破5000亿元",
     "display_query": "沪深两市成交额突破5000亿元"
@@ -21,6 +27,8 @@
     "display_query": "哪些东西已经贵到不值得买了"
   },
   { "query": "中餐和西餐哪个油腻", "display_query": "中餐和西餐哪个油腻" },
+  { "query": "美联储维持利率不变", "display_query": "美联储维持利率不变" },
+  { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "王楚钦寄来明信片", "display_query": "王楚钦寄来明信片" },
   {
     "query": "刘强东宿迁光明村送万件年货",

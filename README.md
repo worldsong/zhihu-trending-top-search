@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 30 2026 19:18:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 30 2026 20:25:58 GMT+0800 (China Standard Time) -->
 
-1. [美联储维持利率不变](https://www.zhihu.com/search?q=美联储维持利率不变)
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
+1. [中国科学家研发出柔性AI芯片](https://www.zhihu.com/search?q=中国科学家研发出柔性AI芯片)
+1. [阿里正式发布千问最强模型来了](https://www.zhihu.com/search?q=阿里正式发布千问最强模型来了)
 1. [沪深两市成交额突破5000亿元](https://www.zhihu.com/search?q=沪深两市成交额突破5000亿元)
 1. [美联储宣布维持基准利率不变](https://www.zhihu.com/search?q=美联储宣布维持基准利率不变)
 1. [奇拉比为什么能打过佐助](https://www.zhihu.com/search?q=奇拉比为什么能打过佐助)
@@ -27,6 +27,8 @@
 1. [你们觉得穷游有意义吗](https://www.zhihu.com/search?q=你们觉得穷游有意义吗)
 1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=哪些东西已经贵到不值得买了)
 1. [中餐和西餐哪个油腻](https://www.zhihu.com/search?q=中餐和西餐哪个油腻)
+1. [美联储维持利率不变](https://www.zhihu.com/search?q=美联储维持利率不变)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=提升自己最快的方式)
 1. [王楚钦寄来明信片](https://www.zhihu.com/search?q=王楚钦寄来明信片)
 1. [刘强东宿迁光明村送万件年货](https://www.zhihu.com/search?q=刘强东宿迁光明村送万件年货)
 1. [北方用饺子接待客人是重视吗](https://www.zhihu.com/search?q=北方用饺子接待客人是重视吗)

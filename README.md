@@ -15,9 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 02 2026 15:41:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 02 2026 16:27:40 GMT+0800 (China Standard Time) -->
 
-1. [网传陕西某高校买卖职称评教授](https://www.zhihu.com/search?q=网传陕西某高校买卖职称评教授)
+1. [每次挣钱低于 1000 元免增值税](https://www.zhihu.com/search?q=每次挣钱低于
+   1000 元免增值税)
+1. [张兰起诉播客《M字闲聊》](https://www.zhihu.com/search?q=张兰起诉播客《M字闲聊》)
 1. [女子「上班头痛，下班就缓解」](https://www.zhihu.com/search?q=女子「上班头痛，下班就缓解」)
 1. [高盛 CEO 建议年轻人多投股票少投金](https://www.zhihu.com/search?q=高盛 CEO
    建议年轻人多投股票少投金)
@@ -27,6 +29,7 @@
 1. [缅北徐老发犯罪集团案宣判一人死缓](https://www.zhihu.com/search?q=缅北徐老发犯罪集团案宣判一人死缓)
 1. [好想来回应被质疑称不准](https://www.zhihu.com/search?q=好想来回应被质疑称不准)
 1. [快递小哥反对春节不打烊](https://www.zhihu.com/search?q=快递小哥反对春节不打烊)
+1. [网传陕西某高校买卖职称评教授](https://www.zhihu.com/search?q=网传陕西某高校买卖职称评教授)
 1. [黄金、白银暴跌](https://www.zhihu.com/search?q=黄金、白银暴跌)
 1. [科学家种出爆米花味的番茄](https://www.zhihu.com/search?q=科学家种出爆米花味的番茄)
 1. [12306称第三方抢票是攻击式访问](https://www.zhihu.com/search?q=12306称第三方抢票是攻击式访问)

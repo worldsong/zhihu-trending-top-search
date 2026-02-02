@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 02 2026 20:29:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 02 2026 21:52:24 GMT+0800 (China Standard Time) -->
 
-1. [A股](https://www.zhihu.com/search?q=A股)
-1. [热刺vs曼城](https://www.zhihu.com/search?q=热刺vs曼城)
+1. [黄金白银断崖式崩盘](https://www.zhihu.com/search?q=黄金白银断崖式崩盘)
 1. [公牛vs热火](https://www.zhihu.com/search?q=公牛vs热火)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen战胜hle)
 1. [中餐和西餐哪个油腻](https://www.zhihu.com/search?q=中餐和西餐哪个油腻)
@@ -27,6 +26,9 @@
 1. [星链真的可以取代5G吗](https://www.zhihu.com/search?q=星链真的可以取代5G吗)
 1. [为什么要频繁记录自己](https://www.zhihu.com/search?q=为什么要频繁记录自己)
 1. [猪肉好吃又简单的做法](https://www.zhihu.com/search?q=猪肉好吃又简单的做法)
+1. [如何戒掉完美主义](https://www.zhihu.com/search?q=如何戒掉完美主义)
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [热刺vs曼城](https://www.zhihu.com/search?q=热刺vs曼城)
 1. [每次挣钱低于 1000 元免增值税](https://www.zhihu.com/search?q=每次挣钱低于
    1000 元免增值税)
 1. [张兰起诉播客《M字闲聊》](https://www.zhihu.com/search?q=张兰起诉播客《M字闲聊》)

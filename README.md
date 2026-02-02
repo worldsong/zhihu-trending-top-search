@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 02 2026 07:13:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 02 2026 09:01:36 GMT+0800 (China Standard Time) -->
 
 1. [网传陕西某高校买卖职称评教授](https://www.zhihu.com/search?q=网传陕西某高校买卖职称评教授)
 1. [女子「上班头痛，下班就缓解」](https://www.zhihu.com/search?q=女子「上班头痛，下班就缓解」)
@@ -23,6 +23,7 @@
    手指或截肢)
 1. [146光年外发现一颗冰冻地球](https://www.zhihu.com/search?q=146光年外发现一颗冰冻地球)
 1. [中国不仅是世界工厂更愿做世界市场](https://www.zhihu.com/search?q=中国不仅是世界工厂更愿做世界市场)
+1. [猝死程序员公司HR离职](https://www.zhihu.com/search?q=猝死程序员公司HR离职)
 1. [好想来回应被质疑称不准](https://www.zhihu.com/search?q=好想来回应被质疑称不准)
 1. [「反向春运」火了](https://www.zhihu.com/search?q=「反向春运」火了)
 1. [快递小哥反对春节不打烊](https://www.zhihu.com/search?q=快递小哥反对春节不打烊)

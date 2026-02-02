@@ -1,5 +1,6 @@
 [
-  { "query": "黄金白银断崖式崩盘", "display_query": "黄金白银断崖式崩盘" },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "热刺vs曼城", "display_query": "热刺vs曼城" },
   { "query": "公牛vs热火", "display_query": "公牛vs热火" },
   { "query": "gen战胜hle", "display_query": "gen战胜hle" },
   { "query": "中餐和西餐哪个油腻", "display_query": "中餐和西餐哪个油腻" },
@@ -14,9 +15,8 @@
   { "query": "星链真的可以取代5G吗", "display_query": "星链真的可以取代5G吗" },
   { "query": "为什么要频繁记录自己", "display_query": "为什么要频繁记录自己" },
   { "query": "猪肉好吃又简单的做法", "display_query": "猪肉好吃又简单的做法" },
+  { "query": "黄金白银断崖式崩盘", "display_query": "黄金白银断崖式崩盘" },
   { "query": "如何戒掉完美主义", "display_query": "如何戒掉完美主义" },
-  { "query": "A股", "display_query": "A股" },
-  { "query": "热刺vs曼城", "display_query": "热刺vs曼城" },
   {
     "query": "每次挣钱低于 1000 元免增值税",
     "display_query": "每次挣钱低于 1000 元免增值税"

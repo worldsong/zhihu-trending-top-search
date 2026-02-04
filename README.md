@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 04 2026 23:29:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Feb 05 2026 01:35:21 GMT+0800 (China Standard Time) -->
 
 1. [立春](https://www.zhihu.com/search?q=立春)
 1. [春运第一天](https://www.zhihu.com/search?q=春运第一天)
@@ -25,31 +25,8 @@
 1. [今晚油价上调](https://www.zhihu.com/search?q=今晚油价上调)
 1. [星穹铁道千星纪游PV](https://www.zhihu.com/search?q=星穹铁道千星纪游PV)
 1. [美国斩杀线是什么](https://www.zhihu.com/search?q=美国斩杀线是什么)
-1. [「反向春运」火了](https://www.zhihu.com/search?q=「反向春运」火了)
-1. [金晨道歉](https://www.zhihu.com/search?q=金晨道歉)
-1. [AI建立社交网络Moltbook](https://www.zhihu.com/search?q=AI建立社交网络Moltbook)
-1. [女孩感染烟曲霉 脑子被啃20个洞](https://www.zhihu.com/search?q=女孩感染烟曲霉
-   脑子被啃20个洞)
-1. [春节假期火车票开售](https://www.zhihu.com/search?q=春节假期火车票开售)
-1. [员工单日如厕6小时21分钟被解雇](https://www.zhihu.com/search?q=员工单日如厕6小时21分钟被解雇)
-1. [小鹏机器人首秀摔趴被抬走](https://www.zhihu.com/search?q=小鹏机器人首秀摔趴被抬走)
-1. [在大银幕看《闪灵》是什么体验](https://www.zhihu.com/search?q=在大银幕看《闪灵》是什么体验)
-1. [2026 年春运正式开启](https://www.zhihu.com/search?q=2026 年春运正式开启)
-1. [三大运营商电信服务增值税率调至9%](https://www.zhihu.com/search?q=三大运营商电信服务增值税率调至9%)
-1. [张兰起诉播客《M字闲聊》](https://www.zhihu.com/search?q=张兰起诉播客《M字闲聊》)
-1. [詹姆斯团队幕后筹划退役巡演](https://www.zhihu.com/search?q=詹姆斯团队幕后筹划退役巡演)
-1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)
-1. [北方用饺子接待客人是重视吗](https://www.zhihu.com/search?q=北方用饺子接待客人是重视吗)
-1. [极简真的养人吗](https://www.zhihu.com/search?q=极简真的养人吗)
-1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=人在什么情况下成长的最快)
-1. [什么样的版图可以称为美观](https://www.zhihu.com/search?q=什么样的版图可以称为美观)
-1. [黄金什么时候会暴跌](https://www.zhihu.com/search?q=黄金什么时候会暴跌)
-1. [从体制内出去的人会后悔吗](https://www.zhihu.com/search?q=从体制内出去的人会后悔吗)
-1. [周杰伦陈奕迅王俊凯聚餐合照](https://www.zhihu.com/search?q=周杰伦陈奕迅王俊凯聚餐合照)
-1. [国投瑞银回应白银LOF巨震](https://www.zhihu.com/search?q=国投瑞银回应白银LOF巨震)
-1. [寒武纪跳水](https://www.zhihu.com/search?q=寒武纪跳水)
-1. [记者卧底调查精神病医院骗保内幕](https://www.zhihu.com/search?q=记者卧底调查精神病医院骗保内幕)
-1. [如何戒掉完美主义](https://www.zhihu.com/search?q=如何戒掉完美主义)
+1. [贾国龙回应罗永浩污蔑诽谤](https://www.zhihu.com/search?q=贾国龙回应罗永浩污蔑诽谤)
+1. [贾国龙第二篇回应](https://www.zhihu.com/search?q=贾国龙第二篇回应)
 
 <!-- END -->
 

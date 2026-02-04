@@ -1,12 +1,5 @@
 [
-  {
-    "query": "周杰伦陈奕迅王俊凯聚餐合照",
-    "display_query": "周杰伦陈奕迅王俊凯聚餐合照"
-  },
-  {
-    "query": "国投瑞银回应白银LOF巨震",
-    "display_query": "国投瑞银回应白银LOF巨震"
-  },
+  { "query": "立春", "display_query": "立春" },
   { "query": "格莱美红毯", "display_query": "格莱美红毯" },
   { "query": "热刺vs曼城", "display_query": "热刺vs曼城" },
   {
@@ -27,10 +20,17 @@
     "display_query": "什么样的版图可以称为美观"
   },
   { "query": "黄金什么时候会暴跌", "display_query": "黄金什么时候会暴跌" },
-  { "query": "立春", "display_query": "立春" },
   {
     "query": "从体制内出去的人会后悔吗",
     "display_query": "从体制内出去的人会后悔吗"
+  },
+  {
+    "query": "周杰伦陈奕迅王俊凯聚餐合照",
+    "display_query": "周杰伦陈奕迅王俊凯聚餐合照"
+  },
+  {
+    "query": "国投瑞银回应白银LOF巨震",
+    "display_query": "国投瑞银回应白银LOF巨震"
   },
   { "query": "寒武纪跳水", "display_query": "寒武纪跳水" },
   {

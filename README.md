@@ -15,9 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Feb 04 2026 16:25:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 04 2026 17:30:15 GMT+0800 (China Standard Time) -->
 
 1. [立春](https://www.zhihu.com/search?q=立春)
+1. [AI建立社交网络Moltbook](https://www.zhihu.com/search?q=AI建立社交网络Moltbook)
+1. [女孩感染烟曲霉 脑子被啃20个洞](https://www.zhihu.com/search?q=女孩感染烟曲霉
+   脑子被啃20个洞)
+1. [春节假期火车票开售](https://www.zhihu.com/search?q=春节假期火车票开售)
+1. [员工单日如厕6小时21分钟被解雇](https://www.zhihu.com/search?q=员工单日如厕6小时21分钟被解雇)
+1. [小鹏机器人首秀摔趴被抬走](https://www.zhihu.com/search?q=小鹏机器人首秀摔趴被抬走)
+1. [在大银幕看《闪灵》是什么体验](https://www.zhihu.com/search?q=在大银幕看《闪灵》是什么体验)
+1. [2026 年春运正式开启](https://www.zhihu.com/search?q=2026 年春运正式开启)
+1. [三大运营商电信服务增值税率调至9%](https://www.zhihu.com/search?q=三大运营商电信服务增值税率调至9%)
+1. [詹姆斯团队幕后筹划退役巡演](https://www.zhihu.com/search?q=詹姆斯团队幕后筹划退役巡演)
 1. [格莱美红毯](https://www.zhihu.com/search?q=格莱美红毯)
 1. [热刺vs曼城](https://www.zhihu.com/search?q=热刺vs曼城)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)

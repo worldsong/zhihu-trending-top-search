@@ -1,8 +1,5 @@
 [
-  {
-    "query": "员工酸菜池中吐痰老板被罚百万",
-    "display_query": "员工酸菜池中吐痰老板被罚百万"
-  },
+  { "query": "立春", "display_query": "立春" },
   { "query": "春运第一天", "display_query": "春运第一天" },
   { "query": "格莱美红毯", "display_query": "格莱美红毯" },
   { "query": "湖人vs篮网", "display_query": "湖人vs篮网" },
@@ -15,5 +12,8 @@
     "display_query": "贾国龙回应罗永浩污蔑诽谤"
   },
   { "query": "贾国龙第二篇回应", "display_query": "贾国龙第二篇回应" },
-  { "query": "立春", "display_query": "立春" }
+  {
+    "query": "员工酸菜池中吐痰老板被罚百万",
+    "display_query": "员工酸菜池中吐痰老板被罚百万"
+  }
 ]

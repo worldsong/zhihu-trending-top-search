@@ -1,9 +1,5 @@
 [
-  {
-    "query": "内向特质劣势明显为何仍存在",
-    "display_query": "内向特质劣势明显为何仍存在"
-  },
-  { "query": "如何戒掉完美主义", "display_query": "如何戒掉完美主义" },
+  { "query": "苏翊鸣晋级大跳台决赛", "display_query": "苏翊鸣晋级大跳台决赛" },
   { "query": "A股", "display_query": "A股" },
   {
     "query": "暴雪寒潮大风三预警齐发",
@@ -21,6 +17,10 @@
     "query": "什么样的版图可以称为美观",
     "display_query": "什么样的版图可以称为美观"
   },
-  { "query": "苏翊鸣晋级大跳台决赛", "display_query": "苏翊鸣晋级大跳台决赛" },
-  { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" }
+  { "query": "黄金什么时候会大跌", "display_query": "黄金什么时候会大跌" },
+  {
+    "query": "内向特质劣势明显为何仍存在",
+    "display_query": "内向特质劣势明显为何仍存在"
+  },
+  { "query": "如何戒掉完美主义", "display_query": "如何戒掉完美主义" }
 ]

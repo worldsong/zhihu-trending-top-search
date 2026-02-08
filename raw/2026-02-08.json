@@ -1,12 +1,5 @@
 [
-  {
-    "query": "为何总觉得苏式园林很压抑",
-    "display_query": "为何总觉得苏式园林很压抑"
-  },
-  {
-    "query": "两广常吃外省少见的东西",
-    "display_query": "两广常吃外省少见的东西"
-  },
+  { "query": "任天堂直面会", "display_query": "任天堂直面会" },
   { "query": "苏翊鸣晋级大跳台决赛", "display_query": "苏翊鸣晋级大跳台决赛" },
   { "query": "A股", "display_query": "A股" },
   {
@@ -15,13 +8,21 @@
   },
   { "query": "爱泼斯坦", "display_query": "爱泼斯坦" },
   { "query": "NBA交易截止日", "display_query": "NBA交易截止日" },
+  { "query": "王楚钦 vs 张本智和", "display_query": "王楚钦 vs 张本智和" },
   { "query": "王曼昱3比0赤江夏星", "display_query": "王曼昱3比0赤江夏星" },
   {
     "query": "你见过哪些不动声色的善良",
     "display_query": "你见过哪些不动声色的善良"
   },
   { "query": "中餐和西餐哪个油腻", "display_query": "中餐和西餐哪个油腻" },
-  { "query": "任天堂直面会", "display_query": "任天堂直面会" },
+  {
+    "query": "为何总觉得苏式园林很压抑",
+    "display_query": "为何总觉得苏式园林很压抑"
+  },
+  {
+    "query": "两广常吃外省少见的东西",
+    "display_query": "两广常吃外省少见的东西"
+  },
   {
     "query": "什么样的版图可以称为美观",
     "display_query": "什么样的版图可以称为美观"

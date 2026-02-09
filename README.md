@@ -15,14 +15,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 09 2026 17:45:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 09 2026 18:43:50 GMT+0800 (China Standard Time) -->
 
-1. [我国成功发射可重复使用试验航天器](https://www.zhihu.com/search?q=我国成功发射可重复使用试验航天器)
-1. [王楚钦 vs 张本智和](https://www.zhihu.com/search?q=王楚钦 vs 张本智和)
+1. [澳洲女孩日本滑雪场背包卡缆车身亡](https://www.zhihu.com/search?q=澳洲女孩日本滑雪场背包卡缆车身亡)
 1. [2026 米兰冬奥会](https://www.zhihu.com/search?q=2026 米兰冬奥会)
+1. [OpenAI发布GPT-5.3-Codex](https://www.zhihu.com/search?q=OpenAI发布GPT-5.3-Codex)
+1. [王楚钦 vs 张本智和](https://www.zhihu.com/search?q=王楚钦 vs 张本智和)
+1. [上海黑诊所「放血排邪」惹众怒](https://www.zhihu.com/search?q=上海黑诊所「放血排邪」惹众怒)
+1. [谷爱凌自曝脑震荡险情](https://www.zhihu.com/search?q=谷爱凌自曝脑震荡险情)
+1. [OpenRouter 神秘模型「PonyAlpha」](https://www.zhihu.com/search?q=OpenRouter
+   神秘模型「PonyAlpha」)
+1. [跑腿商家推出 999 元代磕头服务](https://www.zhihu.com/search?q=跑腿商家推出
+   999 元代磕头服务)
+1. [春节宠物应激安置处理指南](https://www.zhihu.com/search?q=春节宠物应激安置处理指南)
+1. [为什么说打击盗猎也是在重建秩序](https://www.zhihu.com/search?q=为什么说打击盗猎也是在重建秩序)
+1. [我国成功发射可重复使用试验航天器](https://www.zhihu.com/search?q=我国成功发射可重复使用试验航天器)
 1. [c罗罢赛](https://www.zhihu.com/search?q=c罗罢赛)
 1. [取消中高考是早晚的事](https://www.zhihu.com/search?q=取消中高考是早晚的事)
-1. [OpenAI发布GPT-5.3-Codex](https://www.zhihu.com/search?q=OpenAI发布GPT-5.3-Codex)
 1. [比特币跌破6.5万美元](https://www.zhihu.com/search?q=比特币跌破6.5万美元)
 1. [米兰冬奥会爆发诺如病毒
    部分比赛延迟](https://www.zhihu.com/search?q=米兰冬奥会爆发诺如病毒

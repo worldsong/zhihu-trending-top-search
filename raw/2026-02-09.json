@@ -1,8 +1,7 @@
 [
-  { "query": "苏翊鸣晋级大跳台决赛", "display_query": "苏翊鸣晋级大跳台决赛" },
   {
-    "query": "我国成功发射可重复使用试验航天器",
-    "display_query": "我国成功发射可重复使用试验航天器"
+    "query": "中国汽车不再使用隐藏式车门把手",
+    "display_query": "中国汽车不再使用隐藏式车门把手"
   },
   { "query": "多家银行上调存款利率", "display_query": "多家银行上调存款利率" },
   { "query": "多家快递春节不打烊", "display_query": "多家快递春节不打烊" },
@@ -15,6 +14,12 @@
   { "query": "孙颖莎vs王曼昱", "display_query": "孙颖莎vs王曼昱" },
   { "query": "快船vs森林狼", "display_query": "快船vs森林狼" },
   { "query": "勇士vs湖人", "display_query": "勇士vs湖人" },
+  { "query": "你们觉得穷游有意义吗", "display_query": "你们觉得穷游有意义吗" },
+  { "query": "苏翊鸣晋级大跳台决赛", "display_query": "苏翊鸣晋级大跳台决赛" },
+  {
+    "query": "我国成功发射可重复使用试验航天器",
+    "display_query": "我国成功发射可重复使用试验航天器"
+  },
   { "query": "王楚钦 vs 张本智和", "display_query": "王楚钦 vs 张本智和" },
   {
     "query": "澳洲女孩日本滑雪场背包卡缆车身亡",

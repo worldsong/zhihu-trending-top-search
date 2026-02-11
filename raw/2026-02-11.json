@@ -1,6 +1,12 @@
 [
-  { "query": "回家过年", "display_query": "回家过年" },
-  { "query": "任天堂直面会", "display_query": "任天堂直面会" },
+  {
+    "query": "没上过高中怎么自学数学啊",
+    "display_query": "没上过高中怎么自学数学啊"
+  },
+  {
+    "query": "一次性杯子致癌物超标3倍",
+    "display_query": "一次性杯子致癌物超标3倍"
+  },
   { "query": "多家快递春节不打烊", "display_query": "多家快递春节不打烊" },
   { "query": "春节档预售票房", "display_query": "春节档预售票房" },
   {
@@ -17,5 +23,7 @@
     "display_query": "你看过最感动的短篇漫画是什么"
   },
   { "query": "iG对战NIP", "display_query": "iG对战NIP" },
-  { "query": "二十三糖瓜粘", "display_query": "二十三糖瓜粘" }
+  { "query": "二十三糖瓜粘", "display_query": "二十三糖瓜粘" },
+  { "query": "回家过年", "display_query": "回家过年" },
+  { "query": "任天堂直面会", "display_query": "任天堂直面会" }
 ]

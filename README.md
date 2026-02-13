@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 14 2026 01:31:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 14 2026 02:28:31 GMT+0800 (China Standard Time) -->
 
-1. [独行侠vs湖人](https://www.zhihu.com/search?q=独行侠vs湖人)
+1. [湖北通报精神病院涉嫌骗保调查结果](https://www.zhihu.com/search?q=湖北通报精神病院涉嫌骗保调查结果)
+1. [韩国股民疯抢中国大模型龙头](https://www.zhihu.com/search?q=韩国股民疯抢中国大模型龙头)
 1. [二十四扫房子](https://www.zhihu.com/search?q=二十四扫房子)
 1. [1月70城房价出炉](https://www.zhihu.com/search?q=1月70城房价出炉)
 1. [你们觉得穷游有意义吗](https://www.zhihu.com/search?q=你们觉得穷游有意义吗)
@@ -26,6 +27,7 @@
 1. [如何评价VisualStudio2026](https://www.zhihu.com/search?q=如何评价VisualStudio2026)
 1. [有哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=有哪些东西已经贵到不值得买了)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=黄金什么时候会大跌)
+1. [独行侠vs湖人](https://www.zhihu.com/search?q=独行侠vs湖人)
 1. [黄金什么时候会暴跌](https://www.zhihu.com/search?q=黄金什么时候会暴跌)
 
 <!-- END -->

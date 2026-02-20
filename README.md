@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Feb 20 2026 13:09:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Feb 20 2026 14:38:47 GMT+0800 (China Standard Time) -->
 
-1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=古人过春节有什么风雅的习俗)
+1. [中国游客被困俄罗斯极光村超40小时](https://www.zhihu.com/search?q=中国游客被困俄罗斯极光村超40小时)
+1. [近百年哪一年的春节过的最早](https://www.zhihu.com/search?q=近百年哪一年的春节过的最早)
 1. [你心目中的年味是什么](https://www.zhihu.com/search?q=你心目中的年味是什么)
 1. [为什么成功人士的精力都非常旺盛](https://www.zhihu.com/search?q=为什么成功人士的精力都非常旺盛)
 1. [为什么基础科学很久没有重大突破了](https://www.zhihu.com/search?q=为什么基础科学很久没有重大突破了)
@@ -26,6 +27,7 @@
 1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=认知水平高的人有什么特征)
 1. [为什么葡萄酒在中国火不起来](https://www.zhihu.com/search?q=为什么葡萄酒在中国火不起来)
 1. [为什么社会反感独处的人](https://www.zhihu.com/search?q=为什么社会反感独处的人)
+1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=古人过春节有什么风雅的习俗)
 1. [如何变成一个特别会说话的人](https://www.zhihu.com/search?q=如何变成一个特别会说话的人)
 
 <!-- END -->

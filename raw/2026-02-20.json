@@ -1,8 +1,5 @@
 [
-  {
-    "query": "美伊在关键问题上仍存在较大分歧",
-    "display_query": "美伊在关键问题上仍存在较大分歧"
-  },
+  { "query": "掘金vs快船", "display_query": "掘金vs快船" },
   { "query": "快船战胜掘金", "display_query": "快船战胜掘金" },
   {
     "query": "古人过春节有什么风雅的习俗",
@@ -27,8 +24,11 @@
     "query": "为什么葡萄酒在中国火不起来",
     "display_query": "为什么葡萄酒在中国火不起来"
   },
+  {
+    "query": "美伊在关键问题上仍存在较大分歧",
+    "display_query": "美伊在关键问题上仍存在较大分歧"
+  },
   { "query": "你有什么高成本的爱好", "display_query": "你有什么高成本的爱好" },
-  { "query": "掘金vs快船", "display_query": "掘金vs快船" },
   {
     "query": "为什么社会反感独处的人",
     "display_query": "为什么社会反感独处的人"

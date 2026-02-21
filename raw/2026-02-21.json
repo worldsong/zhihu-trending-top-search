@@ -1,6 +1,5 @@
 [
-  { "query": "掘金vs快船", "display_query": "掘金vs快船" },
-  { "query": "正月初五接财神", "display_query": "正月初五接财神" },
+  { "query": "过年文案", "display_query": "过年文案" },
   { "query": "初五迎财神", "display_query": "初五迎财神" },
   { "query": "快船战胜掘金", "display_query": "快船战胜掘金" },
   {
@@ -13,6 +12,8 @@
   { "query": "ai马年祝福", "display_query": "ai马年祝福" },
   { "query": "ai 马年祝福", "display_query": "ai 马年祝福" },
   { "query": "AI 搜索马年祝福集卡", "display_query": "AI 搜索马年祝福集卡" },
+  { "query": "掘金vs快船", "display_query": "掘金vs快船" },
+  { "query": "正月初五接财神", "display_query": "正月初五接财神" },
   {
     "query": "美国首都因污水泄漏进入紧急状态",
     "display_query": "美国首都因污水泄漏进入紧急状态"

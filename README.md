@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 23 2026 22:42:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 23 2026 23:34:28 GMT+0800 (China Standard Time) -->
 
-1. [多地气温断崖式下跌](https://www.zhihu.com/search?q=多地气温断崖式下跌)
-1. [黄景瑜演技](https://www.zhihu.com/search?q=黄景瑜演技)
+1. [翟子路领衔主演不让江山](https://www.zhihu.com/search?q=翟子路领衔主演不让江山)
+1. [纯真年代的爱情开播](https://www.zhihu.com/search?q=纯真年代的爱情开播)
 1. [2026 米兰冬奥会](https://www.zhihu.com/search?q=2026 米兰冬奥会)
 1. [我的马年祝福](https://www.zhihu.com/search?q=我的马年祝福)
 1. [搜索马年祝福集卡](https://www.zhihu.com/search?q=搜索马年祝福集卡)
@@ -27,6 +27,8 @@
 1. [AI 搜索马年祝福集卡](https://www.zhihu.com/search?q=AI 搜索马年祝福集卡)
 1. [ai 搜索集卡享大礼](https://www.zhihu.com/search?q=ai 搜索集卡享大礼)
 1. [ai搜索集卡享大礼](https://www.zhihu.com/search?q=ai搜索集卡享大礼)
+1. [多地气温断崖式下跌](https://www.zhihu.com/search?q=多地气温断崖式下跌)
+1. [黄景瑜演技](https://www.zhihu.com/search?q=黄景瑜演技)
 1. [马上集卡分大礼](https://www.zhihu.com/search?q=马上集卡分大礼)
 1. [泡泡玛特创始人送小酒窝盲盒](https://www.zhihu.com/search?q=泡泡玛特创始人送小酒窝盲盒)
 1. [韩延回应星河入梦排片垫底](https://www.zhihu.com/search?q=韩延回应星河入梦排片垫底)

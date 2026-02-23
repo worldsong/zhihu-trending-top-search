@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Feb 23 2026 18:37:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Feb 23 2026 19:30:38 GMT+0800 (China Standard Time) -->
 
 1. [多地气温断崖式下跌](https://www.zhihu.com/search?q=多地气温断崖式下跌)
 1. [2026 米兰冬奥会](https://www.zhihu.com/search?q=2026 米兰冬奥会)

@@ -15,11 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Feb 24 2026 14:43:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Feb 24 2026 15:40:55 GMT+0800 (China Standard Time) -->
 
-1. [多地气温断崖式下跌](https://www.zhihu.com/search?q=多地气温断崖式下跌)
-1. [黄景瑜演技](https://www.zhihu.com/search?q=黄景瑜演技)
-1. [2026 米兰冬奥会](https://www.zhihu.com/search?q=2026 米兰冬奥会)
+1. [陈飞宇孙千新剧首播口碑](https://www.zhihu.com/search?q=陈飞宇孙千新剧首播口碑)
+1. [银发留学正在悄然兴起](https://www.zhihu.com/search?q=银发留学正在悄然兴起)
 1. [马年集卡赢大礼](https://www.zhihu.com/search?q=马年集卡赢大礼)
 1. [知乎春节回忆录](https://www.zhihu.com/search?q=知乎春节回忆录)
 1. [知乎回忆录](https://www.zhihu.com/search?q=知乎回忆录)
@@ -28,6 +27,10 @@
 1. [ai回忆录](https://www.zhihu.com/search?q=ai回忆录)
 1. [电影《飞驰人生 3》热映](https://www.zhihu.com/search?q=电影《飞驰人生
    3》热映)
+1. [武侠动作电影《镖人：风起大漠》热映](https://www.zhihu.com/search?q=武侠动作电影《镖人：风起大漠》热映)
+1. [多地气温断崖式下跌](https://www.zhihu.com/search?q=多地气温断崖式下跌)
+1. [黄景瑜演技](https://www.zhihu.com/search?q=黄景瑜演技)
+1. [2026 米兰冬奥会](https://www.zhihu.com/search?q=2026 米兰冬奥会)
 
 <!-- END -->
 

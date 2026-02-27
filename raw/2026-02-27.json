@@ -1,11 +1,7 @@
 [
   {
-    "query": "古巴与美籍快艇交火 4 死 6 伤",
-    "display_query": "古巴与美籍快艇交火 4 死 6 伤"
-  },
-  {
-    "query": "嘴角小水泡别乱处理严重可致命",
-    "display_query": "嘴角小水泡别乱处理严重可致命"
+    "query": "在职教师被开除已进入劳动仲裁",
+    "display_query": "在职教师被开除已进入劳动仲裁"
   },
   { "query": "新品驾到", "display_query": "新品驾到" },
   { "query": "WBG战胜IG", "display_query": "WBG战胜IG" },
@@ -21,7 +17,15 @@
     "display_query": "如何用最少的钱打扮自己"
   },
   { "query": "中餐和西餐哪个油腻", "display_query": "中餐和西餐哪个油腻" },
+  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  {
+    "query": "古巴与美籍快艇交火 4 死 6 伤",
+    "display_query": "古巴与美籍快艇交火 4 死 6 伤"
+  },
+  {
+    "query": "嘴角小水泡别乱处理严重可致命",
+    "display_query": "嘴角小水泡别乱处理严重可致命"
+  },
   { "query": "四六级成绩公布", "display_query": "四六级成绩公布" },
-  { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" },
-  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" }
+  { "query": "湖人不敌魔术", "display_query": "湖人不敌魔术" }
 ]

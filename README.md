@@ -15,35 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 28 2026 23:10:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 01 2026 00:12:17 GMT+0800 (China Standard Time) -->
 
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=湖人不敌魔术)
 1. [酒驾](https://www.zhihu.com/search?q=酒驾)
-1. [wbg战胜ig](https://www.zhihu.com/search?q=wbg战胜ig)
-1. [王楚钦3比0户上隼辅](https://www.zhihu.com/search?q=王楚钦3比0户上隼辅)
-1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
-1. [正月初十十全十美](https://www.zhihu.com/search?q=正月初十十全十美)
 1. [考研查分](https://www.zhihu.com/search?q=考研查分)
-1. [四六级查分](https://www.zhihu.com/search?q=四六级查分)
 1. [掘金vs雷霆](https://www.zhihu.com/search?q=掘金vs雷霆)
-1. [火箭vs魔术](https://www.zhihu.com/search?q=火箭vs魔术)
-1. [寒假作业冲刺倒计时](https://www.zhihu.com/search?q=寒假作业冲刺倒计时)
-1. [多地28日考研查分](https://www.zhihu.com/search?q=多地28日考研查分)
-1. [魅族回应暂停新手机项目](https://www.zhihu.com/search?q=魅族回应暂停新手机项目)
-1. [刘晓庆75岁正是演少女的年纪](https://www.zhihu.com/search?q=刘晓庆75岁正是演少女的年纪)
-1. [王劲松怒斥被ai盗用](https://www.zhihu.com/search?q=王劲松怒斥被ai盗用)
-1. [LPL第一赛段](https://www.zhihu.com/search?q=LPL第一赛段)
-1. [FIBA 向中国男篮及球迷致歉](https://www.zhihu.com/search?q=FIBA
-   向中国男篮及球迷致歉)
-1. [洗涤公司员工每天工作 19
-   小时](https://www.zhihu.com/search?q=洗涤公司员工每天工作 19 小时)
-1. [中国男篮客场逆转击败日本男篮](https://www.zhihu.com/search?q=中国男篮客场逆转击败日本男篮)
-1. [上海发布楼市沪七条](https://www.zhihu.com/search?q=上海发布楼市沪七条)
+1. [男篮世预赛](https://www.zhihu.com/search?q=男篮世预赛)
+1. [国内金饰克价突破1600元](https://www.zhihu.com/search?q=国内金饰克价突破1600元)
+1. [欧冠淘汰赛抽签仪式](https://www.zhihu.com/search?q=欧冠淘汰赛抽签仪式)
 1. [生化危机9里昂人设争议](https://www.zhihu.com/search?q=生化危机9里昂人设争议)
-1. [墨宝非宝称离婚4年男方过错方](https://www.zhihu.com/search?q=墨宝非宝称离婚4年男方过错方)
-1. [日落时分说爱成了4对cp](https://www.zhihu.com/search?q=日落时分说爱成了4对cp)
-1. [四六级成绩公布](https://www.zhihu.com/search?q=四六级成绩公布)
-1. [高考倒计时100天](https://www.zhihu.com/search?q=高考倒计时100天)
+1. [BLG战胜WBG赛后数据](https://www.zhihu.com/search?q=BLG战胜WBG赛后数据)
+1. [我的春节回忆录](https://www.zhihu.com/search?q=我的春节回忆录)
 
 <!-- END -->
 

@@ -15,18 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 28 2026 08:53:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 28 2026 11:02:59 GMT+0800 (China Standard Time) -->
 
-1. [四六级成绩公布](https://www.zhihu.com/search?q=四六级成绩公布)
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=湖人不敌魔术)
 1. [wbg战胜ig](https://www.zhihu.com/search?q=wbg战胜ig)
 1. [王楚钦3比0户上隼辅](https://www.zhihu.com/search?q=王楚钦3比0户上隼辅)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [正月初十十全十美](https://www.zhihu.com/search?q=正月初十十全十美)
+1. [考研查分](https://www.zhihu.com/search?q=考研查分)
 1. [四六级查分](https://www.zhihu.com/search?q=四六级查分)
 1. [火箭vs魔术](https://www.zhihu.com/search?q=火箭vs魔术)
 1. [LPL第一赛段](https://www.zhihu.com/search?q=LPL第一赛段)
 1. [生化危机9里昂人设争议](https://www.zhihu.com/search?q=生化危机9里昂人设争议)
+1. [四六级成绩公布](https://www.zhihu.com/search?q=四六级成绩公布)
 1. [高考倒计时100天](https://www.zhihu.com/search?q=高考倒计时100天)
 
 <!-- END -->

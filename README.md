@@ -15,12 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 28 2026 15:17:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 28 2026 16:14:07 GMT+0800 (China Standard Time) -->
 
-1. [FIBA 向中国男篮及球迷致歉](https://www.zhihu.com/search?q=FIBA
-   向中国男篮及球迷致歉)
-1. [洗涤公司员工每天工作 19
-   小时](https://www.zhihu.com/search?q=洗涤公司员工每天工作 19 小时)
+1. [湖人不敌魔术](https://www.zhihu.com/search?q=湖人不敌魔术)
 1. [酒驾](https://www.zhihu.com/search?q=酒驾)
 1. [wbg战胜ig](https://www.zhihu.com/search?q=wbg战胜ig)
 1. [王楚钦3比0户上隼辅](https://www.zhihu.com/search?q=王楚钦3比0户上隼辅)
@@ -29,10 +26,13 @@
 1. [考研查分](https://www.zhihu.com/search?q=考研查分)
 1. [四六级查分](https://www.zhihu.com/search?q=四六级查分)
 1. [火箭vs魔术](https://www.zhihu.com/search?q=火箭vs魔术)
+1. [LPL第一赛段](https://www.zhihu.com/search?q=LPL第一赛段)
+1. [FIBA 向中国男篮及球迷致歉](https://www.zhihu.com/search?q=FIBA
+   向中国男篮及球迷致歉)
+1. [洗涤公司员工每天工作 19
+   小时](https://www.zhihu.com/search?q=洗涤公司员工每天工作 19 小时)
 1. [中国男篮客场逆转击败日本男篮](https://www.zhihu.com/search?q=中国男篮客场逆转击败日本男篮)
 1. [上海发布楼市沪七条](https://www.zhihu.com/search?q=上海发布楼市沪七条)
-1. [湖人不敌魔术](https://www.zhihu.com/search?q=湖人不敌魔术)
-1. [LPL第一赛段](https://www.zhihu.com/search?q=LPL第一赛段)
 1. [生化危机9里昂人设争议](https://www.zhihu.com/search?q=生化危机9里昂人设争议)
 1. [墨宝非宝称离婚4年男方过错方](https://www.zhihu.com/search?q=墨宝非宝称离婚4年男方过错方)
 1. [日落时分说爱成了4对cp](https://www.zhihu.com/search?q=日落时分说爱成了4对cp)

@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 28 2026 21:29:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 28 2026 22:10:53 GMT+0800 (China Standard Time) -->
 
-1. [魅族回应暂停新手机项目](https://www.zhihu.com/search?q=魅族回应暂停新手机项目)
-1. [刘晓庆75岁正是演少女的年纪](https://www.zhihu.com/search?q=刘晓庆75岁正是演少女的年纪)
+1. [寒假作业冲刺倒计时](https://www.zhihu.com/search?q=寒假作业冲刺倒计时)
+1. [多地28日考研查分](https://www.zhihu.com/search?q=多地28日考研查分)
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=湖人不敌魔术)
 1. [酒驾](https://www.zhihu.com/search?q=酒驾)
 1. [wbg战胜ig](https://www.zhihu.com/search?q=wbg战胜ig)
@@ -27,6 +27,8 @@
 1. [正月初十十全十美](https://www.zhihu.com/search?q=正月初十十全十美)
 1. [考研查分](https://www.zhihu.com/search?q=考研查分)
 1. [四六级查分](https://www.zhihu.com/search?q=四六级查分)
+1. [魅族回应暂停新手机项目](https://www.zhihu.com/search?q=魅族回应暂停新手机项目)
+1. [刘晓庆75岁正是演少女的年纪](https://www.zhihu.com/search?q=刘晓庆75岁正是演少女的年纪)
 1. [掘金vs雷霆](https://www.zhihu.com/search?q=掘金vs雷霆)
 1. [火箭vs魔术](https://www.zhihu.com/search?q=火箭vs魔术)
 1. [王劲松怒斥被ai盗用](https://www.zhihu.com/search?q=王劲松怒斥被ai盗用)

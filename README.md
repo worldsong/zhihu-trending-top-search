@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Feb 28 2026 20:19:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Feb 28 2026 21:29:00 GMT+0800 (China Standard Time) -->
 
+1. [魅族回应暂停新手机项目](https://www.zhihu.com/search?q=魅族回应暂停新手机项目)
+1. [刘晓庆75岁正是演少女的年纪](https://www.zhihu.com/search?q=刘晓庆75岁正是演少女的年纪)
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=湖人不敌魔术)
 1. [酒驾](https://www.zhihu.com/search?q=酒驾)
 1. [wbg战胜ig](https://www.zhihu.com/search?q=wbg战胜ig)

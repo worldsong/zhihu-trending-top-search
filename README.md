@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Mar 01 2026 17:17:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 01 2026 18:12:42 GMT+0800 (China Standard Time) -->
 
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=湖人不敌魔术)
-1. [酒驾](https://www.zhihu.com/search?q=酒驾)
 1. [退税](https://www.zhihu.com/search?q=退税)
 1. [考研查分](https://www.zhihu.com/search?q=考研查分)
 1. [掘金vs雷霆](https://www.zhihu.com/search?q=掘金vs雷霆)
@@ -28,6 +27,7 @@
 1. [生化危机9里昂人设争议](https://www.zhihu.com/search?q=生化危机9里昂人设争议)
 1. [BLG战胜WBG赛后数据](https://www.zhihu.com/search?q=BLG战胜WBG赛后数据)
 1. [我的春节回忆录](https://www.zhihu.com/search?q=我的春节回忆录)
+1. [酒驾](https://www.zhihu.com/search?q=酒驾)
 
 <!-- END -->
 

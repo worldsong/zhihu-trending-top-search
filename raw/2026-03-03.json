@@ -1,6 +1,7 @@
 [
   { "query": "a股", "display_query": "a股" },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
+  { "query": "元宵节", "display_query": "元宵节" },
   { "query": "退税", "display_query": "退税" },
   { "query": "阿森纳vs切尔西", "display_query": "阿森纳vs切尔西" },
   { "query": "森林狼vs掘金", "display_query": "森林狼vs掘金" },

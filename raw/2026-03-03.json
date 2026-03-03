@@ -1,5 +1,5 @@
 [
-  { "query": "a股", "display_query": "a股" },
+  { "query": "寒假作业赶工现场", "display_query": "寒假作业赶工现场" },
   { "query": "提升自己最快的方式", "display_query": "提升自己最快的方式" },
   { "query": "元宵节", "display_query": "元宵节" },
   { "query": "阿森纳vs切尔西", "display_query": "阿森纳vs切尔西" },
@@ -9,6 +9,7 @@
     "query": "乐队打架什么乐器伤害最高",
     "display_query": "乐队打架什么乐器伤害最高"
   },
+  { "query": "王楚钦vs林昀儒", "display_query": "王楚钦vs林昀儒" },
   {
     "query": "三星手机会慢慢离开中国市场吗",
     "display_query": "三星手机会慢慢离开中国市场吗"
@@ -17,6 +18,7 @@
     "query": "你身边有没有资产A12的人",
     "display_query": "你身边有没有资产A12的人"
   },
+  { "query": "a股", "display_query": "a股" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   { "query": "退税", "display_query": "退税" },
   { "query": "椰树广告擦边", "display_query": "椰树广告擦边" },

@@ -1,12 +1,6 @@
 [
-  {
-    "query": "如何观测拍摄这轮红月亮",
-    "display_query": "如何观测拍摄这轮红月亮"
-  },
-  {
-    "query": "小米17国际售价约7800元",
-    "display_query": "小米17国际售价约7800元"
-  },
+  { "query": "正月十五闹元宵", "display_query": "正月十五闹元宵" },
+  { "query": "a股", "display_query": "a股" },
   { "query": "元宵节", "display_query": "元宵节" },
   { "query": "阿森纳vs切尔西", "display_query": "阿森纳vs切尔西" },
   { "query": "森林狼vs掘金", "display_query": "森林狼vs掘金" },
@@ -18,6 +12,12 @@
   { "query": "王楚钦vs林昀儒", "display_query": "王楚钦vs林昀儒" },
   { "query": "沪指再度刷新阶段高点", "display_query": "沪指再度刷新阶段高点" },
   { "query": "休斯顿火箭", "display_query": "休斯顿火箭" },
-  { "query": "正月十五闹元宵", "display_query": "正月十五闹元宵" },
-  { "query": "a股", "display_query": "a股" }
+  {
+    "query": "如何观测拍摄这轮红月亮",
+    "display_query": "如何观测拍摄这轮红月亮"
+  },
+  {
+    "query": "小米17国际售价约7800元",
+    "display_query": "小米17国际售价约7800元"
+  }
 ]

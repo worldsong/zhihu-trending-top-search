@@ -1,5 +1,9 @@
 [
-  { "query": "正月十五闹元宵", "display_query": "正月十五闹元宵" },
+  {
+    "query": "苏炳添团队发《Cell》子刊",
+    "display_query": "苏炳添团队发《Cell》子刊"
+  },
+  { "query": "石油基金LOF复牌涨停", "display_query": "石油基金LOF复牌涨停" },
   { "query": "a股", "display_query": "a股" },
   { "query": "元宵节", "display_query": "元宵节" },
   { "query": "凤凰传奇演唱会", "display_query": "凤凰传奇演唱会" },
@@ -11,6 +15,7 @@
   },
   { "query": "掘金vs爵士", "display_query": "掘金vs爵士" },
   { "query": "央视元宵晚会节目单", "display_query": "央视元宵晚会节目单" },
+  { "query": "正月十五闹元宵", "display_query": "正月十五闹元宵" },
   { "query": "央视元宵晚会", "display_query": "央视元宵晚会" },
   { "query": "王楚钦vs林昀儒", "display_query": "王楚钦vs林昀儒" },
   { "query": "沪指再度刷新阶段高点", "display_query": "沪指再度刷新阶段高点" },

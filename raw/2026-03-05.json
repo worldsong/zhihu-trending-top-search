@@ -1,8 +1,4 @@
 [
-  {
-    "query": "惊蛰节气有哪些习俗和讲究",
-    "display_query": "惊蛰节气有哪些习俗和讲究"
-  },
   { "query": "a股", "display_query": "a股" },
   {
     "query": "哪些迹象表明公司不行了",
@@ -16,6 +12,10 @@
   { "query": "快船vs步行者", "display_query": "快船vs步行者" },
   { "query": "央视元宵晚会节目单", "display_query": "央视元宵晚会节目单" },
   { "query": "央视元宵晚会", "display_query": "央视元宵晚会" },
+  {
+    "query": "惊蛰节气有哪些习俗和讲究",
+    "display_query": "惊蛰节气有哪些习俗和讲究"
+  },
   { "query": "跨越生死和国界的善意", "display_query": "跨越生死和国界的善意" },
   {
     "query": "台湾台南市发生4.5级地震",

@@ -1,9 +1,5 @@
 [
-  { "query": "建议减少加班的必要性", "display_query": "建议减少加班的必要性" },
-  {
-    "query": "CBA广州龙狮vs山东高速",
-    "display_query": "CBA广州龙狮vs山东高速"
-  },
+  { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
   { "query": "今日惊蛰", "display_query": "今日惊蛰" },
   { "query": "勇士vs火箭", "display_query": "勇士vs火箭" },
   { "query": "电影《夜王》热映", "display_query": "电影《夜王》热映" },
@@ -20,5 +16,11 @@
   {
     "query": "《太平年》真正题眼是什么",
     "display_query": "《太平年》真正题眼是什么"
-  }
+  },
+  {
+    "query": "网传迪丽热巴因转机迪拜滞留机场",
+    "display_query": "网传迪丽热巴因转机迪拜滞留机场"
+  },
+  { "query": "建议减少加班的必要性", "display_query": "建议减少加班的必要性" },
+  { "query": "CBA广州龙狮vs山东高速", "display_query": "CBA广州龙狮vs山东高速" }
 ]

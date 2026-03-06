@@ -15,8 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 06 2026 14:32:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 06 2026 15:30:13 GMT+0800 (China Standard Time) -->
 
+1. [建议建立家暴信息共享平台](https://www.zhihu.com/search?q=建议建立家暴信息共享平台)
 1. [哪些迹象表明公司不行了](https://www.zhihu.com/search?q=哪些迹象表明公司不行了)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A股三大指数集体高开)
 1. [湖人险胜鹈鹕](https://www.zhihu.com/search?q=湖人险胜鹈鹕)

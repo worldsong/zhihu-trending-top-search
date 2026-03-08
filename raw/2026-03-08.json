@@ -1,4 +1,17 @@
 [
+  { "query": "三八妇女节", "display_query": "三八妇女节" },
+  { "query": "妇女节", "display_query": "妇女节" },
+  { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
+  { "query": "今日惊蛰", "display_query": "今日惊蛰" },
+  { "query": "勇士vs火箭", "display_query": "勇士vs火箭" },
+  { "query": "电影《夜王》热映", "display_query": "电影《夜王》热映" },
+  { "query": "周杰伦 田馥甄", "display_query": "周杰伦 田馥甄" },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "中国造全球首款机器人手机亮相",
+    "display_query": "中国造全球首款机器人手机亮相"
+  },
+  { "query": "玫瑰丛生", "display_query": "玫瑰丛生" },
   {
     "query": "姿态说BLG先锋赛能拿冠军",
     "display_query": "姿态说BLG先锋赛能拿冠军"
@@ -7,19 +20,6 @@
     "query": "魔法原子CEO吴长征离职",
     "display_query": "魔法原子CEO吴长征离职"
   },
-  { "query": "妇女节", "display_query": "妇女节" },
-  { "query": "湖人vs掘金", "display_query": "湖人vs掘金" },
-  { "query": "今日惊蛰", "display_query": "今日惊蛰" },
-  { "query": "勇士vs火箭", "display_query": "勇士vs火箭" },
-  { "query": "电影《夜王》热映", "display_query": "电影《夜王》热映" },
-  { "query": "周杰伦 田馥甄", "display_query": "周杰伦 田馥甄" },
-  {
-    "query": "中国造全球首款机器人手机亮相",
-    "display_query": "中国造全球首款机器人手机亮相"
-  },
-  { "query": "玫瑰丛生", "display_query": "玫瑰丛生" },
-  { "query": "三八妇女节", "display_query": "三八妇女节" },
-  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   {
     "query": "紫薯精带火刘文祥麻辣烫",
     "display_query": "紫薯精带火刘文祥麻辣烫"

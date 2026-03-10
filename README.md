@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 10 2026 15:31:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 10 2026 16:26:11 GMT+0800 (China Standard Time) -->
 
-1. [周杰伦新专辑](https://www.zhihu.com/search?q=周杰伦新专辑)
 1. [湖人vs掘金](https://www.zhihu.com/search?q=湖人vs掘金)
 1. [孙宇晨花 624 万美元买下一根香蕉](https://www.zhihu.com/search?q=孙宇晨花 624
    万美元买下一根香蕉)
@@ -28,9 +27,10 @@
 1. [美军为什么打不赢治安战](https://www.zhihu.com/search?q=美军为什么打不赢治安战)
 1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=美国情报系统现在属于什么水平)
 1. [为什么年轻人反感老一辈的说教](https://www.zhihu.com/search?q=为什么年轻人反感老一辈的说教)
+1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=明白什么道理后你就不再焦虑了)
+1. [周杰伦新专辑](https://www.zhihu.com/search?q=周杰伦新专辑)
 1. [Bin放狠话我是世界第一上单](https://www.zhihu.com/search?q=Bin放狠话我是世界第一上单)
 1. [泡泡玛特起诉拓竹模型侵权](https://www.zhihu.com/search?q=泡泡玛特起诉拓竹模型侵权)
-1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=明白什么道理后你就不再焦虑了)
 1. [为什么大家都不提中国空间站了](https://www.zhihu.com/search?q=为什么大家都不提中国空间站了)
 
 <!-- END -->

@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 10 2026 08:55:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 10 2026 11:21:05 GMT+0800 (China Standard Time) -->
 
+1. [Bin放狠话我是世界第一上单](https://www.zhihu.com/search?q=Bin放狠话我是世界第一上单)
+1. [泡泡玛特起诉拓竹模型侵权](https://www.zhihu.com/search?q=泡泡玛特起诉拓竹模型侵权)
 1. [湖人vs掘金](https://www.zhihu.com/search?q=湖人vs掘金)
 1. [快船vs灰熊](https://www.zhihu.com/search?q=快船vs灰熊)
 1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=乐队打架什么乐器伤害最高)

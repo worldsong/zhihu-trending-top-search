@@ -1,5 +1,9 @@
 [
-  { "query": "白日提灯", "display_query": "白日提灯" },
+  {
+    "query": "养虾的隐患在于权限失控",
+    "display_query": "养虾的隐患在于权限失控"
+  },
+  { "query": "QQ也能养小龙虾了", "display_query": "QQ也能养小龙虾了" },
   {
     "query": "沪深两市成交额突破1万亿元",
     "display_query": "沪深两市成交额突破1万亿元"
@@ -20,6 +24,7 @@
     "query": "美军为什么打不赢治安战",
     "display_query": "美军为什么打不赢治安战"
   },
+  { "query": "白日提灯", "display_query": "白日提灯" },
   {
     "query": "美国情报系统现在属于什么水平",
     "display_query": "美国情报系统现在属于什么水平"

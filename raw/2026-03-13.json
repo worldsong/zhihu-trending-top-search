@@ -1,9 +1,4 @@
 [
-  {
-    "query": "国际油价因多重因素大幅震荡",
-    "display_query": "国际油价因多重因素大幅震荡"
-  },
-  { "query": "湖南油菜花节", "display_query": "湖南油菜花节" },
   { "query": "皇马vs曼城", "display_query": "皇马vs曼城" },
   {
     "query": "沪深两市成交额突破1万亿元",
@@ -15,6 +10,19 @@
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "Macbook Neo发布", "display_query": "Macbook Neo发布" },
   { "query": "苹果春季新品上手评测", "display_query": "苹果春季新品上手评测" },
+  {
+    "query": "中传一口气砍掉16个本科专业",
+    "display_query": "中传一口气砍掉16个本科专业"
+  },
+  {
+    "query": "十五五会带来哪些机遇与挑战",
+    "display_query": "十五五会带来哪些机遇与挑战"
+  },
+  {
+    "query": "国际油价因多重因素大幅震荡",
+    "display_query": "国际油价因多重因素大幅震荡"
+  },
+  { "query": "湖南油菜花节", "display_query": "湖南油菜花节" },
   {
     "query": "孙宇晨花 624 万美元买下一根香蕉",
     "display_query": "孙宇晨花 624 万美元买下一根香蕉"

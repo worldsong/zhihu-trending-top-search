@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 13 2026 19:21:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 13 2026 20:29:04 GMT+0800 (China Standard Time) -->
 
+1. [腾讯云回应近期龙虾问题](https://www.zhihu.com/search?q=腾讯云回应近期龙虾问题)
+1. [最强超高强度碳纤维由中国研发](https://www.zhihu.com/search?q=最强超高强度碳纤维由中国研发)
 1. [皇马vs曼城](https://www.zhihu.com/search?q=皇马vs曼城)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=为什么现在不创造新的汉字了)
 1. [王楚钦晋级八强](https://www.zhihu.com/search?q=王楚钦晋级八强)

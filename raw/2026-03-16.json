@@ -1,6 +1,5 @@
 [
-  { "query": "奥斯卡红毯", "display_query": "奥斯卡红毯" },
-  { "query": "现在干什么能挣钱", "display_query": "现在干什么能挣钱" },
+  { "query": "黄金下破5000美元", "display_query": "黄金下破5000美元" },
   { "query": "315晚会曝光名单", "display_query": "315晚会曝光名单" },
   {
     "query": "日本的汽车产业还能支撑多久",
@@ -24,6 +23,12 @@
     "query": "为什么年轻人反感老一辈说教",
     "display_query": "为什么年轻人反感老一辈说教"
   },
+  {
+    "query": "为什么很多人喜欢和AI对话",
+    "display_query": "为什么很多人喜欢和AI对话"
+  },
+  { "query": "奥斯卡红毯", "display_query": "奥斯卡红毯" },
+  { "query": "现在干什么能挣钱", "display_query": "现在干什么能挣钱" },
   { "query": "现货黄金跌破5000美元", "display_query": "现货黄金跌破5000美元" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   {

@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 16 2026 20:39:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 16 2026 22:10:56 GMT+0800 (China Standard Time) -->
 
-1. [黄金下破5000美元](https://www.zhihu.com/search?q=黄金下破5000美元)
+1. [奥斯卡红毯](https://www.zhihu.com/search?q=奥斯卡红毯)
+1. [现在干什么能挣钱](https://www.zhihu.com/search?q=现在干什么能挣钱)
 1. [315晚会曝光名单](https://www.zhihu.com/search?q=315晚会曝光名单)
 1. [日本的汽车产业还能支撑多久](https://www.zhihu.com/search?q=日本的汽车产业还能支撑多久)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
@@ -26,9 +27,8 @@
 1. [为什么大家都不提中国空间站了](https://www.zhihu.com/search?q=为什么大家都不提中国空间站了)
 1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=为什么现在的孩子会沉迷手机)
 1. [为什么年轻人反感老一辈说教](https://www.zhihu.com/search?q=为什么年轻人反感老一辈说教)
+1. [黄金下破5000美元](https://www.zhihu.com/search?q=黄金下破5000美元)
 1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=为什么很多人喜欢和AI对话)
-1. [奥斯卡红毯](https://www.zhihu.com/search?q=奥斯卡红毯)
-1. [现在干什么能挣钱](https://www.zhihu.com/search?q=现在干什么能挣钱)
 1. [现货黄金跌破5000美元](https://www.zhihu.com/search?q=现货黄金跌破5000美元)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [我国正研究解决地外星球长期生存问题](https://www.zhihu.com/search?q=我国正研究解决地外星球长期生存问题)

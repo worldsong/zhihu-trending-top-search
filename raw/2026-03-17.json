@@ -1,5 +1,8 @@
 [
-  { "query": "奥斯卡红毯", "display_query": "奥斯卡红毯" },
+  {
+    "query": "AI 家电的故事讲了 3 年",
+    "display_query": "AI 家电的故事讲了 3 年"
+  },
   {
     "query": "性格内向的人看起来更显小",
     "display_query": "性格内向的人看起来更显小"
@@ -21,6 +24,7 @@
     "query": "为什么大家都不提中国空间站了",
     "display_query": "为什么大家都不提中国空间站了"
   },
+  { "query": "奥斯卡红毯", "display_query": "奥斯卡红毯" },
   {
     "query": "程星张驰瑞士赛混双冠军",
     "display_query": "程星张驰瑞士赛混双冠军"

@@ -1,8 +1,7 @@
 [
-  {
-    "query": "AI 家电的故事讲了 3 年",
-    "display_query": "AI 家电的故事讲了 3 年"
-  },
+  { "query": "奥斯卡红毯", "display_query": "奥斯卡红毯" },
+  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
+  { "query": "胖东来", "display_query": "胖东来" },
   {
     "query": "性格内向的人看起来更显小",
     "display_query": "性格内向的人看起来更显小"
@@ -19,12 +18,15 @@
     "query": "美国情报系统现在属于什么水平",
     "display_query": "美国情报系统现在属于什么水平"
   },
+  {
+    "query": "AI 家电的故事讲了 3 年",
+    "display_query": "AI 家电的故事讲了 3 年"
+  },
   { "query": "钓鱼佬最接受不了什么", "display_query": "钓鱼佬最接受不了什么" },
   {
     "query": "为什么大家都不提中国空间站了",
     "display_query": "为什么大家都不提中国空间站了"
   },
-  { "query": "奥斯卡红毯", "display_query": "奥斯卡红毯" },
   {
     "query": "程星张驰瑞士赛混双冠军",
     "display_query": "程星张驰瑞士赛混双冠军"

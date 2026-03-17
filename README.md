@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Mar 17 2026 17:41:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Mar 17 2026 19:34:05 GMT+0800 (China Standard Time) -->
 
-1. [AI 家电的故事讲了 3 年](https://www.zhihu.com/search?q=AI 家电的故事讲了 3
-   年)
+1. [奥斯卡红毯](https://www.zhihu.com/search?q=奥斯卡红毯)
+1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
+1. [胖东来](https://www.zhihu.com/search?q=胖东来)
 1. [性格内向的人看起来更显小](https://www.zhihu.com/search?q=性格内向的人看起来更显小)
 1. [现在干什么能挣钱](https://www.zhihu.com/search?q=现在干什么能挣钱)
 1. [2月70城房价出炉](https://www.zhihu.com/search?q=2月70城房价出炉)
@@ -26,9 +27,10 @@
 1. [日本的汽车产业还能支撑多久](https://www.zhihu.com/search?q=日本的汽车产业还能支撑多久)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=美国情报系统现在属于什么水平)
+1. [AI 家电的故事讲了 3 年](https://www.zhihu.com/search?q=AI 家电的故事讲了 3
+   年)
 1. [钓鱼佬最接受不了什么](https://www.zhihu.com/search?q=钓鱼佬最接受不了什么)
 1. [为什么大家都不提中国空间站了](https://www.zhihu.com/search?q=为什么大家都不提中国空间站了)
-1. [奥斯卡红毯](https://www.zhihu.com/search?q=奥斯卡红毯)
 1. [程星张驰瑞士赛混双冠军](https://www.zhihu.com/search?q=程星张驰瑞士赛混双冠军)
 1. [印度因尿素短缺紧急找中国帮忙](https://www.zhihu.com/search?q=印度因尿素短缺紧急找中国帮忙)
 1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=为什么现在的孩子会沉迷手机)

@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 18 2026 12:10:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 18 2026 13:54:21 GMT+0800 (China Standard Time) -->
 
-1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
+1. [什么东西早就应该发明出来](https://www.zhihu.com/search?q=什么东西早就应该发明出来)
 1. [胖东来](https://www.zhihu.com/search?q=胖东来)
 1. [性格内向的人看起来更显小](https://www.zhihu.com/search?q=性格内向的人看起来更显小)
 1. [现在干什么能挣钱](https://www.zhihu.com/search?q=现在干什么能挣钱)
@@ -27,6 +27,7 @@
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [十五五 你的未来说明书](https://www.zhihu.com/search?q=十五五 你的未来说明书)
 1. [AWE 2026](https://www.zhihu.com/search?q=AWE 2026)
+1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
 
 <!-- END -->
 

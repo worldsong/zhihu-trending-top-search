@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Mar 18 2026 15:43:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Mar 18 2026 17:39:41 GMT+0800 (China Standard Time) -->
 
-1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
-1. [迪丽热巴白日提灯](https://www.zhihu.com/search?q=迪丽热巴白日提灯)
+1. [你好1983今日开播](https://www.zhihu.com/search?q=你好1983今日开播)
+1. [为什么烘干机还没被接受？](https://www.zhihu.com/search?q=为什么烘干机还没被接受？)
 1. [胖东来](https://www.zhihu.com/search?q=胖东来)
 1. [性格内向的人看起来更显小](https://www.zhihu.com/search?q=性格内向的人看起来更显小)
 1. [现在干什么能挣钱](https://www.zhihu.com/search?q=现在干什么能挣钱)
@@ -27,6 +27,8 @@
 1. [田栩宁 若若](https://www.zhihu.com/search?q=田栩宁 若若)
 1. [钓鱼佬最接受不了什么](https://www.zhihu.com/search?q=钓鱼佬最接受不了什么)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
+1. [迪丽热巴白日提灯](https://www.zhihu.com/search?q=迪丽热巴白日提灯)
 1. [十五五 你的未来说明书](https://www.zhihu.com/search?q=十五五 你的未来说明书)
 1. [AWE 2026](https://www.zhihu.com/search?q=AWE 2026)
 1. [什么东西早就应该发明出来](https://www.zhihu.com/search?q=什么东西早就应该发明出来)

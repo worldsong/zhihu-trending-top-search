@@ -1,6 +1,8 @@
 [
-  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
-  { "query": "迪丽热巴白日提灯", "display_query": "迪丽热巴白日提灯" },
+  {
+    "query": "何小鹏邀请罗永浩体验VLA",
+    "display_query": "何小鹏邀请罗永浩体验VLA"
+  },
   { "query": "太阳vs森林狼", "display_query": "太阳vs森林狼" },
   { "query": "胖东来", "display_query": "胖东来" },
   {
@@ -13,6 +15,8 @@
   { "query": "315晚会曝光名单", "display_query": "315晚会曝光名单" },
   { "query": "春分吃什么", "display_query": "春分吃什么" },
   { "query": "田栩宁 若若", "display_query": "田栩宁 若若" },
+  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
+  { "query": "迪丽热巴白日提灯", "display_query": "迪丽热巴白日提灯" },
   { "query": "钓鱼佬最接受不了什么", "display_query": "钓鱼佬最接受不了什么" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "你好1983今日开播", "display_query": "你好1983今日开播" },

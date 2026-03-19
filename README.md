@@ -15,24 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Mar 19 2026 23:39:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 20 2026 00:42:41 GMT+0800 (China Standard Time) -->
 
 1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
-1. [迪丽热巴白日提灯](https://www.zhihu.com/search?q=迪丽热巴白日提灯)
 1. [俄罗斯警告日本](https://www.zhihu.com/search?q=俄罗斯警告日本)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
 1. [巴萨晋级欧冠八强](https://www.zhihu.com/search?q=巴萨晋级欧冠八强)
 1. [薛之谦演唱会](https://www.zhihu.com/search?q=薛之谦演唱会)
-1. [太阳vs森林狼](https://www.zhihu.com/search?q=太阳vs森林狼)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
-1. [现在干什么能挣钱](https://www.zhihu.com/search?q=现在干什么能挣钱)
-1. [二月二吃什么](https://www.zhihu.com/search?q=二月二吃什么)
 1. [2月70城房价出炉](https://www.zhihu.com/search?q=2月70城房价出炉)
 1. [春分吃什么](https://www.zhihu.com/search?q=春分吃什么)
-1. [田栩宁 若若](https://www.zhihu.com/search?q=田栩宁 若若)
 1. [blg对战g2](https://www.zhihu.com/search?q=blg对战g2)
-1. [BLG对战G2](https://www.zhihu.com/search?q=BLG对战G2)
-1. [如何能在一天内学多点东西](https://www.zhihu.com/search?q=如何能在一天内学多点东西)
+1. [美股收盘：三大指数集体下跌](https://www.zhihu.com/search?q=美股收盘：三大指数集体下跌)
 
 <!-- END -->
 

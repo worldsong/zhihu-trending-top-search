@@ -1,6 +1,9 @@
 [
-  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
-  { "query": "俄罗斯警告日本", "display_query": "俄罗斯警告日本" },
+  { "query": "腾讯人均年薪112万", "display_query": "腾讯人均年薪112万" },
+  {
+    "query": "嫦娥六号在月球上有新发现",
+    "display_query": "嫦娥六号在月球上有新发现"
+  },
   {
     "query": "美联储宣布维持利率不变",
     "display_query": "美联储宣布维持利率不变"
@@ -13,9 +16,15 @@
   },
   { "query": "2月70城房价出炉", "display_query": "2月70城房价出炉" },
   { "query": "春分吃什么", "display_query": "春分吃什么" },
-  { "query": "blg对战g2", "display_query": "blg对战g2" },
   {
     "query": "美股收盘：三大指数集体下跌",
     "display_query": "美股收盘：三大指数集体下跌"
-  }
+  },
+  {
+    "query": "电视剧中哪些情节让你觉得离谱",
+    "display_query": "电视剧中哪些情节让你觉得离谱"
+  },
+  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
+  { "query": "俄罗斯警告日本", "display_query": "俄罗斯警告日本" },
+  { "query": "blg对战g2", "display_query": "blg对战g2" }
 ]

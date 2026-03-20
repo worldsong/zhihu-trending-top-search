@@ -1,6 +1,6 @@
 [
-  { "query": "今日春分", "display_query": "今日春分" },
-  { "query": "二月二龙抬头", "display_query": "二月二龙抬头" },
+  { "query": "蓝莓价格大跳水", "display_query": "蓝莓价格大跳水" },
+  { "query": "手机为什么涨价", "display_query": "手机为什么涨价" },
   { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
   { "query": "俄罗斯警告日本", "display_query": "俄罗斯警告日本" },
   {
@@ -15,6 +15,8 @@
   },
   { "query": "2月70城房价出炉", "display_query": "2月70城房价出炉" },
   { "query": "春分吃什么", "display_query": "春分吃什么" },
+  { "query": "今日春分", "display_query": "今日春分" },
+  { "query": "二月二龙抬头", "display_query": "二月二龙抬头" },
   { "query": "blg对战g2", "display_query": "blg对战g2" },
   {
     "query": "美股收盘：三大指数集体下跌",

@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Mar 20 2026 13:41:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Mar 20 2026 14:37:59 GMT+0800 (China Standard Time) -->
 
-1. [油价涨了冲锋衣可能更贵](https://www.zhihu.com/search?q=油价涨了冲锋衣可能更贵)
+1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
+1. [俄罗斯警告日本](https://www.zhihu.com/search?q=俄罗斯警告日本)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
 1. [巴萨晋级欧冠八强](https://www.zhihu.com/search?q=巴萨晋级欧冠八强)
 1. [薛之谦演唱会](https://www.zhihu.com/search?q=薛之谦演唱会)
@@ -26,9 +27,8 @@
 1. [春分吃什么](https://www.zhihu.com/search?q=春分吃什么)
 1. [blg对战g2](https://www.zhihu.com/search?q=blg对战g2)
 1. [美股收盘：三大指数集体下跌](https://www.zhihu.com/search?q=美股收盘：三大指数集体下跌)
+1. [油价涨了冲锋衣可能更贵](https://www.zhihu.com/search?q=油价涨了冲锋衣可能更贵)
 1. [电视剧中哪些情节让你觉得离谱](https://www.zhihu.com/search?q=电视剧中哪些情节让你觉得离谱)
-1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
-1. [俄罗斯警告日本](https://www.zhihu.com/search?q=俄罗斯警告日本)
 1. [腾讯人均年薪112万](https://www.zhihu.com/search?q=腾讯人均年薪112万)
 1. [嫦娥六号在月球上有新发现](https://www.zhihu.com/search?q=嫦娥六号在月球上有新发现)
 

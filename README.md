@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 21 2026 19:12:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 21 2026 20:21:07 GMT+0800 (China Standard Time) -->
 
-1. [今日春分](https://www.zhihu.com/search?q=今日春分)
-1. [二月二龙抬头](https://www.zhihu.com/search?q=二月二龙抬头)
+1. [中东多处油气设施遭连环袭击](https://www.zhihu.com/search?q=中东多处油气设施遭连环袭击)
+1. [A股下探逼近4000点](https://www.zhihu.com/search?q=A股下探逼近4000点)
 1. [肖战宝诗龙](https://www.zhihu.com/search?q=肖战宝诗龙)
 1. [湖人vs热火](https://www.zhihu.com/search?q=湖人vs热火)
 1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
@@ -27,6 +27,8 @@
 1. [巴萨晋级欧冠八强](https://www.zhihu.com/search?q=巴萨晋级欧冠八强)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=你见过哪些不动声色的善良)
+1. [今日春分](https://www.zhihu.com/search?q=今日春分)
+1. [二月二龙抬头](https://www.zhihu.com/search?q=二月二龙抬头)
 1. [小米联合闻献推出车载香薰](https://www.zhihu.com/search?q=小米联合闻献推出车载香薰)
 1. [个税年度汇算](https://www.zhihu.com/search?q=个税年度汇算)
 1. [黄金跳水原油飙升](https://www.zhihu.com/search?q=黄金跳水原油飙升)

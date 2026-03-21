@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 21 2026 23:14:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Mar 22 2026 00:14:08 GMT+0800 (China Standard Time) -->
 
 1. [今日春分](https://www.zhihu.com/search?q=今日春分)
 1. [二月二龙抬头](https://www.zhihu.com/search?q=二月二龙抬头)
@@ -27,12 +27,6 @@
 1. [巴萨晋级欧冠八强](https://www.zhihu.com/search?q=巴萨晋级欧冠八强)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
 1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=你见过哪些不动声色的善良)
-1. [中东多处油气设施遭连环袭击](https://www.zhihu.com/search?q=中东多处油气设施遭连环袭击)
-1. [A股下探逼近4000点](https://www.zhihu.com/search?q=A股下探逼近4000点)
-1. [小米联合闻献推出车载香薰](https://www.zhihu.com/search?q=小米联合闻献推出车载香薰)
-1. [个税年度汇算](https://www.zhihu.com/search?q=个税年度汇算)
-1. [黄金跳水原油飙升](https://www.zhihu.com/search?q=黄金跳水原油飙升)
-1. [住家保姆为什么总干不长](https://www.zhihu.com/search?q=住家保姆为什么总干不长)
 
 <!-- END -->
 

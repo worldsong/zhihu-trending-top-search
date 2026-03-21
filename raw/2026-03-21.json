@@ -1,9 +1,6 @@
 [
-  { "query": "黄金跳水原油飙升", "display_query": "黄金跳水原油飙升" },
-  {
-    "query": "住家保姆为什么总干不长",
-    "display_query": "住家保姆为什么总干不长"
-  },
+  { "query": "今日春分", "display_query": "今日春分" },
+  { "query": "二月二龙抬头", "display_query": "二月二龙抬头" },
   { "query": "肖战宝诗龙", "display_query": "肖战宝诗龙" },
   { "query": "湖人vs热火", "display_query": "湖人vs热火" },
   { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
@@ -21,6 +18,9 @@
     "query": "你见过哪些不动声色的善良",
     "display_query": "你见过哪些不动声色的善良"
   },
-  { "query": "今日春分", "display_query": "今日春分" },
-  { "query": "二月二龙抬头", "display_query": "二月二龙抬头" }
+  { "query": "黄金跳水原油飙升", "display_query": "黄金跳水原油飙升" },
+  {
+    "query": "住家保姆为什么总干不长",
+    "display_query": "住家保姆为什么总干不长"
+  }
 ]

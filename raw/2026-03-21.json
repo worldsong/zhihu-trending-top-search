@@ -1,9 +1,6 @@
 [
-  {
-    "query": "中东多处油气设施遭连环袭击",
-    "display_query": "中东多处油气设施遭连环袭击"
-  },
-  { "query": "A股下探逼近4000点", "display_query": "A股下探逼近4000点" },
+  { "query": "今日春分", "display_query": "今日春分" },
+  { "query": "二月二龙抬头", "display_query": "二月二龙抬头" },
   { "query": "肖战宝诗龙", "display_query": "肖战宝诗龙" },
   { "query": "湖人vs热火", "display_query": "湖人vs热火" },
   { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
@@ -21,8 +18,11 @@
     "query": "你见过哪些不动声色的善良",
     "display_query": "你见过哪些不动声色的善良"
   },
-  { "query": "今日春分", "display_query": "今日春分" },
-  { "query": "二月二龙抬头", "display_query": "二月二龙抬头" },
+  {
+    "query": "中东多处油气设施遭连环袭击",
+    "display_query": "中东多处油气设施遭连环袭击"
+  },
+  { "query": "A股下探逼近4000点", "display_query": "A股下探逼近4000点" },
   {
     "query": "小米联合闻献推出车载香薰",
     "display_query": "小米联合闻献推出车载香薰"

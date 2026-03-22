@@ -15,21 +15,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 23 2026 06:12:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 23 2026 07:15:22 GMT+0800 (China Standard Time) -->
 
-1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
-1. [AWE 2026](https://www.zhihu.com/search?q=AWE 2026)
-1. [AWE 家的参考系](https://www.zhihu.com/search?q=AWE 家的参考系)
+1. [女子牙疼引发脓毒血症险丧命](https://www.zhihu.com/search?q=女子牙疼引发脓毒血症险丧命)
+1. [AWE 捉黑话](https://www.zhihu.com/search?q=AWE 捉黑话)
 1. [AWE 是啥？](https://www.zhihu.com/search?q=AWE 是啥？)
 1. [AWE 逛展看什么？](https://www.zhihu.com/search?q=AWE 逛展看什么？)
 1. [逛 AWE，问什么显得我很懂](https://www.zhihu.com/search?q=逛
    AWE，问什么显得我很懂)
+1. [央视曝光活鱼麻醉剂滥用乱象](https://www.zhihu.com/search?q=央视曝光活鱼麻醉剂滥用乱象)
 1. [AWE，智能生活的 next level？](https://www.zhihu.com/search?q=AWE，智能生活的
    next level？)
 1. [杨旭文空降 AWE 知乎展台](https://www.zhihu.com/search?q=杨旭文空降 AWE
    知乎展台)
 1. [不探案，只探展！杨旭文出任一日店长！](https://www.zhihu.com/search?q=不探案，只探展！杨旭文出任一日店长！)
-1. [AWE 捉黑话](https://www.zhihu.com/search?q=AWE 捉黑话)
+1. [腾讯QClaw正式公测](https://www.zhihu.com/search?q=腾讯QClaw正式公测)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [AWE 2026](https://www.zhihu.com/search?q=AWE 2026)
+1. [AWE 家的参考系](https://www.zhihu.com/search?q=AWE 家的参考系)
 
 <!-- END -->
 

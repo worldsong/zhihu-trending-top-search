@@ -1,8 +1,15 @@
 [
   {
-    "query": "冰箱贴一直不挪会伤害冰箱吗？",
-    "display_query": "冰箱贴一直不挪会伤害冰箱吗？"
+    "query": "美联储宣布维持利率不变",
+    "display_query": "美联储宣布维持利率不变"
   },
+  { "query": "薛之谦演唱会", "display_query": "薛之谦演唱会" },
+  {
+    "query": "为什么地球上不存在巨兽",
+    "display_query": "为什么地球上不存在巨兽"
+  },
+  { "query": "BLG夺冠", "display_query": "BLG夺冠" },
+  { "query": "巴萨vs巴列卡诺", "display_query": "巴萨vs巴列卡诺" },
   {
     "query": "猫咪为啥会陪人睡一晚上呢",
     "display_query": "猫咪为啥会陪人睡一晚上呢"
@@ -11,6 +18,10 @@
   { "query": "AWE 2026", "display_query": "AWE 2026" },
   { "query": "AWE 家的参考系", "display_query": "AWE 家的参考系" },
   { "query": "AWE 是啥？", "display_query": "AWE 是啥？" },
+  {
+    "query": "冰箱贴一直不挪会伤害冰箱吗？",
+    "display_query": "冰箱贴一直不挪会伤害冰箱吗？"
+  },
   { "query": "AWE 逛展看什么？", "display_query": "AWE 逛展看什么？" },
   {
     "query": "逛 AWE，问什么显得我很懂",
@@ -24,11 +35,6 @@
     "query": "杨旭文空降 AWE 知乎展台",
     "display_query": "杨旭文空降 AWE 知乎展台"
   },
-  {
-    "query": "为什么地球上不存在巨兽",
-    "display_query": "为什么地球上不存在巨兽"
-  },
-  { "query": "BLG夺冠", "display_query": "BLG夺冠" },
   {
     "query": "不探案，只探展！杨旭文出任一日店长！",
     "display_query": "不探案，只探展！杨旭文出任一日店长！"

@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Mar 23 2026 14:02:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Mar 23 2026 15:53:01 GMT+0800 (China Standard Time) -->
 
-1. [为什么地球上不存在巨兽](https://www.zhihu.com/search?q=为什么地球上不存在巨兽)
-1. [BLG夺冠](https://www.zhihu.com/search?q=BLG夺冠)
+1. [冰箱贴一直不挪会伤害冰箱吗？](https://www.zhihu.com/search?q=冰箱贴一直不挪会伤害冰箱吗？)
 1. [猫咪为啥会陪人睡一晚上呢](https://www.zhihu.com/search?q=猫咪为啥会陪人睡一晚上呢)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [AWE 2026](https://www.zhihu.com/search?q=AWE 2026)
@@ -31,6 +30,8 @@
    next level？)
 1. [杨旭文空降 AWE 知乎展台](https://www.zhihu.com/search?q=杨旭文空降 AWE
    知乎展台)
+1. [为什么地球上不存在巨兽](https://www.zhihu.com/search?q=为什么地球上不存在巨兽)
+1. [BLG夺冠](https://www.zhihu.com/search?q=BLG夺冠)
 1. [不探案，只探展！杨旭文出任一日店长！](https://www.zhihu.com/search?q=不探案，只探展！杨旭文出任一日店长！)
 1. [女子牙疼引发脓毒血症险丧命](https://www.zhihu.com/search?q=女子牙疼引发脓毒血症险丧命)
 1. [AWE 捉黑话](https://www.zhihu.com/search?q=AWE 捉黑话)

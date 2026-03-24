@@ -1,11 +1,10 @@
 [
+  { "query": "周杰伦新歌", "display_query": "周杰伦新歌" },
+  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
+  { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   {
-    "query": "为什么在高档场所就不自在",
-    "display_query": "为什么在高档场所就不自在"
-  },
-  {
-    "query": "雷军请了半个车圈的老总到场支持",
-    "display_query": "雷军请了半个车圈的老总到场支持"
+    "query": "美联储宣布维持利率不变",
+    "display_query": "美联储宣布维持利率不变"
   },
   { "query": "薛之谦演唱会", "display_query": "薛之谦演唱会" },
   {
@@ -15,6 +14,15 @@
   { "query": "bin", "display_query": "bin" },
   { "query": "BLG夺冠", "display_query": "BLG夺冠" },
   { "query": "热火vs火箭", "display_query": "热火vs火箭" },
+  { "query": "勇士vs独行侠", "display_query": "勇士vs独行侠" },
+  {
+    "query": "为什么在高档场所就不自在",
+    "display_query": "为什么在高档场所就不自在"
+  },
+  {
+    "query": "雷军请了半个车圈的老总到场支持",
+    "display_query": "雷军请了半个车圈的老总到场支持"
+  },
   { "query": "巴萨vs巴列卡诺", "display_query": "巴萨vs巴列卡诺" },
   {
     "query": "乐队打架什么乐器伤害最高",
@@ -31,10 +39,6 @@
   {
     "query": "美军为什么打不赢治安战",
     "display_query": "美军为什么打不赢治安战"
-  },
-  {
-    "query": "美联储宣布维持利率不变",
-    "display_query": "美联储宣布维持利率不变"
   },
   {
     "query": "如何在一天中长时间专注一件事",

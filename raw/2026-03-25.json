@@ -1,12 +1,6 @@
 [
-  {
-    "query": "油价少涨背后的几个信息",
-    "display_query": "油价少涨背后的几个信息"
-  },
-  {
-    "query": "赖清德宣布将重启核电厂",
-    "display_query": "赖清德宣布将重启核电厂"
-  },
+  { "query": "心源性猝死", "display_query": "心源性猝死" },
+  { "query": "周杰伦新歌", "display_query": "周杰伦新歌" },
   { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
   { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   {
@@ -21,8 +15,14 @@
   },
   { "query": "什么是心源性猝死", "display_query": "什么是心源性猝死" },
   { "query": "郑钦文不敌萨巴伦卡", "display_query": "郑钦文不敌萨巴伦卡" },
-  { "query": "心源性猝死", "display_query": "心源性猝死" },
-  { "query": "周杰伦新歌", "display_query": "周杰伦新歌" },
+  {
+    "query": "油价少涨背后的几个信息",
+    "display_query": "油价少涨背后的几个信息"
+  },
+  {
+    "query": "赖清德宣布将重启核电厂",
+    "display_query": "赖清德宣布将重启核电厂"
+  },
   {
     "query": "怎样才能叫做真正会科研的人",
     "display_query": "怎样才能叫做真正会科研的人"

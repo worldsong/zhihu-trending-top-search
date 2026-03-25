@@ -1,5 +1,6 @@
 [
-  { "query": "湖人惜败活塞", "display_query": "湖人惜败活塞" },
+  { "query": "周杰伦新歌", "display_query": "周杰伦新歌" },
+  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
   { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   {
     "query": "美联储宣布维持利率不变",
@@ -20,10 +21,9 @@
     "query": "人到中年你突然领悟了什么",
     "display_query": "人到中年你突然领悟了什么"
   },
+  { "query": "湖人惜败活塞", "display_query": "湖人惜败活塞" },
   {
     "query": "为什么这几年的奥特曼没意思了",
     "display_query": "为什么这几年的奥特曼没意思了"
-  },
-  { "query": "周杰伦新歌", "display_query": "周杰伦新歌" },
-  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" }
+  }
 ]

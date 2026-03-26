@@ -1,11 +1,18 @@
 [
-  { "query": "心源性猝死", "display_query": "心源性猝死" },
-  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
+  { "query": "周杰伦13首新歌霸榜", "display_query": "周杰伦13首新歌霸榜" },
+  {
+    "query": "唐朝末年为什么没有宗室出来救国",
+    "display_query": "唐朝末年为什么没有宗室出来救国"
+  },
   { "query": "你在低谷期学会了什么", "display_query": "你在低谷期学会了什么" },
   { "query": "什么是心源性猝死", "display_query": "什么是心源性猝死" },
   { "query": "郑钦文不敌萨巴伦卡", "display_query": "郑钦文不敌萨巴伦卡" },
   { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
   { "query": "刘亦菲 宝格丽女王", "display_query": "刘亦菲 宝格丽女王" },
+  {
+    "query": "怎样才能叫做真正会科研的人",
+    "display_query": "怎样才能叫做真正会科研的人"
+  },
   {
     "query": "人到中年你突然领悟了什么",
     "display_query": "人到中年你突然领悟了什么"
@@ -14,6 +21,8 @@
     "query": "美国情报系统现在属于什么水平",
     "display_query": "美国情报系统现在属于什么水平"
   },
+  { "query": "心源性猝死", "display_query": "心源性猝死" },
+  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
   {
     "query": "明白什么道理后你就不再焦虑了",
     "display_query": "明白什么道理后你就不再焦虑了"

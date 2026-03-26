@@ -1,6 +1,13 @@
 [
-  { "query": "心源性猝死", "display_query": "心源性猝死" },
-  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
+  {
+    "query": "小S大女儿Elly20岁身材",
+    "display_query": "小S大女儿Elly20岁身材"
+  },
+  {
+    "query": "逐玉创网飞国产剧新纪录",
+    "display_query": "逐玉创网飞国产剧新纪录"
+  },
+  { "query": "你在低谷期学会了什么", "display_query": "你在低谷期学会了什么" },
   { "query": "什么是心源性猝死", "display_query": "什么是心源性猝死" },
   { "query": "郑钦文不敌萨巴伦卡", "display_query": "郑钦文不敌萨巴伦卡" },
   { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
@@ -17,6 +24,8 @@
     "query": "明白什么道理后你就不再焦虑了",
     "display_query": "明白什么道理后你就不再焦虑了"
   },
+  { "query": "心源性猝死", "display_query": "心源性猝死" },
+  { "query": "周杰伦新专辑", "display_query": "周杰伦新专辑" },
   {
     "query": "为什么大家都不提中国空间站了",
     "display_query": "为什么大家都不提中国空间站了"

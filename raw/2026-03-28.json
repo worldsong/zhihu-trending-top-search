@@ -1,6 +1,9 @@
 [
-  { "query": "泡馍为什么走不出西安", "display_query": "泡馍为什么走不出西安" },
-  { "query": "郑钦文不敌萨巴伦卡", "display_query": "郑钦文不敌萨巴伦卡" },
+  {
+    "query": "心脏急救电话指导也能救人",
+    "display_query": "心脏急救电话指导也能救人"
+  },
+  { "query": "家事法庭开播", "display_query": "家事法庭开播" },
   { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
   {
     "query": "怎样才能叫做真正会科研的人",
@@ -30,6 +33,8 @@
     "query": "为什么很多人喜欢和AI对话",
     "display_query": "为什么很多人喜欢和AI对话"
   },
+  { "query": "泡馍为什么走不出西安", "display_query": "泡馍为什么走不出西安" },
+  { "query": "郑钦文不敌萨巴伦卡", "display_query": "郑钦文不敌萨巴伦卡" },
   {
     "query": "一文读懂长护险相关问题",
     "display_query": "一文读懂长护险相关问题"

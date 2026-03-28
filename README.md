@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Mar 28 2026 16:24:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Mar 28 2026 17:24:43 GMT+0800 (China Standard Time) -->
 
-1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
-1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=郑钦文不敌萨巴伦卡)
+1. [国际油价又暴跌](https://www.zhihu.com/search?q=国际油价又暴跌)
+1. [公司放6天带薪春假不打扰不调休](https://www.zhihu.com/search?q=公司放6天带薪春假不打扰不调休)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
 1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=用DeepSeek选股炒股可行吗)
@@ -27,6 +27,8 @@
 1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=明白什么道理后你就不再焦虑了)
 1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=为什么现在的孩子会沉迷手机)
 1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=为什么很多人喜欢和AI对话)
+1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=泡馍为什么走不出西安)
+1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=郑钦文不敌萨巴伦卡)
 
 <!-- END -->
 

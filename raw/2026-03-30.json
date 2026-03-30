@@ -1,9 +1,6 @@
 [
-  { "query": "单依纯深圳现场", "display_query": "单依纯深圳现场" },
-  {
-    "query": "雷军回应新su7首周交付量",
-    "display_query": "雷军回应新su7首周交付量"
-  },
+  { "query": "阅文ip盛典", "display_query": "阅文ip盛典" },
+  { "query": "世界双相情感障碍日", "display_query": "世界双相情感障碍日" },
   { "query": "薛之谦演唱会", "display_query": "薛之谦演唱会" },
   { "query": "快船vs雄鹿", "display_query": "快船vs雄鹿" },
   { "query": "广州暴雨", "display_query": "广州暴雨" },
@@ -21,7 +18,11 @@
     "query": "多家中小银行下调存款利率",
     "display_query": "多家中小银行下调存款利率"
   },
-  { "query": "阅文ip盛典", "display_query": "阅文ip盛典" },
+  { "query": "单依纯深圳现场", "display_query": "单依纯深圳现场" },
+  {
+    "query": "雷军回应新su7首周交付量",
+    "display_query": "雷军回应新su7首周交付量"
+  },
   {
     "query": "闲鱼上有多少人是真正出闲置的",
     "display_query": "闲鱼上有多少人是真正出闲置的"

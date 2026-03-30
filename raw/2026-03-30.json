@@ -1,5 +1,10 @@
 [
+  { "query": "阅文ip盛典", "display_query": "阅文ip盛典" },
   { "query": "广州暴雨", "display_query": "广州暴雨" },
+  {
+    "query": "多家中小银行下调存款利率",
+    "display_query": "多家中小银行下调存款利率"
+  },
   {
     "query": "闲鱼上有多少人是真正出闲置的",
     "display_query": "闲鱼上有多少人是真正出闲置的"
@@ -17,6 +22,7 @@
     "query": "张雪峰因心源性猝死去世",
     "display_query": "张雪峰因心源性猝死去世"
   },
+  { "query": "周杰伦新歌口碑", "display_query": "周杰伦新歌口碑" },
   {
     "query": "《洛克王国：世界》开服",
     "display_query": "《洛克王国：世界》开服"

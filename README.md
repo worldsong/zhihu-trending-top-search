@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 02 2026 20:41:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 02 2026 22:13:06 GMT+0800 (China Standard Time) -->
 
-1. [双休和单休区别大吗](https://www.zhihu.com/search?q=双休和单休区别大吗)
+1. [为什么中国人不怎么爱吃牛肝](https://www.zhihu.com/search?q=为什么中国人不怎么爱吃牛肝)
+1. [警惕智能穿戴设备引发泄密事件](https://www.zhihu.com/search?q=警惕智能穿戴设备引发泄密事件)
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
 1. [广州暴雨](https://www.zhihu.com/search?q=广州暴雨)
 1. [什么样的家庭才能养出松弛感的孩子](https://www.zhihu.com/search?q=什么样的家庭才能养出松弛感的孩子)
@@ -26,6 +27,7 @@
 1. [蔡磊进入渐冻症终末期](https://www.zhihu.com/search?q=蔡磊进入渐冻症终末期)
 1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
+1. [双休和单休区别大吗](https://www.zhihu.com/search?q=双休和单休区别大吗)
 1. [AI简历分析](https://www.zhihu.com/search?q=AI简历分析)
 1. [洛克王国世界能火多久](https://www.zhihu.com/search?q=洛克王国世界能火多久)
 1. [粉底液将军被嘲冤不冤](https://www.zhihu.com/search?q=粉底液将军被嘲冤不冤)

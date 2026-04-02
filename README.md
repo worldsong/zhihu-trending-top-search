@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 02 2026 23:47:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 03 2026 00:41:46 GMT+0800 (China Standard Time) -->
 
 1. [双休和单休区别大吗](https://www.zhihu.com/search?q=双休和单休区别大吗)
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
@@ -27,22 +27,6 @@
 1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
 1. [AI简历分析](https://www.zhihu.com/search?q=AI简历分析)
-1. [为什么中国人不怎么爱吃牛肝](https://www.zhihu.com/search?q=为什么中国人不怎么爱吃牛肝)
-1. [警惕智能穿戴设备引发泄密事件](https://www.zhihu.com/search?q=警惕智能穿戴设备引发泄密事件)
-1. [洛克王国世界能火多久](https://www.zhihu.com/search?q=洛克王国世界能火多久)
-1. [粉底液将军被嘲冤不冤](https://www.zhihu.com/search?q=粉底液将军被嘲冤不冤)
-1. [有哪些信达不雅的翻译](https://www.zhihu.com/search?q=有哪些信达不雅的翻译)
-1. [奈雪的茶大幅关店后年收入再度下降](https://www.zhihu.com/search?q=奈雪的茶大幅关店后年收入再度下降)
-1. [简历诊断](https://www.zhihu.com/search?q=简历诊断)
-1. [AI模拟面试官](https://www.zhihu.com/search?q=AI模拟面试官)
-1. [AI模拟面试](https://www.zhihu.com/search?q=AI模拟面试)
-1. [愚人节](https://www.zhihu.com/search?q=愚人节)
-1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
-1. [人到中年你最在乎的是什么](https://www.zhihu.com/search?q=人到中年你最在乎的是什么)
-1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
-1. [deepseek崩了](https://www.zhihu.com/search?q=deepseek崩了)
-1. [韩国电影为什么那么敢拍](https://www.zhihu.com/search?q=韩国电影为什么那么敢拍)
-1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=人到中年你突然领悟了什么)
 
 <!-- END -->
 

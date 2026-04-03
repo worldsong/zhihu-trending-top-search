@@ -1,6 +1,4 @@
 [
-  { "query": "清明拼假4天休9天", "display_query": "清明拼假4天休9天" },
-  { "query": "天龙三号发射失利", "display_query": "天龙三号发射失利" },
   { "query": "双休和单休区别大吗", "display_query": "双休和单休区别大吗" },
   { "query": "王艺迪vs张本美和", "display_query": "王艺迪vs张本美和" },
   { "query": "东契奇伤退", "display_query": "东契奇伤退" },
@@ -14,11 +12,14 @@
     "query": "什么样的家庭才能养出松弛感的孩子",
     "display_query": "什么样的家庭才能养出松弛感的孩子"
   },
+  { "query": "王楚钦vsF勒布伦", "display_query": "王楚钦vsF勒布伦" },
   {
     "query": "为什么突然开始人均养猫了",
     "display_query": "为什么突然开始人均养猫了"
   },
   { "query": "有钱人私下里玩得多花", "display_query": "有钱人私下里玩得多花" },
+  { "query": "清明拼假4天休9天", "display_query": "清明拼假4天休9天" },
+  { "query": "天龙三号发射失利", "display_query": "天龙三号发射失利" },
   {
     "query": "现在的小孩可以早熟到什么地步",
     "display_query": "现在的小孩可以早熟到什么地步"

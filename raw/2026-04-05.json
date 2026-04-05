@@ -1,8 +1,4 @@
 [
-  {
-    "query": "上海交大校庆宣传片引争议",
-    "display_query": "上海交大校庆宣传片引争议"
-  },
   { "query": "东契奇伤退", "display_query": "东契奇伤退" },
   {
     "query": "为什么年轻人宁愿待业也不找工作",
@@ -10,6 +6,7 @@
   },
   { "query": "孙颖莎vs蒯曼", "display_query": "孙颖莎vs蒯曼" },
   { "query": "广州暴雨", "display_query": "广州暴雨" },
+  { "query": "王楚钦 vs 松岛辉空", "display_query": "王楚钦 vs 松岛辉空" },
   { "query": "有钱人私下里玩得多花", "display_query": "有钱人私下里玩得多花" },
   {
     "query": "现在的小孩可以早熟到什么地步",
@@ -18,9 +15,12 @@
   { "query": "孙颖莎 vs 王曼昱", "display_query": "孙颖莎 vs 王曼昱" },
   { "query": "AI面试官", "display_query": "AI面试官" },
   { "query": "AI简历诊断", "display_query": "AI简历诊断" },
+  {
+    "query": "上海交大校庆宣传片引争议",
+    "display_query": "上海交大校庆宣传片引争议"
+  },
   { "query": "清明节", "display_query": "清明节" },
   { "query": "王艺迪vs张本美和", "display_query": "王艺迪vs张本美和" },
-  { "query": "王楚钦 vs 松岛辉空", "display_query": "王楚钦 vs 松岛辉空" },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
   { "query": "王楚钦vs松岛辉空", "display_query": "王楚钦vs松岛辉空" },
   { "query": "王楚钦vsF勒布伦", "display_query": "王楚钦vsF勒布伦" }

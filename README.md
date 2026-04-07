@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 07 2026 12:21:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 07 2026 14:10:37 GMT+0800 (China Standard Time) -->
 
-1. [清明节](https://www.zhihu.com/search?q=清明节)
 1. [王楚钦 vs 松岛辉空](https://www.zhihu.com/search?q=王楚钦 vs 松岛辉空)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
@@ -27,6 +26,8 @@
 1. [AI模拟面试官](https://www.zhihu.com/search?q=AI模拟面试官)
 1. [AI模拟面试](https://www.zhihu.com/search?q=AI模拟面试)
 1. [求职数据通](https://www.zhihu.com/search?q=求职数据通)
+1. [offer 季](https://www.zhihu.com/search?q=offer 季)
+1. [清明节](https://www.zhihu.com/search?q=清明节)
 1. [王艺迪vs张本美和](https://www.zhihu.com/search?q=王艺迪vs张本美和)
 1. [东契奇伤退](https://www.zhihu.com/search?q=东契奇伤退)
 1. [孙颖莎vs蒯曼](https://www.zhihu.com/search?q=孙颖莎vs蒯曼)

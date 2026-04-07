@@ -15,8 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 07 2026 18:44:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 07 2026 19:42:09 GMT+0800 (China Standard Time) -->
 
+1. [金钱和健康哪个更重要](https://www.zhihu.com/search?q=金钱和健康哪个更重要)
+1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=发现孩子很普通怎么办)
+1. [国际油价大涨](https://www.zhihu.com/search?q=国际油价大涨)
+1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
+1. [内心强大的人有什么特点](https://www.zhihu.com/search?q=内心强大的人有什么特点)
+1. [二游文案为什么总要用陌生词汇](https://www.zhihu.com/search?q=二游文案为什么总要用陌生词汇)
+1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=为什么现在的孩子会沉迷手机)
+1. [退休后旅游有意义吗](https://www.zhihu.com/search?q=退休后旅游有意义吗)
+1. [真的有先父遗传吗](https://www.zhihu.com/search?q=真的有先父遗传吗)
+1. [教父的人情可以不还吗](https://www.zhihu.com/search?q=教父的人情可以不还吗)
 1. [美营救飞行员附近炸出约28个弹坑](https://www.zhihu.com/search?q=美营救飞行员附近炸出约28个弹坑)
 1. [上海一樱花树遭攀爬被连根压倒](https://www.zhihu.com/search?q=上海一樱花树遭攀爬被连根压倒)
 1. [小米市值再跌 280 多亿](https://www.zhihu.com/search?q=小米市值再跌 280 多亿)

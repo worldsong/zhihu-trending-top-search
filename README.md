@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 07 2026 14:10:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 07 2026 16:02:49 GMT+0800 (China Standard Time) -->
 
 1. [王楚钦 vs 松岛辉空](https://www.zhihu.com/search?q=王楚钦 vs 松岛辉空)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)

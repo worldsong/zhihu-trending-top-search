@@ -1,8 +1,6 @@
 [
-  {
-    "query": "今年全国多地迎来首次春假",
-    "display_query": "今年全国多地迎来首次春假"
-  },
+  { "query": "无限超越班", "display_query": "无限超越班" },
+  { "query": "A股", "display_query": "A股" },
   { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   { "query": "胖东来发布情况说明", "display_query": "胖东来发布情况说明" },
   { "query": "独行侠vs快船", "display_query": "独行侠vs快船" },
@@ -18,11 +16,13 @@
     "display_query": "网红都那么美为什么当不了明星"
   },
   {
+    "query": "今年全国多地迎来首次春假",
+    "display_query": "今年全国多地迎来首次春假"
+  },
+  {
     "query": "什么样的ppt才是好的ppt",
     "display_query": "什么样的ppt才是好的ppt"
   },
-  { "query": "无限超越班", "display_query": "无限超越班" },
-  { "query": "A股", "display_query": "A股" },
   { "query": "退休后旅游有意义吗", "display_query": "退休后旅游有意义吗" },
   {
     "query": "认知水平低的人有什么明显特征",

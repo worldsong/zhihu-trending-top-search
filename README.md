@@ -15,18 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 08 2026 12:24:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 08 2026 14:12:58 GMT+0800 (China Standard Time) -->
 
-1. [中方回应日修改防卫装备转移三原则](https://www.zhihu.com/search?q=中方回应日修改防卫装备转移三原则)
-1. [探店博主倒掉海鲜仍给好评](https://www.zhihu.com/search?q=探店博主倒掉海鲜仍给好评)
+1. [剧版《哈利波特》魔改霍格沃茨校徽](https://www.zhihu.com/search?q=剧版《哈利波特》魔改霍格沃茨校徽)
 1. [退休后旅游有意义吗](https://www.zhihu.com/search?q=退休后旅游有意义吗)
-1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=认知水平低的人有什么明显特征)
+1. [郭敬明的《月鳞绮纪》被质疑抄袭融梗](https://www.zhihu.com/search?q=郭敬明的《月鳞绮纪》被质疑抄袭融梗)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [AI面试官](https://www.zhihu.com/search?q=AI面试官)
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI简历诊断)
-1. [浪姐 7 一公小考](https://www.zhihu.com/search?q=浪姐 7 一公小考)
 1. [AI简历分析](https://www.zhihu.com/search?q=AI简历分析)
 1. [简历诊断](https://www.zhihu.com/search?q=简历诊断)
 1. [AI模拟面试官](https://www.zhihu.com/search?q=AI模拟面试官)
+1. [AI模拟面试](https://www.zhihu.com/search?q=AI模拟面试)
+1. [中方回应日修改防卫装备转移三原则](https://www.zhihu.com/search?q=中方回应日修改防卫装备转移三原则)
+1. [探店博主倒掉海鲜仍给好评](https://www.zhihu.com/search?q=探店博主倒掉海鲜仍给好评)
+1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=认知水平低的人有什么明显特征)
+1. [浪姐 7 一公小考](https://www.zhihu.com/search?q=浪姐 7 一公小考)
 1. [金钱和健康哪个更重要](https://www.zhihu.com/search?q=金钱和健康哪个更重要)
 1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=发现孩子很普通怎么办)
 1. [国际油价大涨](https://www.zhihu.com/search?q=国际油价大涨)

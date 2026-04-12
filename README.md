@@ -15,12 +15,13 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Apr 12 2026 14:16:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Apr 12 2026 15:55:05 GMT+0800 (China Standard Time) -->
 
 1. [刘强东章泽天成立新公司](https://www.zhihu.com/search?q=刘强东章泽天成立新公司)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A股三大指数集体高开)
 1. [湖人vs勇士](https://www.zhihu.com/search?q=湖人vs勇士)
 1. [你的电话号码的前主人是什么样的人](https://www.zhihu.com/search?q=你的电话号码的前主人是什么样的人)
+1. [清明节](https://www.zhihu.com/search?q=清明节)
 1. [戛纳](https://www.zhihu.com/search?q=戛纳)
 1. [步行者vs篮网](https://www.zhihu.com/search?q=步行者vs篮网)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)

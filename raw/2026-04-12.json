@@ -9,6 +9,7 @@
     "query": "你的电话号码的前主人是什么样的人",
     "display_query": "你的电话号码的前主人是什么样的人"
   },
+  { "query": "清明节", "display_query": "清明节" },
   { "query": "戛纳", "display_query": "戛纳" },
   { "query": "步行者vs篮网", "display_query": "步行者vs篮网" },
   { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },

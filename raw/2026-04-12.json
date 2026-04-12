@@ -1,8 +1,9 @@
 [
   {
-    "query": "杭州西湖将连续一周撒7吨漂白粉",
-    "display_query": "杭州西湖将连续一周撒7吨漂白粉"
+    "query": "刘强东章泽天成立新公司",
+    "display_query": "刘强东章泽天成立新公司"
   },
+  { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" },
   { "query": "湖人vs勇士", "display_query": "湖人vs勇士" },
   {
     "query": "你的电话号码的前主人是什么样的人",
@@ -24,12 +25,11 @@
     "display_query": "在明白什么道理后你就不再焦虑了"
   },
   {
-    "query": "内心强大的人有什么特点",
-    "display_query": "内心强大的人有什么特点"
+    "query": "杭州西湖将连续一周撒7吨漂白粉",
+    "display_query": "杭州西湖将连续一周撒7吨漂白粉"
   },
   {
-    "query": "刘强东章泽天成立新公司",
-    "display_query": "刘强东章泽天成立新公司"
-  },
-  { "query": "A股三大指数集体高开", "display_query": "A股三大指数集体高开" }
+    "query": "内心强大的人有什么特点",
+    "display_query": "内心强大的人有什么特点"
+  }
 ]

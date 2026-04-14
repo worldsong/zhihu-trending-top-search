@@ -1,4 +1,23 @@
 [
+  {
+    "query": "导师给你的最后忠告是什么",
+    "display_query": "导师给你的最后忠告是什么"
+  },
+  {
+    "query": "一个人能做出什么开源项目",
+    "display_query": "一个人能做出什么开源项目"
+  },
+  {
+    "query": "《飞驰人生 3》电影票房破 30 亿",
+    "display_query": "《飞驰人生 3》电影票房破 30 亿"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "AI面试官", "display_query": "AI面试官" },
+  { "query": "AI简历诊断", "display_query": "AI简历诊断" },
+  { "query": "AI简历分析", "display_query": "AI简历分析" },
+  { "query": "简历诊断", "display_query": "简历诊断" },
+  { "query": "AI模拟面试官", "display_query": "AI模拟面试官" },
+  { "query": "AI模拟面试", "display_query": "AI模拟面试" },
   { "query": "切尔西vs曼城", "display_query": "切尔西vs曼城" },
   { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
   {
@@ -21,10 +40,6 @@
   {
     "query": "在明白什么道理后你就不再焦虑了",
     "display_query": "在明白什么道理后你就不再焦虑了"
-  },
-  {
-    "query": "一个人能做出什么开源项目",
-    "display_query": "一个人能做出什么开源项目"
   },
   {
     "query": "有哪些原来很贵的食材现在便宜了",

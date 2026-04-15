@@ -15,10 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 16 2026 06:30:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 16 2026 07:31:08 GMT+0800 (China Standard Time) -->
 
-1. [怎么看金包银首饰现象](https://www.zhihu.com/search?q=怎么看金包银首饰现象)
-1. [读书与不读书的人生差距有多大](https://www.zhihu.com/search?q=读书与不读书的人生差距有多大)
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=什么样的人算是中了基因彩票)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)
@@ -29,6 +27,8 @@
 1. [什么是知识的诅咒](https://www.zhihu.com/search?q=什么是知识的诅咒)
 1. [在明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=在明白什么道理后你就不再焦虑了)
 1. [内心强大的人有什么特点](https://www.zhihu.com/search?q=内心强大的人有什么特点)
+1. [怎么看金包银首饰现象](https://www.zhihu.com/search?q=怎么看金包银首饰现象)
+1. [读书与不读书的人生差距有多大](https://www.zhihu.com/search?q=读书与不读书的人生差距有多大)
 
 <!-- END -->
 

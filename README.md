@@ -15,19 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Apr 16 2026 16:19:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Apr 16 2026 18:03:55 GMT+0800 (China Standard Time) -->
 
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=什么样的人算是中了基因彩票)
 1. [导师给你的最后忠告是什么](https://www.zhihu.com/search?q=导师给你的最后忠告是什么)
 1. [什么是知识的诅咒](https://www.zhihu.com/search?q=什么是知识的诅咒)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
-1. [蒸馏前任火了](https://www.zhihu.com/search?q=蒸馏前任火了)
 1. [浪姐黑马预测](https://www.zhihu.com/search?q=浪姐黑马预测)
 1. [张雪问了自己 3 个问题后辞职](https://www.zhihu.com/search?q=张雪问了自己 3
    个问题后辞职)
 1. [高铁站员工回应站台全面禁烟](https://www.zhihu.com/search?q=高铁站员工回应站台全面禁烟)
 1. [小孩骑车被绳子锁喉致食道气管全断裂](https://www.zhihu.com/search?q=小孩骑车被绳子锁喉致食道气管全断裂)
+1. [20城公积金超半数只缴不用](https://www.zhihu.com/search?q=20城公积金超半数只缴不用)
+1. [蒸馏前任火了](https://www.zhihu.com/search?q=蒸馏前任火了)
 1. [男子钓7条鱼获利50元被判刑](https://www.zhihu.com/search?q=男子钓7条鱼获利50元被判刑)
 1. [石门中学奶茶事件](https://www.zhihu.com/search?q=石门中学奶茶事件)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919还能成批生产吗)

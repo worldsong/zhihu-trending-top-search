@@ -1,15 +1,28 @@
 [
-  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
   { "query": "演员到底有多吃天赋", "display_query": "演员到底有多吃天赋" },
   {
     "query": "什么样的人算是中了基因彩票",
     "display_query": "什么样的人算是中了基因彩票"
   },
-  { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
   {
     "query": "导师给你的最后忠告是什么",
     "display_query": "导师给你的最后忠告是什么"
   },
+  { "query": "什么是知识的诅咒", "display_query": "什么是知识的诅咒" },
+  { "query": "自己做饭真的很省钱吗", "display_query": "自己做饭真的很省钱吗" },
+  { "query": "苏超公布2026年赞助商", "display_query": "苏超公布2026年赞助商" },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "2026 苏超十三队队服发布",
+    "display_query": "2026 苏超十三队队服发布"
+  },
+  {
+    "query": "苏超揭幕战!常州 vs 南通",
+    "display_query": "苏超揭幕战!常州 vs 南通"
+  },
+  { "query": "苏超", "display_query": "苏超" },
+  { "query": "勇士vs快船", "display_query": "勇士vs快船" },
+  { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
   {
     "query": "怎样才能叫做真正会科研的人",
     "display_query": "怎样才能叫做真正会科研的人"
@@ -22,7 +35,6 @@
     "query": "人到中年你突然领悟了什么",
     "display_query": "人到中年你突然领悟了什么"
   },
-  { "query": "什么是知识的诅咒", "display_query": "什么是知识的诅咒" },
   {
     "query": "内心强大的人有什么特点",
     "display_query": "内心强大的人有什么特点"

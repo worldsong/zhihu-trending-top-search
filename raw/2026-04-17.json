@@ -1,8 +1,7 @@
 [
-  { "query": "演员到底有多吃天赋", "display_query": "演员到底有多吃天赋" },
   {
-    "query": "什么样的人算是中了基因彩票",
-    "display_query": "什么样的人算是中了基因彩票"
+    "query": "阿里发布 Happy Oyster",
+    "display_query": "阿里发布 Happy Oyster"
   },
   {
     "query": "导师给你的最后忠告是什么",
@@ -21,6 +20,15 @@
     "display_query": "苏超揭幕战!常州 vs 南通"
   },
   { "query": "苏超", "display_query": "苏超" },
+  {
+    "query": "20城公积金超半数只缴不用",
+    "display_query": "20城公积金超半数只缴不用"
+  },
+  { "query": "演员到底有多吃天赋", "display_query": "演员到底有多吃天赋" },
+  {
+    "query": "什么样的人算是中了基因彩票",
+    "display_query": "什么样的人算是中了基因彩票"
+  },
   { "query": "勇士vs快船", "display_query": "勇士vs快船" },
   { "query": "C919还能成批生产吗", "display_query": "C919还能成批生产吗" },
   {

@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 21 2026 16:23:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 21 2026 18:07:34 GMT+0800 (China Standard Time) -->
 
 1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=为什么山姆这么受欢迎)
 1. [日本发生7.5级地震](https://www.zhihu.com/search?q=日本发生7.5级地震)

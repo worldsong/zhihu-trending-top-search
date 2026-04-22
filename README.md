@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 22 2026 19:48:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 22 2026 20:54:22 GMT+0800 (China Standard Time) -->
 
-1. [24岁女研究生赢发呆比赛冠军](https://www.zhihu.com/search?q=24岁女研究生赢发呆比赛冠军)
+1. [男子买千万保险本金105岁才能取](https://www.zhihu.com/search?q=男子买千万保险本金105岁才能取)
 1. [接英雄回家](https://www.zhihu.com/search?q=接英雄回家)
 1. [火箭vs湖人](https://www.zhihu.com/search?q=火箭vs湖人)
 1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=为什么山姆这么受欢迎)
@@ -27,6 +27,7 @@
 1. [哪些名场面让你记住了整部动漫](https://www.zhihu.com/search?q=哪些名场面让你记住了整部动漫)
 1. [你曾经错过大牛股吗](https://www.zhihu.com/search?q=你曾经错过大牛股吗)
 1. [什么生活常识必须知道](https://www.zhihu.com/search?q=什么生活常识必须知道)
+1. [24岁女研究生赢发呆比赛冠军](https://www.zhihu.com/search?q=24岁女研究生赢发呆比赛冠军)
 1. [小米汽车](https://www.zhihu.com/search?q=小米汽车)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)

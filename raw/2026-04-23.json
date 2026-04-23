@@ -1,6 +1,8 @@
 [
-  { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
-  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
+  {
+    "query": "柯镇恶为什么被称为大侠",
+    "display_query": "柯镇恶为什么被称为大侠"
+  },
   {
     "query": "为什么现在的孩子会沉迷手机",
     "display_query": "为什么现在的孩子会沉迷手机"
@@ -18,6 +20,12 @@
     "query": "认知水平高的人有什么特征",
     "display_query": "认知水平高的人有什么特征"
   },
+  {
+    "query": "体制内被边缘化是好事吗",
+    "display_query": "体制内被边缘化是好事吗"
+  },
+  { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
+  { "query": "为什么山姆这么受欢迎", "display_query": "为什么山姆这么受欢迎" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },

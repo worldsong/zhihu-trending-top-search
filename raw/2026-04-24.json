@@ -1,5 +1,12 @@
 [
-  { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
+  {
+    "query": "40岁男子心脏停跳2天奇迹生还",
+    "display_query": "40岁男子心脏停跳2天奇迹生还"
+  },
+  {
+    "query": "卡尔南开大学二轮调剂被刷",
+    "display_query": "卡尔南开大学二轮调剂被刷"
+  },
   {
     "query": "为什么现在的孩子会沉迷手机",
     "display_query": "为什么现在的孩子会沉迷手机"
@@ -17,6 +24,7 @@
     "query": "认知水平高的人有什么特征",
     "display_query": "认知水平高的人有什么特征"
   },
+  { "query": "火箭vs湖人", "display_query": "火箭vs湖人" },
   {
     "query": "体制内被边缘化是好事吗",
     "display_query": "体制内被边缘化是好事吗"

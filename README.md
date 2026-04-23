@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 24 2026 06:31:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 24 2026 07:33:23 GMT+0800 (China Standard Time) -->
 
-1. [火箭vs湖人](https://www.zhihu.com/search?q=火箭vs湖人)
+1. [40岁男子心脏停跳2天奇迹生还](https://www.zhihu.com/search?q=40岁男子心脏停跳2天奇迹生还)
+1. [卡尔南开大学二轮调剂被刷](https://www.zhihu.com/search?q=卡尔南开大学二轮调剂被刷)
 1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=为什么现在的孩子会沉迷手机)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=黄金什么时候会大跌)
 1. [你曾经错过大牛股吗](https://www.zhihu.com/search?q=你曾经错过大牛股吗)
@@ -26,6 +27,7 @@
 1. [为什么安陵容这类人难相处](https://www.zhihu.com/search?q=为什么安陵容这类人难相处)
 1. [为什么要无条件爱孩子](https://www.zhihu.com/search?q=为什么要无条件爱孩子)
 1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=认知水平高的人有什么特征)
+1. [火箭vs湖人](https://www.zhihu.com/search?q=火箭vs湖人)
 1. [体制内被边缘化是好事吗](https://www.zhihu.com/search?q=体制内被边缘化是好事吗)
 
 <!-- END -->

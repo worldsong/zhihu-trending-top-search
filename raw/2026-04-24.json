@@ -1,6 +1,5 @@
 [
-  { "query": "华晨宇演唱会延期", "display_query": "华晨宇演唱会延期" },
-  { "query": "中国航天日", "display_query": "中国航天日" },
+  { "query": "心机商标要被整治了", "display_query": "心机商标要被整治了" },
   { "query": "小米yu7", "display_query": "小米yu7" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
@@ -18,6 +17,12 @@
     "query": "宇树h1机器人被担架抬离赛道",
     "display_query": "宇树h1机器人被担架抬离赛道"
   },
+  {
+    "query": "5月将迎中等及以上强度厄尔尼诺",
+    "display_query": "5月将迎中等及以上强度厄尔尼诺"
+  },
+  { "query": "华晨宇演唱会延期", "display_query": "华晨宇演唱会延期" },
+  { "query": "中国航天日", "display_query": "中国航天日" },
   { "query": "Kimi 发布并开源 K2.6", "display_query": "Kimi 发布并开源 K2.6" },
   {
     "query": "番茄上金番作者用 AI 写作",

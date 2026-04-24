@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Apr 24 2026 20:52:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Apr 24 2026 22:25:44 GMT+0800 (China Standard Time) -->
 
-1. [华晨宇演唱会延期](https://www.zhihu.com/search?q=华晨宇演唱会延期)
-1. [中国航天日](https://www.zhihu.com/search?q=中国航天日)
+1. [心机商标要被整治了](https://www.zhihu.com/search?q=心机商标要被整治了)
 1. [小米yu7](https://www.zhihu.com/search?q=小米yu7)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
@@ -28,6 +27,9 @@
 1. [网传 DeepSeek V4 即将发布](https://www.zhihu.com/search?q=网传 DeepSeek V4
    即将发布)
 1. [宇树h1机器人被担架抬离赛道](https://www.zhihu.com/search?q=宇树h1机器人被担架抬离赛道)
+1. [5月将迎中等及以上强度厄尔尼诺](https://www.zhihu.com/search?q=5月将迎中等及以上强度厄尔尼诺)
+1. [华晨宇演唱会延期](https://www.zhihu.com/search?q=华晨宇演唱会延期)
+1. [中国航天日](https://www.zhihu.com/search?q=中国航天日)
 1. [Kimi 发布并开源 K2.6](https://www.zhihu.com/search?q=Kimi 发布并开源 K2.6)
 1. [番茄上金番作者用 AI 写作](https://www.zhihu.com/search?q=番茄上金番作者用 AI
    写作)

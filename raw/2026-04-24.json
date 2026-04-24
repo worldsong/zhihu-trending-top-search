@@ -1,8 +1,6 @@
 [
-  {
-    "query": "火锅店招 92 管培生晋升店长要掏钱",
-    "display_query": "火锅店招 92 管培生晋升店长要掏钱"
-  },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
   {
     "query": "伊朗会不会成为下一个伊拉克",
@@ -13,15 +11,18 @@
     "query": "网传 DeepSeek V4 即将发布",
     "display_query": "网传 DeepSeek V4 即将发布"
   },
-  { "query": "伊朗局势", "display_query": "伊朗局势" },
-  { "query": "华谊兄弟被申请重整", "display_query": "华谊兄弟被申请重整" },
+  { "query": "Kimi 发布并开源 K2.6", "display_query": "Kimi 发布并开源 K2.6" },
   {
     "query": "番茄上金番作者用 AI 写作",
     "display_query": "番茄上金番作者用 AI 写作"
   },
   { "query": "为何云南泼水节变味了", "display_query": "为何云南泼水节变味了" },
   { "query": "梁家辉五封影帝", "display_query": "梁家辉五封影帝" },
-  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  {
+    "query": "火锅店招 92 管培生晋升店长要掏钱",
+    "display_query": "火锅店招 92 管培生晋升店长要掏钱"
+  },
+  { "query": "华谊兄弟被申请重整", "display_query": "华谊兄弟被申请重整" },
   {
     "query": "100多位演员入驻爱奇艺AI库",
     "display_query": "100多位演员入驻爱奇艺AI库"

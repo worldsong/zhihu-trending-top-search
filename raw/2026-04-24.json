@@ -1,5 +1,9 @@
 [
-  { "query": "心机商标要被整治了", "display_query": "心机商标要被整治了" },
+  {
+    "query": "乘客高铁被箱子砸头列车长补偿400",
+    "display_query": "乘客高铁被箱子砸头列车长补偿400"
+  },
+  { "query": "蜜语纪为何受欢迎", "display_query": "蜜语纪为何受欢迎" },
   { "query": "小米yu7", "display_query": "小米yu7" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
@@ -17,6 +21,7 @@
     "query": "宇树h1机器人被担架抬离赛道",
     "display_query": "宇树h1机器人被担架抬离赛道"
   },
+  { "query": "心机商标要被整治了", "display_query": "心机商标要被整治了" },
   {
     "query": "5月将迎中等及以上强度厄尔尼诺",
     "display_query": "5月将迎中等及以上强度厄尔尼诺"

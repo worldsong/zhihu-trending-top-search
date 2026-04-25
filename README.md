@@ -15,18 +15,25 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Apr 25 2026 22:34:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Apr 25 2026 23:29:51 GMT+0800 (China Standard Time) -->
 
+1. [小米yu7](https://www.zhihu.com/search?q=小米yu7)
+1. [2026 苏超](https://www.zhihu.com/search?q=2026 苏超)
+1. [宇树h1机器人被担架抬离赛道](https://www.zhihu.com/search?q=宇树h1机器人被担架抬离赛道)
+1. [5月将迎中等及以上强度厄尔尼诺](https://www.zhihu.com/search?q=5月将迎中等及以上强度厄尔尼诺)
+1. [张雪机车首回合第4](https://www.zhihu.com/search?q=张雪机车首回合第4)
+1. [丁俊晖晋级世锦赛16强](https://www.zhihu.com/search?q=丁俊晖晋级世锦赛16强)
+1. [浪姐 7 者来女爆冷淘汰](https://www.zhihu.com/search?q=浪姐 7 者来女爆冷淘汰)
+1. [高市早苗向靖国神社献祭品](https://www.zhihu.com/search?q=高市早苗向靖国神社献祭品)
+1. [肖战尚界](https://www.zhihu.com/search?q=肖战尚界)
+1. [法院干警配偶低价拍得六千万债权](https://www.zhihu.com/search?q=法院干警配偶低价拍得六千万债权)
 1. [华晨宇演唱会延期](https://www.zhihu.com/search?q=华晨宇演唱会延期)
 1. [中国航天日](https://www.zhihu.com/search?q=中国航天日)
-1. [小米yu7](https://www.zhihu.com/search?q=小米yu7)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
-1. [宇树h1机器人被担架抬离赛道](https://www.zhihu.com/search?q=宇树h1机器人被担架抬离赛道)
-1. [5月将迎中等及以上强度厄尔尼诺](https://www.zhihu.com/search?q=5月将迎中等及以上强度厄尔尼诺)
 1. [网传 DeepSeek V4 即将发布](https://www.zhihu.com/search?q=网传 DeepSeek V4
    即将发布)
 1. [easyhoon加入t1](https://www.zhihu.com/search?q=easyhoon加入t1)
@@ -34,7 +41,6 @@
 1. [Kimi 发布并开源 K2.6](https://www.zhihu.com/search?q=Kimi 发布并开源 K2.6)
 1. [大厂员工称996辛苦是演的](https://www.zhihu.com/search?q=大厂员工称996辛苦是演的)
 1. [奇瑞高管称车企刹车盘越来越小](https://www.zhihu.com/search?q=奇瑞高管称车企刹车盘越来越小)
-1. [张雪机车首回合第4](https://www.zhihu.com/search?q=张雪机车首回合第4)
 
 <!-- END -->
 

@@ -7,7 +7,6 @@
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
-  { "query": "2026 苏超", "display_query": "2026 苏超" },
   { "query": "2026北京车展", "display_query": "2026北京车展" },
   {
     "query": "华晨宇玉溪演唱会延期退票",
@@ -18,6 +17,11 @@
     "query": "妻子的浪漫旅行2026热播",
     "display_query": "妻子的浪漫旅行2026热播"
   },
+  {
+    "query": "《妻子的浪漫旅行2026》第三期",
+    "display_query": "《妻子的浪漫旅行2026》第三期"
+  },
+  { "query": "2026 苏超", "display_query": "2026 苏超" },
   { "query": "多地禁止公共场所吸烟", "display_query": "多地禁止公共场所吸烟" },
   { "query": "演员到底有多吃天赋", "display_query": "演员到底有多吃天赋" },
   { "query": "DNF西装节", "display_query": "DNF西装节" },

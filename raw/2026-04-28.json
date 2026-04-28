@@ -1,6 +1,5 @@
 [
-  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
-  { "query": "什么叫假努力", "display_query": "什么叫假努力" },
+  { "query": "多地禁止公共场所吸烟", "display_query": "多地禁止公共场所吸烟" },
   { "query": "演员到底有多吃天赋", "display_query": "演员到底有多吃天赋" },
   { "query": "DNF西装节", "display_query": "DNF西装节" },
   {
@@ -14,5 +13,11 @@
     "query": "怎样才能叫做真正会科研的人",
     "display_query": "怎样才能叫做真正会科研的人"
   },
-  { "query": "赵心童战胜丁俊晖", "display_query": "赵心童战胜丁俊晖" }
+  { "query": "赵心童战胜丁俊晖", "display_query": "赵心童战胜丁俊晖" },
+  {
+    "query": "内心强大的人有什么特点",
+    "display_query": "内心强大的人有什么特点"
+  },
+  { "query": "湖人vs火箭", "display_query": "湖人vs火箭" },
+  { "query": "什么叫假努力", "display_query": "什么叫假努力" }
 ]

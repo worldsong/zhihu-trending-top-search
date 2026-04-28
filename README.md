@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 28 2026 18:50:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Apr 28 2026 20:17:33 GMT+0800 (China Standard Time) -->
 
 1. [曼联2:1布伦特福德](https://www.zhihu.com/search?q=曼联2:1布伦特福德)
 1. [tes战胜nip](https://www.zhihu.com/search?q=tes战胜nip)
@@ -25,8 +25,9 @@
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
-1. [2026北京车展](https://www.zhihu.com/search?q=2026北京车展)
 1. [华晨宇玉溪演唱会延期退票](https://www.zhihu.com/search?q=华晨宇玉溪演唱会延期退票)
+1. [宋祖儿被指瘦脱相了](https://www.zhihu.com/search?q=宋祖儿被指瘦脱相了)
+1. [2026北京车展](https://www.zhihu.com/search?q=2026北京车展)
 1. [OpenAI发布GPT-5.5](https://www.zhihu.com/search?q=OpenAI发布GPT-5.5)
 1. [妻子的浪漫旅行2026热播](https://www.zhihu.com/search?q=妻子的浪漫旅行2026热播)
 1. [《妻子的浪漫旅行2026》第三期](https://www.zhihu.com/search?q=《妻子的浪漫旅行2026》第三期)

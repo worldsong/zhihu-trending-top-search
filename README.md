@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Apr 28 2026 23:11:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 29 2026 01:26:06 GMT+0800 (China Standard Time) -->
 
 1. [曼联2:1布伦特福德](https://www.zhihu.com/search?q=曼联2:1布伦特福德)
 1. [tes战胜nip](https://www.zhihu.com/search?q=tes战胜nip)
@@ -27,22 +27,6 @@
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [华晨宇玉溪演唱会延期退票](https://www.zhihu.com/search?q=华晨宇玉溪演唱会延期退票)
 1. [宋祖儿被指瘦脱相了](https://www.zhihu.com/search?q=宋祖儿被指瘦脱相了)
-1. [2026北京车展](https://www.zhihu.com/search?q=2026北京车展)
-1. [OpenAI发布GPT-5.5](https://www.zhihu.com/search?q=OpenAI发布GPT-5.5)
-1. [妻子的浪漫旅行2026热播](https://www.zhihu.com/search?q=妻子的浪漫旅行2026热播)
-1. [《妻子的浪漫旅行2026》第三期](https://www.zhihu.com/search?q=《妻子的浪漫旅行2026》第三期)
-1. [2026 苏超](https://www.zhihu.com/search?q=2026 苏超)
-1. [多地禁止公共场所吸烟](https://www.zhihu.com/search?q=多地禁止公共场所吸烟)
-1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=演员到底有多吃天赋)
-1. [DNF西装节](https://www.zhihu.com/search?q=DNF西装节)
-1. [沪深两市成交额突破1万亿](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿)
-1. [王鹤棣演技](https://www.zhihu.com/search?q=王鹤棣演技)
-1. [DeepSeek](https://www.zhihu.com/search?q=DeepSeek)
-1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=怎样才能叫做真正会科研的人)
-1. [赵心童战胜丁俊晖](https://www.zhihu.com/search?q=赵心童战胜丁俊晖)
-1. [内心强大的人有什么特点](https://www.zhihu.com/search?q=内心强大的人有什么特点)
-1. [湖人vs火箭](https://www.zhihu.com/search?q=湖人vs火箭)
-1. [什么叫假努力](https://www.zhihu.com/search?q=什么叫假努力)
 
 <!-- END -->
 

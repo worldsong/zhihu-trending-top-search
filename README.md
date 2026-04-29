@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 29 2026 07:41:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 29 2026 09:45:24 GMT+0800 (China Standard Time) -->
 
-1. [曼联2:1布伦特福德](https://www.zhihu.com/search?q=曼联2:1布伦特福德)
+1. [5月起这些新规即将施行](https://www.zhihu.com/search?q=5月起这些新规即将施行)
+1. [欧冠半决赛大巴黎vs拜仁](https://www.zhihu.com/search?q=欧冠半决赛大巴黎vs拜仁)
 1. [tes战胜nip](https://www.zhihu.com/search?q=tes战胜nip)
 1. [雷霆vs太阳](https://www.zhihu.com/search?q=雷霆vs太阳)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
@@ -26,6 +27,7 @@
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [华晨宇玉溪演唱会延期退票](https://www.zhihu.com/search?q=华晨宇玉溪演唱会延期退票)
+1. [曼联2:1布伦特福德](https://www.zhihu.com/search?q=曼联2:1布伦特福德)
 1. [宋祖儿被指瘦脱相了](https://www.zhihu.com/search?q=宋祖儿被指瘦脱相了)
 
 <!-- END -->

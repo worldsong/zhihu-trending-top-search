@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Apr 29 2026 15:54:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Apr 29 2026 17:54:07 GMT+0800 (China Standard Time) -->
 
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
@@ -24,9 +24,12 @@
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [华晨宇玉溪演唱会延期退票](https://www.zhihu.com/search?q=华晨宇玉溪演唱会延期退票)
 1. [OpenAI发布GPT-5.5](https://www.zhihu.com/search?q=OpenAI发布GPT-5.5)
+1. [东方甄选4名主播集体离职](https://www.zhihu.com/search?q=东方甄选4名主播集体离职)
+1. [人类全马成绩首次正式突破 2
+   小时](https://www.zhihu.com/search?q=人类全马成绩首次正式突破 2 小时)
+1. [迪士尼游客劝烟被连扇5耳光](https://www.zhihu.com/search?q=迪士尼游客劝烟被连扇5耳光)
 1. [Labubu 冰箱将发售 5999 元](https://www.zhihu.com/search?q=Labubu 冰箱将发售
    5999 元)
-1. [东方甄选4名主播集体离职](https://www.zhihu.com/search?q=东方甄选4名主播集体离职)
 1. [25 岁女孩确诊黑色素瘤 5 个月离世](https://www.zhihu.com/search?q=25
    岁女孩确诊黑色素瘤 5 个月离世)
 1. [5月起这些新规即将施行](https://www.zhihu.com/search?q=5月起这些新规即将施行)

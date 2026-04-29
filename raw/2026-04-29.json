@@ -1,14 +1,4 @@
 [
-  {
-    "query": "5月起这些新规即将施行",
-    "display_query": "5月起这些新规即将施行"
-  },
-  {
-    "query": "欧冠半决赛大巴黎vs拜仁",
-    "display_query": "欧冠半决赛大巴黎vs拜仁"
-  },
-  { "query": "tes战胜nip", "display_query": "tes战胜nip" },
-  { "query": "雷霆vs太阳", "display_query": "雷霆vs太阳" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -21,6 +11,29 @@
     "query": "华晨宇玉溪演唱会延期退票",
     "display_query": "华晨宇玉溪演唱会延期退票"
   },
+  { "query": "OpenAI发布GPT-5.5", "display_query": "OpenAI发布GPT-5.5" },
+  {
+    "query": "Labubu 冰箱将发售 5999 元",
+    "display_query": "Labubu 冰箱将发售 5999 元"
+  },
+  {
+    "query": "东方甄选4名主播集体离职",
+    "display_query": "东方甄选4名主播集体离职"
+  },
+  {
+    "query": "25 岁女孩确诊黑色素瘤 5 个月离世",
+    "display_query": "25 岁女孩确诊黑色素瘤 5 个月离世"
+  },
+  {
+    "query": "5月起这些新规即将施行",
+    "display_query": "5月起这些新规即将施行"
+  },
+  {
+    "query": "欧冠半决赛大巴黎vs拜仁",
+    "display_query": "欧冠半决赛大巴黎vs拜仁"
+  },
+  { "query": "tes战胜nip", "display_query": "tes战胜nip" },
+  { "query": "雷霆vs太阳", "display_query": "雷霆vs太阳" },
   { "query": "曼联2:1布伦特福德", "display_query": "曼联2:1布伦特福德" },
   { "query": "宋祖儿被指瘦脱相了", "display_query": "宋祖儿被指瘦脱相了" }
 ]

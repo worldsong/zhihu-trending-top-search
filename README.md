@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 02 2026 17:50:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 02 2026 18:38:46 GMT+0800 (China Standard Time) -->
 
 1. [国际不打小孩日](https://www.zhihu.com/search?q=国际不打小孩日)
 1. [暴雨大暴雨要来了](https://www.zhihu.com/search?q=暴雨大暴雨要来了)
@@ -28,6 +28,7 @@
    预览版上线并开源)
 1. [DeepSeek v4 百万上下文](https://www.zhihu.com/search?q=DeepSeek v4
    百万上下文)
+1. [张雪曾拒绝跟华为合作](https://www.zhihu.com/search?q=张雪曾拒绝跟华为合作)
 1. [阿 Sa 蔡卓妍官宣结婚](https://www.zhihu.com/search?q=阿 Sa 蔡卓妍官宣结婚)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
 1. [欧洲央行维持三大关键利率不变](https://www.zhihu.com/search?q=欧洲央行维持三大关键利率不变)

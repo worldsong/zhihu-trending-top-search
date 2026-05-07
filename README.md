@@ -15,11 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 07 2026 13:18:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 07 2026 16:08:54 GMT+0800 (China Standard Time) -->
 
-1. [28.5 亿建的高标准农田成摆设](https://www.zhihu.com/search?q=28.5
-   亿建的高标准农田成摆设)
-1. [央视曝光电动车续航神器发电低效](https://www.zhihu.com/search?q=央视曝光电动车续航神器发电低效)
+1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
+1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
@@ -28,6 +27,9 @@
 1. [西安羊肉泡馍价格高引争议](https://www.zhihu.com/search?q=西安羊肉泡馍价格高引争议)
 1. [豆包付费版本曝光](https://www.zhihu.com/search?q=豆包付费版本曝光)
 1. [浏阳一烟花厂发生爆炸](https://www.zhihu.com/search?q=浏阳一烟花厂发生爆炸)
+1. [28.5 亿建的高标准农田成摆设](https://www.zhihu.com/search?q=28.5
+   亿建的高标准农田成摆设)
+1. [央视曝光电动车续航神器发电低效](https://www.zhihu.com/search?q=央视曝光电动车续航神器发电低效)
 1. [又干预了日元短线急涨](https://www.zhihu.com/search?q=又干预了日元短线急涨)
 1. [原油下挫](https://www.zhihu.com/search?q=原油下挫)
 1. [坚持油车的原因是什么](https://www.zhihu.com/search?q=坚持油车的原因是什么)

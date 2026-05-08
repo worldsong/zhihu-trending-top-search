@@ -1,10 +1,10 @@
 [
-  { "query": "医生称钙片不必买贵", "display_query": "医生称钙片不必买贵" },
-  {
-    "query": "男子推搡峨眉山猴子险坠崖",
-    "display_query": "男子推搡峨眉山猴子险坠崖"
-  },
+  { "query": "伊朗", "display_query": "伊朗" },
+  { "query": "国乒女团晋级四强", "display_query": "国乒女团晋级四强" },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  { "query": "骑士vs活塞", "display_query": "骑士vs活塞" },
   {
     "query": "伊朗会不会成为下一个伊拉克",
     "display_query": "伊朗会不会成为下一个伊拉克"
@@ -15,6 +15,11 @@
     "display_query": "中国科学家揭示左撇子真相"
   },
   { "query": "樊振东谈美国之行", "display_query": "樊振东谈美国之行" },
+  { "query": "医生称钙片不必买贵", "display_query": "医生称钙片不必买贵" },
+  {
+    "query": "男子推搡峨眉山猴子险坠崖",
+    "display_query": "男子推搡峨眉山猴子险坠崖"
+  },
   {
     "query": "这三种泳衣颜色一旦溺水难被发现",
     "display_query": "这三种泳衣颜色一旦溺水难被发现"
@@ -36,7 +41,5 @@
     "query": "新电脑应该装一些什么软件",
     "display_query": "新电脑应该装一些什么软件"
   },
-  { "query": "伊朗局势", "display_query": "伊朗局势" },
-  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "现货黄金升至4600美元", "display_query": "现货黄金升至4600美元" }
 ]

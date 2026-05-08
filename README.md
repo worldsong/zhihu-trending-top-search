@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 08 2026 09:46:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 08 2026 12:45:17 GMT+0800 (China Standard Time) -->
 
 1. [陪伴你最久的事物是什么](https://www.zhihu.com/search?q=陪伴你最久的事物是什么)
 1. [沪深两市成交额突破1万亿](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿)
@@ -26,6 +26,7 @@
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [现货黄金升至4600美元](https://www.zhihu.com/search?q=现货黄金升至4600美元)
+1. [中国科学家揭示左撇子真相](https://www.zhihu.com/search?q=中国科学家揭示左撇子真相)
 1. [樊振东谈美国之行](https://www.zhihu.com/search?q=樊振东谈美国之行)
 
 <!-- END -->

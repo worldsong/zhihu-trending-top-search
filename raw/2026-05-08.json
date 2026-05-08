@@ -1,4 +1,29 @@
 [
+  { "query": "医生称钙片不必买贵", "display_query": "医生称钙片不必买贵" },
+  {
+    "query": "男子推搡峨眉山猴子险坠崖",
+    "display_query": "男子推搡峨眉山猴子险坠崖"
+  },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  {
+    "query": "伊朗会不会成为下一个伊拉克",
+    "display_query": "伊朗会不会成为下一个伊拉克"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  {
+    "query": "中国科学家揭示左撇子真相",
+    "display_query": "中国科学家揭示左撇子真相"
+  },
+  { "query": "樊振东谈美国之行", "display_query": "樊振东谈美国之行" },
+  {
+    "query": "这三种泳衣颜色一旦溺水难被发现",
+    "display_query": "这三种泳衣颜色一旦溺水难被发现"
+  },
+  { "query": "浏阳一烟花厂发生爆炸", "display_query": "浏阳一烟花厂发生爆炸" },
+  {
+    "query": "央视调查悬空寺景区乱象",
+    "display_query": "央视调查悬空寺景区乱象"
+  },
   {
     "query": "陪伴你最久的事物是什么",
     "display_query": "陪伴你最久的事物是什么"
@@ -13,16 +38,5 @@
   },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
-  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
-  {
-    "query": "伊朗会不会成为下一个伊拉克",
-    "display_query": "伊朗会不会成为下一个伊拉克"
-  },
-  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
-  { "query": "现货黄金升至4600美元", "display_query": "现货黄金升至4600美元" },
-  {
-    "query": "中国科学家揭示左撇子真相",
-    "display_query": "中国科学家揭示左撇子真相"
-  },
-  { "query": "樊振东谈美国之行", "display_query": "樊振东谈美国之行" }
+  { "query": "现货黄金升至4600美元", "display_query": "现货黄金升至4600美元" }
 ]

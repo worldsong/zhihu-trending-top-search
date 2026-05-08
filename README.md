@@ -15,19 +15,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 08 2026 12:45:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 08 2026 14:25:29 GMT+0800 (China Standard Time) -->
 
+1. [医生称钙片不必买贵](https://www.zhihu.com/search?q=医生称钙片不必买贵)
+1. [男子推搡峨眉山猴子险坠崖](https://www.zhihu.com/search?q=男子推搡峨眉山猴子险坠崖)
+1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
+1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [中国科学家揭示左撇子真相](https://www.zhihu.com/search?q=中国科学家揭示左撇子真相)
+1. [樊振东谈美国之行](https://www.zhihu.com/search?q=樊振东谈美国之行)
+1. [这三种泳衣颜色一旦溺水难被发现](https://www.zhihu.com/search?q=这三种泳衣颜色一旦溺水难被发现)
+1. [浏阳一烟花厂发生爆炸](https://www.zhihu.com/search?q=浏阳一烟花厂发生爆炸)
+1. [央视调查悬空寺景区乱象](https://www.zhihu.com/search?q=央视调查悬空寺景区乱象)
 1. [陪伴你最久的事物是什么](https://www.zhihu.com/search?q=陪伴你最久的事物是什么)
 1. [沪深两市成交额突破1万亿](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿)
 1. [新电脑应该装一些什么软件](https://www.zhihu.com/search?q=新电脑应该装一些什么软件)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
-1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
-1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
-1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [现货黄金升至4600美元](https://www.zhihu.com/search?q=现货黄金升至4600美元)
-1. [中国科学家揭示左撇子真相](https://www.zhihu.com/search?q=中国科学家揭示左撇子真相)
-1. [樊振东谈美国之行](https://www.zhihu.com/search?q=樊振东谈美国之行)
 
 <!-- END -->
 

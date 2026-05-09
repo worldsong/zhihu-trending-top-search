@@ -1,6 +1,9 @@
 [
-  { "query": "汪苏泷演唱会", "display_query": "汪苏泷演唱会" },
-  { "query": "俄罗斯胜利日阅兵", "display_query": "俄罗斯胜利日阅兵" },
+  { "query": "Faker向谁表白了", "display_query": "Faker向谁表白了" },
+  {
+    "query": "国乒男团冲击世乒赛四强",
+    "display_query": "国乒男团冲击世乒赛四强"
+  },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -15,6 +18,8 @@
     "display_query": "这三种泳衣颜色一旦溺水难被发现"
   },
   { "query": "浏阳一烟花厂发生爆炸", "display_query": "浏阳一烟花厂发生爆炸" },
+  { "query": "汪苏泷演唱会", "display_query": "汪苏泷演唱会" },
+  { "query": "俄罗斯胜利日阅兵", "display_query": "俄罗斯胜利日阅兵" },
   {
     "query": "《给阿嬷的情书》成五一档黑马",
     "display_query": "《给阿嬷的情书》成五一档黑马"

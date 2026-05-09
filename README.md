@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 09 2026 07:42:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 09 2026 09:42:47 GMT+0800 (China Standard Time) -->
 
-1. [CBA季后赛深圳vs浙江](https://www.zhihu.com/search?q=CBA季后赛深圳vs浙江)
-1. [未曾爱过是不是人生遗憾](https://www.zhihu.com/search?q=未曾爱过是不是人生遗憾)
+1. [伊朗](https://www.zhihu.com/search?q=伊朗)
+1. [国乒女团晋级四强](https://www.zhihu.com/search?q=国乒女团晋级四强)
 1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
 1. [俄罗斯胜利日阅兵](https://www.zhihu.com/search?q=俄罗斯胜利日阅兵)
 1. [今晚油价上调](https://www.zhihu.com/search?q=今晚油价上调)
@@ -27,8 +27,8 @@
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [骑士vs活塞](https://www.zhihu.com/search?q=骑士vs活塞)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
-1. [伊朗](https://www.zhihu.com/search?q=伊朗)
-1. [国乒女团晋级四强](https://www.zhihu.com/search?q=国乒女团晋级四强)
+1. [CBA季后赛深圳vs浙江](https://www.zhihu.com/search?q=CBA季后赛深圳vs浙江)
+1. [未曾爱过是不是人生遗憾](https://www.zhihu.com/search?q=未曾爱过是不是人生遗憾)
 
 <!-- END -->
 

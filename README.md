@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 09 2026 23:38:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 10 2026 00:37:32 GMT+0800 (China Standard Time) -->
 
 1. [汪苏泷演唱会](https://www.zhihu.com/search?q=汪苏泷演唱会)
 1. [尼克斯vs76人](https://www.zhihu.com/search?q=尼克斯vs76人)
@@ -27,19 +27,6 @@
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [美伊谈判](https://www.zhihu.com/search?q=美伊谈判)
-1. [Faker向谁表白了](https://www.zhihu.com/search?q=Faker向谁表白了)
-1. [国乒男团冲击世乒赛四强](https://www.zhihu.com/search?q=国乒男团冲击世乒赛四强)
-1. [这三种泳衣颜色一旦溺水难被发现](https://www.zhihu.com/search?q=这三种泳衣颜色一旦溺水难被发现)
-1. [浏阳一烟花厂发生爆炸](https://www.zhihu.com/search?q=浏阳一烟花厂发生爆炸)
-1. [《给阿嬷的情书》成五一档黑马](https://www.zhihu.com/search?q=《给阿嬷的情书》成五一档黑马)
-1. [2026 五一档总票房 7.56 亿](https://www.zhihu.com/search?q=2026 五一档总票房
-   7.56 亿)
-1. [伊朗](https://www.zhihu.com/search?q=伊朗)
-1. [国乒女团晋级四强](https://www.zhihu.com/search?q=国乒女团晋级四强)
-1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
-1. [今晚油价上调](https://www.zhihu.com/search?q=今晚油价上调)
-1. [CBA季后赛深圳vs浙江](https://www.zhihu.com/search?q=CBA季后赛深圳vs浙江)
-1. [未曾爱过是不是人生遗憾](https://www.zhihu.com/search?q=未曾爱过是不是人生遗憾)
 
 <!-- END -->
 

@@ -15,20 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 09 2026 18:43:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 09 2026 19:39:07 GMT+0800 (China Standard Time) -->
 
-1. [Faker向谁表白了](https://www.zhihu.com/search?q=Faker向谁表白了)
-1. [国乒男团冲击世乒赛四强](https://www.zhihu.com/search?q=国乒男团冲击世乒赛四强)
+1. [汪苏泷演唱会](https://www.zhihu.com/search?q=汪苏泷演唱会)
+1. [尼克斯vs76人](https://www.zhihu.com/search?q=尼克斯vs76人)
+1. [俄罗斯胜利日阅兵](https://www.zhihu.com/search?q=俄罗斯胜利日阅兵)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [骑士vs活塞](https://www.zhihu.com/search?q=骑士vs活塞)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [美伊谈判](https://www.zhihu.com/search?q=美伊谈判)
+1. [Faker向谁表白了](https://www.zhihu.com/search?q=Faker向谁表白了)
+1. [国乒男团冲击世乒赛四强](https://www.zhihu.com/search?q=国乒男团冲击世乒赛四强)
 1. [这三种泳衣颜色一旦溺水难被发现](https://www.zhihu.com/search?q=这三种泳衣颜色一旦溺水难被发现)
 1. [浏阳一烟花厂发生爆炸](https://www.zhihu.com/search?q=浏阳一烟花厂发生爆炸)
-1. [汪苏泷演唱会](https://www.zhihu.com/search?q=汪苏泷演唱会)
-1. [俄罗斯胜利日阅兵](https://www.zhihu.com/search?q=俄罗斯胜利日阅兵)
 1. [《给阿嬷的情书》成五一档黑马](https://www.zhihu.com/search?q=《给阿嬷的情书》成五一档黑马)
 1. [2026 五一档总票房 7.56 亿](https://www.zhihu.com/search?q=2026 五一档总票房
    7.56 亿)

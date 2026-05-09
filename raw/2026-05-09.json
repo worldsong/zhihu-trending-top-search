@@ -1,9 +1,7 @@
 [
-  { "query": "Faker向谁表白了", "display_query": "Faker向谁表白了" },
-  {
-    "query": "国乒男团冲击世乒赛四强",
-    "display_query": "国乒男团冲击世乒赛四强"
-  },
+  { "query": "汪苏泷演唱会", "display_query": "汪苏泷演唱会" },
+  { "query": "尼克斯vs76人", "display_query": "尼克斯vs76人" },
+  { "query": "俄罗斯胜利日阅兵", "display_query": "俄罗斯胜利日阅兵" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
@@ -13,13 +11,17 @@
     "display_query": "伊朗会不会成为下一个伊拉克"
   },
   { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "美伊谈判", "display_query": "美伊谈判" },
+  { "query": "Faker向谁表白了", "display_query": "Faker向谁表白了" },
+  {
+    "query": "国乒男团冲击世乒赛四强",
+    "display_query": "国乒男团冲击世乒赛四强"
+  },
   {
     "query": "这三种泳衣颜色一旦溺水难被发现",
     "display_query": "这三种泳衣颜色一旦溺水难被发现"
   },
   { "query": "浏阳一烟花厂发生爆炸", "display_query": "浏阳一烟花厂发生爆炸" },
-  { "query": "汪苏泷演唱会", "display_query": "汪苏泷演唱会" },
-  { "query": "俄罗斯胜利日阅兵", "display_query": "俄罗斯胜利日阅兵" },
   {
     "query": "《给阿嬷的情书》成五一档黑马",
     "display_query": "《给阿嬷的情书》成五一档黑马"

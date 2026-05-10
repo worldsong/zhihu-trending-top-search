@@ -1,6 +1,4 @@
 [
-  { "query": "把能源饭碗端得更牢", "display_query": "把能源饭碗端得更牢" },
-  { "query": "章泽天发布第三期播客", "display_query": "章泽天发布第三期播客" },
   { "query": "汪苏泷演唱会", "display_query": "汪苏泷演唱会" },
   { "query": "国乒男团进决赛", "display_query": "国乒男团进决赛" },
   { "query": "尼克斯vs76人", "display_query": "尼克斯vs76人" },
@@ -9,11 +7,17 @@
   { "query": "美伊谈判", "display_query": "美伊谈判" },
   { "query": "2026 苏超", "display_query": "2026 苏超" },
   { "query": "NBA", "display_query": "NBA" },
+  { "query": "浏阳一烟花厂发生爆炸", "display_query": "浏阳一烟花厂发生爆炸" },
+  {
+    "query": "年轻人开始报兴趣班旅行",
+    "display_query": "年轻人开始报兴趣班旅行"
+  },
+  { "query": "把能源饭碗端得更牢", "display_query": "把能源饭碗端得更牢" },
+  { "query": "章泽天发布第三期播客", "display_query": "章泽天发布第三期播客" },
   {
     "query": "这三种泳衣颜色一旦溺水难被发现",
     "display_query": "这三种泳衣颜色一旦溺水难被发现"
   },
-  { "query": "浏阳一烟花厂发生爆炸", "display_query": "浏阳一烟花厂发生爆炸" },
   { "query": "美股存储板块集体上扬", "display_query": "美股存储板块集体上扬" },
   {
     "query": "精神病院炒股 持股市值超千万",

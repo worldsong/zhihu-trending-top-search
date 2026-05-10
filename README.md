@@ -15,10 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 10 2026 15:51:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 10 2026 18:51:22 GMT+0800 (China Standard Time) -->
 
-1. [把能源饭碗端得更牢](https://www.zhihu.com/search?q=把能源饭碗端得更牢)
-1. [章泽天发布第三期播客](https://www.zhihu.com/search?q=章泽天发布第三期播客)
 1. [汪苏泷演唱会](https://www.zhihu.com/search?q=汪苏泷演唱会)
 1. [国乒男团进决赛](https://www.zhihu.com/search?q=国乒男团进决赛)
 1. [尼克斯vs76人](https://www.zhihu.com/search?q=尼克斯vs76人)
@@ -27,8 +25,11 @@
 1. [美伊谈判](https://www.zhihu.com/search?q=美伊谈判)
 1. [2026 苏超](https://www.zhihu.com/search?q=2026 苏超)
 1. [NBA](https://www.zhihu.com/search?q=NBA)
-1. [这三种泳衣颜色一旦溺水难被发现](https://www.zhihu.com/search?q=这三种泳衣颜色一旦溺水难被发现)
 1. [浏阳一烟花厂发生爆炸](https://www.zhihu.com/search?q=浏阳一烟花厂发生爆炸)
+1. [年轻人开始报兴趣班旅行](https://www.zhihu.com/search?q=年轻人开始报兴趣班旅行)
+1. [把能源饭碗端得更牢](https://www.zhihu.com/search?q=把能源饭碗端得更牢)
+1. [章泽天发布第三期播客](https://www.zhihu.com/search?q=章泽天发布第三期播客)
+1. [这三种泳衣颜色一旦溺水难被发现](https://www.zhihu.com/search?q=这三种泳衣颜色一旦溺水难被发现)
 1. [美股存储板块集体上扬](https://www.zhihu.com/search?q=美股存储板块集体上扬)
 1. [精神病院炒股 持股市值超千万](https://www.zhihu.com/search?q=精神病院炒股
    持股市值超千万)

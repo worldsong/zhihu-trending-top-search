@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 10 2026 13:24:35 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 10 2026 15:51:04 GMT+0800 (China Standard Time) -->
 
+1. [把能源饭碗端得更牢](https://www.zhihu.com/search?q=把能源饭碗端得更牢)
+1. [章泽天发布第三期播客](https://www.zhihu.com/search?q=章泽天发布第三期播客)
 1. [汪苏泷演唱会](https://www.zhihu.com/search?q=汪苏泷演唱会)
 1. [国乒男团进决赛](https://www.zhihu.com/search?q=国乒男团进决赛)
 1. [尼克斯vs76人](https://www.zhihu.com/search?q=尼克斯vs76人)

@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 11 2026 00:38:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 11 2026 01:39:30 GMT+0800 (China Standard Time) -->
 
-1. [巴菲特建议投资指数基金](https://www.zhihu.com/search?q=巴菲特建议投资指数基金)
 1. [汪苏泷演唱会](https://www.zhihu.com/search?q=汪苏泷演唱会)
 1. [国乒男团进决赛](https://www.zhihu.com/search?q=国乒男团进决赛)
 1. [尼克斯vs76人](https://www.zhihu.com/search?q=尼克斯vs76人)
@@ -27,6 +26,8 @@
 1. [NBA](https://www.zhihu.com/search?q=NBA)
 1. [浏阳一烟花厂发生爆炸](https://www.zhihu.com/search?q=浏阳一烟花厂发生爆炸)
 1. [年轻人开始报兴趣班旅行](https://www.zhihu.com/search?q=年轻人开始报兴趣班旅行)
+1. [女游客秋千坠亡家属已和解](https://www.zhihu.com/search?q=女游客秋千坠亡家属已和解)
+1. [巴菲特建议投资指数基金](https://www.zhihu.com/search?q=巴菲特建议投资指数基金)
 
 <!-- END -->
 

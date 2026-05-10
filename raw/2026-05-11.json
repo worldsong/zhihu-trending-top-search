@@ -1,8 +1,4 @@
 [
-  {
-    "query": "巴菲特建议投资指数基金",
-    "display_query": "巴菲特建议投资指数基金"
-  },
   { "query": "汪苏泷演唱会", "display_query": "汪苏泷演唱会" },
   { "query": "国乒男团进决赛", "display_query": "国乒男团进决赛" },
   { "query": "尼克斯vs76人", "display_query": "尼克斯vs76人" },
@@ -14,5 +10,13 @@
   {
     "query": "年轻人开始报兴趣班旅行",
     "display_query": "年轻人开始报兴趣班旅行"
+  },
+  {
+    "query": "女游客秋千坠亡家属已和解",
+    "display_query": "女游客秋千坠亡家属已和解"
+  },
+  {
+    "query": "巴菲特建议投资指数基金",
+    "display_query": "巴菲特建议投资指数基金"
   }
 ]

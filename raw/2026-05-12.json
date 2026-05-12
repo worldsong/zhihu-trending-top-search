@@ -1,5 +1,8 @@
 [
-  { "query": "国际护士节", "display_query": "国际护士节" },
+  {
+    "query": "学校回应中学男厕装摄像头",
+    "display_query": "学校回应中学男厕装摄像头"
+  },
   { "query": "湖人vs雷霆", "display_query": "湖人vs雷霆" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   {
@@ -30,6 +33,7 @@
     "query": "你心目中的排名第一的雪糕",
     "display_query": "你心目中的排名第一的雪糕"
   },
+  { "query": "国际护士节", "display_query": "国际护士节" },
   { "query": "湖人 vs 雷霆", "display_query": "湖人 vs 雷霆" },
   {
     "query": "追觅 CEO 狂发百条视频",

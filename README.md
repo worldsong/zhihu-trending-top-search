@@ -15,8 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 12 2026 16:17:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 12 2026 19:08:03 GMT+0800 (China Standard Time) -->
 
+1. [国际护士节](https://www.zhihu.com/search?q=国际护士节)
+1. [湖人vs雷霆](https://www.zhihu.com/search?q=湖人vs雷霆)
+1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
+1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=美国情报系统现在属于什么水平)
+1. [旅行后你对哪个城市祛魅了](https://www.zhihu.com/search?q=旅行后你对哪个城市祛魅了)
+1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=为什么很多人喜欢和AI对话)
+1. [人到中年后为什么很难快乐起来](https://www.zhihu.com/search?q=人到中年后为什么很难快乐起来)
+1. [什么才是真正的解决问题的能力](https://www.zhihu.com/search?q=什么才是真正的解决问题的能力)
+1. [体制内工作最好的心态是什么](https://www.zhihu.com/search?q=体制内工作最好的心态是什么)
+1. [你心目中的排名第一的雪糕](https://www.zhihu.com/search?q=你心目中的排名第一的雪糕)
 1. [湖人 vs 雷霆](https://www.zhihu.com/search?q=湖人 vs 雷霆)
 1. [追觅 CEO 狂发百条视频](https://www.zhihu.com/search?q=追觅 CEO 狂发百条视频)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)

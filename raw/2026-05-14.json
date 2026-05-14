@@ -1,13 +1,37 @@
 [
+  {
+    "query": "电视剧《低智商犯罪》热播",
+    "display_query": "电视剧《低智商犯罪》热播"
+  },
+  {
+    "query": "OPPO 高级副总裁职级直降两级",
+    "display_query": "OPPO 高级副总裁职级直降两级"
+  },
+  {
+    "query": "河南蒜薹滞销能学「偷甘蔗」吗",
+    "display_query": "河南蒜薹滞销能学「偷甘蔗」吗"
+  },
+  {
+    "query": "英媒曝英国海军护卫舰仅剩 5 艘",
+    "display_query": "英媒曝英国海军护卫舰仅剩 5 艘"
+  },
+  {
+    "query": "研究称工作时长减少肥胖率会下降",
+    "display_query": "研究称工作时长减少肥胖率会下降"
+  },
+  { "query": "动车加装卧铺床帘走红", "display_query": "动车加装卧铺床帘走红" },
+  {
+    "query": "湖南一中学发退步快学生证明",
+    "display_query": "湖南一中学发退步快学生证明"
+  },
+  { "query": "摩洛哥新娘刷屏全网", "display_query": "摩洛哥新娘刷屏全网" },
+  { "query": "iOS26.5 正式版发布", "display_query": "iOS26.5 正式版发布" },
+  { "query": "湖人 110:115 雷霆", "display_query": "湖人 110:115 雷霆" },
   { "query": "TES对战NIP", "display_query": "TES对战NIP" },
   { "query": "金曲奖入围名单", "display_query": "金曲奖入围名单" },
   { "query": "湖人vs雷霆", "display_query": "湖人vs雷霆" },
   { "query": "戛纳红毯", "display_query": "戛纳红毯" },
   { "query": "机票价格大跳水", "display_query": "机票价格大跳水" },
-  {
-    "query": "电视剧《低智商犯罪》热播",
-    "display_query": "电视剧《低智商犯罪》热播"
-  },
   {
     "query": "买190元榴莲仅退款买家已被拘",
     "display_query": "买190元榴莲仅退款买家已被拘"
@@ -19,10 +43,6 @@
   {
     "query": "贾跃亭出任 FF 全球 CEO",
     "display_query": "贾跃亭出任 FF 全球 CEO"
-  },
-  {
-    "query": "OPPO 高级副总裁职级直降两级",
-    "display_query": "OPPO 高级副总裁职级直降两级"
   },
   { "query": "国际护士节", "display_query": "国际护士节" },
   { "query": "戛纳", "display_query": "戛纳" },

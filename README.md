@@ -15,10 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu May 14 2026 19:05:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu May 14 2026 21:22:53 GMT+0800 (China Standard Time) -->
 
-1. [小米四款新车曝光](https://www.zhihu.com/search?q=小米四款新车曝光)
-1. [中国银行信用卡APP将关停](https://www.zhihu.com/search?q=中国银行信用卡APP将关停)
 1. [王鸥 何九华](https://www.zhihu.com/search?q=王鸥 何九华)
 1. [妻子的浪漫旅行](https://www.zhihu.com/search?q=妻子的浪漫旅行)
 1. [电视剧《低智商犯罪》热播](https://www.zhihu.com/search?q=电视剧《低智商犯罪》热播)
@@ -28,6 +26,10 @@
 1. [国际足联急了](https://www.zhihu.com/search?q=国际足联急了)
 1. [奔跑吧回应收视率低](https://www.zhihu.com/search?q=奔跑吧回应收视率低)
 1. [雷霆vs湖人](https://www.zhihu.com/search?q=雷霆vs湖人)
+1. [徐州1比2宿迁](https://www.zhihu.com/search?q=徐州1比2宿迁)
+1. [巴萨2比0皇马](https://www.zhihu.com/search?q=巴萨2比0皇马)
+1. [小米四款新车曝光](https://www.zhihu.com/search?q=小米四款新车曝光)
+1. [中国银行信用卡APP将关停](https://www.zhihu.com/search?q=中国银行信用卡APP将关停)
 1. [河南蒜薹滞销能学「偷甘蔗」吗](https://www.zhihu.com/search?q=河南蒜薹滞销能学「偷甘蔗」吗)
 1. [英媒曝英国海军护卫舰仅剩 5
    艘](https://www.zhihu.com/search?q=英媒曝英国海军护卫舰仅剩 5 艘)

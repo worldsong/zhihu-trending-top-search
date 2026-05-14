@@ -15,19 +15,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri May 15 2026 06:51:47 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri May 15 2026 07:42:27 GMT+0800 (China Standard Time) -->
 
+1. [我国超深层千亿方级页岩气田诞生](https://www.zhihu.com/search?q=我国超深层千亿方级页岩气田诞生)
+1. [辛芷蕾新片演黄柳霜](https://www.zhihu.com/search?q=辛芷蕾新片演黄柳霜)
+1. [王鸥 何九华](https://www.zhihu.com/search?q=王鸥 何九华)
+1. [妻子的浪漫旅行](https://www.zhihu.com/search?q=妻子的浪漫旅行)
+1. [电视剧《低智商犯罪》热播](https://www.zhihu.com/search?q=电视剧《低智商犯罪》热播)
+1. [奔驰等多家德国车企计划裁员](https://www.zhihu.com/search?q=奔驰等多家德国车企计划裁员)
+1. [阿里被曝将深度整合千问与淘宝](https://www.zhihu.com/search?q=阿里被曝将深度整合千问与淘宝)
+1. [OPPO 高级副总裁职级直降两级](https://www.zhihu.com/search?q=OPPO
+   高级副总裁职级直降两级)
+1. [国际足联急了](https://www.zhihu.com/search?q=国际足联急了)
+1. [奔跑吧回应收视率低](https://www.zhihu.com/search?q=奔跑吧回应收视率低)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
-1. [王鸥 何九华](https://www.zhihu.com/search?q=王鸥 何九华)
-1. [妻子的浪漫旅行](https://www.zhihu.com/search?q=妻子的浪漫旅行)
-1. [电视剧《低智商犯罪》热播](https://www.zhihu.com/search?q=电视剧《低智商犯罪》热播)
-1. [阿里被曝将深度整合千问与淘宝](https://www.zhihu.com/search?q=阿里被曝将深度整合千问与淘宝)
-1. [OPPO 高级副总裁职级直降两级](https://www.zhihu.com/search?q=OPPO
-   高级副总裁职级直降两级)
 
 <!-- END -->
 

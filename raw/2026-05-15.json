@@ -1,5 +1,9 @@
 [
-  { "query": "股市", "display_query": "股市" },
+  { "query": "中概股集体飙升大涨", "display_query": "中概股集体飙升大涨" },
+  {
+    "query": "基辛格在天坛留言簿留下一句话",
+    "display_query": "基辛格在天坛留言簿留下一句话"
+  },
   {
     "query": "广东启动防汛ⅳ级应急响应",
     "display_query": "广东启动防汛ⅳ级应急响应"
@@ -17,6 +21,7 @@
   { "query": "没了心气是怎么恢复的", "display_query": "没了心气是怎么恢复的" },
   { "query": "蒋天生是否死于大度", "display_query": "蒋天生是否死于大度" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "股市", "display_query": "股市" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
   { "query": "鹿晗寸头", "display_query": "鹿晗寸头" },
   {

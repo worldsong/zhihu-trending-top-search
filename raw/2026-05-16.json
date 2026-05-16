@@ -1,8 +1,12 @@
 [
-  { "query": "股市", "display_query": "股市" },
+  { "query": "那英再次加盟歌手", "display_query": "那英再次加盟歌手" },
   {
     "query": "广东启动防汛ⅳ级应急响应",
     "display_query": "广东启动防汛ⅳ级应急响应"
+  },
+  {
+    "query": "于东来200元餐费付10倍",
+    "display_query": "于东来200元餐费付10倍"
   },
   { "query": "A股三大指数集体收跌", "display_query": "A股三大指数集体收跌" },
   { "query": "今日国际家庭日", "display_query": "今日国际家庭日" },
@@ -17,5 +21,6 @@
   { "query": "没了心气是怎么恢复的", "display_query": "没了心气是怎么恢复的" },
   { "query": "蒋天生是否死于大度", "display_query": "蒋天生是否死于大度" },
   { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "股市", "display_query": "股市" },
   { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" }
 ]

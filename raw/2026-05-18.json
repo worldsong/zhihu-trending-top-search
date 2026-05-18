@@ -1,4 +1,26 @@
 [
+  { "query": "郭富城陪方媛奔丧", "display_query": "郭富城陪方媛奔丧" },
+  {
+    "query": "女孩考倒数第一 爸爸淡定逆向教育",
+    "display_query": "女孩考倒数第一 爸爸淡定逆向教育"
+  },
+  { "query": "伊朗局势", "display_query": "伊朗局势" },
+  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" },
+  { "query": "美以袭击伊朗", "display_query": "美以袭击伊朗" },
+  {
+    "query": "伊朗会不会成为下一个伊拉克",
+    "display_query": "伊朗会不会成为下一个伊拉克"
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "榴莲价格大降", "display_query": "榴莲价格大降" },
+  {
+    "query": "沪深两市成交额突破3万亿元",
+    "display_query": "沪深两市成交额突破3万亿元"
+  },
+  {
+    "query": "宇树发布 GD01 载人变形机甲",
+    "display_query": "宇树发布 GD01 载人变形机甲"
+  },
   {
     "query": "何炅要开演唱会？工作室回应",
     "display_query": "何炅要开演唱会？工作室回应"
@@ -25,7 +47,5 @@
   { "query": "电视剧主角", "display_query": "电视剧主角" },
   { "query": "蒋天生是否死于大度", "display_query": "蒋天生是否死于大度" },
   { "query": "股市", "display_query": "股市" },
-  { "query": "没了心气是怎么恢复的", "display_query": "没了心气是怎么恢复的" },
-  { "query": "伊朗局势", "display_query": "伊朗局势" },
-  { "query": "以色列宣布袭击伊朗", "display_query": "以色列宣布袭击伊朗" }
+  { "query": "没了心气是怎么恢复的", "display_query": "没了心气是怎么恢复的" }
 ]

@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue May 19 2026 19:51:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue May 19 2026 22:27:19 GMT+0800 (China Standard Time) -->
 
 1. [湖北发布暴雨橙色预警](https://www.zhihu.com/search?q=湖北发布暴雨橙色预警)
 1. [全国多地暴雨](https://www.zhihu.com/search?q=全国多地暴雨)
@@ -26,6 +26,7 @@
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [贯穿南北的大范围降雨来了](https://www.zhihu.com/search?q=贯穿南北的大范围降雨来了)
 1. [张小珺对谈姚顺宇](https://www.zhihu.com/search?q=张小珺对谈姚顺宇)
 1. [Anthropic 估值反超 OpenAI](https://www.zhihu.com/search?q=Anthropic 估值反超
    OpenAI)

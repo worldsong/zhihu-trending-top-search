@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun May 24 2026 19:55:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun May 24 2026 20:58:06 GMT+0800 (China Standard Time) -->
 
 1. [油价](https://www.zhihu.com/search?q=油价)
 1. [油价今晚上调](https://www.zhihu.com/search?q=油价今晚上调)

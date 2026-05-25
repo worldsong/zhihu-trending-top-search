@@ -15,16 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 25 2026 14:57:52 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 25 2026 19:05:57 GMT+0800 (China Standard Time) -->
 
-1. [阿联酋拦截6架无人机](https://www.zhihu.com/search?q=阿联酋拦截6架无人机)
+1. [乌克兰首都基辅传出爆炸声](https://www.zhihu.com/search?q=乌克兰首都基辅传出爆炸声)
 1. [今年首个红色山洪灾害气象预警发布](https://www.zhihu.com/search?q=今年首个红色山洪灾害气象预警发布)
-1. [金价](https://www.zhihu.com/search?q=金价)
+1. [雷霆vs马刺](https://www.zhihu.com/search?q=雷霆vs马刺)
+1. [尼克斯vs骑士](https://www.zhihu.com/search?q=尼克斯vs骑士)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
+1. [阿森纳时隔22年再夺英超冠军](https://www.zhihu.com/search?q=阿森纳时隔22年再夺英超冠军)
+1. [阿联酋拦截6架无人机](https://www.zhihu.com/search?q=阿联酋拦截6架无人机)
+1. [金价](https://www.zhihu.com/search?q=金价)
 1. [姜乘澜被执行1119万](https://www.zhihu.com/search?q=姜乘澜被执行1119万)
 1. [三大运营商token套餐全面上线](https://www.zhihu.com/search?q=三大运营商token套餐全面上线)
 1. [油价](https://www.zhihu.com/search?q=油价)

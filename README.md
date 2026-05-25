@@ -15,11 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon May 25 2026 10:02:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon May 25 2026 14:57:52 GMT+0800 (China Standard Time) -->
 
-1. [油价](https://www.zhihu.com/search?q=油价)
-1. [油价今晚上调](https://www.zhihu.com/search?q=油价今晚上调)
-1. [武汉发布暴雨红色预警](https://www.zhihu.com/search?q=武汉发布暴雨红色预警)
+1. [阿联酋拦截6架无人机](https://www.zhihu.com/search?q=阿联酋拦截6架无人机)
 1. [今年首个红色山洪灾害气象预警发布](https://www.zhihu.com/search?q=今年首个红色山洪灾害气象预警发布)
 1. [金价](https://www.zhihu.com/search?q=金价)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
@@ -28,6 +26,10 @@
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [姜乘澜被执行1119万](https://www.zhihu.com/search?q=姜乘澜被执行1119万)
+1. [三大运营商token套餐全面上线](https://www.zhihu.com/search?q=三大运营商token套餐全面上线)
+1. [油价](https://www.zhihu.com/search?q=油价)
+1. [油价今晚上调](https://www.zhihu.com/search?q=油价今晚上调)
+1. [武汉发布暴雨红色预警](https://www.zhihu.com/search?q=武汉发布暴雨红色预警)
 
 <!-- END -->
 

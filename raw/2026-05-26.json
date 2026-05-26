@@ -1,11 +1,38 @@
 [
-  {
-    "query": "乌克兰首都基辅传出爆炸声",
-    "display_query": "乌克兰首都基辅传出爆炸声"
-  },
+  { "query": "T1战胜DK", "display_query": "T1战胜DK" },
   {
     "query": "今年首个红色山洪灾害气象预警发布",
     "display_query": "今年首个红色山洪灾害气象预警发布"
+  },
+  { "query": "雨霖铃", "display_query": "雨霖铃" },
+  {
+    "query": "雷军强烈建议大家现在就换手机",
+    "display_query": "雷军强烈建议大家现在就换手机"
+  },
+  { "query": "《错嫁有喜》原著", "display_query": "《错嫁有喜》原著" },
+  {
+    "query": "爆剧《错嫁有喜》原著在这里",
+    "display_query": "爆剧《错嫁有喜》原著在这里"
+  },
+  {
+    "query": "给阿嬷的情书拿到第一个电影奖",
+    "display_query": "给阿嬷的情书拿到第一个电影奖"
+  },
+  {
+    "query": "山西沁源一煤矿发生事故",
+    "display_query": "山西沁源一煤矿发生事故"
+  },
+  {
+    "query": "耿同学：举报不为赚钱 已与MCN解约",
+    "display_query": "耿同学：举报不为赚钱 已与MCN解约"
+  },
+  {
+    "query": "2026 年电影票房突破 150 亿",
+    "display_query": "2026 年电影票房突破 150 亿"
+  },
+  {
+    "query": "乌克兰首都基辅传出爆炸声",
+    "display_query": "乌克兰首都基辅传出爆炸声"
   },
   { "query": "雷霆vs马刺", "display_query": "雷霆vs马刺" },
   { "query": "尼克斯vs骑士", "display_query": "尼克斯vs骑士" },
@@ -14,16 +41,11 @@
     "display_query": "阿森纳时隔22年再夺英超冠军"
   },
   { "query": "黑袍纠察队大结局", "display_query": "黑袍纠察队大结局" },
-  {
-    "query": "雷军强烈建议大家现在就换手机",
-    "display_query": "雷军强烈建议大家现在就换手机"
-  },
   { "query": "英特尔CEO陈立武新规", "display_query": "英特尔CEO陈立武新规" },
   {
     "query": "为何今年暴雨来得又早又强",
     "display_query": "为何今年暴雨来得又早又强"
   },
-  { "query": "《错嫁有喜》原著", "display_query": "《错嫁有喜》原著" },
   { "query": "大连英博2比0成都蓉城", "display_query": "大连英博2比0成都蓉城" },
   {
     "query": "中超辽宁铁人5比0浙江队",

@@ -15,8 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat May 30 2026 20:56:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat May 30 2026 22:23:55 GMT+0800 (China Standard Time) -->
 
+1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破2万亿元)
+1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
@@ -28,8 +30,6 @@
 1. [荣耀 OPPO 推出磁吸外置自拍屏](https://www.zhihu.com/search?q=荣耀 OPPO
    推出磁吸外置自拍屏)
 1. [中方回应停止向日本出口重稀土](https://www.zhihu.com/search?q=中方回应停止向日本出口重稀土)
-1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破2万亿元)
-1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [《小巷人家2》原班人马回归](https://www.zhihu.com/search?q=《小巷人家2》原班人马回归)
 1. [小米通报空调安装「抽真空」造假](https://www.zhihu.com/search?q=小米通报空调安装「抽真空」造假)
 1. [马刺VS雷霆](https://www.zhihu.com/search?q=马刺VS雷霆)

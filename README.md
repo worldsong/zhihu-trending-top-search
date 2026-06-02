@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 02 2026 21:45:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 03 2026 01:56:59 GMT+0800 (China Standard Time) -->
 
 1. [六一儿童节](https://www.zhihu.com/search?q=六一儿童节)
 1. [我国全面进入汛期](https://www.zhihu.com/search?q=我国全面进入汛期)
@@ -27,14 +27,6 @@
 1. [高考加油的文案](https://www.zhihu.com/search?q=高考加油的文案)
 1. [高考作文素材](https://www.zhihu.com/search?q=高考作文素材)
 1. [极简真的养人吗](https://www.zhihu.com/search?q=极简真的养人吗)
-1. [TES战胜JDG](https://www.zhihu.com/search?q=TES战胜JDG)
-1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破2万亿元)
-1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
-1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
-1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
-1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
-1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
-1. [现货黄金](https://www.zhihu.com/search?q=现货黄金)
 
 <!-- END -->
 

@@ -15,16 +15,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 03 2026 13:52:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 03 2026 18:27:44 GMT+0800 (China Standard Time) -->
 
-1. [我国全面进入汛期](https://www.zhihu.com/search?q=我国全面进入汛期)
-1. [高考祝福](https://www.zhihu.com/search?q=高考祝福)
-1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [高考进入倒计时](https://www.zhihu.com/search?q=高考进入倒计时)
 1. [车企 5 月销量数据出炉](https://www.zhihu.com/search?q=车企 5 月销量数据出炉)
 1. [高考祝福语和鼓励的文案](https://www.zhihu.com/search?q=高考祝福语和鼓励的文案)
 1. [高考加油的文案](https://www.zhihu.com/search?q=高考加油的文案)
 1. [高考作文素材](https://www.zhihu.com/search?q=高考作文素材)
+1. [印度被烤糊了](https://www.zhihu.com/search?q=印度被烤糊了)
+1. [智驾不到一分钟撞半挂车一家三口身亡](https://www.zhihu.com/search?q=智驾不到一分钟撞半挂车一家三口身亡)
+1. [江西一轿车追尾致 3
+   死调查报告](https://www.zhihu.com/search?q=江西一轿车追尾致 3 死调查报告)
+1. [哈佛最年轻华人教授被曝入职open
+   AI](https://www.zhihu.com/search?q=哈佛最年轻华人教授被曝入职open AI)
+1. [央视网披露「南天门计划」新细节](https://www.zhihu.com/search?q=央视网披露「南天门计划」新细节)
+1. [我国全面进入汛期](https://www.zhihu.com/search?q=我国全面进入汛期)
+1. [高考祝福](https://www.zhihu.com/search?q=高考祝福)
+1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [极简真的养人吗](https://www.zhihu.com/search?q=极简真的养人吗)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [六一儿童节](https://www.zhihu.com/search?q=六一儿童节)

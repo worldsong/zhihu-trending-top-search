@@ -1,12 +1,6 @@
 [
-  {
-    "query": "多地要求高考期间ktv暂停营业",
-    "display_query": "多地要求高考期间ktv暂停营业"
-  },
-  {
-    "query": "全社会都在为高考生加油",
-    "display_query": "全社会都在为高考生加油"
-  },
+  { "query": "今日芒种", "display_query": "今日芒种" },
+  { "query": "错怪孩子需要道歉吗", "display_query": "错怪孩子需要道歉吗" },
   { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" },
   {
     "query": "你看过最感动的短篇漫画是什么",
@@ -27,7 +21,13 @@
     "query": "claudecode使用感受如何",
     "display_query": "claudecode使用感受如何"
   },
-  { "query": "今日芒种", "display_query": "今日芒种" },
-  { "query": "错怪孩子需要道歉吗", "display_query": "错怪孩子需要道歉吗" },
+  {
+    "query": "多地要求高考期间ktv暂停营业",
+    "display_query": "多地要求高考期间ktv暂停营业"
+  },
+  {
+    "query": "全社会都在为高考生加油",
+    "display_query": "全社会都在为高考生加油"
+  },
   { "query": "高考作文素材", "display_query": "高考作文素材" }
 ]

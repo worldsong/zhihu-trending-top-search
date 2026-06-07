@@ -15,10 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 07 2026 21:13:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 07 2026 23:15:33 GMT+0800 (China Standard Time) -->
 
 1. [今日芒种](https://www.zhihu.com/search?q=今日芒种)
 1. [错怪孩子需要道歉吗](https://www.zhihu.com/search?q=错怪孩子需要道歉吗)
+1. [浪姐四公](https://www.zhihu.com/search?q=浪姐四公)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=你看过最感动的短篇漫画是什么)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=为什么人不能靠意志力戒毒)
 1. [高考加油](https://www.zhihu.com/search?q=高考加油)

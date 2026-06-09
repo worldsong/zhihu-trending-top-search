@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 09 2026 17:27:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 09 2026 20:27:43 GMT+0800 (China Standard Time) -->
 
-1. [传销头子出狱后再骗10个亿](https://www.zhihu.com/search?q=传销头子出狱后再骗10个亿)
+1. [高考作文](https://www.zhihu.com/search?q=高考作文)
+1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A股三大指数集体高开)
 1. [浪姐四公](https://www.zhihu.com/search?q=浪姐四公)
 1. [NBA总决赛](https://www.zhihu.com/search?q=NBA总决赛)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=沪深两市成交额突破1万亿元)
@@ -26,6 +27,7 @@
 1. [高考地理](https://www.zhihu.com/search?q=高考地理)
 1. [BLG 1:3 不敌 WE](https://www.zhihu.com/search?q=BLG 1:3 不敌 WE)
 1. [高考时间](https://www.zhihu.com/search?q=高考时间)
+1. [传销头子出狱后再骗10个亿](https://www.zhihu.com/search?q=传销头子出狱后再骗10个亿)
 1. [2026高考日程表](https://www.zhihu.com/search?q=2026高考日程表)
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [TES战胜WE](https://www.zhihu.com/search?q=TES战胜WE)

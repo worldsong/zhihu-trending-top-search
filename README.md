@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 10 2026 22:13:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 11 2026 01:47:13 GMT+0800 (China Standard Time) -->
 
 1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂直面会)
 1. [高考作文](https://www.zhihu.com/search?q=高考作文)
@@ -27,19 +27,6 @@
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=美以袭击伊朗)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=伊朗会不会成为下一个伊拉克)
-1. [BLG 1:3 不敌 WE](https://www.zhihu.com/search?q=BLG 1:3 不敌 WE)
-1. [高考押题](https://www.zhihu.com/search?q=高考押题)
-1. [地理答题模板](https://www.zhihu.com/search?q=地理答题模板)
-1. [2026 高考](https://www.zhihu.com/search?q=2026 高考)
-1. [2026高考数学](https://www.zhihu.com/search?q=2026高考数学)
-1. [2026高考作文](https://www.zhihu.com/search?q=2026高考作文)
-1. [2026高考英语](https://www.zhihu.com/search?q=2026高考英语)
-1. [2026高考化学](https://www.zhihu.com/search?q=2026高考化学)
-1. [2026高考生物](https://www.zhihu.com/search?q=2026高考生物)
-1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A股三大指数集体高开)
-1. [NBA总决赛](https://www.zhihu.com/search?q=NBA总决赛)
-1. [高考地理](https://www.zhihu.com/search?q=高考地理)
-1. [高考化学](https://www.zhihu.com/search?q=高考化学)
 
 <!-- END -->
 

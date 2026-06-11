@@ -1,7 +1,6 @@
 [
   { "query": "任天堂直面会", "display_query": "任天堂直面会" },
   { "query": "高考作文", "display_query": "高考作文" },
-  { "query": "浪姐四公", "display_query": "浪姐四公" },
   { "query": "nba总决赛", "display_query": "nba总决赛" },
   {
     "query": "沪深两市成交额突破1万亿元",
@@ -17,5 +16,7 @@
   {
     "query": "伊朗会不会成为下一个伊拉克",
     "display_query": "伊朗会不会成为下一个伊拉克"
-  }
+  },
+  { "query": "速览中东危局40小时", "display_query": "速览中东危局40小时" },
+  { "query": "浪姐四公", "display_query": "浪姐四公" }
 ]

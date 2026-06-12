@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jun 12 2026 06:44:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jun 12 2026 08:11:18 GMT+0800 (China Standard Time) -->
 
-1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂直面会)
-1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=美股三大指数集体收跌)
+1. [社保博主成新兴赛道](https://www.zhihu.com/search?q=社保博主成新兴赛道)
 1. [人到中年读书还有意义吗](https://www.zhihu.com/search?q=人到中年读书还有意义吗)
 1. [伊朗局势](https://www.zhihu.com/search?q=伊朗局势)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=以色列宣布袭击伊朗)
@@ -27,6 +26,9 @@
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=速览中东危局40小时)
 1. [伊朗计划彻底封锁霍尔木兹海峡](https://www.zhihu.com/search?q=伊朗计划彻底封锁霍尔木兹海峡)
 1. [SpaceX被曝IPO定价135美元](https://www.zhihu.com/search?q=SpaceX被曝IPO定价135美元)
+1. [2026 高考](https://www.zhihu.com/search?q=2026 高考)
+1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂直面会)
+1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=美股三大指数集体收跌)
 
 <!-- END -->
 

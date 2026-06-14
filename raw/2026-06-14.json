@@ -9,9 +9,14 @@
     "query": "重回高考那年还能做对几道",
     "display_query": "重回高考那年还能做对几道"
   },
+  { "query": "张慧雯淘汰", "display_query": "张慧雯淘汰" },
+  { "query": "张桂梅连续16年送考", "display_query": "张桂梅连续16年送考" },
+  {
+    "query": "昔日零分考生37岁再战高考",
+    "display_query": "昔日零分考生37岁再战高考"
+  },
   { "query": "2026 高考数学", "display_query": "2026 高考数学" },
   { "query": "高考数学难不难", "display_query": "高考数学难不难" },
-  { "query": "张慧雯淘汰", "display_query": "张慧雯淘汰" },
   { "query": "六级", "display_query": "六级" },
   { "query": "英语六级考试", "display_query": "英语六级考试" },
   {

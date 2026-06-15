@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 15 2026 23:33:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 16 2026 03:34:54 GMT+0800 (China Standard Time) -->
 
 1. [英语四级](https://www.zhihu.com/search?q=英语四级)
 1. [TES对战BLG](https://www.zhihu.com/search?q=TES对战BLG)
@@ -26,22 +26,7 @@
 1. [孟羽童主动向平安高管求职](https://www.zhihu.com/search?q=孟羽童主动向平安高管求职)
 1. [谢娜北京演唱会售罄](https://www.zhihu.com/search?q=谢娜北京演唱会售罄)
 1. [马斯克成首位万亿富翁](https://www.zhihu.com/search?q=马斯克成首位万亿富翁)
-1. [钓鱼饵料含安眠药](https://www.zhihu.com/search?q=钓鱼饵料含安眠药)
-1. [云台相机成消费电子新风口](https://www.zhihu.com/search?q=云台相机成消费电子新风口)
-1. [影石反诉大疆侵权](https://www.zhihu.com/search?q=影石反诉大疆侵权)
-1. [马宁为控制体脂不吃红肉](https://www.zhihu.com/search?q=马宁为控制体脂不吃红肉)
-1. [梁朝伟谈如何用眼睛演戏](https://www.zhihu.com/search?q=梁朝伟谈如何用眼睛演戏)
-1. [2028年「AI危机」引不期待](https://www.zhihu.com/search?q=2028年「AI危机」引不期待)
-1. [中式主题乐园能有多出圈](https://www.zhihu.com/search?q=中式主题乐园能有多出圈)
-1. [马刺VS尼克斯](https://www.zhihu.com/search?q=马刺VS尼克斯)
-1. [张慧雯淘汰](https://www.zhihu.com/search?q=张慧雯淘汰)
-1. [张桂梅连续16年送考](https://www.zhihu.com/search?q=张桂梅连续16年送考)
-1. [昔日零分考生37岁再战高考](https://www.zhihu.com/search?q=昔日零分考生37岁再战高考)
-1. [5月汽车销量前十已无燃油车](https://www.zhihu.com/search?q=5月汽车销量前十已无燃油车)
-1. [全国小麦收获进度近七成](https://www.zhihu.com/search?q=全国小麦收获进度近七成)
-1. [人生其实是均值回归的](https://www.zhihu.com/search?q=人生其实是均值回归的)
-1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂直面会)
-1. [高考作文](https://www.zhihu.com/search?q=高考作文)
+1. [学士服 colorhood](https://www.zhihu.com/search?q=学士服 colorhood)
 
 <!-- END -->
 

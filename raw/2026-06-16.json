@@ -1,5 +1,4 @@
 [
-  { "query": "英语四级", "display_query": "英语四级" },
   { "query": "TES对战BLG", "display_query": "TES对战BLG" },
   { "query": "LCK", "display_query": "LCK" },
   {
@@ -17,5 +16,7 @@
   },
   { "query": "谢娜北京演唱会售罄", "display_query": "谢娜北京演唱会售罄" },
   { "query": "马斯克成首位万亿富翁", "display_query": "马斯克成首位万亿富翁" },
-  { "query": "学士服 colorhood", "display_query": "学士服 colorhood" }
+  { "query": "学士服 colorhood", "display_query": "学士服 colorhood" },
+  { "query": "钓鱼饵料含安眠药", "display_query": "钓鱼饵料含安眠药" },
+  { "query": "英语四级", "display_query": "英语四级" }
 ]

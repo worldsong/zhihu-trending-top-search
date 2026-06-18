@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jun 18 2026 19:41:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jun 18 2026 22:37:44 GMT+0800 (China Standard Time) -->
 
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
 1. [梅西哭了](https://www.zhihu.com/search?q=梅西哭了)

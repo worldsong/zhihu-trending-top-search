@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Jun 21 2026 21:00:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jun 21 2026 23:42:22 GMT+0800 (China Standard Time) -->
 
-1. [端午安康](https://www.zhihu.com/search?q=端午安康)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
 1. [梅西哭了](https://www.zhihu.com/search?q=梅西哭了)
 1. [伊朗关闭霍尔木兹海峡](https://www.zhihu.com/search?q=伊朗关闭霍尔木兹海峡)
@@ -27,6 +26,8 @@
 1. [南部档案口碑](https://www.zhihu.com/search?q=南部档案口碑)
 1. [携程被罚款1000万元](https://www.zhihu.com/search?q=携程被罚款1000万元)
 1. [国乒单打全军覆没](https://www.zhihu.com/search?q=国乒单打全军覆没)
+1. [雷军现身武汉过早吃热干面面窝](https://www.zhihu.com/search?q=雷军现身武汉过早吃热干面面窝)
+1. [端午安康](https://www.zhihu.com/search?q=端午安康)
 1. [冯小刚新片《抓特务》端午上映](https://www.zhihu.com/search?q=冯小刚新片《抓特务》端午上映)
 1. [美伊协议全文曝光](https://www.zhihu.com/search?q=美伊协议全文曝光)
 1. [佛得角门将粉丝已破1000万](https://www.zhihu.com/search?q=佛得角门将粉丝已破1000万)

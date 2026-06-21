@@ -1,8 +1,8 @@
 [
-  { "query": "美伊协议全文曝光", "display_query": "美伊协议全文曝光" },
+  { "query": "端午安康", "display_query": "端午安康" },
   {
-    "query": "佛得角门将粉丝已破1000万",
-    "display_query": "佛得角门将粉丝已破1000万"
+    "query": "美联储宣布维持利率不变",
+    "display_query": "美联储宣布维持利率不变"
   },
   { "query": "梅西哭了", "display_query": "梅西哭了" },
   { "query": "伊朗关闭霍尔木兹海峡", "display_query": "伊朗关闭霍尔木兹海峡" },
@@ -21,9 +21,9 @@
   },
   { "query": "南部档案口碑", "display_query": "南部档案口碑" },
   { "query": "携程被罚款1000万元", "display_query": "携程被罚款1000万元" },
-  { "query": "端午安康", "display_query": "端午安康" },
+  { "query": "美伊协议全文曝光", "display_query": "美伊协议全文曝光" },
   {
-    "query": "美联储宣布维持利率不变",
-    "display_query": "美联储宣布维持利率不变"
+    "query": "佛得角门将粉丝已破1000万",
+    "display_query": "佛得角门将粉丝已破1000万"
   }
 ]

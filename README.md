@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 23 2026 21:32:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 24 2026 00:16:38 GMT+0800 (China Standard Time) -->
 
 1. [上海高考出分](https://www.zhihu.com/search?q=上海高考出分)
 1. [天津高考出分](https://www.zhihu.com/search?q=天津高考出分)
@@ -27,13 +27,6 @@
 1. [梅西帽子戏法](https://www.zhihu.com/search?q=梅西帽子戏法)
 1. [阿根廷3-0阿尔及利亚](https://www.zhihu.com/search?q=阿根廷3-0阿尔及利亚)
 1. [易立竞采访向佐](https://www.zhihu.com/search?q=易立竞采访向佐)
-1. [C罗首秀状态不佳全场0射正](https://www.zhihu.com/search?q=C罗首秀状态不佳全场0射正)
-1. [莫斯科遭无人机袭击](https://www.zhihu.com/search?q=莫斯科遭无人机袭击)
-1. [乐道汽车](https://www.zhihu.com/search?q=乐道汽车)
-1. [亚马尔](https://www.zhihu.com/search?q=亚马尔)
-1. [旅行团离开营地后遗留大量垃圾](https://www.zhihu.com/search?q=旅行团离开营地后遗留大量垃圾)
-1. [樊振东加盟杜塞尔多夫](https://www.zhihu.com/search?q=樊振东加盟杜塞尔多夫)
-1. [梅西](https://www.zhihu.com/search?q=梅西)
 
 <!-- END -->
 

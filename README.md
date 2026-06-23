@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 23 2026 07:57:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 23 2026 10:35:21 GMT+0800 (China Standard Time) -->
 
 1. [梅西](https://www.zhihu.com/search?q=梅西)
 1. [亚马尔](https://www.zhihu.com/search?q=亚马尔)

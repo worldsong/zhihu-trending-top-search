@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 24 2026 00:16:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 24 2026 02:58:45 GMT+0800 (China Standard Time) -->
 
 1. [上海高考出分](https://www.zhihu.com/search?q=上海高考出分)
 1. [天津高考出分](https://www.zhihu.com/search?q=天津高考出分)

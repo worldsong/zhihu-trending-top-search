@@ -1,5 +1,5 @@
 [
-  { "query": "广东高考分数线公布", "display_query": "广东高考分数线公布" },
+  { "query": "张钧甯原名", "display_query": "张钧甯原名" },
   { "query": "四川高考分数线公布", "display_query": "四川高考分数线公布" },
   { "query": "山西高考分数线公布", "display_query": "山西高考分数线公布" },
   { "query": "北京高考分数线公布", "display_query": "北京高考分数线公布" },
@@ -14,5 +14,6 @@
   {
     "query": "山姆超市是怎么在中国火起来的",
     "display_query": "山姆超市是怎么在中国火起来的"
-  }
+  },
+  { "query": "广东高考分数线公布", "display_query": "广东高考分数线公布" }
 ]

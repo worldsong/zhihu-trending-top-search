@@ -15,8 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 29 2026 10:40:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 29 2026 15:18:02 GMT+0800 (China Standard Time) -->
 
+1. [成都震感](https://www.zhihu.com/search?q=成都震感)
+1. [2026白玉兰奖](https://www.zhihu.com/search?q=2026白玉兰奖)
+1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
+1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
+1. [欧洲热浪已致上百人死亡](https://www.zhihu.com/search?q=欧洲热浪已致上百人死亡)
+1. [韩国网友怒骂德国故意输球](https://www.zhihu.com/search?q=韩国网友怒骂德国故意输球)
+1. [江苏高校倒查 3 年排查学术不端](https://www.zhihu.com/search?q=江苏高校倒查 3
+   年排查学术不端)
+1. [千万别买路边切好的半个西瓜](https://www.zhihu.com/search?q=千万别买路边切好的半个西瓜)
+1. [趣味科学家命名](https://www.zhihu.com/search?q=趣味科学家命名)
+1. [张靓颖演唱会清唱被罚](https://www.zhihu.com/search?q=张靓颖演唱会清唱被罚)
 1. [张钧甯原名](https://www.zhihu.com/search?q=张钧甯原名)
 1. [四川高考分数线公布](https://www.zhihu.com/search?q=四川高考分数线公布)
 1. [山西高考分数线公布](https://www.zhihu.com/search?q=山西高考分数线公布)

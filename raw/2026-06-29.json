@@ -1,4 +1,26 @@
 [
+  { "query": "成都震感", "display_query": "成都震感" },
+  { "query": "2026白玉兰奖", "display_query": "2026白玉兰奖" },
+  { "query": "高考数据通", "display_query": "高考数据通" },
+  { "query": "高考分数排名", "display_query": "高考分数排名" },
+  {
+    "query": "欧洲热浪已致上百人死亡",
+    "display_query": "欧洲热浪已致上百人死亡"
+  },
+  {
+    "query": "韩国网友怒骂德国故意输球",
+    "display_query": "韩国网友怒骂德国故意输球"
+  },
+  {
+    "query": "江苏高校倒查 3 年排查学术不端",
+    "display_query": "江苏高校倒查 3 年排查学术不端"
+  },
+  {
+    "query": "千万别买路边切好的半个西瓜",
+    "display_query": "千万别买路边切好的半个西瓜"
+  },
+  { "query": "趣味科学家命名", "display_query": "趣味科学家命名" },
+  { "query": "张靓颖演唱会清唱被罚", "display_query": "张靓颖演唱会清唱被罚" },
   { "query": "张钧甯原名", "display_query": "张钧甯原名" },
   { "query": "四川高考分数线公布", "display_query": "四川高考分数线公布" },
   { "query": "山西高考分数线公布", "display_query": "山西高考分数线公布" },

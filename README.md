@@ -15,8 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jun 29 2026 15:18:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jun 29 2026 20:19:54 GMT+0800 (China Standard Time) -->
 
+1. [鸭和鹅有什么区别](https://www.zhihu.com/search?q=鸭和鹅有什么区别)
+1. [反直觉的地理知识有哪些](https://www.zhihu.com/search?q=反直觉的地理知识有哪些)
+1. [高考查分是种什么样的体验](https://www.zhihu.com/search?q=高考查分是种什么样的体验)
+1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=你知道哪些很冷的冷知识)
+1. [如何才能永保旺盛的精力](https://www.zhihu.com/search?q=如何才能永保旺盛的精力)
+1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=为什么一定要频繁记录自己)
+1. [网上吵翻天的车规级是什么](https://www.zhihu.com/search?q=网上吵翻天的车规级是什么)
+1. [你看过最感动的短篇漫画](https://www.zhihu.com/search?q=你看过最感动的短篇漫画)
+1. [如何看待西安市的前景](https://www.zhihu.com/search?q=如何看待西安市的前景)
+1. [为什么物业费越来越难收](https://www.zhihu.com/search?q=为什么物业费越来越难收)
 1. [成都震感](https://www.zhihu.com/search?q=成都震感)
 1. [2026白玉兰奖](https://www.zhihu.com/search?q=2026白玉兰奖)
 1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)

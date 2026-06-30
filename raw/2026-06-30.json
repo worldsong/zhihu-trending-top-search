@@ -1,13 +1,9 @@
 [
-  { "query": "湖北高考分数线", "display_query": "湖北高考分数线" },
   {
-    "query": "浪7节目组对曾沛慈是什么态度",
-    "display_query": "浪7节目组对曾沛慈是什么态度"
+    "query": "在自己家不穿衣服犯法吗",
+    "display_query": "在自己家不穿衣服犯法吗"
   },
-  {
-    "query": "反直觉的地理知识有哪些",
-    "display_query": "反直觉的地理知识有哪些"
-  },
+  { "query": "高考分数排名", "display_query": "高考分数排名" },
   {
     "query": "高考查分是种什么样的体验",
     "display_query": "高考查分是种什么样的体验"
@@ -33,6 +29,19 @@
     "display_query": "你看过最感动的短篇漫画"
   },
   { "query": "如何看待西安市的前景", "display_query": "如何看待西安市的前景" },
+  {
+    "query": "为什么物业费越来越难收",
+    "display_query": "为什么物业费越来越难收"
+  },
+  { "query": "湖北高考分数线", "display_query": "湖北高考分数线" },
+  {
+    "query": "浪7节目组对曾沛慈是什么态度",
+    "display_query": "浪7节目组对曾沛慈是什么态度"
+  },
+  {
+    "query": "反直觉的地理知识有哪些",
+    "display_query": "反直觉的地理知识有哪些"
+  },
   { "query": "成都震感", "display_query": "成都震感" },
   {
     "query": "蒸汽机是怎么输给内燃机的",

@@ -2,10 +2,6 @@
   { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
   {
-    "query": "OpenAI发布GPT-5.6系列模型",
-    "display_query": "OpenAI发布GPT-5.6系列模型"
-  },
-  {
     "query": "热浪炙烤欧洲 多地打破高温纪录",
     "display_query": "热浪炙烤欧洲 多地打破高温纪录"
   },
@@ -23,5 +19,13 @@
   {
     "query": "奔驰将取消德国 9 万名员工年终奖",
     "display_query": "奔驰将取消德国 9 万名员工年终奖"
+  },
+  {
+    "query": "《乘风 2026》曾沛慈年度总冠军",
+    "display_query": "《乘风 2026》曾沛慈年度总冠军"
+  },
+  {
+    "query": "OpenAI发布GPT-5.6系列模型",
+    "display_query": "OpenAI发布GPT-5.6系列模型"
   }
 ]

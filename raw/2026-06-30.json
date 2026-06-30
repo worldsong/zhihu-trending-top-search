@@ -2,10 +2,6 @@
   { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
   {
-    "query": "2026国内票房与北美院线反差巨大",
-    "display_query": "2026国内票房与北美院线反差巨大"
-  },
-  {
     "query": "欧洲热浪已致上百人死亡",
     "display_query": "欧洲热浪已致上百人死亡"
   },
@@ -32,6 +28,11 @@
   {
     "query": "勇哥餐饮创业说被封号客服挂电话",
     "display_query": "勇哥餐饮创业说被封号客服挂电话"
+  },
+  { "query": "DeepSeek 发布 DSpark", "display_query": "DeepSeek 发布 DSpark" },
+  {
+    "query": "2026国内票房与北美院线反差巨大",
+    "display_query": "2026国内票房与北美院线反差巨大"
   },
   {
     "query": "在自己家不穿衣服犯法吗",

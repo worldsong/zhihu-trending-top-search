@@ -15,10 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jun 30 2026 14:12:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jun 30 2026 18:20:33 GMT+0800 (China Standard Time) -->
 
-1. [在自己家不穿衣服犯法吗](https://www.zhihu.com/search?q=在自己家不穿衣服犯法吗)
+1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
 1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
+1. [2026国内票房与北美院线反差巨大](https://www.zhihu.com/search?q=2026国内票房与北美院线反差巨大)
+1. [欧洲热浪已致上百人死亡](https://www.zhihu.com/search?q=欧洲热浪已致上百人死亡)
+1. [OpenAI发布GPT-5.6系列模型](https://www.zhihu.com/search?q=OpenAI发布GPT-5.6系列模型)
+1. [热浪炙烤欧洲 多地打破高温纪录](https://www.zhihu.com/search?q=热浪炙烤欧洲
+   多地打破高温纪录)
+1. [欧洲35℃高温影响超1亿人](https://www.zhihu.com/search?q=欧洲35℃高温影响超1亿人)
+1. [中方对美企出口管制
+   美国要求撤销](https://www.zhihu.com/search?q=中方对美企出口管制 美国要求撤销)
+1. [DeepSeek智谱将使用华为昇腾
+   950](https://www.zhihu.com/search?q=DeepSeek智谱将使用华为昇腾 950)
+1. [勇哥餐饮创业说被封号客服挂电话](https://www.zhihu.com/search?q=勇哥餐饮创业说被封号客服挂电话)
+1. [在自己家不穿衣服犯法吗](https://www.zhihu.com/search?q=在自己家不穿衣服犯法吗)
 1. [高考查分是种什么样的体验](https://www.zhihu.com/search?q=高考查分是种什么样的体验)
 1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=你知道哪些很冷的冷知识)
 1. [如何才能永保旺盛的精力](https://www.zhihu.com/search?q=如何才能永保旺盛的精力)

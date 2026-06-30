@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 01 2026 06:05:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 01 2026 07:54:57 GMT+0800 (China Standard Time) -->
 
 1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
 1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)

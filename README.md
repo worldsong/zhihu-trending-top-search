@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 02 2026 19:59:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 02 2026 21:57:27 GMT+0800 (China Standard Time) -->
 
 1. [为什么在生活中几乎看不到雪茄](https://www.zhihu.com/search?q=为什么在生活中几乎看不到雪茄)
 1. [猪的战斗力在野外属于什么水平](https://www.zhihu.com/search?q=猪的战斗力在野外属于什么水平)
@@ -26,6 +26,7 @@
 1. [庆祝建党105周年](https://www.zhihu.com/search?q=庆祝建党105周年)
 1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
 1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
+1. [欧洲新能源车作外接空调](https://www.zhihu.com/search?q=欧洲新能源车作外接空调)
 1. [笔趣阁APP再次爆火](https://www.zhihu.com/search?q=笔趣阁APP再次爆火)
 1. [恋与深空致歉玩家仍退游删号](https://www.zhihu.com/search?q=恋与深空致歉玩家仍退游删号)
 1. [存储三巨头被告了](https://www.zhihu.com/search?q=存储三巨头被告了)

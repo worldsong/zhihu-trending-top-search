@@ -1,5 +1,20 @@
 [
+  {
+    "query": "为什么在生活中几乎看不到雪茄",
+    "display_query": "为什么在生活中几乎看不到雪茄"
+  },
+  {
+    "query": "猪的战斗力在野外属于什么水平",
+    "display_query": "猪的战斗力在野外属于什么水平"
+  },
   { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
+  { "query": "陈垣宇VS雨果", "display_query": "陈垣宇VS雨果" },
+  { "query": "妻子的浪漫旅行", "display_query": "妻子的浪漫旅行" },
+  {
+    "query": "国内航线燃油附加费将下调",
+    "display_query": "国内航线燃油附加费将下调"
+  },
+  { "query": "庆祝建党105周年", "display_query": "庆祝建党105周年" },
   { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
   { "query": "笔趣阁APP再次爆火", "display_query": "笔趣阁APP再次爆火" },
@@ -20,7 +35,6 @@
     "query": "网警提醒4类高考查分陷阱",
     "display_query": "网警提醒4类高考查分陷阱"
   },
-  { "query": "庆祝建党105周年", "display_query": "庆祝建党105周年" },
   { "query": "七月文案", "display_query": "七月文案" },
   {
     "query": "北大程乐松毕业致辞火了",

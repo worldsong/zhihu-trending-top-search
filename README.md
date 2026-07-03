@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 04 2026 04:09:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 04 2026 05:53:02 GMT+0800 (China Standard Time) -->
 
-1. [A股](https://www.zhihu.com/search?q=A股)
+1. [你见过最惊艳的公司名称](https://www.zhihu.com/search?q=你见过最惊艳的公司名称)
+1. [霉霉婚礼禁用手机](https://www.zhihu.com/search?q=霉霉婚礼禁用手机)
 1. [高铁上的商务座都被谁买了](https://www.zhihu.com/search?q=高铁上的商务座都被谁买了)
 1. [G2对战TES](https://www.zhihu.com/search?q=G2对战TES)
 1. [克罗地亚出局](https://www.zhihu.com/search?q=克罗地亚出局)
@@ -26,6 +27,7 @@
 1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek崩了)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
 1. [如何评价歼50战斗机](https://www.zhihu.com/search?q=如何评价歼50战斗机)
+1. [A股](https://www.zhihu.com/search?q=A股)
 1. [影视剧哪些美人曾经惊艳了你](https://www.zhihu.com/search?q=影视剧哪些美人曾经惊艳了你)
 
 <!-- END -->

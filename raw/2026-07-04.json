@@ -1,5 +1,9 @@
 [
-  { "query": "A股", "display_query": "A股" },
+  {
+    "query": "你见过最惊艳的公司名称",
+    "display_query": "你见过最惊艳的公司名称"
+  },
+  { "query": "霉霉婚礼禁用手机", "display_query": "霉霉婚礼禁用手机" },
   {
     "query": "高铁上的商务座都被谁买了",
     "display_query": "高铁上的商务座都被谁买了"
@@ -17,6 +21,7 @@
   { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   { "query": "如何评价歼50战斗机", "display_query": "如何评价歼50战斗机" },
+  { "query": "A股", "display_query": "A股" },
   {
     "query": "影视剧哪些美人曾经惊艳了你",
     "display_query": "影视剧哪些美人曾经惊艳了你"

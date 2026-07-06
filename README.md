@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 06 2026 22:49:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 07 2026 01:31:42 GMT+0800 (China Standard Time) -->
 
-1. [有线耳机为啥又翻红](https://www.zhihu.com/search?q=有线耳机为啥又翻红)
+1. [台风](https://www.zhihu.com/search?q=台风)
 1. [有线耳机](https://www.zhihu.com/search?q=有线耳机)
 1. [崩坏星穹铁道](https://www.zhihu.com/search?q=崩坏星穹铁道)
 1. [湖人vs热火](https://www.zhihu.com/search?q=湖人vs热火)
@@ -27,23 +27,6 @@
 1. [blg对战t1](https://www.zhihu.com/search?q=blg对战t1)
 1. [孙颖莎vs王艺迪](https://www.zhihu.com/search?q=孙颖莎vs王艺迪)
 1. [葡萄牙vs西班牙](https://www.zhihu.com/search?q=葡萄牙vs西班牙)
-1. [台风](https://www.zhihu.com/search?q=台风)
-1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA夏季联赛)
-1. [三项光伏领域强制性国标发布](https://www.zhihu.com/search?q=三项光伏领域强制性国标发布)
-1. [高铁上的商务座都被谁买了](https://www.zhihu.com/search?q=高铁上的商务座都被谁买了)
-1. [G2对战TES](https://www.zhihu.com/search?q=G2对战TES)
-1. [克罗地亚出局](https://www.zhihu.com/search?q=克罗地亚出局)
-1. [高考查分是种什么样的体验](https://www.zhihu.com/search?q=高考查分是种什么样的体验)
-1. [山姆超市是怎么在中国火起来的](https://www.zhihu.com/search?q=山姆超市是怎么在中国火起来的)
-1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
-1. [如何评价歼50战斗机](https://www.zhihu.com/search?q=如何评价歼50战斗机)
-1. [影视剧哪些美人曾经惊艳了你](https://www.zhihu.com/search?q=影视剧哪些美人曾经惊艳了你)
-1. [去旅游你对住宿有要求吗](https://www.zhihu.com/search?q=去旅游你对住宿有要求吗)
-1. [小鹏MONAL03价格](https://www.zhihu.com/search?q=小鹏MONAL03价格)
-1. [红米k90至尊版价格](https://www.zhihu.com/search?q=红米k90至尊版价格)
-1. [兆易创新封跌停](https://www.zhihu.com/search?q=兆易创新封跌停)
-1. [高温致埃菲尔铁塔长高10厘米](https://www.zhihu.com/search?q=高温致埃菲尔铁塔长高10厘米)
-1. [A股](https://www.zhihu.com/search?q=A股)
 
 <!-- END -->
 

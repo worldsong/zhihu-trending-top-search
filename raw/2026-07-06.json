@@ -1,9 +1,6 @@
 [
-  { "query": "兆易创新封跌停", "display_query": "兆易创新封跌停" },
-  {
-    "query": "高温致埃菲尔铁塔长高10厘米",
-    "display_query": "高温致埃菲尔铁塔长高10厘米"
-  },
+  { "query": "小鹏MONAL03价格", "display_query": "小鹏MONAL03价格" },
+  { "query": "红米k90至尊版价格", "display_query": "红米k90至尊版价格" },
   {
     "query": "高铁上的商务座都被谁买了",
     "display_query": "高铁上的商务座都被谁买了"
@@ -23,6 +20,11 @@
   {
     "query": "影视剧哪些美人曾经惊艳了你",
     "display_query": "影视剧哪些美人曾经惊艳了你"
+  },
+  { "query": "兆易创新封跌停", "display_query": "兆易创新封跌停" },
+  {
+    "query": "高温致埃菲尔铁塔长高10厘米",
+    "display_query": "高温致埃菲尔铁塔长高10厘米"
   },
   { "query": "A股", "display_query": "A股" },
   {

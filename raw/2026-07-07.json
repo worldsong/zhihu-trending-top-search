@@ -1,5 +1,9 @@
 [
-  { "query": "台风", "display_query": "台风" },
+  { "query": "BLG 打比赛还带个乐队", "display_query": "BLG 打比赛还带个乐队" },
+  {
+    "query": "A股交易规则迎来重要调整",
+    "display_query": "A股交易规则迎来重要调整"
+  },
   { "query": "有线耳机", "display_query": "有线耳机" },
   { "query": "崩坏星穹铁道", "display_query": "崩坏星穹铁道" },
   { "query": "湖人vs热火", "display_query": "湖人vs热火" },
@@ -8,6 +12,7 @@
   { "query": "北京国安vs山东泰山", "display_query": "北京国安vs山东泰山" },
   { "query": "blg对战t1", "display_query": "blg对战t1" },
   { "query": "孙颖莎vs王艺迪", "display_query": "孙颖莎vs王艺迪" },
+  { "query": "台风", "display_query": "台风" },
   { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" },
   { "query": "葡萄牙vs西班牙", "display_query": "葡萄牙vs西班牙" }
 ]

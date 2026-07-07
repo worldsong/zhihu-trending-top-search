@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 07 2026 23:37:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 08 2026 01:48:13 GMT+0800 (China Standard Time) -->
 
 1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
 1. [小暑](https://www.zhihu.com/search?q=小暑)
@@ -27,29 +27,6 @@
 1. [孙颖莎vs蒯曼](https://www.zhihu.com/search?q=孙颖莎vs蒯曼)
 1. [葡萄牙vs西班牙](https://www.zhihu.com/search?q=葡萄牙vs西班牙)
 1. [七七事变](https://www.zhihu.com/search?q=七七事变)
-1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
-1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
-1. [WPS 背刺用户](https://www.zhihu.com/search?q=WPS 背刺用户)
-1. [茉莉奶白侵权 LV 被判赔 1030 万](https://www.zhihu.com/search?q=茉莉奶白侵权
-   LV 被判赔 1030 万)
-1. [索尼宣布取消实体版游戏](https://www.zhihu.com/search?q=索尼宣布取消实体版游戏)
-1. [詹姆斯离开湖人去向成谜](https://www.zhihu.com/search?q=詹姆斯离开湖人去向成谜)
-1. [GAME硬刚索尼](https://www.zhihu.com/search?q=GAME硬刚索尼)
-1. [2027年起恢复对 4
-   类车辆征车船税](https://www.zhihu.com/search?q=2027年起恢复对 4
-   类车辆征车船税)
-1. [宋亚轩伤不起](https://www.zhihu.com/search?q=宋亚轩伤不起)
-1. [广西内涝](https://www.zhihu.com/search?q=广西内涝)
-1. [崩坏星穹铁道](https://www.zhihu.com/search?q=崩坏星穹铁道)
-1. [湖人vs热火](https://www.zhihu.com/search?q=湖人vs热火)
-1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A股三大指数集体高开)
-1. [孙颖莎冠军](https://www.zhihu.com/search?q=孙颖莎冠军)
-1. [blg对战t1](https://www.zhihu.com/search?q=blg对战t1)
-1. [台风](https://www.zhihu.com/search?q=台风)
-1. [孙颖莎vs王艺迪](https://www.zhihu.com/search?q=孙颖莎vs王艺迪)
-1. [BLG 打比赛还带个乐队](https://www.zhihu.com/search?q=BLG 打比赛还带个乐队)
-1. [A股交易规则迎来重要调整](https://www.zhihu.com/search?q=A股交易规则迎来重要调整)
-1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA夏季联赛)
 
 <!-- END -->
 

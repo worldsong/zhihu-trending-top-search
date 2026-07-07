@@ -1,7 +1,28 @@
 [
+  { "query": "深圳暴雨", "display_query": "深圳暴雨" },
+  { "query": "葡萄牙vs西班牙", "display_query": "葡萄牙vs西班牙" },
+  { "query": "高考数据通", "display_query": "高考数据通" },
+  { "query": "高考分数排名", "display_query": "高考分数排名" },
+  { "query": "WPS 背刺用户", "display_query": "WPS 背刺用户" },
+  {
+    "query": "茉莉奶白侵权 LV 被判赔 1030 万",
+    "display_query": "茉莉奶白侵权 LV 被判赔 1030 万"
+  },
+  {
+    "query": "索尼宣布取消实体版游戏",
+    "display_query": "索尼宣布取消实体版游戏"
+  },
+  {
+    "query": "詹姆斯离开湖人去向成谜",
+    "display_query": "詹姆斯离开湖人去向成谜"
+  },
+  { "query": "GAME硬刚索尼", "display_query": "GAME硬刚索尼" },
+  {
+    "query": "2027年起恢复对 4 类车辆征车船税",
+    "display_query": "2027年起恢复对 4 类车辆征车船税"
+  },
   { "query": "宋亚轩伤不起", "display_query": "宋亚轩伤不起" },
   { "query": "广西内涝", "display_query": "广西内涝" },
-  { "query": "深圳暴雨", "display_query": "深圳暴雨" },
   { "query": "有线耳机", "display_query": "有线耳机" },
   { "query": "崩坏星穹铁道", "display_query": "崩坏星穹铁道" },
   { "query": "湖人vs热火", "display_query": "湖人vs热火" },
@@ -16,6 +37,5 @@
     "query": "A股交易规则迎来重要调整",
     "display_query": "A股交易规则迎来重要调整"
   },
-  { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" },
-  { "query": "葡萄牙vs西班牙", "display_query": "葡萄牙vs西班牙" }
+  { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" }
 ]

@@ -1,5 +1,6 @@
 [
   { "query": "北京暴雨", "display_query": "北京暴雨" },
+  { "query": "G2对战T1", "display_query": "G2对战T1" },
   { "query": "葡萄牙vs西班牙", "display_query": "葡萄牙vs西班牙" },
   { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },

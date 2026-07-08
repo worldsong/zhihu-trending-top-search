@@ -15,11 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 08 2026 18:02:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 08 2026 20:10:36 GMT+0800 (China Standard Time) -->
 
 1. [北京暴雨](https://www.zhihu.com/search?q=北京暴雨)
+1. [台风](https://www.zhihu.com/search?q=台风)
+1. [裁判](https://www.zhihu.com/search?q=裁判)
+1. [苏醒](https://www.zhihu.com/search?q=苏醒)
 1. [G2对战T1](https://www.zhihu.com/search?q=G2对战T1)
+1. [美股](https://www.zhihu.com/search?q=美股)
 1. [葡萄牙vs西班牙](https://www.zhihu.com/search?q=葡萄牙vs西班牙)
+1. [电影奥德赛](https://www.zhihu.com/search?q=电影奥德赛)
+1. [地震快讯](https://www.zhihu.com/search?q=地震快讯)
+1. [功夫女足](https://www.zhihu.com/search?q=功夫女足)
 1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
 1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
 1. [WPS 背刺用户](https://www.zhihu.com/search?q=WPS 背刺用户)

@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 11 2026 12:49:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 11 2026 15:02:38 GMT+0800 (China Standard Time) -->
 
-1. [菲戈辟谣维护c罗](https://www.zhihu.com/search?q=菲戈辟谣维护c罗)
-1. [广西南宁一水库坝体出现缺口](https://www.zhihu.com/search?q=广西南宁一水库坝体出现缺口)
+1. [姆巴佩失点](https://www.zhihu.com/search?q=姆巴佩失点)
+1. [挪威是一个什么样的国家](https://www.zhihu.com/search?q=挪威是一个什么样的国家)
 1. [美股](https://www.zhihu.com/search?q=美股)
 1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA夏季联赛)
 1. [河南造出全球最大培育钻石](https://www.zhihu.com/search?q=河南造出全球最大培育钻石)
@@ -27,10 +27,10 @@
 1. [巴黎时装周](https://www.zhihu.com/search?q=巴黎时装周)
 1. [妻子的浪漫旅行](https://www.zhihu.com/search?q=妻子的浪漫旅行)
 1. [姆巴佩破门](https://www.zhihu.com/search?q=姆巴佩破门)
+1. [菲戈辟谣维护c罗](https://www.zhihu.com/search?q=菲戈辟谣维护c罗)
+1. [广西南宁一水库坝体出现缺口](https://www.zhihu.com/search?q=广西南宁一水库坝体出现缺口)
 1. [福建晋江火灾已致28死](https://www.zhihu.com/search?q=福建晋江火灾已致28死)
 1. [虚假实习内推黑产链条曝光](https://www.zhihu.com/search?q=虚假实习内推黑产链条曝光)
-1. [姆巴佩失点](https://www.zhihu.com/search?q=姆巴佩失点)
-1. [挪威是一个什么样的国家](https://www.zhihu.com/search?q=挪威是一个什么样的国家)
 
 <!-- END -->
 

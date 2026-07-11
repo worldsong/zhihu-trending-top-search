@@ -1,9 +1,6 @@
 [
-  { "query": "姆巴佩失点", "display_query": "姆巴佩失点" },
-  {
-    "query": "挪威是一个什么样的国家",
-    "display_query": "挪威是一个什么样的国家"
-  },
+  { "query": "易易紫曝李汶翰出轨", "display_query": "易易紫曝李汶翰出轨" },
+  { "query": "李想官宣新车型i9", "display_query": "李想官宣新车型i9" },
   { "query": "美股", "display_query": "美股" },
   { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" },
   {
@@ -18,6 +15,11 @@
   { "query": "巴黎时装周", "display_query": "巴黎时装周" },
   { "query": "妻子的浪漫旅行", "display_query": "妻子的浪漫旅行" },
   { "query": "姆巴佩破门", "display_query": "姆巴佩破门" },
+  { "query": "姆巴佩失点", "display_query": "姆巴佩失点" },
+  {
+    "query": "挪威是一个什么样的国家",
+    "display_query": "挪威是一个什么样的国家"
+  },
   { "query": "菲戈辟谣维护c罗", "display_query": "菲戈辟谣维护c罗" },
   {
     "query": "广西南宁一水库坝体出现缺口",

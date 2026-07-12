@@ -1,9 +1,6 @@
 [
-  { "query": "姆巴佩失点", "display_query": "姆巴佩失点" },
-  {
-    "query": "挪威是一个什么样的国家",
-    "display_query": "挪威是一个什么样的国家"
-  },
+  { "query": "法国摩洛哥争夺四强", "display_query": "法国摩洛哥争夺四强" },
+  { "query": "小米澎程上市时间", "display_query": "小米澎程上市时间" },
   { "query": "美股", "display_query": "美股" },
   { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" },
   {
@@ -17,6 +14,12 @@
   { "query": "g2战胜t1", "display_query": "g2战胜t1" },
   { "query": "巴黎时装周", "display_query": "巴黎时装周" },
   { "query": "妻子的浪漫旅行", "display_query": "妻子的浪漫旅行" },
+  { "query": "失控进化正式上线", "display_query": "失控进化正式上线" },
+  { "query": "姆巴佩失点", "display_query": "姆巴佩失点" },
+  {
+    "query": "挪威是一个什么样的国家",
+    "display_query": "挪威是一个什么样的国家"
+  },
   { "query": "姆巴佩破门", "display_query": "姆巴佩破门" },
   {
     "query": "梁靖崑世锦赛前减了十来斤",

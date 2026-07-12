@@ -1,11 +1,8 @@
 [
+  { "query": "姆巴佩失点", "display_query": "姆巴佩失点" },
   {
-    "query": "梁靖崑世锦赛前减了十来斤",
-    "display_query": "梁靖崑世锦赛前减了十来斤"
-  },
-  {
-    "query": "台风巴威暂时减弱为强台风",
-    "display_query": "台风巴威暂时减弱为强台风"
+    "query": "挪威是一个什么样的国家",
+    "display_query": "挪威是一个什么样的国家"
   },
   { "query": "美股", "display_query": "美股" },
   { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" },
@@ -21,9 +18,12 @@
   { "query": "巴黎时装周", "display_query": "巴黎时装周" },
   { "query": "妻子的浪漫旅行", "display_query": "妻子的浪漫旅行" },
   { "query": "姆巴佩破门", "display_query": "姆巴佩破门" },
-  { "query": "姆巴佩失点", "display_query": "姆巴佩失点" },
   {
-    "query": "挪威是一个什么样的国家",
-    "display_query": "挪威是一个什么样的国家"
+    "query": "梁靖崑世锦赛前减了十来斤",
+    "display_query": "梁靖崑世锦赛前减了十来斤"
+  },
+  {
+    "query": "台风巴威暂时减弱为强台风",
+    "display_query": "台风巴威暂时减弱为强台风"
   }
 ]

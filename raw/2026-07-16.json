@@ -1,5 +1,8 @@
 [
-  { "query": "名创优品致歉", "display_query": "名创优品致歉" },
+  {
+    "query": "东莞书法奖作品疑似ai生成",
+    "display_query": "东莞书法奖作品疑似ai生成"
+  },
   { "query": "A股", "display_query": "A股" },
   { "query": "崩坏星穹铁道", "display_query": "崩坏星穹铁道" },
   { "query": "苏醒", "display_query": "苏醒" },
@@ -9,6 +12,7 @@
   { "query": "奔跑吧14", "display_query": "奔跑吧14" },
   { "query": "功夫女足", "display_query": "功夫女足" },
   { "query": "高考数据通", "display_query": "高考数据通" },
+  { "query": "名创优品致歉", "display_query": "名创优品致歉" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
   {
     "query": "冉莹颖邹市明三次离婚没离成",

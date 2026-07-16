@@ -1,12 +1,5 @@
 [
-  {
-    "query": "辽宁浑河发生2026年第1号洪水",
-    "display_query": "辽宁浑河发生2026年第1号洪水"
-  },
-  {
-    "query": "英国实行青少年社交媒体宵禁",
-    "display_query": "英国实行青少年社交媒体宵禁"
-  },
+  { "query": "名创优品致歉", "display_query": "名创优品致歉" },
   { "query": "GDP", "display_query": "GDP" },
   { "query": "美国CPI", "display_query": "美国CPI" },
   { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" },
@@ -18,6 +11,13 @@
     "query": "茉莉奶白侵权 LV 被判赔 1030 万",
     "display_query": "茉莉奶白侵权 LV 被判赔 1030 万"
   },
-  { "query": "名创优品致歉", "display_query": "名创优品致歉" },
-  { "query": "sk海力士暴跌", "display_query": "sk海力士暴跌" }
+  { "query": "sk海力士暴跌", "display_query": "sk海力士暴跌" },
+  {
+    "query": "辽宁浑河发生2026年第1号洪水",
+    "display_query": "辽宁浑河发生2026年第1号洪水"
+  },
+  {
+    "query": "英国实行青少年社交媒体宵禁",
+    "display_query": "英国实行青少年社交媒体宵禁"
+  }
 ]

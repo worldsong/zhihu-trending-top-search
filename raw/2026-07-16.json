@@ -1,4 +1,13 @@
 [
+  { "query": "名创优品致歉", "display_query": "名创优品致歉" },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "崩坏星穹铁道", "display_query": "崩坏星穹铁道" },
+  { "query": "苏醒", "display_query": "苏醒" },
+  { "query": "强对流天气", "display_query": "强对流天气" },
+  { "query": "入伏", "display_query": "入伏" },
+  { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" },
+  { "query": "奔跑吧14", "display_query": "奔跑吧14" },
+  { "query": "功夫女足", "display_query": "功夫女足" },
   { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
   {
@@ -35,10 +44,8 @@
     "query": "赛力斯预计半年净亏损15-18亿",
     "display_query": "赛力斯预计半年净亏损15-18亿"
   },
-  { "query": "名创优品致歉", "display_query": "名创优品致歉" },
   { "query": "GDP", "display_query": "GDP" },
   { "query": "美国CPI", "display_query": "美国CPI" },
-  { "query": "NBA夏季联赛", "display_query": "NBA夏季联赛" },
   { "query": "TMEA盛典阵容官宣", "display_query": "TMEA盛典阵容官宣" },
   { "query": "美伊冲突", "display_query": "美伊冲突" },
   { "query": "sk海力士暴跌", "display_query": "sk海力士暴跌" },

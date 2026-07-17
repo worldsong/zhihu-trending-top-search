@@ -1,5 +1,5 @@
 [
-  { "query": "高考数据通", "display_query": "高考数据通" },
+  { "query": "法国vs英格兰", "display_query": "法国vs英格兰" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
   {
     "query": "冉莹颖邹市明三次离婚没离成",
@@ -14,6 +14,11 @@
     "query": "长鑫科技最高估值超4万亿",
     "display_query": "长鑫科技最高估值超4万亿"
   },
+  {
+    "query": "冉莹颖邹市明《姐姐当家 2》表现",
+    "display_query": "冉莹颖邹市明《姐姐当家 2》表现"
+  },
+  { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "《功夫女足》热映", "display_query": "《功夫女足》热映" },
   { "query": "名创优品致歉", "display_query": "名创优品致歉" },
   { "query": "A股", "display_query": "A股" },

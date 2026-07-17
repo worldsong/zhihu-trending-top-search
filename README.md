@@ -15,8 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 17 2026 17:42:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 17 2026 19:11:13 GMT+0800 (China Standard Time) -->
 
+1. [名创优品致歉](https://www.zhihu.com/search?q=名创优品致歉)
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [王者荣耀](https://www.zhihu.com/search?q=王者荣耀)
+1. [上证指数](https://www.zhihu.com/search?q=上证指数)
+1. [油价](https://www.zhihu.com/search?q=油价)
+1. [阿根廷](https://www.zhihu.com/search?q=阿根廷)
+1. [BLG战胜T1](https://www.zhihu.com/search?q=BLG战胜T1)
+1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
+1. [如何评价歼50战斗机](https://www.zhihu.com/search?q=如何评价歼50战斗机)
+1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=你知道哪些很冷的冷知识)
 1. [法国vs英格兰](https://www.zhihu.com/search?q=法国vs英格兰)
 1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
 1. [冉莹颖邹市明三次离婚没离成](https://www.zhihu.com/search?q=冉莹颖邹市明三次离婚没离成)
@@ -30,8 +40,6 @@
    2》表现](https://www.zhihu.com/search?q=冉莹颖邹市明《姐姐当家 2》表现)
 1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
 1. [《功夫女足》热映](https://www.zhihu.com/search?q=《功夫女足》热映)
-1. [名创优品致歉](https://www.zhihu.com/search?q=名创优品致歉)
-1. [A股](https://www.zhihu.com/search?q=A股)
 1. [崩坏星穹铁道](https://www.zhihu.com/search?q=崩坏星穹铁道)
 1. [苏醒](https://www.zhihu.com/search?q=苏醒)
 1. [强对流天气](https://www.zhihu.com/search?q=强对流天气)

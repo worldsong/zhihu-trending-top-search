@@ -1,8 +1,11 @@
 [
-  { "query": "切尔西签下罗杰斯", "display_query": "切尔西签下罗杰斯" },
   {
-    "query": "月之暗面kimi称算力紧缺",
-    "display_query": "月之暗面kimi称算力紧缺"
+    "query": "高考估分715查分299系ai生成",
+    "display_query": "高考估分715查分299系ai生成"
+  },
+  {
+    "query": "EWC 邀选手看《突然的陀螺》LPL 粉丝不满",
+    "display_query": "EWC 邀选手看《突然的陀螺》LPL 粉丝不满"
   },
   { "query": "a股", "display_query": "a股" },
   { "query": "F1", "display_query": "F1" },
@@ -12,6 +15,11 @@
   { "query": "澎湖海战", "display_query": "澎湖海战" },
   { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
+  { "query": "切尔西签下罗杰斯", "display_query": "切尔西签下罗杰斯" },
+  {
+    "query": "月之暗面kimi称算力紧缺",
+    "display_query": "月之暗面kimi称算力紧缺"
+  },
   { "query": "金球奖", "display_query": "金球奖" },
   {
     "query": "《八仙！》定档 7 月 24 日",

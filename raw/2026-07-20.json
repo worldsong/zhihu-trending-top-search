@@ -1,12 +1,5 @@
 [
-  {
-    "query": "为什么年轻人上班都不想化妆了",
-    "display_query": "为什么年轻人上班都不想化妆了"
-  },
-  {
-    "query": "普通人的一生该如何破局",
-    "display_query": "普通人的一生该如何破局"
-  },
+  { "query": "名创优品致歉", "display_query": "名创优品致歉" },
   { "query": "A股", "display_query": "A股" },
   { "query": "王者荣耀", "display_query": "王者荣耀" },
   { "query": "上证指数", "display_query": "上证指数" },
@@ -15,9 +8,16 @@
   { "query": "BLG战胜T1", "display_query": "BLG战胜T1" },
   { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
   { "query": "如何评价歼50战斗机", "display_query": "如何评价歼50战斗机" },
-  { "query": "名创优品致歉", "display_query": "名创优品致歉" },
   {
     "query": "你知道哪些很冷的冷知识",
     "display_query": "你知道哪些很冷的冷知识"
+  },
+  {
+    "query": "为什么年轻人上班都不想化妆了",
+    "display_query": "为什么年轻人上班都不想化妆了"
+  },
+  {
+    "query": "普通人的一生该如何破局",
+    "display_query": "普通人的一生该如何破局"
   }
 ]

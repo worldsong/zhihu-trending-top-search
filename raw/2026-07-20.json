@@ -1,4 +1,11 @@
 [
+  { "query": "金球奖", "display_query": "金球奖" },
+  { "query": "a股", "display_query": "a股" },
+  { "query": "F1", "display_query": "F1" },
+  { "query": "苏醒", "display_query": "苏醒" },
+  { "query": "GEN对战T1", "display_query": "GEN对战T1" },
+  { "query": "A股行情", "display_query": "A股行情" },
+  { "query": "澎湖海战", "display_query": "澎湖海战" },
   {
     "query": "《八仙！》定档 7 月 24 日",
     "display_query": "《八仙！》定档 7 月 24 日"

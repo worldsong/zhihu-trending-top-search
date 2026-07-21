@@ -15,17 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Jul 21 2026 15:25:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Jul 21 2026 18:10:23 GMT+0800 (China Standard Time) -->
 
+1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
+1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
 1. [阿根廷 脏](https://www.zhihu.com/search?q=阿根廷 脏)
-1. [2026 世界人工智能大会](https://www.zhihu.com/search?q=2026 世界人工智能大会)
 1. [KIMI K3模型正式上线](https://www.zhihu.com/search?q=KIMI K3模型正式上线)
 1. [DeepSeek V4 正式版即将发布](https://www.zhihu.com/search?q=DeepSeek V4
    正式版即将发布)
 1. [《八仙！》票房预测](https://www.zhihu.com/search?q=《八仙！》票房预测)
 1. [英国将敬业集团旗下英钢国有化](https://www.zhihu.com/search?q=英国将敬业集团旗下英钢国有化)
 1. [2026年菲尔兹奖](https://www.zhihu.com/search?q=2026年菲尔兹奖)
+1. [莫言之女管笑笑被爆论文涉嫌抄袭](https://www.zhihu.com/search?q=莫言之女管笑笑被爆论文涉嫌抄袭)
 1. [女孩囤积大量吧唧致甲醛中毒](https://www.zhihu.com/search?q=女孩囤积大量吧唧致甲醛中毒)
+1. [2026 世界人工智能大会](https://www.zhihu.com/search?q=2026 世界人工智能大会)
 1. [电影《八仙！》海外定档](https://www.zhihu.com/search?q=电影《八仙！》海外定档)
 1. [《八仙！》票房破 2 亿](https://www.zhihu.com/search?q=《八仙！》票房破 2 亿)
 1. [金球奖](https://www.zhihu.com/search?q=金球奖)
@@ -35,8 +38,6 @@
 1. [GEN对战T1](https://www.zhihu.com/search?q=GEN对战T1)
 1. [A股行情](https://www.zhihu.com/search?q=A股行情)
 1. [澎湖海战](https://www.zhihu.com/search?q=澎湖海战)
-1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
-1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
 1. [半熟恋人5](https://www.zhihu.com/search?q=半熟恋人5)
 1. [大马丁](https://www.zhihu.com/search?q=大马丁)
 

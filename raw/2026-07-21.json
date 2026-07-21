@@ -1,9 +1,7 @@
 [
+  { "query": "高考数据通", "display_query": "高考数据通" },
+  { "query": "高考分数排名", "display_query": "高考分数排名" },
   { "query": "阿根廷 脏", "display_query": "阿根廷 脏" },
-  {
-    "query": "2026 世界人工智能大会",
-    "display_query": "2026 世界人工智能大会"
-  },
   { "query": "KIMI K3模型正式上线", "display_query": "KIMI K3模型正式上线" },
   {
     "query": "DeepSeek V4 正式版即将发布",
@@ -16,8 +14,16 @@
   },
   { "query": "2026年菲尔兹奖", "display_query": "2026年菲尔兹奖" },
   {
+    "query": "莫言之女管笑笑被爆论文涉嫌抄袭",
+    "display_query": "莫言之女管笑笑被爆论文涉嫌抄袭"
+  },
+  {
     "query": "女孩囤积大量吧唧致甲醛中毒",
     "display_query": "女孩囤积大量吧唧致甲醛中毒"
+  },
+  {
+    "query": "2026 世界人工智能大会",
+    "display_query": "2026 世界人工智能大会"
   },
   {
     "query": "电影《八仙！》海外定档",
@@ -34,8 +40,6 @@
   { "query": "GEN对战T1", "display_query": "GEN对战T1" },
   { "query": "A股行情", "display_query": "A股行情" },
   { "query": "澎湖海战", "display_query": "澎湖海战" },
-  { "query": "高考数据通", "display_query": "高考数据通" },
-  { "query": "高考分数排名", "display_query": "高考分数排名" },
   { "query": "半熟恋人5", "display_query": "半熟恋人5" },
   { "query": "大马丁", "display_query": "大马丁" }
 ]

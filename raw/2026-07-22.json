@@ -1,13 +1,32 @@
 [
-  { "query": "高考数据通", "display_query": "高考数据通" },
-  { "query": "高考分数排名", "display_query": "高考分数排名" },
+  { "query": "板前模式提升信任感", "display_query": "板前模式提升信任感" },
   { "query": "阿根廷 脏", "display_query": "阿根廷 脏" },
   { "query": "Kimi-K3 灰度测试", "display_query": "Kimi-K3 灰度测试" },
+  { "query": "KIMI K3模型正式上线", "display_query": "KIMI K3模型正式上线" },
+  { "query": "吐鲁番艾丁湖达50℃", "display_query": "吐鲁番艾丁湖达50℃" },
+  {
+    "query": "Faker 被任韩国名誉警察",
+    "display_query": "Faker 被任韩国名誉警察"
+  },
+  {
+    "query": "月之暗面预启动上市前最后一轮融资",
+    "display_query": "月之暗面预启动上市前最后一轮融资"
+  },
+  {
+    "query": "手机厂商费心设计背板 有必要吗",
+    "display_query": "手机厂商费心设计背板 有必要吗"
+  },
+  {
+    "query": "手机厂费心设计背板 用户get不到",
+    "display_query": "手机厂费心设计背板 用户get不到"
+  },
+  { "query": "Breathe 加盟 AL", "display_query": "Breathe 加盟 AL" },
+  { "query": "高考数据通", "display_query": "高考数据通" },
+  { "query": "高考分数排名", "display_query": "高考分数排名" },
   {
     "query": "2026 世界人工智能大会",
     "display_query": "2026 世界人工智能大会"
   },
-  { "query": "KIMI K3模型正式上线", "display_query": "KIMI K3模型正式上线" },
   {
     "query": "DeepSeek V4 正式版即将发布",
     "display_query": "DeepSeek V4 正式版即将发布"

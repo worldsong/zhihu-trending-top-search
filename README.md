@@ -15,8 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 22 2026 18:09:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 22 2026 20:18:43 GMT+0800 (China Standard Time) -->
 
+1. [台风](https://www.zhihu.com/search?q=台风)
+1. [韦世豪破门](https://www.zhihu.com/search?q=韦世豪破门)
+1. [上海申花vs青岛海牛](https://www.zhihu.com/search?q=上海申花vs青岛海牛)
+1. [电影功夫女足](https://www.zhihu.com/search?q=电影功夫女足)
+1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
+1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
+1. [恋与深空](https://www.zhihu.com/search?q=恋与深空)
+1. [悬案热播](https://www.zhihu.com/search?q=悬案热播)
+1. [悬案真实背景](https://www.zhihu.com/search?q=悬案真实背景)
+1. [悬案导演答](https://www.zhihu.com/search?q=悬案导演答)
 1. [板前模式提升信任感](https://www.zhihu.com/search?q=板前模式提升信任感)
 1. [阿根廷 脏](https://www.zhihu.com/search?q=阿根廷 脏)
 1. [Kimi-K3 灰度测试](https://www.zhihu.com/search?q=Kimi-K3 灰度测试)
@@ -30,8 +40,6 @@
 1. [手机厂费心设计背板
    用户get不到](https://www.zhihu.com/search?q=手机厂费心设计背板 用户get不到)
 1. [Breathe 加盟 AL](https://www.zhihu.com/search?q=Breathe 加盟 AL)
-1. [高考数据通](https://www.zhihu.com/search?q=高考数据通)
-1. [高考分数排名](https://www.zhihu.com/search?q=高考分数排名)
 1. [2026 世界人工智能大会](https://www.zhihu.com/search?q=2026 世界人工智能大会)
 1. [DeepSeek V4 正式版即将发布](https://www.zhihu.com/search?q=DeepSeek V4
    正式版即将发布)

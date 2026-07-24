@@ -1,5 +1,9 @@
 [
-  { "query": "上证指数", "display_query": "上证指数" },
+  { "query": "al官宣breathe加入", "display_query": "al官宣breathe加入" },
+  {
+    "query": "影视飓风回怼博主恶意解读",
+    "display_query": "影视飓风回怼博主恶意解读"
+  },
   { "query": "TES战胜WE", "display_query": "TES战胜WE" },
   {
     "query": "为什么在中国邮箱不流行",
@@ -14,5 +18,6 @@
   },
   { "query": "电影功夫女足", "display_query": "电影功夫女足" },
   { "query": "高考数据通", "display_query": "高考数据通" },
+  { "query": "上证指数", "display_query": "上证指数" },
   { "query": "高考分数排名", "display_query": "高考分数排名" }
 ]

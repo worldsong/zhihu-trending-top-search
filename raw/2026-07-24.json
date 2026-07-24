@@ -1,11 +1,7 @@
 [
   {
-    "query": "TVB 更名「无线集团」跨媒体转型升级",
-    "display_query": "TVB 更名「无线集团」跨媒体转型升级"
-  },
-  {
-    "query": "如何低成本照顾自己的心理健康",
-    "display_query": "如何低成本照顾自己的心理健康"
+    "query": "为什么在中国邮箱不流行",
+    "display_query": "为什么在中国邮箱不流行"
   },
   { "query": "AL战胜JDG", "display_query": "AL战胜JDG" },
   { "query": "美股", "display_query": "美股" },
@@ -25,8 +21,17 @@
     "query": "为什么狗对小孩子容忍度高",
     "display_query": "为什么狗对小孩子容忍度高"
   },
-  { "query": "极氪回应出国车机被锁", "display_query": "极氪回应出国车机被锁" },
+  {
+    "query": "如何低成本照顾自己的心理健康",
+    "display_query": "如何低成本照顾自己的心理健康"
+  },
   { "query": "黛玉是否有性格缺陷", "display_query": "黛玉是否有性格缺陷" },
+  { "query": "世界最伟大的水果", "display_query": "世界最伟大的水果" },
+  {
+    "query": "TVB 更名「无线集团」跨媒体转型升级",
+    "display_query": "TVB 更名「无线集团」跨媒体转型升级"
+  },
+  { "query": "极氪回应出国车机被锁", "display_query": "极氪回应出国车机被锁" },
   { "query": "高考数据通", "display_query": "高考数据通" },
   { "query": "高考分数排名", "display_query": "高考分数排名" },
   { "query": "Kimi-K3 灰度测试", "display_query": "Kimi-K3 灰度测试" },
@@ -60,10 +65,6 @@
   },
   { "query": "上证指数", "display_query": "上证指数" },
   { "query": "TES战胜WE", "display_query": "TES战胜WE" },
-  {
-    "query": "为什么在中国邮箱不流行",
-    "display_query": "为什么在中国邮箱不流行"
-  },
   { "query": "今日大暑", "display_query": "今日大暑" },
   { "query": "夏天的最后1个节气", "display_query": "夏天的最后1个节气" },
   { "query": "TES对战WE", "display_query": "TES对战WE" },

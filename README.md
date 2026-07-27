@@ -15,19 +15,27 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Jul 27 2026 17:20:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Jul 27 2026 23:33:29 GMT+0800 (China Standard Time) -->
 
-1. [邹市明称不会与冉莹颖分开](https://www.zhihu.com/search?q=邹市明称不会与冉莹颖分开)
-1. [菲方围顶冲撞中方巡逻艇](https://www.zhihu.com/search?q=菲方围顶冲撞中方巡逻艇)
+1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
 1. [Bin BLG](https://www.zhihu.com/search?q=Bin BLG)
-1. [谷歌二季度营收云业务双双大涨](https://www.zhihu.com/search?q=谷歌二季度营收云业务双双大涨)
-1. [谷歌自由现金流首次转负](https://www.zhihu.com/search?q=谷歌自由现金流首次转负)
-1. [SpaceX再次尝试星舰第13次试飞](https://www.zhihu.com/search?q=SpaceX再次尝试星舰第13次试飞)
 1. [滔搏暴力打折甩卖耐克库存](https://www.zhihu.com/search?q=滔搏暴力打折甩卖耐克库存)
 1. [贫困生喝咖啡引争议](https://www.zhihu.com/search?q=贫困生喝咖啡引争议)
 1. [腾讯317万年终奖员工泄密被辞退](https://www.zhihu.com/search?q=腾讯317万年终奖员工泄密被辞退)
 1. [王虹 13 岁跳级上高中 16 岁上北大](https://www.zhihu.com/search?q=王虹 13
    岁跳级上高中 16 岁上北大)
+1. [FLUX 3原生多模态大模型](https://www.zhihu.com/search?q=FLUX
+   3原生多模态大模型)
+1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=上海 6
+   岁女孩基因编辑试验后死亡)
+1. [Anthropic发布Claude Opus
+   5](https://www.zhihu.com/search?q=Anthropic发布Claude Opus 5)
+1. [詹姆斯加盟 76 人](https://www.zhihu.com/search?q=詹姆斯加盟 76 人)
+1. [邹市明称不会与冉莹颖分开](https://www.zhihu.com/search?q=邹市明称不会与冉莹颖分开)
+1. [菲方围顶冲撞中方巡逻艇](https://www.zhihu.com/search?q=菲方围顶冲撞中方巡逻艇)
+1. [谷歌二季度营收云业务双双大涨](https://www.zhihu.com/search?q=谷歌二季度营收云业务双双大涨)
+1. [谷歌自由现金流首次转负](https://www.zhihu.com/search?q=谷歌自由现金流首次转负)
+1. [SpaceX再次尝试星舰第13次试飞](https://www.zhihu.com/search?q=SpaceX再次尝试星舰第13次试飞)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=为什么在中国邮箱不流行)
 1. [AL战胜JDG](https://www.zhihu.com/search?q=AL战胜JDG)
 1. [美股](https://www.zhihu.com/search?q=美股)

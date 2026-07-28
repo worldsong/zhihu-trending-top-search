@@ -1,6 +1,9 @@
 [
-  { "query": "A股", "display_query": "A股" },
-  { "query": "日本地震", "display_query": "日本地震" },
+  {
+    "query": "沈阳一小区地库大面积塌陷",
+    "display_query": "沈阳一小区地库大面积塌陷"
+  },
+  { "query": "沃齐尼亚签约科洛科洛", "display_query": "沃齐尼亚签约科洛科洛" },
   { "query": "俄罗斯警告日本", "display_query": "俄罗斯警告日本" },
   { "query": "美股", "display_query": "美股" },
   {
@@ -21,6 +24,8 @@
     "display_query": "中老年人如何防止肌肉流失"
   },
   { "query": "世界最伟大的水果", "display_query": "世界最伟大的水果" },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "日本地震", "display_query": "日本地震" },
   {
     "query": "Anthropic 聘研究王阳明的教授",
     "display_query": "Anthropic 聘研究王阳明的教授"

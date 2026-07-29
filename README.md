@@ -15,8 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jul 29 2026 15:34:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jul 29 2026 18:24:07 GMT+0800 (China Standard Time) -->
 
+1. [重庆彭水新搜寻确认 30
+   名遇难者](https://www.zhihu.com/search?q=重庆彭水新搜寻确认 30 名遇难者)
+1. [宝马将用自愿离职计划裁员数千人](https://www.zhihu.com/search?q=宝马将用自愿离职计划裁员数千人)
+1. [内马尔正式宣布结束巴西国家队生涯](https://www.zhihu.com/search?q=内马尔正式宣布结束巴西国家队生涯)
+1. [莫氏鸡煲参加美食节目被首轮淘汰](https://www.zhihu.com/search?q=莫氏鸡煲参加美食节目被首轮淘汰)
+1. [徐福记澄清拼多多店非官方自营](https://www.zhihu.com/search?q=徐福记澄清拼多多店非官方自营)
+1. [《明末：渊虚之羽》确认开发续作](https://www.zhihu.com/search?q=《明末：渊虚之羽》确认开发续作)
+1. [千万不要把手机交给商家写好评](https://www.zhihu.com/search?q=千万不要把手机交给商家写好评)
+1. [《捕风捉影 2》已立项](https://www.zhihu.com/search?q=《捕风捉影 2》已立项)
+1. [重庆彭水 00 后网格员确认遇难](https://www.zhihu.com/search?q=重庆彭水 00
+   后网格员确认遇难)
+1. [赵露思工作室开始征集原创剧本](https://www.zhihu.com/search?q=赵露思工作室开始征集原创剧本)
 1. [感冒灵被纳入禁驾清单](https://www.zhihu.com/search?q=感冒灵被纳入禁驾清单)
 1. [寿司郎中国营收利润为日本三倍](https://www.zhihu.com/search?q=寿司郎中国营收利润为日本三倍)
 1. [唐山大地震 50 周年](https://www.zhihu.com/search?q=唐山大地震 50 周年)

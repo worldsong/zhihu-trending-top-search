@@ -15,8 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 30 2026 12:43:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 30 2026 15:24:26 GMT+0800 (China Standard Time) -->
 
+1. [乐事废料被洗白成「毛粉」流向市场](https://www.zhihu.com/search?q=乐事废料被洗白成「毛粉」流向市场)
+1. [曝多家 AI 公司收旧书训练模型后销毁](https://www.zhihu.com/search?q=曝多家 AI
+   公司收旧书训练模型后销毁)
+1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
+1. [献血拿战锤40k模型](https://www.zhihu.com/search?q=献血拿战锤40k模型)
+1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=上海 6
+   岁女孩基因编辑试验后死亡)
+1. [唐山大地震 50 周年](https://www.zhihu.com/search?q=唐山大地震 50 周年)
+1. [张雅琪菜单被吐槽](https://www.zhihu.com/search?q=张雅琪菜单被吐槽)
+1. [《群星闪耀时》官宣撤档](https://www.zhihu.com/search?q=《群星闪耀时》官宣撤档)
+1. [东野圭吾去世](https://www.zhihu.com/search?q=东野圭吾去世)
+1. [东野圭吾结肠癌](https://www.zhihu.com/search?q=东野圭吾结肠癌)
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [日本地震](https://www.zhihu.com/search?q=日本地震)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)

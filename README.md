@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 30 2026 22:58:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 31 2026 00:22:06 GMT+0800 (China Standard Time) -->
 
 1. [美联储](https://www.zhihu.com/search?q=美联储)
 1. [王者荣耀](https://www.zhihu.com/search?q=王者荣耀)
@@ -27,29 +27,6 @@
 1. [星链真的可以取代5G吗](https://www.zhihu.com/search?q=星链真的可以取代5G吗)
 1. [如何鉴别一家餐馆好不好吃](https://www.zhihu.com/search?q=如何鉴别一家餐馆好不好吃)
 1. [为什么西方国家几乎不吃豆腐](https://www.zhihu.com/search?q=为什么西方国家几乎不吃豆腐)
-1. [小米澎程文案写错公路车轮径](https://www.zhihu.com/search?q=小米澎程文案写错公路车轮径)
-1. [王一博第二名](https://www.zhihu.com/search?q=王一博第二名)
-1. [乐事废料被洗白成「毛粉」流向市场](https://www.zhihu.com/search?q=乐事废料被洗白成「毛粉」流向市场)
-1. [曝多家 AI 公司收旧书训练模型后销毁](https://www.zhihu.com/search?q=曝多家 AI
-   公司收旧书训练模型后销毁)
-1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
-1. [献血拿战锤40k模型](https://www.zhihu.com/search?q=献血拿战锤40k模型)
-1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=上海 6
-   岁女孩基因编辑试验后死亡)
-1. [唐山大地震 50 周年](https://www.zhihu.com/search?q=唐山大地震 50 周年)
-1. [张雅琪菜单被吐槽](https://www.zhihu.com/search?q=张雅琪菜单被吐槽)
-1. [《群星闪耀时》官宣撤档](https://www.zhihu.com/search?q=《群星闪耀时》官宣撤档)
-1. [东野圭吾去世](https://www.zhihu.com/search?q=东野圭吾去世)
-1. [东野圭吾结肠癌](https://www.zhihu.com/search?q=东野圭吾结肠癌)
-1. [A股](https://www.zhihu.com/search?q=A股)
-1. [日本地震](https://www.zhihu.com/search?q=日本地震)
-1. [上海震感](https://www.zhihu.com/search?q=上海震感)
-1. [黎曼猜想为什么难以解决](https://www.zhihu.com/search?q=黎曼猜想为什么难以解决)
-1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=你知道哪些很冷的冷知识)
-1. [中老年人如何防止肌肉流失](https://www.zhihu.com/search?q=中老年人如何防止肌肉流失)
-1. [东北为何成为低物价天堂](https://www.zhihu.com/search?q=东北为何成为低物价天堂)
-1. [工作中到底能闯多大的祸](https://www.zhihu.com/search?q=工作中到底能闯多大的祸)
-1. [大彻大悟的人都看透了什么](https://www.zhihu.com/search?q=大彻大悟的人都看透了什么)
 
 <!-- END -->
 

@@ -1,16 +1,12 @@
 [
-  { "query": "红米k100pro配置曝光", "display_query": "红米k100pro配置曝光" },
-  {
-    "query": "内马尔宣布退出巴西国家队",
-    "display_query": "内马尔宣布退出巴西国家队"
-  },
+  { "query": "A股", "display_query": "A股" },
+  { "query": "油价", "display_query": "油价" },
   {
     "query": "美联储宣布维持利率不变",
     "display_query": "美联储宣布维持利率不变"
   },
   { "query": "歌手歌单", "display_query": "歌手歌单" },
   { "query": "百花奖", "display_query": "百花奖" },
-  { "query": "A股行情", "display_query": "A股行情" },
   { "query": "dk战胜hle", "display_query": "dk战胜hle" },
   { "query": "美股", "display_query": "美股" },
   {
@@ -18,8 +14,16 @@
     "display_query": "人到中年为什么对很多事没了兴趣"
   },
   { "query": "世界最伟大的水果", "display_query": "世界最伟大的水果" },
-  { "query": "A股", "display_query": "A股" },
-  { "query": "油价", "display_query": "油价" },
+  {
+    "query": "东北为何成为低物价天堂",
+    "display_query": "东北为何成为低物价天堂"
+  },
+  { "query": "红米k100pro配置曝光", "display_query": "红米k100pro配置曝光" },
+  {
+    "query": "内马尔宣布退出巴西国家队",
+    "display_query": "内马尔宣布退出巴西国家队"
+  },
+  { "query": "A股行情", "display_query": "A股行情" },
   {
     "query": "LOL官宣将推出怀旧模式",
     "display_query": "LOL官宣将推出怀旧模式"

@@ -15,14 +15,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jul 31 2026 13:20:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 31 2026 16:26:53 GMT+0800 (China Standard Time) -->
 
+1. [A股行情](https://www.zhihu.com/search?q=A股行情)
+1. [LOL官宣将推出怀旧模式](https://www.zhihu.com/search?q=LOL官宣将推出怀旧模式)
+1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
+1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=上海 6
+   岁女孩基因编辑试验后死亡)
+1. [东野圭吾去世](https://www.zhihu.com/search?q=东野圭吾去世)
+1. [东野圭吾结肠癌](https://www.zhihu.com/search?q=东野圭吾结肠癌)
+1. [美通缉重犯在华东师范大学任职](https://www.zhihu.com/search?q=美通缉重犯在华东师范大学任职)
+1. [KIMI K3 正式开源](https://www.zhihu.com/search?q=KIMI K3 正式开源)
+1. [大连理工在陕普通批仅招10人](https://www.zhihu.com/search?q=大连理工在陕普通批仅招10人)
+1. [衣服散热和颜色有关](https://www.zhihu.com/search?q=衣服散热和颜色有关)
 1. [美联储](https://www.zhihu.com/search?q=美联储)
 1. [王者荣耀](https://www.zhihu.com/search?q=王者荣耀)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
 1. [你都见过哪些不动声色的善良](https://www.zhihu.com/search?q=你都见过哪些不动声色的善良)
 1. [BLG战胜LGD](https://www.zhihu.com/search?q=BLG战胜LGD)
-1. [A股行情](https://www.zhihu.com/search?q=A股行情)
 1. [丁俊晖vs赵心童](https://www.zhihu.com/search?q=丁俊晖vs赵心童)
 1. [星链真的可以取代5G吗](https://www.zhihu.com/search?q=星链真的可以取代5G吗)
 1. [如何鉴别一家餐馆好不好吃](https://www.zhihu.com/search?q=如何鉴别一家餐馆好不好吃)

@@ -1,4 +1,26 @@
 [
+  { "query": "A股行情", "display_query": "A股行情" },
+  {
+    "query": "LOL官宣将推出怀旧模式",
+    "display_query": "LOL官宣将推出怀旧模式"
+  },
+  { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
+  {
+    "query": "上海 6 岁女孩基因编辑试验后死亡",
+    "display_query": "上海 6 岁女孩基因编辑试验后死亡"
+  },
+  { "query": "东野圭吾去世", "display_query": "东野圭吾去世" },
+  { "query": "东野圭吾结肠癌", "display_query": "东野圭吾结肠癌" },
+  {
+    "query": "美通缉重犯在华东师范大学任职",
+    "display_query": "美通缉重犯在华东师范大学任职"
+  },
+  { "query": "KIMI K3 正式开源", "display_query": "KIMI K3 正式开源" },
+  {
+    "query": "大连理工在陕普通批仅招10人",
+    "display_query": "大连理工在陕普通批仅招10人"
+  },
+  { "query": "衣服散热和颜色有关", "display_query": "衣服散热和颜色有关" },
   { "query": "美联储", "display_query": "美联储" },
   { "query": "王者荣耀", "display_query": "王者荣耀" },
   {
@@ -10,7 +32,6 @@
     "display_query": "你都见过哪些不动声色的善良"
   },
   { "query": "BLG战胜LGD", "display_query": "BLG战胜LGD" },
-  { "query": "A股行情", "display_query": "A股行情" },
   { "query": "丁俊晖vs赵心童", "display_query": "丁俊晖vs赵心童" },
   { "query": "星链真的可以取代5G吗", "display_query": "星链真的可以取代5G吗" },
   {

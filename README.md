@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 01 2026 23:48:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 02 2026 00:43:25 GMT+0800 (China Standard Time) -->
 
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [油价](https://www.zhihu.com/search?q=油价)
@@ -27,8 +27,6 @@
 1. [人到中年为什么对很多事没了兴趣](https://www.zhihu.com/search?q=人到中年为什么对很多事没了兴趣)
 1. [世界最伟大的水果](https://www.zhihu.com/search?q=世界最伟大的水果)
 1. [东北为何成为低物价天堂](https://www.zhihu.com/search?q=东北为何成为低物价天堂)
-1. [文根英结婚](https://www.zhihu.com/search?q=文根英结婚)
-1. [头部商超集体下沉县城](https://www.zhihu.com/search?q=头部商超集体下沉县城)
 
 <!-- END -->
 

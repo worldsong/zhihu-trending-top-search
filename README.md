@@ -15,9 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 03 2026 16:55:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 03 2026 20:08:49 GMT+0800 (China Standard Time) -->
 
+1. [集中供冷](https://www.zhihu.com/search?q=集中供冷)
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [中超联赛](https://www.zhihu.com/search?q=中超联赛)
+1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
+1. [TES战胜JDG](https://www.zhihu.com/search?q=TES战胜JDG)
+1. [宜宾地震](https://www.zhihu.com/search?q=宜宾地震)
+1. [利物浦vs利兹联](https://www.zhihu.com/search?q=利物浦vs利兹联)
 1. [四川宜宾地震](https://www.zhihu.com/search?q=四川宜宾地震)
+1. [恋与深空](https://www.zhihu.com/search?q=恋与深空)
+1. [灿如繁星](https://www.zhihu.com/search?q=灿如繁星)
 1. [2026 菲尔兹奖即将公布](https://www.zhihu.com/search?q=2026 菲尔兹奖即将公布)
 1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=知友邓煜获得菲尔兹奖)
 1. [邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜获得菲尔兹奖)
@@ -29,7 +38,6 @@
 1. [法语越好在巴黎可能越被冷落](https://www.zhihu.com/search?q=法语越好在巴黎可能越被冷落)
 1. [阿根廷足协面临多项罚款](https://www.zhihu.com/search?q=阿根廷足协面临多项罚款)
 1. [京东外卖推出 AI 头盔](https://www.zhihu.com/search?q=京东外卖推出 AI 头盔)
-1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
 1. [歌手歌单](https://www.zhihu.com/search?q=歌手歌单)
 1. [百花奖](https://www.zhihu.com/search?q=百花奖)
 1. [dk战胜hle](https://www.zhihu.com/search?q=dk战胜hle)
@@ -37,7 +45,6 @@
 1. [人到中年为什么对很多事没了兴趣](https://www.zhihu.com/search?q=人到中年为什么对很多事没了兴趣)
 1. [世界最伟大的水果](https://www.zhihu.com/search?q=世界最伟大的水果)
 1. [东北为何成为低物价天堂](https://www.zhihu.com/search?q=东北为何成为低物价天堂)
-1. [A股](https://www.zhihu.com/search?q=A股)
 1. [油价](https://www.zhihu.com/search?q=油价)
 
 <!-- END -->

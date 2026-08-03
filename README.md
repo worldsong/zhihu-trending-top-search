@@ -15,8 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 03 2026 13:25:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 03 2026 16:55:58 GMT+0800 (China Standard Time) -->
 
+1. [四川宜宾地震](https://www.zhihu.com/search?q=四川宜宾地震)
+1. [2026 菲尔兹奖即将公布](https://www.zhihu.com/search?q=2026 菲尔兹奖即将公布)
+1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=知友邓煜获得菲尔兹奖)
+1. [邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜获得菲尔兹奖)
+1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜王虹获得菲尔兹奖)
+1. [台风白海豚要来了](https://www.zhihu.com/search?q=台风白海豚要来了)
+1. [患癌妻子申请销毁婚外胚胎遭拒](https://www.zhihu.com/search?q=患癌妻子申请销毁婚外胚胎遭拒)
+1. [《蜘蛛侠：崭新之日》票房](https://www.zhihu.com/search?q=《蜘蛛侠：崭新之日》票房)
+1. [丘成桐作诗祝贺王虹邓煜](https://www.zhihu.com/search?q=丘成桐作诗祝贺王虹邓煜)
+1. [法语越好在巴黎可能越被冷落](https://www.zhihu.com/search?q=法语越好在巴黎可能越被冷落)
 1. [阿根廷足协面临多项罚款](https://www.zhihu.com/search?q=阿根廷足协面临多项罚款)
 1. [京东外卖推出 AI 头盔](https://www.zhihu.com/search?q=京东外卖推出 AI 头盔)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)

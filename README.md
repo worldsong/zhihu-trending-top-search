@@ -15,10 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 04 2026 15:28:03 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 04 2026 20:50:30 GMT+0800 (China Standard Time) -->
 
-1. [AI股神基金爆仓致歉](https://www.zhihu.com/search?q=AI股神基金爆仓致歉)
+1. [台风](https://www.zhihu.com/search?q=台风)
+1. [心动的信号](https://www.zhihu.com/search?q=心动的信号)
+1. [王者荣耀](https://www.zhihu.com/search?q=王者荣耀)
+1. [薛之谦演唱会](https://www.zhihu.com/search?q=薛之谦演唱会)
+1. [郑钦文退赛](https://www.zhihu.com/search?q=郑钦文退赛)
+1. [恋与深空](https://www.zhihu.com/search?q=恋与深空)
+1. [仙逆](https://www.zhihu.com/search?q=仙逆)
+1. [ewc](https://www.zhihu.com/search?q=ewc)
+1. [台风白海豚要来了](https://www.zhihu.com/search?q=台风白海豚要来了)
 1. [患癌妻子申请销毁婚外胚胎遭拒](https://www.zhihu.com/search?q=患癌妻子申请销毁婚外胚胎遭拒)
+1. [AI股神基金爆仓致歉](https://www.zhihu.com/search?q=AI股神基金爆仓致歉)
 1. [通天河伴漂服务被指擦边](https://www.zhihu.com/search?q=通天河伴漂服务被指擦边)
 1. [长鑫科技市值破4万亿](https://www.zhihu.com/search?q=长鑫科技市值破4万亿)
 1. [日本设立国家情报局](https://www.zhihu.com/search?q=日本设立国家情报局)
@@ -34,9 +43,7 @@
 1. [TES战胜JDG](https://www.zhihu.com/search?q=TES战胜JDG)
 1. [宜宾地震](https://www.zhihu.com/search?q=宜宾地震)
 1. [利物浦vs利兹联](https://www.zhihu.com/search?q=利物浦vs利兹联)
-1. [恋与深空](https://www.zhihu.com/search?q=恋与深空)
 1. [灿如繁星](https://www.zhihu.com/search?q=灿如繁星)
-1. [ewc](https://www.zhihu.com/search?q=ewc)
 1. [四川宜宾地震](https://www.zhihu.com/search?q=四川宜宾地震)
 
 <!-- END -->

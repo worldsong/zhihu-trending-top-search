@@ -15,18 +15,25 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 05 2026 15:29:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 05 2026 18:20:02 GMT+0800 (China Standard Time) -->
 
+1. [电视剧「人鱼」今日开播](https://www.zhihu.com/search?q=电视剧「人鱼」今日开播)
+1. [患癌妻子申请销毁婚外胚胎遭拒](https://www.zhihu.com/search?q=患癌妻子申请销毁婚外胚胎遭拒)
+1. [揽佬新歌《中国人能飞》爆火](https://www.zhihu.com/search?q=揽佬新歌《中国人能飞》爆火)
+1. [邓煜北大转学 MIT](https://www.zhihu.com/search?q=邓煜北大转学 MIT)
+1. [台风白海豚已达17级](https://www.zhihu.com/search?q=台风白海豚已达17级)
+1. [蔡崇信宣布离婚](https://www.zhihu.com/search?q=蔡崇信宣布离婚)
+1. [《年会不能停2！》热映](https://www.zhihu.com/search?q=《年会不能停2！》热映)
+1. [房主任 母女关系](https://www.zhihu.com/search?q=房主任 母女关系)
+1. [亚洲明星联队 6:2 杭州足管队](https://www.zhihu.com/search?q=亚洲明星联队 6:2
+   杭州足管队)
+1. [坐公交车就可以出去了](https://www.zhihu.com/search?q=坐公交车就可以出去了)
 1. [六大汉堡实测肉饼不足](https://www.zhihu.com/search?q=六大汉堡实测肉饼不足)
 1. [美国制裁洽洽瓜子思念水饺](https://www.zhihu.com/search?q=美国制裁洽洽瓜子思念水饺)
 1. [邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜获得菲尔兹奖)
 1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜王虹获得菲尔兹奖)
 1. [台风白海豚要来了](https://www.zhihu.com/search?q=台风白海豚要来了)
 1. [东野圭吾遗作将发售](https://www.zhihu.com/search?q=东野圭吾遗作将发售)
-1. [患癌妻子申请销毁婚外胚胎遭拒](https://www.zhihu.com/search?q=患癌妻子申请销毁婚外胚胎遭拒)
-1. [揽佬新歌《中国人能飞》爆火](https://www.zhihu.com/search?q=揽佬新歌《中国人能飞》爆火)
-1. [邓煜北大转学 MIT](https://www.zhihu.com/search?q=邓煜北大转学 MIT)
-1. [台风白海豚已达17级](https://www.zhihu.com/search?q=台风白海豚已达17级)
 1. [台风](https://www.zhihu.com/search?q=台风)
 1. [心动的信号](https://www.zhihu.com/search?q=心动的信号)
 1. [王者荣耀](https://www.zhihu.com/search?q=王者荣耀)

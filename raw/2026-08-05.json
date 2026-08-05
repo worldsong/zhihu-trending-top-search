@@ -1,13 +1,8 @@
 [
-  { "query": "六大汉堡实测肉饼不足", "display_query": "六大汉堡实测肉饼不足" },
   {
-    "query": "美国制裁洽洽瓜子思念水饺",
-    "display_query": "美国制裁洽洽瓜子思念水饺"
+    "query": "电视剧「人鱼」今日开播",
+    "display_query": "电视剧「人鱼」今日开播"
   },
-  { "query": "邓煜获得菲尔兹奖", "display_query": "邓煜获得菲尔兹奖" },
-  { "query": "邓煜王虹获得菲尔兹奖", "display_query": "邓煜王虹获得菲尔兹奖" },
-  { "query": "台风白海豚要来了", "display_query": "台风白海豚要来了" },
-  { "query": "东野圭吾遗作将发售", "display_query": "东野圭吾遗作将发售" },
   {
     "query": "患癌妻子申请销毁婚外胚胎遭拒",
     "display_query": "患癌妻子申请销毁婚外胚胎遭拒"
@@ -18,6 +13,26 @@
   },
   { "query": "邓煜北大转学 MIT", "display_query": "邓煜北大转学 MIT" },
   { "query": "台风白海豚已达17级", "display_query": "台风白海豚已达17级" },
+  { "query": "蔡崇信宣布离婚", "display_query": "蔡崇信宣布离婚" },
+  {
+    "query": "《年会不能停2！》热映",
+    "display_query": "《年会不能停2！》热映"
+  },
+  { "query": "房主任 母女关系", "display_query": "房主任 母女关系" },
+  {
+    "query": "亚洲明星联队 6:2 杭州足管队",
+    "display_query": "亚洲明星联队 6:2 杭州足管队"
+  },
+  { "query": "坐公交车就可以出去了", "display_query": "坐公交车就可以出去了" },
+  { "query": "六大汉堡实测肉饼不足", "display_query": "六大汉堡实测肉饼不足" },
+  {
+    "query": "美国制裁洽洽瓜子思念水饺",
+    "display_query": "美国制裁洽洽瓜子思念水饺"
+  },
+  { "query": "邓煜获得菲尔兹奖", "display_query": "邓煜获得菲尔兹奖" },
+  { "query": "邓煜王虹获得菲尔兹奖", "display_query": "邓煜王虹获得菲尔兹奖" },
+  { "query": "台风白海豚要来了", "display_query": "台风白海豚要来了" },
+  { "query": "东野圭吾遗作将发售", "display_query": "东野圭吾遗作将发售" },
   { "query": "台风", "display_query": "台风" },
   { "query": "心动的信号", "display_query": "心动的信号" },
   { "query": "王者荣耀", "display_query": "王者荣耀" },

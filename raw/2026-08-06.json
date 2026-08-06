@@ -1,11 +1,21 @@
 [
+  { "query": "成都暴雨", "display_query": "成都暴雨" },
+  { "query": "中餐厅", "display_query": "中餐厅" },
+  { "query": "宜宾地震", "display_query": "宜宾地震" },
+  { "query": "理想i8发布", "display_query": "理想i8发布" },
+  { "query": "这一秒过火", "display_query": "这一秒过火" },
+  {
+    "query": "2026 菲尔兹奖即将公布",
+    "display_query": "2026 菲尔兹奖即将公布"
+  },
+  { "query": "知友邓煜获得菲尔兹奖", "display_query": "知友邓煜获得菲尔兹奖" },
+  { "query": "邓煜获得菲尔兹奖", "display_query": "邓煜获得菲尔兹奖" },
+  { "query": "邓煜王虹获得菲尔兹奖", "display_query": "邓煜王虹获得菲尔兹奖" },
+  { "query": "东野圭吾遗作将发售", "display_query": "东野圭吾遗作将发售" },
   {
     "query": "为什么现在交响乐团靠游戏演奏会维生",
     "display_query": "为什么现在交响乐团靠游戏演奏会维生"
   },
-  { "query": "邓煜获得菲尔兹奖", "display_query": "邓煜获得菲尔兹奖" },
-  { "query": "邓煜王虹获得菲尔兹奖", "display_query": "邓煜王虹获得菲尔兹奖" },
-  { "query": "东野圭吾遗作将发售", "display_query": "东野圭吾遗作将发售" },
   {
     "query": "专家建议落实双休增加假期",
     "display_query": "专家建议落实双休增加假期"
@@ -24,11 +34,6 @@
     "display_query": "侯明昊违反交规被警方约谈"
   },
   { "query": "陈垣宇3-0西蒙高茨", "display_query": "陈垣宇3-0西蒙高茨" },
-  {
-    "query": "2026 菲尔兹奖即将公布",
-    "display_query": "2026 菲尔兹奖即将公布"
-  },
-  { "query": "知友邓煜获得菲尔兹奖", "display_query": "知友邓煜获得菲尔兹奖" },
   { "query": "邓煜北大转学 MIT", "display_query": "邓煜北大转学 MIT" },
   { "query": "蔡崇信宣布离婚", "display_query": "蔡崇信宣布离婚" },
   {

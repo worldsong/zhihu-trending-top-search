@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 06 2026 09:14:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 06 2026 12:51:09 GMT+0800 (China Standard Time) -->
 
 1. [中国航天又一次成功发射](https://www.zhihu.com/search?q=中国航天又一次成功发射)
 1. [八仙](https://www.zhihu.com/search?q=八仙)
@@ -25,8 +25,9 @@
 1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜王虹获得菲尔兹奖)
 1. [东野圭吾遗作将发售](https://www.zhihu.com/search?q=东野圭吾遗作将发售)
 1. [九门](https://www.zhihu.com/search?q=九门)
-1. [揽佬新歌《中国人能飞》爆火](https://www.zhihu.com/search?q=揽佬新歌《中国人能飞》爆火)
 1. [邓煜北大转学 MIT](https://www.zhihu.com/search?q=邓煜北大转学 MIT)
+1. [台风白海豚](https://www.zhihu.com/search?q=台风白海豚)
+1. [揽佬新歌《中国人能飞》爆火](https://www.zhihu.com/search?q=揽佬新歌《中国人能飞》爆火)
 
 <!-- END -->
 

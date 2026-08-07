@@ -15,24 +15,27 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 07 2026 14:01:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 07 2026 16:02:41 GMT+0800 (China Standard Time) -->
 
-1. [成都暴雨](https://www.zhihu.com/search?q=成都暴雨)
-1. [中餐厅](https://www.zhihu.com/search?q=中餐厅)
-1. [宜宾地震](https://www.zhihu.com/search?q=宜宾地震)
-1. [理想i8发布](https://www.zhihu.com/search?q=理想i8发布)
 1. [四川宜宾高县 5.0 级地震](https://www.zhihu.com/search?q=四川宜宾高县 5.0
    级地震)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
-1. [这一秒过火](https://www.zhihu.com/search?q=这一秒过火)
 1. [2026 菲尔兹奖即将公布](https://www.zhihu.com/search?q=2026 菲尔兹奖即将公布)
 1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=知友邓煜获得菲尔兹奖)
 1. [邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜获得菲尔兹奖)
 1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜王虹获得菲尔兹奖)
+1. [东野圭吾遗作将发售](https://www.zhihu.com/search?q=东野圭吾遗作将发售)
+1. [邓煜北大转学 MIT](https://www.zhihu.com/search?q=邓煜北大转学 MIT)
+1. [柯洁夺冠后称7月下棋不足5小时](https://www.zhihu.com/search?q=柯洁夺冠后称7月下棋不足5小时)
+1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=儿科医生韩杰因医疗事故罪被判刑)
+1. [成都暴雨](https://www.zhihu.com/search?q=成都暴雨)
+1. [中餐厅](https://www.zhihu.com/search?q=中餐厅)
+1. [宜宾地震](https://www.zhihu.com/search?q=宜宾地震)
+1. [理想i8发布](https://www.zhihu.com/search?q=理想i8发布)
+1. [这一秒过火](https://www.zhihu.com/search?q=这一秒过火)
 1. [长鑫拒绝苹果压价](https://www.zhihu.com/search?q=长鑫拒绝苹果压价)
 1. [高原反应引腹泻](https://www.zhihu.com/search?q=高原反应引腹泻)
 1. [多家手机品牌回应将大规模涨价](https://www.zhihu.com/search?q=多家手机品牌回应将大规模涨价)
-1. [东野圭吾遗作将发售](https://www.zhihu.com/search?q=东野圭吾遗作将发售)
 
 <!-- END -->
 

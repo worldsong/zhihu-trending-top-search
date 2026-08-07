@@ -1,6 +1,12 @@
 [
-  { "query": "百花奖", "display_query": "百花奖" },
-  { "query": "NIP战胜iG", "display_query": "NIP战胜iG" },
+  {
+    "query": "王兴兴：去年宇树机器人出货量全球第一",
+    "display_query": "王兴兴：去年宇树机器人出货量全球第一"
+  },
+  {
+    "query": "我国首次证实「胶球」存在",
+    "display_query": "我国首次证实「胶球」存在"
+  },
   { "query": "宜宾地震", "display_query": "宜宾地震" },
   { "query": "gen战胜hle", "display_query": "gen战胜hle" },
   {
@@ -15,6 +21,8 @@
     "query": "儿科医生韩杰因医疗事故罪被判刑",
     "display_query": "儿科医生韩杰因医疗事故罪被判刑"
   },
+  { "query": "百花奖", "display_query": "百花奖" },
+  { "query": "NIP战胜iG", "display_query": "NIP战胜iG" },
   { "query": "美国将 43 家中企拉黑", "display_query": "美国将 43 家中企拉黑" },
   { "query": "打工人三件套涨价", "display_query": "打工人三件套涨价" },
   {

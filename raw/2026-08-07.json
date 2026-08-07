@@ -9,6 +9,7 @@
     "display_query": "四川宜宾高县 5.0 级地震"
   },
   { "query": "EWC", "display_query": "EWC" },
+  { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
   { "query": "东野圭吾遗作将发售", "display_query": "东野圭吾遗作将发售" },
   { "query": "spacex市值暴跌", "display_query": "spacex市值暴跌" },
   {
@@ -23,7 +24,6 @@
     "query": "我国首次证实「胶球」存在",
     "display_query": "我国首次证实「胶球」存在"
   },
-  { "query": "电影《八仙！》热映", "display_query": "电影《八仙！》热映" },
   { "query": "美国将 43 家中企拉黑", "display_query": "美国将 43 家中企拉黑" },
   { "query": "打工人三件套涨价", "display_query": "打工人三件套涨价" },
   {

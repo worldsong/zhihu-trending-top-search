@@ -15,42 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 07 2026 23:40:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 08 2026 00:37:54 GMT+0800 (China Standard Time) -->
 
-1. [可杰骂TOP组合后被要求道歉](https://www.zhihu.com/search?q=可杰骂TOP组合后被要求道歉)
+1. [百花奖](https://www.zhihu.com/search?q=百花奖)
+1. [NIP战胜iG](https://www.zhihu.com/search?q=NIP战胜iG)
 1. [宜宾地震](https://www.zhihu.com/search?q=宜宾地震)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen战胜hle)
+1. [歌手总决赛](https://www.zhihu.com/search?q=歌手总决赛)
 1. [四川宜宾高县 5.0 级地震](https://www.zhihu.com/search?q=四川宜宾高县 5.0
    级地震)
 1. [EWC](https://www.zhihu.com/search?q=EWC)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
 1. [东野圭吾遗作将发售](https://www.zhihu.com/search?q=东野圭吾遗作将发售)
 1. [spacex市值暴跌](https://www.zhihu.com/search?q=spacex市值暴跌)
-1. [百花奖](https://www.zhihu.com/search?q=百花奖)
-1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=儿科医生韩杰因医疗事故罪被判刑)
-1. [NIP战胜iG](https://www.zhihu.com/search?q=NIP战胜iG)
-1. [歌手总决赛](https://www.zhihu.com/search?q=歌手总决赛)
-1. [王兴兴：去年宇树机器人出货量全球第一](https://www.zhihu.com/search?q=王兴兴：去年宇树机器人出货量全球第一)
-1. [我国首次证实「胶球」存在](https://www.zhihu.com/search?q=我国首次证实「胶球」存在)
-1. [美国将 43 家中企拉黑](https://www.zhihu.com/search?q=美国将 43 家中企拉黑)
-1. [打工人三件套涨价](https://www.zhihu.com/search?q=打工人三件套涨价)
-1. [仲树诺兰对谈电影《奥德赛》](https://www.zhihu.com/search?q=仲树诺兰对谈电影《奥德赛》)
-1. [美国制裁洽洽瓜子思念水饺](https://www.zhihu.com/search?q=美国制裁洽洽瓜子思念水饺)
-1. [精神小伙一封写给妈妈的信获赞200万](https://www.zhihu.com/search?q=精神小伙一封写给妈妈的信获赞200万)
-1. [寿命与祖母辈遗传有关](https://www.zhihu.com/search?q=寿命与祖母辈遗传有关)
-1. [2026 菲尔兹奖即将公布](https://www.zhihu.com/search?q=2026 菲尔兹奖即将公布)
-1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=知友邓煜获得菲尔兹奖)
-1. [邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜获得菲尔兹奖)
-1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜王虹获得菲尔兹奖)
-1. [邓煜北大转学 MIT](https://www.zhihu.com/search?q=邓煜北大转学 MIT)
-1. [柯洁夺冠后称7月下棋不足5小时](https://www.zhihu.com/search?q=柯洁夺冠后称7月下棋不足5小时)
-1. [成都暴雨](https://www.zhihu.com/search?q=成都暴雨)
-1. [中餐厅](https://www.zhihu.com/search?q=中餐厅)
-1. [理想i8发布](https://www.zhihu.com/search?q=理想i8发布)
-1. [这一秒过火](https://www.zhihu.com/search?q=这一秒过火)
-1. [长鑫拒绝苹果压价](https://www.zhihu.com/search?q=长鑫拒绝苹果压价)
-1. [高原反应引腹泻](https://www.zhihu.com/search?q=高原反应引腹泻)
-1. [多家手机品牌回应将大规模涨价](https://www.zhihu.com/search?q=多家手机品牌回应将大规模涨价)
 
 <!-- END -->
 

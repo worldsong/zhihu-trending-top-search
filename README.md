@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 07 2026 07:45:20 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 07 2026 09:57:15 GMT+0800 (China Standard Time) -->
 
-1. [多家手机品牌回应将大规模涨价](https://www.zhihu.com/search?q=多家手机品牌回应将大规模涨价)
+1. [长鑫拒绝苹果压价](https://www.zhihu.com/search?q=长鑫拒绝苹果压价)
+1. [高原反应引腹泻](https://www.zhihu.com/search?q=高原反应引腹泻)
 1. [中餐厅](https://www.zhihu.com/search?q=中餐厅)
 1. [宜宾地震](https://www.zhihu.com/search?q=宜宾地震)
 1. [理想i8发布](https://www.zhihu.com/search?q=理想i8发布)
@@ -26,6 +27,7 @@
 1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=知友邓煜获得菲尔兹奖)
 1. [邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜获得菲尔兹奖)
 1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜王虹获得菲尔兹奖)
+1. [多家手机品牌回应将大规模涨价](https://www.zhihu.com/search?q=多家手机品牌回应将大规模涨价)
 1. [东野圭吾遗作将发售](https://www.zhihu.com/search?q=东野圭吾遗作将发售)
 
 <!-- END -->

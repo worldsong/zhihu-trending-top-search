@@ -15,19 +15,25 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 07 2026 16:02:41 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 07 2026 17:46:27 GMT+0800 (China Standard Time) -->
 
 1. [四川宜宾高县 5.0 级地震](https://www.zhihu.com/search?q=四川宜宾高县 5.0
    级地震)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
+1. [东野圭吾遗作将发售](https://www.zhihu.com/search?q=东野圭吾遗作将发售)
+1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=儿科医生韩杰因医疗事故罪被判刑)
+1. [美国将 43 家中企拉黑](https://www.zhihu.com/search?q=美国将 43 家中企拉黑)
+1. [打工人三件套涨价](https://www.zhihu.com/search?q=打工人三件套涨价)
+1. [仲树诺兰对谈电影《奥德赛》](https://www.zhihu.com/search?q=仲树诺兰对谈电影《奥德赛》)
+1. [美国制裁洽洽瓜子思念水饺](https://www.zhihu.com/search?q=美国制裁洽洽瓜子思念水饺)
+1. [精神小伙一封写给妈妈的信获赞200万](https://www.zhihu.com/search?q=精神小伙一封写给妈妈的信获赞200万)
+1. [寿命与祖母辈遗传有关](https://www.zhihu.com/search?q=寿命与祖母辈遗传有关)
 1. [2026 菲尔兹奖即将公布](https://www.zhihu.com/search?q=2026 菲尔兹奖即将公布)
 1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=知友邓煜获得菲尔兹奖)
 1. [邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜获得菲尔兹奖)
 1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=邓煜王虹获得菲尔兹奖)
-1. [东野圭吾遗作将发售](https://www.zhihu.com/search?q=东野圭吾遗作将发售)
 1. [邓煜北大转学 MIT](https://www.zhihu.com/search?q=邓煜北大转学 MIT)
 1. [柯洁夺冠后称7月下棋不足5小时](https://www.zhihu.com/search?q=柯洁夺冠后称7月下棋不足5小时)
-1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=儿科医生韩杰因医疗事故罪被判刑)
 1. [成都暴雨](https://www.zhihu.com/search?q=成都暴雨)
 1. [中餐厅](https://www.zhihu.com/search?q=中餐厅)
 1. [宜宾地震](https://www.zhihu.com/search?q=宜宾地震)

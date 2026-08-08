@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 08 2026 13:32:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 08 2026 14:28:37 GMT+0800 (China Standard Time) -->
 
 1. [百花奖](https://www.zhihu.com/search?q=百花奖)
 1. [NIP战胜iG](https://www.zhihu.com/search?q=NIP战胜iG)
@@ -24,6 +24,7 @@
 1. [歌手总决赛](https://www.zhihu.com/search?q=歌手总决赛)
 1. [EWC](https://www.zhihu.com/search?q=EWC)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=电影《八仙！》热映)
+1. [安徽卫视播放AI剧](https://www.zhihu.com/search?q=安徽卫视播放AI剧)
 1. [spacex市值暴跌](https://www.zhihu.com/search?q=spacex市值暴跌)
 1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=儿科医生韩杰因医疗事故罪被判刑)
 1. [你的公积金将有新变化](https://www.zhihu.com/search?q=你的公积金将有新变化)

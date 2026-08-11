@@ -1,8 +1,5 @@
 [
-  {
-    "query": "孙女AI合成奶奶进西游记",
-    "display_query": "孙女AI合成奶奶进西游记"
-  },
+  { "query": "国乒怎么了", "display_query": "国乒怎么了" },
   {
     "query": "《蜘蛛侠：崭新之日》票房",
     "display_query": "《蜘蛛侠：崭新之日》票房"
@@ -11,10 +8,6 @@
   {
     "query": "同济大学取消教师长期聘任",
     "display_query": "同济大学取消教师长期聘任"
-  },
-  {
-    "query": "《奥德赛》刷新 IMAX 中国点映记录",
-    "display_query": "《奥德赛》刷新 IMAX 中国点映记录"
   },
   {
     "query": "第一批抱冬瓜睡觉受害者已出现",
@@ -36,7 +29,18 @@
     "query": "ai演员接美瞳广告被审判",
     "display_query": "ai演员接美瞳广告被审判"
   },
-  { "query": "国乒怎么了", "display_query": "国乒怎么了" },
+  {
+    "query": "蓝箭朱雀三号火箭近日试飞",
+    "display_query": "蓝箭朱雀三号火箭近日试飞"
+  },
+  {
+    "query": "孙女AI合成奶奶进西游记",
+    "display_query": "孙女AI合成奶奶进西游记"
+  },
+  {
+    "query": "《奥德赛》刷新 IMAX 中国点映记录",
+    "display_query": "《奥德赛》刷新 IMAX 中国点映记录"
+  },
   { "query": "白海豚突然大拐弯", "display_query": "白海豚突然大拐弯" },
   {
     "query": "横店游客可以花钱体验拍短剧",

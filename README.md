@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 12 2026 00:42:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 12 2026 01:44:53 GMT+0800 (China Standard Time) -->
 
-1. [国乒怎么了](https://www.zhihu.com/search?q=国乒怎么了)
 1. [《蜘蛛侠：崭新之日》票房](https://www.zhihu.com/search?q=《蜘蛛侠：崭新之日》票房)
 1. [台风白海豚](https://www.zhihu.com/search?q=台风白海豚)
 1. [同济大学取消教师长期聘任](https://www.zhihu.com/search?q=同济大学取消教师长期聘任)
@@ -27,6 +26,8 @@
 1. [我国首次证实「胶球」存在](https://www.zhihu.com/search?q=我国首次证实「胶球」存在)
 1. [ai演员接美瞳广告被审判](https://www.zhihu.com/search?q=ai演员接美瞳广告被审判)
 1. [蓝箭朱雀三号火箭近日试飞](https://www.zhihu.com/search?q=蓝箭朱雀三号火箭近日试飞)
+1. [公司上四休三但要降薪1000元](https://www.zhihu.com/search?q=公司上四休三但要降薪1000元)
+1. [国乒怎么了](https://www.zhihu.com/search?q=国乒怎么了)
 
 <!-- END -->
 

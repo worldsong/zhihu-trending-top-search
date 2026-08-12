@@ -1,6 +1,5 @@
 [
-  { "query": "BLG首发上单Flandre", "display_query": "BLG首发上单Flandre" },
-  { "query": "河南浙江等地暴雨", "display_query": "河南浙江等地暴雨" },
+  { "query": "国乒怎么了", "display_query": "国乒怎么了" },
   {
     "query": "《蜘蛛侠：崭新之日》票房",
     "display_query": "《蜘蛛侠：崭新之日》票房"
@@ -30,11 +29,12 @@
     "query": "蓝箭朱雀三号火箭近日试飞",
     "display_query": "蓝箭朱雀三号火箭近日试飞"
   },
-  { "query": "国乒怎么了", "display_query": "国乒怎么了" },
   {
     "query": "于东来称不达国际一流就关店",
     "display_query": "于东来称不达国际一流就关店"
   },
+  { "query": "BLG首发上单Flandre", "display_query": "BLG首发上单Flandre" },
+  { "query": "河南浙江等地暴雨", "display_query": "河南浙江等地暴雨" },
   {
     "query": "ai演员接美瞳广告被审判",
     "display_query": "ai演员接美瞳广告被审判"

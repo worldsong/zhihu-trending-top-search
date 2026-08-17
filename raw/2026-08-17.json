@@ -1,12 +1,5 @@
 [
-  {
-    "query": "LCK夏季赛GEN2-0战胜T1",
-    "display_query": "LCK夏季赛GEN2-0战胜T1"
-  },
-  {
-    "query": "多家航司开始「卷」飞机餐",
-    "display_query": "多家航司开始「卷」飞机餐"
-  },
+  { "query": "阿森纳vs曼城", "display_query": "阿森纳vs曼城" },
   {
     "query": "儿科医生韩杰因医疗事故罪被判刑",
     "display_query": "儿科医生韩杰因医疗事故罪被判刑"
@@ -21,10 +14,26 @@
     "query": "《牛来》电影建模粗糙票房仅为七千元",
     "display_query": "《牛来》电影建模粗糙票房仅为七千元"
   },
-  { "query": "阿森纳vs曼城", "display_query": "阿森纳vs曼城" },
+  { "query": "《牛来》 观众想哭", "display_query": "《牛来》 观众想哭" },
   {
     "query": "五粮液不得低于 800 元抛售",
     "display_query": "五粮液不得低于 800 元抛售"
+  },
+  {
+    "query": "周星驰经纪人质疑《龙餐馆》偷票房",
+    "display_query": "周星驰经纪人质疑《龙餐馆》偷票房"
+  },
+  {
+    "query": "《欢迎来龙餐馆》否认偷票房",
+    "display_query": "《欢迎来龙餐馆》否认偷票房"
+  },
+  {
+    "query": "LCK夏季赛GEN2-0战胜T1",
+    "display_query": "LCK夏季赛GEN2-0战胜T1"
+  },
+  {
+    "query": "多家航司开始「卷」飞机餐",
+    "display_query": "多家航司开始「卷」飞机餐"
   },
   {
     "query": "课文改编短剧成流量新风口",
@@ -38,7 +47,6 @@
     "query": "贾跃亭：FF机器人将独立融资上市",
     "display_query": "贾跃亭：FF机器人将独立融资上市"
   },
-  { "query": "《牛来》 观众想哭", "display_query": "《牛来》 观众想哭" },
   {
     "query": "比亚迪销量骤降吉利争销冠",
     "display_query": "比亚迪销量骤降吉利争销冠"

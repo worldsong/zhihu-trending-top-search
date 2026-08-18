@@ -15,17 +15,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 18 2026 14:19:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 18 2026 15:26:46 GMT+0800 (China Standard Time) -->
 
-1. [A股](https://www.zhihu.com/search?q=A股)
-1. [阿森纳vs曼城](https://www.zhihu.com/search?q=阿森纳vs曼城)
-1. [披荆斩棘排名](https://www.zhihu.com/search?q=披荆斩棘排名)
+1. [云南调查低价团宰客乱象](https://www.zhihu.com/search?q=云南调查低价团宰客乱象)
+1. [LGD战胜JDG](https://www.zhihu.com/search?q=LGD战胜JDG)
+1. [王曼昱总结瑞典大满贯](https://www.zhihu.com/search?q=王曼昱总结瑞典大满贯)
 1. [WBG对战IG](https://www.zhihu.com/search?q=WBG对战IG)
 1. [GEN对战T1](https://www.zhihu.com/search?q=GEN对战T1)
 1. [王艺迪vs张本美和](https://www.zhihu.com/search?q=王艺迪vs张本美和)
 1. [GEN战胜T1](https://www.zhihu.com/search?q=GEN战胜T1)
 1. [纳什维尔vs迈阿密国际](https://www.zhihu.com/search?q=纳什维尔vs迈阿密国际)
 1. [重器](https://www.zhihu.com/search?q=重器)
+1. [《欢迎来龙餐馆》热映](https://www.zhihu.com/search?q=《欢迎来龙餐馆》热映)
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [阿森纳vs曼城](https://www.zhihu.com/search?q=阿森纳vs曼城)
+1. [披荆斩棘排名](https://www.zhihu.com/search?q=披荆斩棘排名)
 1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=儿科医生韩杰因医疗事故罪被判刑)
 
 <!-- END -->

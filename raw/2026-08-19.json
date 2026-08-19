@@ -1,16 +1,9 @@
 [
-  {
-    "query": "北大数院发布王虹万字专访",
-    "display_query": "北大数院发布王虹万字专访"
-  },
-  {
-    "query": "宇树科技8月19日科创板上市",
-    "display_query": "宇树科技8月19日科创板上市"
-  },
+  { "query": "风范股份11天7板", "display_query": "风范股份11天7板" },
   { "query": "披荆斩棘", "display_query": "披荆斩棘" },
   {
-    "query": "曹骏初舞台获线上人气第一",
-    "display_query": "曹骏初舞台获线上人气第一"
+    "query": "国际乒联公布最新世界排名",
+    "display_query": "国际乒联公布最新世界排名"
   },
   {
     "query": "金书只身入阵能破三渡有哪些人",
@@ -23,13 +16,22 @@
   { "query": "诺兰《奥德赛》热映", "display_query": "诺兰《奥德赛》热映" },
   { "query": "王楚钦孙颖莎世界第一", "display_query": "王楚钦孙颖莎世界第一" },
   { "query": "《欢迎来龙餐馆》热映", "display_query": "《欢迎来龙餐馆》热映" },
+  { "query": "欢迎来龙餐馆 细节", "display_query": "欢迎来龙餐馆 细节" },
+  { "query": "花开锦绣", "display_query": "花开锦绣" },
+  {
+    "query": "北大数院发布王虹万字专访",
+    "display_query": "北大数院发布王虹万字专访"
+  },
+  {
+    "query": "宇树科技8月19日科创板上市",
+    "display_query": "宇树科技8月19日科创板上市"
+  },
+  {
+    "query": "曹骏初舞台获线上人气第一",
+    "display_query": "曹骏初舞台获线上人气第一"
+  },
   { "query": "宇树科技上市", "display_query": "宇树科技上市" },
   { "query": "中国医师节", "display_query": "中国医师节" },
-  {
-    "query": "国际乒联公布最新世界排名",
-    "display_query": "国际乒联公布最新世界排名"
-  },
-  { "query": "欢迎来龙餐馆 细节", "display_query": "欢迎来龙餐馆 细节" },
   { "query": "大牛股15天10板", "display_query": "大牛股15天10板" },
   {
     "query": "二手房交易试水「诚意卖」线上出价",
@@ -40,7 +42,6 @@
     "query": "又一新能源汽车公司成立",
     "display_query": "又一新能源汽车公司成立"
   },
-  { "query": "花开锦绣", "display_query": "花开锦绣" },
   { "query": "银行能办结婚证了", "display_query": "银行能办结婚证了" },
   { "query": "DeepSeek 涨价", "display_query": "DeepSeek 涨价" }
 ]

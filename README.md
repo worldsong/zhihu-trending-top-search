@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 21 2026 05:15:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 21 2026 06:13:12 GMT+0800 (China Standard Time) -->
 
 1. [台风](https://www.zhihu.com/search?q=台风)
 1. [黑神话](https://www.zhihu.com/search?q=黑神话)

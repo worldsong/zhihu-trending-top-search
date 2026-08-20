@@ -1,0 +1,18 @@
+[
+  { "query": "中国医师节", "display_query": "中国医师节" },
+  { "query": "台风", "display_query": "台风" },
+  { "query": "黑神话", "display_query": "黑神话" },
+  { "query": "朱雀三号", "display_query": "朱雀三号" },
+  {
+    "query": "胖东来回应招聘刑释人员",
+    "display_query": "胖东来回应招聘刑释人员"
+  },
+  { "query": "羽毛球世锦赛", "display_query": "羽毛球世锦赛" },
+  { "query": "EDG战胜WE", "display_query": "EDG战胜WE" },
+  {
+    "query": "固态电池真的那么完美吗",
+    "display_query": "固态电池真的那么完美吗"
+  },
+  { "query": "A股超4900股下跌", "display_query": "A股超4900股下跌" },
+  { "query": "LPL", "display_query": "LPL" }
+]

@@ -15,9 +15,8 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 20 2026 23:20:42 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 21 2026 00:18:22 GMT+0800 (China Standard Time) -->
 
-1. [中国医师节](https://www.zhihu.com/search?q=中国医师节)
 1. [台风](https://www.zhihu.com/search?q=台风)
 1. [黑神话](https://www.zhihu.com/search?q=黑神话)
 1. [朱雀三号](https://www.zhihu.com/search?q=朱雀三号)
@@ -27,6 +26,7 @@
 1. [固态电池真的那么完美吗](https://www.zhihu.com/search?q=固态电池真的那么完美吗)
 1. [A股超4900股下跌](https://www.zhihu.com/search?q=A股超4900股下跌)
 1. [LPL](https://www.zhihu.com/search?q=LPL)
+1. [诺兰《奥德赛》热映](https://www.zhihu.com/search?q=诺兰《奥德赛》热映)
 
 <!-- END -->
 

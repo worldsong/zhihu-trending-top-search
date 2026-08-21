@@ -15,21 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 21 2026 12:25:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 21 2026 13:20:25 GMT+0800 (China Standard Time) -->
 
-1. [TES战胜AL](https://www.zhihu.com/search?q=TES战胜AL)
+1. [樊振东新赛季](https://www.zhihu.com/search?q=樊振东新赛季)
 1. [美国航母帝国遭遇三重危机](https://www.zhihu.com/search?q=美国航母帝国遭遇三重危机)
 1. [朱雀三号](https://www.zhihu.com/search?q=朱雀三号)
-1. [上海申花VS北京国安](https://www.zhihu.com/search?q=上海申花VS北京国安)
 1. [胖东来回应招聘刑释人员](https://www.zhihu.com/search?q=胖东来回应招聘刑释人员)
 1. [羽毛球世锦赛](https://www.zhihu.com/search?q=羽毛球世锦赛)
 1. [EDG战胜WE](https://www.zhihu.com/search?q=EDG战胜WE)
 1. [固态电池真的那么完美吗](https://www.zhihu.com/search?q=固态电池真的那么完美吗)
 1. [A股超4900股下跌](https://www.zhihu.com/search?q=A股超4900股下跌)
 1. [LPL](https://www.zhihu.com/search?q=LPL)
+1. [诺兰《奥德赛》热映](https://www.zhihu.com/search?q=诺兰《奥德赛》热映)
+1. [TES战胜AL](https://www.zhihu.com/search?q=TES战胜AL)
+1. [上海申花VS北京国安](https://www.zhihu.com/search?q=上海申花VS北京国安)
 1. [买票占座放零食 这座位该让吗](https://www.zhihu.com/search?q=买票占座放零食
    这座位该让吗)
-1. [诺兰《奥德赛》热映](https://www.zhihu.com/search?q=诺兰《奥德赛》热映)
 1. [2026LPL第三赛段](https://www.zhihu.com/search?q=2026LPL第三赛段)
 1. [台风](https://www.zhihu.com/search?q=台风)
 1. [黑神话](https://www.zhihu.com/search?q=黑神话)

@@ -1,6 +1,8 @@
 [
-  { "query": "台风", "display_query": "台风" },
-  { "query": "黑神话", "display_query": "黑神话" },
+  {
+    "query": "买票占座放零食 这座位该让吗",
+    "display_query": "买票占座放零食 这座位该让吗"
+  },
   { "query": "朱雀三号", "display_query": "朱雀三号" },
   {
     "query": "胖东来回应招聘刑释人员",
@@ -14,5 +16,8 @@
   },
   { "query": "A股超4900股下跌", "display_query": "A股超4900股下跌" },
   { "query": "LPL", "display_query": "LPL" },
-  { "query": "诺兰《奥德赛》热映", "display_query": "诺兰《奥德赛》热映" }
+  { "query": "诺兰《奥德赛》热映", "display_query": "诺兰《奥德赛》热映" },
+  { "query": "2026LPL第三赛段", "display_query": "2026LPL第三赛段" },
+  { "query": "台风", "display_query": "台风" },
+  { "query": "黑神话", "display_query": "黑神话" }
 ]

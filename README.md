@@ -15,15 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Aug 25 2026 18:18:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Aug 25 2026 19:14:31 GMT+0800 (China Standard Time) -->
 
-1. [多名农民莫名成企业法人被贷款千万](https://www.zhihu.com/search?q=多名农民莫名成企业法人被贷款千万)
+1. [金鹰奖](https://www.zhihu.com/search?q=金鹰奖)
+1. [曼城vs伯恩茅斯](https://www.zhihu.com/search?q=曼城vs伯恩茅斯)
+1. [花开锦绣](https://www.zhihu.com/search?q=花开锦绣)
 1. [电影《牛来》反向出圈](https://www.zhihu.com/search?q=电影《牛来》反向出圈)
 1. [新规禁厨余垃圾直接喂猪](https://www.zhihu.com/search?q=新规禁厨余垃圾直接喂猪)
 1. [仲树疑似洗稿](https://www.zhihu.com/search?q=仲树疑似洗稿)
 1. [嫦娥七号近日择机发射](https://www.zhihu.com/search?q=嫦娥七号近日择机发射)
 1. [嫦娥七号器箭组合体垂直转运](https://www.zhihu.com/search?q=嫦娥七号器箭组合体垂直转运)
 1. [杭州酒局事件另一关键人物已被停职](https://www.zhihu.com/search?q=杭州酒局事件另一关键人物已被停职)
+1. [2026世界人形机器人运动会](https://www.zhihu.com/search?q=2026世界人形机器人运动会)
+1. [多名农民莫名成企业法人被贷款千万](https://www.zhihu.com/search?q=多名农民莫名成企业法人被贷款千万)
 1. [高铁无座二等座同价再引争议](https://www.zhihu.com/search?q=高铁无座二等座同价再引争议)
 1. [《姜子牙》导演新作票房预测不敌《牛来》](https://www.zhihu.com/search?q=《姜子牙》导演新作票房预测不敌《牛来》)
 1. [网购盆栽中爬出4条蛇商家回应](https://www.zhihu.com/search?q=网购盆栽中爬出4条蛇商家回应)

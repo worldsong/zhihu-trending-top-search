@@ -1,9 +1,5 @@
 [
-  {
-    "query": "宇树科技机器人拳拳到肉",
-    "display_query": "宇树科技机器人拳拳到肉"
-  },
-  { "query": "donk获EWC赛事MVP", "display_query": "donk获EWC赛事MVP" },
+  { "query": "金鹰奖", "display_query": "金鹰奖" },
   { "query": "曼城vs伯恩茅斯", "display_query": "曼城vs伯恩茅斯" },
   { "query": "花开锦绣", "display_query": "花开锦绣" },
   { "query": "电影《牛来》反向出圈", "display_query": "电影《牛来》反向出圈" },
@@ -21,11 +17,15 @@
     "query": "杭州酒局事件另一关键人物已被停职",
     "display_query": "杭州酒局事件另一关键人物已被停职"
   },
-  { "query": "金鹰奖", "display_query": "金鹰奖" },
   {
     "query": "2026世界人形机器人运动会",
     "display_query": "2026世界人形机器人运动会"
   },
+  {
+    "query": "宇树科技机器人拳拳到肉",
+    "display_query": "宇树科技机器人拳拳到肉"
+  },
+  { "query": "donk获EWC赛事MVP", "display_query": "donk获EWC赛事MVP" },
   {
     "query": "多名农民莫名成企业法人被贷款千万",
     "display_query": "多名农民莫名成企业法人被贷款千万"

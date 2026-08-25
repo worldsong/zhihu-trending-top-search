@@ -1,0 +1,24 @@
+[
+  { "query": "金鹰奖", "display_query": "金鹰奖" },
+  { "query": "曼城vs伯恩茅斯", "display_query": "曼城vs伯恩茅斯" },
+  { "query": "花开锦绣", "display_query": "花开锦绣" },
+  { "query": "电影《牛来》反向出圈", "display_query": "电影《牛来》反向出圈" },
+  {
+    "query": "新规禁厨余垃圾直接喂猪",
+    "display_query": "新规禁厨余垃圾直接喂猪"
+  },
+  { "query": "仲树疑似洗稿", "display_query": "仲树疑似洗稿" },
+  { "query": "嫦娥七号近日择机发射", "display_query": "嫦娥七号近日择机发射" },
+  {
+    "query": "嫦娥七号器箭组合体垂直转运",
+    "display_query": "嫦娥七号器箭组合体垂直转运"
+  },
+  {
+    "query": "杭州酒局事件另一关键人物已被停职",
+    "display_query": "杭州酒局事件另一关键人物已被停职"
+  },
+  {
+    "query": "2026世界人形机器人运动会",
+    "display_query": "2026世界人形机器人运动会"
+  }
+]

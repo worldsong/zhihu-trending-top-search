@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 26 2026 21:42:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 26 2026 22:31:33 GMT+0800 (China Standard Time) -->
 
 1. [心动的信号](https://www.zhihu.com/search?q=心动的信号)
 1. [金鹰奖](https://www.zhihu.com/search?q=金鹰奖)

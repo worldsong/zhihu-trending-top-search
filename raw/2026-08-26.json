@@ -1,8 +1,8 @@
 [
-  { "query": "日本学校午餐", "display_query": "日本学校午餐" },
+  { "query": "郭二娃死刑", "display_query": "郭二娃死刑" },
+  { "query": "哈兰德回应剪寸头", "display_query": "哈兰德回应剪寸头" },
   { "query": "曼城vs伯恩茅斯", "display_query": "曼城vs伯恩茅斯" },
   { "query": "花开锦绣", "display_query": "花开锦绣" },
-  { "query": "电影《牛来》反向出圈", "display_query": "电影《牛来》反向出圈" },
   {
     "query": "新规禁厨余垃圾直接喂猪",
     "display_query": "新规禁厨余垃圾直接喂猪"
@@ -21,12 +21,13 @@
     "query": "2026世界人形机器人运动会",
     "display_query": "2026世界人形机器人运动会"
   },
+  { "query": "日本学校午餐", "display_query": "日本学校午餐" },
+  { "query": "电影《牛来》反向出圈", "display_query": "电影《牛来》反向出圈" },
   { "query": "金鹰奖", "display_query": "金鹰奖" },
   {
     "query": "教育部称一年级不布置书面作业",
     "display_query": "教育部称一年级不布置书面作业"
   },
-  { "query": "哈兰德回应剪寸头", "display_query": "哈兰德回应剪寸头" },
   {
     "query": "全国累计收购小麦超9000万吨",
     "display_query": "全国累计收购小麦超9000万吨"

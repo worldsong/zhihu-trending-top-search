@@ -1,4 +1,23 @@
 [
+  { "query": "心动的信号", "display_query": "心动的信号" },
+  { "query": "金鹰奖", "display_query": "金鹰奖" },
+  { "query": "为什么乐理这么难学", "display_query": "为什么乐理这么难学" },
+  {
+    "query": "钱可以成为一个人的底气吗",
+    "display_query": "钱可以成为一个人的底气吗"
+  },
+  { "query": "什么生活常识必须知道", "display_query": "什么生活常识必须知道" },
+  {
+    "query": "如何才能永保旺盛的精力",
+    "display_query": "如何才能永保旺盛的精力"
+  },
+  { "query": "挣钱的本质", "display_query": "挣钱的本质" },
+  { "query": "经商的精髓", "display_query": "经商的精髓" },
+  { "query": "语文是在考服从性吗", "display_query": "语文是在考服从性吗" },
+  {
+    "query": "大彻大悟的人都看透了什么",
+    "display_query": "大彻大悟的人都看透了什么"
+  },
   {
     "query": "中国留学生在韩失联无出境记录",
     "display_query": "中国留学生在韩失联无出境记录"
@@ -44,7 +63,6 @@
   },
   { "query": "日本学校午餐", "display_query": "日本学校午餐" },
   { "query": "电影《牛来》反向出圈", "display_query": "电影《牛来》反向出圈" },
-  { "query": "金鹰奖", "display_query": "金鹰奖" },
   {
     "query": "教育部称一年级不布置书面作业",
     "display_query": "教育部称一年级不布置书面作业"

@@ -15,8 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 26 2026 18:21:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 26 2026 19:17:08 GMT+0800 (China Standard Time) -->
 
+1. [心动的信号](https://www.zhihu.com/search?q=心动的信号)
+1. [金鹰奖](https://www.zhihu.com/search?q=金鹰奖)
+1. [为什么乐理这么难学](https://www.zhihu.com/search?q=为什么乐理这么难学)
+1. [钱可以成为一个人的底气吗](https://www.zhihu.com/search?q=钱可以成为一个人的底气吗)
+1. [什么生活常识必须知道](https://www.zhihu.com/search?q=什么生活常识必须知道)
+1. [如何才能永保旺盛的精力](https://www.zhihu.com/search?q=如何才能永保旺盛的精力)
+1. [挣钱的本质](https://www.zhihu.com/search?q=挣钱的本质)
+1. [经商的精髓](https://www.zhihu.com/search?q=经商的精髓)
+1. [语文是在考服从性吗](https://www.zhihu.com/search?q=语文是在考服从性吗)
+1. [大彻大悟的人都看透了什么](https://www.zhihu.com/search?q=大彻大悟的人都看透了什么)
 1. [中国留学生在韩失联无出境记录](https://www.zhihu.com/search?q=中国留学生在韩失联无出境记录)
 1. [新规禁厨余垃圾直接喂猪](https://www.zhihu.com/search?q=新规禁厨余垃圾直接喂猪)
 1. [仲树疑似洗稿](https://www.zhihu.com/search?q=仲树疑似洗稿)
@@ -36,7 +46,6 @@
 1. [2026世界人形机器人运动会](https://www.zhihu.com/search?q=2026世界人形机器人运动会)
 1. [日本学校午餐](https://www.zhihu.com/search?q=日本学校午餐)
 1. [电影《牛来》反向出圈](https://www.zhihu.com/search?q=电影《牛来》反向出圈)
-1. [金鹰奖](https://www.zhihu.com/search?q=金鹰奖)
 1. [教育部称一年级不布置书面作业](https://www.zhihu.com/search?q=教育部称一年级不布置书面作业)
 1. [全国累计收购小麦超9000万吨](https://www.zhihu.com/search?q=全国累计收购小麦超9000万吨)
 1. [郑钦文vs尤晓迪](https://www.zhihu.com/search?q=郑钦文vs尤晓迪)

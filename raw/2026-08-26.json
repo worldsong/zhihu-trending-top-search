@@ -1,8 +1,7 @@
 [
-  { "query": "哈兰德回应剪寸头", "display_query": "哈兰德回应剪寸头" },
   {
-    "query": "全国累计收购小麦超9000万吨",
-    "display_query": "全国累计收购小麦超9000万吨"
+    "query": "教育部称一年级不布置书面作业",
+    "display_query": "教育部称一年级不布置书面作业"
   },
   { "query": "曼城vs伯恩茅斯", "display_query": "曼城vs伯恩茅斯" },
   { "query": "花开锦绣", "display_query": "花开锦绣" },
@@ -21,10 +20,15 @@
     "query": "杭州酒局事件另一关键人物已被停职",
     "display_query": "杭州酒局事件另一关键人物已被停职"
   },
-  { "query": "金鹰奖", "display_query": "金鹰奖" },
   {
     "query": "2026世界人形机器人运动会",
     "display_query": "2026世界人形机器人运动会"
   },
+  { "query": "哈兰德回应剪寸头", "display_query": "哈兰德回应剪寸头" },
+  {
+    "query": "全国累计收购小麦超9000万吨",
+    "display_query": "全国累计收购小麦超9000万吨"
+  },
+  { "query": "金鹰奖", "display_query": "金鹰奖" },
   { "query": "郑钦文vs尤晓迪", "display_query": "郑钦文vs尤晓迪" }
 ]

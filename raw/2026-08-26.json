@@ -1,8 +1,8 @@
 [
-  { "query": "郭二娃死刑", "display_query": "郭二娃死刑" },
-  { "query": "哈兰德回应剪寸头", "display_query": "哈兰德回应剪寸头" },
-  { "query": "曼城vs伯恩茅斯", "display_query": "曼城vs伯恩茅斯" },
-  { "query": "花开锦绣", "display_query": "花开锦绣" },
+  {
+    "query": "中国留学生在韩失联无出境记录",
+    "display_query": "中国留学生在韩失联无出境记录"
+  },
   {
     "query": "新规禁厨余垃圾直接喂猪",
     "display_query": "新规禁厨余垃圾直接喂猪"
@@ -13,6 +13,27 @@
     "query": "嫦娥七号器箭组合体垂直转运",
     "display_query": "嫦娥七号器箭组合体垂直转运"
   },
+  {
+    "query": "刘翔向网友求助职场选择",
+    "display_query": "刘翔向网友求助职场选择"
+  },
+  { "query": "2026 科隆游戏展", "display_query": "2026 科隆游戏展" },
+  {
+    "query": "中秋国庆请3天假休13天",
+    "display_query": "中秋国庆请3天假休13天"
+  },
+  {
+    "query": "《昭和米国物语》实机预告亮相科隆",
+    "display_query": "《昭和米国物语》实机预告亮相科隆"
+  },
+  {
+    "query": "200 块的鉴宝费用惹争议",
+    "display_query": "200 块的鉴宝费用惹争议"
+  },
+  { "query": "郭二娃死刑", "display_query": "郭二娃死刑" },
+  { "query": "哈兰德回应剪寸头", "display_query": "哈兰德回应剪寸头" },
+  { "query": "曼城vs伯恩茅斯", "display_query": "曼城vs伯恩茅斯" },
+  { "query": "花开锦绣", "display_query": "花开锦绣" },
   {
     "query": "杭州酒局事件另一关键人物已被停职",
     "display_query": "杭州酒局事件另一关键人物已被停职"

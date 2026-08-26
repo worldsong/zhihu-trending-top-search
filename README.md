@@ -15,16 +15,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Aug 26 2026 17:27:11 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Aug 26 2026 18:21:19 GMT+0800 (China Standard Time) -->
 
-1. [郭二娃死刑](https://www.zhihu.com/search?q=郭二娃死刑)
-1. [哈兰德回应剪寸头](https://www.zhihu.com/search?q=哈兰德回应剪寸头)
-1. [曼城vs伯恩茅斯](https://www.zhihu.com/search?q=曼城vs伯恩茅斯)
-1. [花开锦绣](https://www.zhihu.com/search?q=花开锦绣)
+1. [中国留学生在韩失联无出境记录](https://www.zhihu.com/search?q=中国留学生在韩失联无出境记录)
 1. [新规禁厨余垃圾直接喂猪](https://www.zhihu.com/search?q=新规禁厨余垃圾直接喂猪)
 1. [仲树疑似洗稿](https://www.zhihu.com/search?q=仲树疑似洗稿)
 1. [嫦娥七号近日择机发射](https://www.zhihu.com/search?q=嫦娥七号近日择机发射)
 1. [嫦娥七号器箭组合体垂直转运](https://www.zhihu.com/search?q=嫦娥七号器箭组合体垂直转运)
+1. [刘翔向网友求助职场选择](https://www.zhihu.com/search?q=刘翔向网友求助职场选择)
+1. [2026 科隆游戏展](https://www.zhihu.com/search?q=2026 科隆游戏展)
+1. [中秋国庆请3天假休13天](https://www.zhihu.com/search?q=中秋国庆请3天假休13天)
+1. [《昭和米国物语》实机预告亮相科隆](https://www.zhihu.com/search?q=《昭和米国物语》实机预告亮相科隆)
+1. [200 块的鉴宝费用惹争议](https://www.zhihu.com/search?q=200
+   块的鉴宝费用惹争议)
+1. [郭二娃死刑](https://www.zhihu.com/search?q=郭二娃死刑)
+1. [哈兰德回应剪寸头](https://www.zhihu.com/search?q=哈兰德回应剪寸头)
+1. [曼城vs伯恩茅斯](https://www.zhihu.com/search?q=曼城vs伯恩茅斯)
+1. [花开锦绣](https://www.zhihu.com/search?q=花开锦绣)
 1. [杭州酒局事件另一关键人物已被停职](https://www.zhihu.com/search?q=杭州酒局事件另一关键人物已被停职)
 1. [2026世界人形机器人运动会](https://www.zhihu.com/search?q=2026世界人形机器人运动会)
 1. [日本学校午餐](https://www.zhihu.com/search?q=日本学校午餐)

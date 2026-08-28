@@ -15,18 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 27 2026 10:19:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Aug 29 2026 03:40:23 GMT+0800 (China Standard Time) -->
 
-1. [心动的信号](https://www.zhihu.com/search?q=心动的信号)
-1. [金鹰奖](https://www.zhihu.com/search?q=金鹰奖)
-1. [为什么乐理这么难学](https://www.zhihu.com/search?q=为什么乐理这么难学)
-1. [钱可以成为一个人的底气吗](https://www.zhihu.com/search?q=钱可以成为一个人的底气吗)
-1. [什么生活常识必须知道](https://www.zhihu.com/search?q=什么生活常识必须知道)
-1. [如何才能永保旺盛的精力](https://www.zhihu.com/search?q=如何才能永保旺盛的精力)
-1. [挣钱的本质](https://www.zhihu.com/search?q=挣钱的本质)
-1. [经商的精髓](https://www.zhihu.com/search?q=经商的精髓)
-1. [语文是在考服从性吗](https://www.zhihu.com/search?q=语文是在考服从性吗)
-1. [大彻大悟的人都看透了什么](https://www.zhihu.com/search?q=大彻大悟的人都看透了什么)
+1. [台风](https://www.zhihu.com/search?q=台风)
+1. [欧冠联赛](https://www.zhihu.com/search?q=欧冠联赛)
+1. [GTA6](https://www.zhihu.com/search?q=GTA6)
+1. [油价](https://www.zhihu.com/search?q=油价)
+1. [欧冠抽签](https://www.zhihu.com/search?q=欧冠抽签)
+1. [李阳疯狂英语为什么没落了](https://www.zhihu.com/search?q=李阳疯狂英语为什么没落了)
+1. [中国男篮加油](https://www.zhihu.com/search?q=中国男篮加油)
+1. [前华为天才少年李博杰吐槽 DeepSeek
+   面试](https://www.zhihu.com/search?q=前华为天才少年李博杰吐槽 DeepSeek 面试)
+1. [网红小家电集体吃灰](https://www.zhihu.com/search?q=网红小家电集体吃灰)
+1. [恒大集团被罚88.2亿元](https://www.zhihu.com/search?q=恒大集团被罚88.2亿元)
 
 <!-- END -->
 

@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Aug 29 2026 22:44:01 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 30 2026 01:57:24 GMT+0800 (China Standard Time) -->
 
 1. [台风](https://www.zhihu.com/search?q=台风)
 1. [欧冠联赛](https://www.zhihu.com/search?q=欧冠联赛)
@@ -28,12 +28,6 @@
    面试](https://www.zhihu.com/search?q=前华为天才少年李博杰吐槽 DeepSeek 面试)
 1. [网红小家电集体吃灰](https://www.zhihu.com/search?q=网红小家电集体吃灰)
 1. [《黑神话：钟馗》发布实机演示视频](https://www.zhihu.com/search?q=《黑神话：钟馗》发布实机演示视频)
-1. [英伟达市值暴增2.97万亿元](https://www.zhihu.com/search?q=英伟达市值暴增2.97万亿元)
-1. [我国首次实现地月双向高速激光通信](https://www.zhihu.com/search?q=我国首次实现地月双向高速激光通信)
-1. [王小川炮轰孙宇晨](https://www.zhihu.com/search?q=王小川炮轰孙宇晨)
-1. [GTA6实机预告](https://www.zhihu.com/search?q=GTA6实机预告)
-1. [未定事件簿德芙合作取消](https://www.zhihu.com/search?q=未定事件簿德芙合作取消)
-1. [恒大集团被罚88.2亿元](https://www.zhihu.com/search?q=恒大集团被罚88.2亿元)
 
 <!-- END -->
 

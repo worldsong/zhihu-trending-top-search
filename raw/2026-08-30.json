@@ -1,0 +1,21 @@
+[
+  { "query": "台风", "display_query": "台风" },
+  { "query": "欧冠联赛", "display_query": "欧冠联赛" },
+  { "query": "GTA6", "display_query": "GTA6" },
+  { "query": "油价", "display_query": "油价" },
+  { "query": "欧冠抽签", "display_query": "欧冠抽签" },
+  {
+    "query": "李阳疯狂英语为什么没落了",
+    "display_query": "李阳疯狂英语为什么没落了"
+  },
+  { "query": "中国男篮加油", "display_query": "中国男篮加油" },
+  {
+    "query": "前华为天才少年李博杰吐槽 DeepSeek 面试",
+    "display_query": "前华为天才少年李博杰吐槽 DeepSeek 面试"
+  },
+  { "query": "网红小家电集体吃灰", "display_query": "网红小家电集体吃灰" },
+  {
+    "query": "《黑神话：钟馗》发布实机演示视频",
+    "display_query": "《黑神话：钟馗》发布实机演示视频"
+  }
+]

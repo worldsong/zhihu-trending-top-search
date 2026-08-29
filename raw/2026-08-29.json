@@ -1,6 +1,9 @@
 [
-  { "query": "台风", "display_query": "台风" },
-  { "query": "欧冠联赛", "display_query": "欧冠联赛" },
+  { "query": "GTA6实机预告", "display_query": "GTA6实机预告" },
+  {
+    "query": "未定事件簿德芙合作取消",
+    "display_query": "未定事件簿德芙合作取消"
+  },
   { "query": "GTA6", "display_query": "GTA6" },
   { "query": "油价", "display_query": "油价" },
   { "query": "欧冠抽签", "display_query": "欧冠抽签" },
@@ -14,5 +17,7 @@
     "display_query": "前华为天才少年李博杰吐槽 DeepSeek 面试"
   },
   { "query": "网红小家电集体吃灰", "display_query": "网红小家电集体吃灰" },
-  { "query": "恒大集团被罚88.2亿元", "display_query": "恒大集团被罚88.2亿元" }
+  { "query": "恒大集团被罚88.2亿元", "display_query": "恒大集团被罚88.2亿元" },
+  { "query": "台风", "display_query": "台风" },
+  { "query": "欧冠联赛", "display_query": "欧冠联赛" }
 ]

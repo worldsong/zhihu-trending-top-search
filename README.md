@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 31 2026 02:52:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Aug 31 2026 05:41:38 GMT+0800 (China Standard Time) -->
 
 1. [台风](https://www.zhihu.com/search?q=台风)
 1. [欧冠联赛](https://www.zhihu.com/search?q=欧冠联赛)

@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Aug 30 2026 19:17:59 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Aug 30 2026 23:34:28 GMT+0800 (China Standard Time) -->
 
 1. [台风](https://www.zhihu.com/search?q=台风)
 1. [欧冠联赛](https://www.zhihu.com/search?q=欧冠联赛)
@@ -27,6 +27,7 @@
 1. [前华为天才少年李博杰吐槽 DeepSeek
    面试](https://www.zhihu.com/search?q=前华为天才少年李博杰吐槽 DeepSeek 面试)
 1. [台风沙德尔](https://www.zhihu.com/search?q=台风沙德尔)
+1. [出发吧！看山](https://www.zhihu.com/search?q=出发吧！看山)
 1. [甲醛白菜被运往江苏安徽多地](https://www.zhihu.com/search?q=甲醛白菜被运往江苏安徽多地)
 1. [网红小家电集体吃灰](https://www.zhihu.com/search?q=网红小家电集体吃灰)
 1. [《黑神话：钟馗》发布实机演示视频](https://www.zhihu.com/search?q=《黑神话：钟馗》发布实机演示视频)

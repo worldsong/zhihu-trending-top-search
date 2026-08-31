@@ -1,4 +1,35 @@
 [
+  { "query": "出发吧！看山", "display_query": "出发吧！看山" },
+  {
+    "query": "官方通报星宇股份批量劝退应届生",
+    "display_query": "官方通报星宇股份批量劝退应届生"
+  },
+  { "query": "2026 科隆游戏展", "display_query": "2026 科隆游戏展" },
+  {
+    "query": "刘翔向网友求助职场选择",
+    "display_query": "刘翔向网友求助职场选择"
+  },
+  {
+    "query": "星宇股份劝退应届生补偿方案",
+    "display_query": "星宇股份劝退应届生补偿方案"
+  },
+  {
+    "query": "星宇股份应届生离职打螺丝二选一",
+    "display_query": "星宇股份应届生离职打螺丝二选一"
+  },
+  {
+    "query": "星宇股份裁应届生疑被告到欧盟",
+    "display_query": "星宇股份裁应届生疑被告到欧盟"
+  },
+  {
+    "query": "浙江省博将「勾践」写成「句践」",
+    "display_query": "浙江省博将「勾践」写成「句践」"
+  },
+  { "query": "孙宇晨起诉景甜", "display_query": "孙宇晨起诉景甜" },
+  {
+    "query": "Claude 不要把五千万美元给她",
+    "display_query": "Claude 不要把五千万美元给她"
+  },
   {
     "query": "一汽与零跑深化战略合作",
     "display_query": "一汽与零跑深化战略合作"
@@ -16,7 +47,6 @@
     "display_query": "前华为天才少年李博杰吐槽 DeepSeek 面试"
   },
   { "query": "台风沙德尔", "display_query": "台风沙德尔" },
-  { "query": "出发吧！看山", "display_query": "出发吧！看山" },
   { "query": "deepseek再度调价", "display_query": "deepseek再度调价" },
   { "query": "台风", "display_query": "台风" },
   { "query": "欧冠联赛", "display_query": "欧冠联赛" }

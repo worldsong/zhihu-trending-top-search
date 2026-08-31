@@ -15,31 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Aug 31 2026 18:09:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 01 2026 01:44:06 GMT+0800 (China Standard Time) -->
 
-1. [出发吧！看山](https://www.zhihu.com/search?q=出发吧！看山)
-1. [官方通报星宇股份批量劝退应届生](https://www.zhihu.com/search?q=官方通报星宇股份批量劝退应届生)
-1. [2026 科隆游戏展](https://www.zhihu.com/search?q=2026 科隆游戏展)
-1. [刘翔向网友求助职场选择](https://www.zhihu.com/search?q=刘翔向网友求助职场选择)
-1. [星宇股份劝退应届生补偿方案](https://www.zhihu.com/search?q=星宇股份劝退应届生补偿方案)
-1. [星宇股份应届生离职打螺丝二选一](https://www.zhihu.com/search?q=星宇股份应届生离职打螺丝二选一)
-1. [星宇股份裁应届生疑被告到欧盟](https://www.zhihu.com/search?q=星宇股份裁应届生疑被告到欧盟)
-1. [浙江省博将「勾践」写成「句践」](https://www.zhihu.com/search?q=浙江省博将「勾践」写成「句践」)
-1. [孙宇晨起诉景甜](https://www.zhihu.com/search?q=孙宇晨起诉景甜)
-1. [Claude 不要把五千万美元给她](https://www.zhihu.com/search?q=Claude
-   不要把五千万美元给她)
-1. [一汽与零跑深化战略合作](https://www.zhihu.com/search?q=一汽与零跑深化战略合作)
-1. [GTA6](https://www.zhihu.com/search?q=GTA6)
-1. [油价](https://www.zhihu.com/search?q=油价)
+1. [gta6](https://www.zhihu.com/search?q=gta6)
+1. [CPA战略](https://www.zhihu.com/search?q=CPA战略)
 1. [欧冠抽签](https://www.zhihu.com/search?q=欧冠抽签)
-1. [李阳疯狂英语为什么没落了](https://www.zhihu.com/search?q=李阳疯狂英语为什么没落了)
-1. [中国男篮加油](https://www.zhihu.com/search?q=中国男篮加油)
-1. [前华为天才少年李博杰吐槽 DeepSeek
-   面试](https://www.zhihu.com/search?q=前华为天才少年李博杰吐槽 DeepSeek 面试)
-1. [台风沙德尔](https://www.zhihu.com/search?q=台风沙德尔)
-1. [deepseek再度调价](https://www.zhihu.com/search?q=deepseek再度调价)
-1. [台风](https://www.zhihu.com/search?q=台风)
-1. [欧冠联赛](https://www.zhihu.com/search?q=欧冠联赛)
+1. [巴萨vs巴列卡诺](https://www.zhihu.com/search?q=巴萨vs巴列卡诺)
+1. [西甲联赛](https://www.zhihu.com/search?q=西甲联赛)
+1. [DK对战KT](https://www.zhihu.com/search?q=DK对战KT)
+1. [姆巴佩破门](https://www.zhihu.com/search?q=姆巴佩破门)
+1. [黄金](https://www.zhihu.com/search?q=黄金)
+1. [JDG对战WE](https://www.zhihu.com/search?q=JDG对战WE)
+1. [空枪](https://www.zhihu.com/search?q=空枪)
 
 <!-- END -->
 

@@ -1,12 +1,5 @@
 [
-  {
-    "query": "G联盟联队战胜上海久事大鲨鱼",
-    "display_query": "G联盟联队战胜上海久事大鲨鱼"
-  },
-  {
-    "query": "如何保持较长时间的精力",
-    "display_query": "如何保持较长时间的精力"
-  },
+  { "query": "gta6", "display_query": "gta6" },
   { "query": "CPA战略", "display_query": "CPA战略" },
   { "query": "欧冠抽签", "display_query": "欧冠抽签" },
   { "query": "巴萨vs巴列卡诺", "display_query": "巴萨vs巴列卡诺" },
@@ -15,6 +8,13 @@
   { "query": "姆巴佩破门", "display_query": "姆巴佩破门" },
   { "query": "黄金", "display_query": "黄金" },
   { "query": "JDG对战WE", "display_query": "JDG对战WE" },
-  { "query": "gta6", "display_query": "gta6" },
-  { "query": "空枪", "display_query": "空枪" }
+  { "query": "空枪", "display_query": "空枪" },
+  {
+    "query": "G联盟联队战胜上海久事大鲨鱼",
+    "display_query": "G联盟联队战胜上海久事大鲨鱼"
+  },
+  {
+    "query": "如何保持较长时间的精力",
+    "display_query": "如何保持较长时间的精力"
+  }
 ]

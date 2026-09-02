@@ -1,5 +1,23 @@
 [
+  {
+    "query": "中方与尼方保持着顺畅沟通",
+    "display_query": "中方与尼方保持着顺畅沟通"
+  },
+  {
+    "query": "淘宝五金冠女装老店突然闭店",
+    "display_query": "淘宝五金冠女装老店突然闭店"
+  },
+  { "query": "亚运会", "display_query": "亚运会" },
+  { "query": "山东泰山vs上海海港", "display_query": "山东泰山vs上海海港" },
+  { "query": "LPL", "display_query": "LPL" },
+  { "query": "足协杯", "display_query": "足协杯" },
+  {
+    "query": "Manus宣布恢复独立运营",
+    "display_query": "Manus宣布恢复独立运营"
+  },
   { "query": "出发吧！看山", "display_query": "出发吧！看山" },
+  { "query": "开学第一课", "display_query": "开学第一课" },
+  { "query": "孙宇晨起诉景甜", "display_query": "孙宇晨起诉景甜" },
   {
     "query": "刘翔向网友求助职场选择",
     "display_query": "刘翔向网友求助职场选择"
@@ -8,7 +26,6 @@
     "query": "星宇股份裁应届生疑被告到欧盟",
     "display_query": "星宇股份裁应届生疑被告到欧盟"
   },
-  { "query": "孙宇晨起诉景甜", "display_query": "孙宇晨起诉景甜" },
   {
     "query": "Claude 不要把五千万美元给她",
     "display_query": "Claude 不要把五千万美元给她"

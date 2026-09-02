@@ -15,12 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 02 2026 18:02:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 02 2026 22:45:52 GMT+0800 (China Standard Time) -->
 
+1. [中方与尼方保持着顺畅沟通](https://www.zhihu.com/search?q=中方与尼方保持着顺畅沟通)
+1. [淘宝五金冠女装老店突然闭店](https://www.zhihu.com/search?q=淘宝五金冠女装老店突然闭店)
+1. [亚运会](https://www.zhihu.com/search?q=亚运会)
+1. [山东泰山vs上海海港](https://www.zhihu.com/search?q=山东泰山vs上海海港)
+1. [LPL](https://www.zhihu.com/search?q=LPL)
+1. [足协杯](https://www.zhihu.com/search?q=足协杯)
+1. [Manus宣布恢复独立运营](https://www.zhihu.com/search?q=Manus宣布恢复独立运营)
 1. [出发吧！看山](https://www.zhihu.com/search?q=出发吧！看山)
+1. [开学第一课](https://www.zhihu.com/search?q=开学第一课)
+1. [孙宇晨起诉景甜](https://www.zhihu.com/search?q=孙宇晨起诉景甜)
 1. [刘翔向网友求助职场选择](https://www.zhihu.com/search?q=刘翔向网友求助职场选择)
 1. [星宇股份裁应届生疑被告到欧盟](https://www.zhihu.com/search?q=星宇股份裁应届生疑被告到欧盟)
-1. [孙宇晨起诉景甜](https://www.zhihu.com/search?q=孙宇晨起诉景甜)
 1. [Claude 不要把五千万美元给她](https://www.zhihu.com/search?q=Claude
    不要把五千万美元给她)
 1. [孙宇晨](https://www.zhihu.com/search?q=孙宇晨)

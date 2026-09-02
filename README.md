@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 03 2026 05:23:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 03 2026 07:38:26 GMT+0800 (China Standard Time) -->
 
 1. [开学第一课](https://www.zhihu.com/search?q=开学第一课)
 1. [亚运会](https://www.zhihu.com/search?q=亚运会)

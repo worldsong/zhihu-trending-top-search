@@ -1,4 +1,26 @@
 [
+  { "query": "出发吧！看山", "display_query": "出发吧！看山" },
+  {
+    "query": "刘翔向网友求助职场选择",
+    "display_query": "刘翔向网友求助职场选择"
+  },
+  {
+    "query": "星宇股份裁应届生疑被告到欧盟",
+    "display_query": "星宇股份裁应届生疑被告到欧盟"
+  },
+  { "query": "孙宇晨起诉景甜", "display_query": "孙宇晨起诉景甜" },
+  {
+    "query": "Claude 不要把五千万美元给她",
+    "display_query": "Claude 不要把五千万美元给她"
+  },
+  { "query": "孙宇晨", "display_query": "孙宇晨" },
+  { "query": "景甜回应被起诉", "display_query": "景甜回应被起诉" },
+  { "query": "景甜回应", "display_query": "景甜回应" },
+  { "query": "景甜 张继科", "display_query": "景甜 张继科" },
+  {
+    "query": "奔驰、宝马发布短片讽刺速成车",
+    "display_query": "奔驰、宝马发布短片讽刺速成车"
+  },
   {
     "query": "男篮世亚预F组最新排名",
     "display_query": "男篮世亚预F组最新排名"
@@ -11,15 +33,6 @@
   {
     "query": "有哪些道理越早知道越好",
     "display_query": "有哪些道理越早知道越好"
-  },
-  { "query": "出发吧！看山", "display_query": "出发吧！看山" },
-  {
-    "query": "刘翔向网友求助职场选择",
-    "display_query": "刘翔向网友求助职场选择"
-  },
-  {
-    "query": "星宇股份裁应届生疑被告到欧盟",
-    "display_query": "星宇股份裁应届生疑被告到欧盟"
   },
   { "query": "开学第一天", "display_query": "开学第一天" },
   { "query": "郑钦文赛后采访", "display_query": "郑钦文赛后采访" },

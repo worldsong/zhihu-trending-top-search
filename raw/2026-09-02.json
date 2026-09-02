@@ -1,6 +1,9 @@
 [
-  { "query": "开学第一天", "display_query": "开学第一天" },
-  { "query": "郑钦文赛后采访", "display_query": "郑钦文赛后采访" },
+  {
+    "query": "男篮世亚预F组最新排名",
+    "display_query": "男篮世亚预F组最新排名"
+  },
+  { "query": "8月个股中位数涨超6%", "display_query": "8月个股中位数涨超6%" },
   { "query": "开学快乐", "display_query": "开学快乐" },
   { "query": "男篮世预赛", "display_query": "男篮世预赛" },
   { "query": "王鸥 何九华", "display_query": "王鸥 何九华" },
@@ -18,6 +21,8 @@
     "query": "星宇股份裁应届生疑被告到欧盟",
     "display_query": "星宇股份裁应届生疑被告到欧盟"
   },
+  { "query": "开学第一天", "display_query": "开学第一天" },
+  { "query": "郑钦文赛后采访", "display_query": "郑钦文赛后采访" },
   {
     "query": "官方通报星宇股份批量劝退应届生",
     "display_query": "官方通报星宇股份批量劝退应届生"

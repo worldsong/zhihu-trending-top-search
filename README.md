@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 03 2026 07:38:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 03 2026 09:42:30 GMT+0800 (China Standard Time) -->
 
-1. [开学第一课](https://www.zhihu.com/search?q=开学第一课)
+1. [中国羽毛球大师赛](https://www.zhihu.com/search?q=中国羽毛球大师赛)
+1. [宇树否认「只有罚无奖」机制](https://www.zhihu.com/search?q=宇树否认「只有罚无奖」机制)
 1. [亚运会](https://www.zhihu.com/search?q=亚运会)
 1. [山东泰山vs上海海港](https://www.zhihu.com/search?q=山东泰山vs上海海港)
 1. [LPL](https://www.zhihu.com/search?q=LPL)
@@ -25,6 +26,7 @@
 1. [Manus宣布恢复独立运营](https://www.zhihu.com/search?q=Manus宣布恢复独立运营)
 1. [出发吧！看山](https://www.zhihu.com/search?q=出发吧！看山)
 1. [刘翔向网友求助职场选择](https://www.zhihu.com/search?q=刘翔向网友求助职场选择)
+1. [开学第一课](https://www.zhihu.com/search?q=开学第一课)
 1. [星宇股份裁应届生疑被告到欧盟](https://www.zhihu.com/search?q=星宇股份裁应届生疑被告到欧盟)
 1. [孙宇晨起诉景甜](https://www.zhihu.com/search?q=孙宇晨起诉景甜)
 

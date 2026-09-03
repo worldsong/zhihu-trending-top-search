@@ -15,16 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Sep 03 2026 14:34:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 03 2026 23:19:51 GMT+0800 (China Standard Time) -->
 
-1. [开学第一课](https://www.zhihu.com/search?q=开学第一课)
-1. [亚运会](https://www.zhihu.com/search?q=亚运会)
 1. [淘宝崩了](https://www.zhihu.com/search?q=淘宝崩了)
-1. [山东泰山vs上海海港](https://www.zhihu.com/search?q=山东泰山vs上海海港)
+1. [HLE对战T1](https://www.zhihu.com/search?q=HLE对战T1)
 1. [LPL](https://www.zhihu.com/search?q=LPL)
-1. [足协杯](https://www.zhihu.com/search?q=足协杯)
 1. [Manus宣布恢复独立运营](https://www.zhihu.com/search?q=Manus宣布恢复独立运营)
 1. [出发吧！看山](https://www.zhihu.com/search?q=出发吧！看山)
+1. [小米18Fold](https://www.zhihu.com/search?q=小米18Fold)
+1. [2026女排亚锦赛](https://www.zhihu.com/search?q=2026女排亚锦赛)
+1. [官方通报星宇股份批量劝退应届生](https://www.zhihu.com/search?q=官方通报星宇股份批量劝退应届生)
+1. [星宇股份劝退应届生补偿方案](https://www.zhihu.com/search?q=星宇股份劝退应届生补偿方案)
+1. [星宇股份应届生离职打螺丝二选一](https://www.zhihu.com/search?q=星宇股份应届生离职打螺丝二选一)
+1. [开学第一课](https://www.zhihu.com/search?q=开学第一课)
+1. [亚运会](https://www.zhihu.com/search?q=亚运会)
+1. [山东泰山vs上海海港](https://www.zhihu.com/search?q=山东泰山vs上海海港)
+1. [足协杯](https://www.zhihu.com/search?q=足协杯)
 1. [刘翔向网友求助职场选择](https://www.zhihu.com/search?q=刘翔向网友求助职场选择)
 1. [星宇股份裁应届生疑被告到欧盟](https://www.zhihu.com/search?q=星宇股份裁应届生疑被告到欧盟)
 1. [中国羽毛球大师赛](https://www.zhihu.com/search?q=中国羽毛球大师赛)

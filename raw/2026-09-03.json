@@ -1,15 +1,30 @@
 [
-  { "query": "开学第一课", "display_query": "开学第一课" },
-  { "query": "亚运会", "display_query": "亚运会" },
   { "query": "淘宝崩了", "display_query": "淘宝崩了" },
-  { "query": "山东泰山vs上海海港", "display_query": "山东泰山vs上海海港" },
+  { "query": "HLE对战T1", "display_query": "HLE对战T1" },
   { "query": "LPL", "display_query": "LPL" },
-  { "query": "足协杯", "display_query": "足协杯" },
   {
     "query": "Manus宣布恢复独立运营",
     "display_query": "Manus宣布恢复独立运营"
   },
   { "query": "出发吧！看山", "display_query": "出发吧！看山" },
+  { "query": "小米18Fold", "display_query": "小米18Fold" },
+  { "query": "2026女排亚锦赛", "display_query": "2026女排亚锦赛" },
+  {
+    "query": "官方通报星宇股份批量劝退应届生",
+    "display_query": "官方通报星宇股份批量劝退应届生"
+  },
+  {
+    "query": "星宇股份劝退应届生补偿方案",
+    "display_query": "星宇股份劝退应届生补偿方案"
+  },
+  {
+    "query": "星宇股份应届生离职打螺丝二选一",
+    "display_query": "星宇股份应届生离职打螺丝二选一"
+  },
+  { "query": "开学第一课", "display_query": "开学第一课" },
+  { "query": "亚运会", "display_query": "亚运会" },
+  { "query": "山东泰山vs上海海港", "display_query": "山东泰山vs上海海港" },
+  { "query": "足协杯", "display_query": "足协杯" },
   {
     "query": "刘翔向网友求助职场选择",
     "display_query": "刘翔向网友求助职场选择"

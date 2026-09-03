@@ -1,10 +1,7 @@
 [
-  { "query": "中国羽毛球大师赛", "display_query": "中国羽毛球大师赛" },
-  {
-    "query": "宇树否认「只有罚无奖」机制",
-    "display_query": "宇树否认「只有罚无奖」机制"
-  },
+  { "query": "开学第一课", "display_query": "开学第一课" },
   { "query": "亚运会", "display_query": "亚运会" },
+  { "query": "淘宝崩了", "display_query": "淘宝崩了" },
   { "query": "山东泰山vs上海海港", "display_query": "山东泰山vs上海海港" },
   { "query": "LPL", "display_query": "LPL" },
   { "query": "足协杯", "display_query": "足协杯" },
@@ -17,10 +14,14 @@
     "query": "刘翔向网友求助职场选择",
     "display_query": "刘翔向网友求助职场选择"
   },
-  { "query": "开学第一课", "display_query": "开学第一课" },
   {
     "query": "星宇股份裁应届生疑被告到欧盟",
     "display_query": "星宇股份裁应届生疑被告到欧盟"
+  },
+  { "query": "中国羽毛球大师赛", "display_query": "中国羽毛球大师赛" },
+  {
+    "query": "宇树否认「只有罚无奖」机制",
+    "display_query": "宇树否认「只有罚无奖」机制"
   },
   { "query": "孙宇晨起诉景甜", "display_query": "孙宇晨起诉景甜" }
 ]

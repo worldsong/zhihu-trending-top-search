@@ -1,4 +1,20 @@
 [
+  { "query": "淘宝崩了", "display_query": "淘宝崩了" },
+  { "query": "郑钦文vs凯斯", "display_query": "郑钦文vs凯斯" },
+  { "query": "ChatGPT崩了", "display_query": "ChatGPT崩了" },
+  { "query": "BLG战胜WE", "display_query": "BLG战胜WE" },
+  { "query": "出发吧！看山", "display_query": "出发吧！看山" },
+  {
+    "query": "刘翔向网友求助职场选择",
+    "display_query": "刘翔向网友求助职场选择"
+  },
+  { "query": "孙宇晨起诉景甜", "display_query": "孙宇晨起诉景甜" },
+  {
+    "query": "Claude 不要把五千万美元给她",
+    "display_query": "Claude 不要把五千万美元给她"
+  },
+  { "query": "孙宇晨", "display_query": "孙宇晨" },
+  { "query": "景甜回应被起诉", "display_query": "景甜回应被起诉" },
   { "query": "“梅姨”被公诉", "display_query": "“梅姨”被公诉" },
   {
     "query": "宁静透露《花少 2》细节",
@@ -10,7 +26,6 @@
     "query": "Manus宣布恢复独立运营",
     "display_query": "Manus宣布恢复独立运营"
   },
-  { "query": "出发吧！看山", "display_query": "出发吧！看山" },
   { "query": "2026女排亚锦赛", "display_query": "2026女排亚锦赛" },
   {
     "query": "官方通报星宇股份批量劝退应届生",
@@ -24,6 +39,5 @@
     "query": "星宇股份应届生离职打螺丝二选一",
     "display_query": "星宇股份应届生离职打螺丝二选一"
   },
-  { "query": "淘宝崩了", "display_query": "淘宝崩了" },
   { "query": "小米18Fold", "display_query": "小米18Fold" }
 ]

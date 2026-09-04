@@ -1,5 +1,9 @@
 [
-  { "query": "淘宝崩了", "display_query": "淘宝崩了" },
+  { "query": "“梅姨”被公诉", "display_query": "“梅姨”被公诉" },
+  {
+    "query": "宁静透露《花少 2》细节",
+    "display_query": "宁静透露《花少 2》细节"
+  },
   { "query": "HLE对战T1", "display_query": "HLE对战T1" },
   { "query": "LPL", "display_query": "LPL" },
   {
@@ -7,7 +11,6 @@
     "display_query": "Manus宣布恢复独立运营"
   },
   { "query": "出发吧！看山", "display_query": "出发吧！看山" },
-  { "query": "小米18Fold", "display_query": "小米18Fold" },
   { "query": "2026女排亚锦赛", "display_query": "2026女排亚锦赛" },
   {
     "query": "官方通报星宇股份批量劝退应届生",
@@ -20,5 +23,7 @@
   {
     "query": "星宇股份应届生离职打螺丝二选一",
     "display_query": "星宇股份应届生离职打螺丝二选一"
-  }
+  },
+  { "query": "淘宝崩了", "display_query": "淘宝崩了" },
+  { "query": "小米18Fold", "display_query": "小米18Fold" }
 ]

@@ -1,16 +1,9 @@
 [
-  { "query": "伦纳德仅罚70万脱身", "display_query": "伦纳德仅罚70万脱身" },
-  {
-    "query": "快船队被罚款3000万美元",
-    "display_query": "快船队被罚款3000万美元"
-  },
+  { "query": "淘宝崩了", "display_query": "淘宝崩了" },
+  { "query": "郑钦文vs凯斯", "display_query": "郑钦文vs凯斯" },
   { "query": "ChatGPT崩了", "display_query": "ChatGPT崩了" },
   { "query": "BLG战胜WE", "display_query": "BLG战胜WE" },
   { "query": "出发吧！看山", "display_query": "出发吧！看山" },
-  {
-    "query": "刘翔向网友求助职场选择",
-    "display_query": "刘翔向网友求助职场选择"
-  },
   { "query": "孙宇晨起诉景甜", "display_query": "孙宇晨起诉景甜" },
   {
     "query": "Claude 不要把五千万美元给她",
@@ -18,6 +11,14 @@
   },
   { "query": "孙宇晨", "display_query": "孙宇晨" },
   { "query": "景甜回应被起诉", "display_query": "景甜回应被起诉" },
-  { "query": "淘宝崩了", "display_query": "淘宝崩了" },
-  { "query": "郑钦文vs凯斯", "display_query": "郑钦文vs凯斯" }
+  { "query": "景甜回应", "display_query": "景甜回应" },
+  { "query": "伦纳德仅罚70万脱身", "display_query": "伦纳德仅罚70万脱身" },
+  {
+    "query": "快船队被罚款3000万美元",
+    "display_query": "快船队被罚款3000万美元"
+  },
+  {
+    "query": "刘翔向网友求助职场选择",
+    "display_query": "刘翔向网友求助职场选择"
+  }
 ]

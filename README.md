@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 06 2026 00:19:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 06 2026 02:38:00 GMT+0800 (China Standard Time) -->
 
 1. [淘宝崩了](https://www.zhihu.com/search?q=淘宝崩了)
 1. [郑钦文vs凯斯](https://www.zhihu.com/search?q=郑钦文vs凯斯)

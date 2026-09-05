@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 05 2026 21:39:09 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 06 2026 00:19:29 GMT+0800 (China Standard Time) -->
 
 1. [淘宝崩了](https://www.zhihu.com/search?q=淘宝崩了)
 1. [郑钦文vs凯斯](https://www.zhihu.com/search?q=郑钦文vs凯斯)
@@ -28,9 +28,6 @@
 1. [孙宇晨](https://www.zhihu.com/search?q=孙宇晨)
 1. [景甜回应被起诉](https://www.zhihu.com/search?q=景甜回应被起诉)
 1. [景甜回应](https://www.zhihu.com/search?q=景甜回应)
-1. [伦纳德仅罚70万脱身](https://www.zhihu.com/search?q=伦纳德仅罚70万脱身)
-1. [快船队被罚款3000万美元](https://www.zhihu.com/search?q=快船队被罚款3000万美元)
-1. [刘翔向网友求助职场选择](https://www.zhihu.com/search?q=刘翔向网友求助职场选择)
 
 <!-- END -->
 

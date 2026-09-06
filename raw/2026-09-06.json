@@ -1,14 +1,31 @@
 [
-  { "query": "淘宝崩了", "display_query": "淘宝崩了" },
-  { "query": "郑钦文vs凯斯", "display_query": "郑钦文vs凯斯" },
+  { "query": "微信未读消息长按可见", "display_query": "微信未读消息长按可见" },
+  {
+    "query": "车主撞羊群赔8万带不走",
+    "display_query": "车主撞羊群赔8万带不走"
+  },
   { "query": "ChatGPT崩了", "display_query": "ChatGPT崩了" },
   { "query": "BLG战胜WE", "display_query": "BLG战胜WE" },
   { "query": "出发吧！看山", "display_query": "出发吧！看山" },
+  {
+    "query": "吉隆口岸小邬警官确认平安",
+    "display_query": "吉隆口岸小邬警官确认平安"
+  },
+  {
+    "query": "吉隆泥石流已致16人遇难546人失联",
+    "display_query": "吉隆泥石流已致16人遇难546人失联"
+  },
+  {
+    "query": "尼泊尔泥石流已致903遇难4247失联",
+    "display_query": "尼泊尔泥石流已致903遇难4247失联"
+  },
   {
     "query": "曝科大讯飞公关副总裁被解除职务",
     "display_query": "曝科大讯飞公关副总裁被解除职务"
   },
   { "query": "早春晴朗", "display_query": "早春晴朗" },
+  { "query": "淘宝崩了", "display_query": "淘宝崩了" },
+  { "query": "郑钦文vs凯斯", "display_query": "郑钦文vs凯斯" },
   {
     "query": "多家车企公布8月交付量",
     "display_query": "多家车企公布8月交付量"

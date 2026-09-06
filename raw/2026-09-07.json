@@ -1,9 +1,6 @@
 [
-  { "query": "特斯拉Cybercab运营", "display_query": "特斯拉Cybercab运营" },
-  {
-    "query": "希望韩方切实践行一个中国原则",
-    "display_query": "希望韩方切实践行一个中国原则"
-  },
+  { "query": "淘宝崩了", "display_query": "淘宝崩了" },
+  { "query": "郑钦文vs凯斯", "display_query": "郑钦文vs凯斯" },
   { "query": "ChatGPT崩了", "display_query": "ChatGPT崩了" },
   { "query": "BLG战胜WE", "display_query": "BLG战胜WE" },
   {
@@ -23,5 +20,13 @@
     "display_query": "曝科大讯飞公关副总裁被解除职务"
   },
   { "query": "早春晴朗", "display_query": "早春晴朗" },
-  { "query": "多家车企公布8月交付量", "display_query": "多家车企公布8月交付量" }
+  {
+    "query": "多家车企公布8月交付量",
+    "display_query": "多家车企公布8月交付量"
+  },
+  { "query": "特斯拉Cybercab运营", "display_query": "特斯拉Cybercab运营" },
+  {
+    "query": "希望韩方切实践行一个中国原则",
+    "display_query": "希望韩方切实践行一个中国原则"
+  }
 ]

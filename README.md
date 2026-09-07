@@ -15,8 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 07 2026 13:21:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 07 2026 18:51:12 GMT+0800 (China Standard Time) -->
 
+1. [今日白露](https://www.zhihu.com/search?q=今日白露)
+1. [特斯拉降价](https://www.zhihu.com/search?q=特斯拉降价)
+1. [披荆斩棘二公舞台](https://www.zhihu.com/search?q=披荆斩棘二公舞台)
+1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=为什么有些人的预判能力这么强)
+1. [阿森纳vs切尔西](https://www.zhihu.com/search?q=阿森纳vs切尔西)
+1. [捷豹路虎大裁员](https://www.zhihu.com/search?q=捷豹路虎大裁员)
+1. [埃弗顿2比2曼联](https://www.zhihu.com/search?q=埃弗顿2比2曼联)
+1. [iG战胜WE](https://www.zhihu.com/search?q=iG战胜WE)
+1. [你身边有没有资产A12的人](https://www.zhihu.com/search?q=你身边有没有资产A12的人)
+1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=美国情报系统现在属于什么水平)
 1. [郑钦文50秒三记Ace](https://www.zhihu.com/search?q=郑钦文50秒三记Ace)
 1. [郑钦文vs凯斯](https://www.zhihu.com/search?q=郑钦文vs凯斯)
 1. [ChatGPT崩了](https://www.zhihu.com/search?q=ChatGPT崩了)

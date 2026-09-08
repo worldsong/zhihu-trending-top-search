@@ -1,7 +1,13 @@
 [
-  { "query": "今日白露", "display_query": "今日白露" },
-  { "query": "特斯拉降价", "display_query": "特斯拉降价" },
-  { "query": "披荆斩棘二公舞台", "display_query": "披荆斩棘二公舞台" },
+  {
+    "query": "教育部：尊师重教不能只是口号",
+    "display_query": "教育部：尊师重教不能只是口号"
+  },
+  {
+    "query": "特斯拉时隔一年半再降价",
+    "display_query": "特斯拉时隔一年半再降价"
+  },
+  { "query": "白露养生指南", "display_query": "白露养生指南" },
   {
     "query": "为什么有些人的预判能力这么强",
     "display_query": "为什么有些人的预判能力这么强"
@@ -17,5 +23,8 @@
   {
     "query": "美国情报系统现在属于什么水平",
     "display_query": "美国情报系统现在属于什么水平"
-  }
+  },
+  { "query": "今日白露", "display_query": "今日白露" },
+  { "query": "特斯拉降价", "display_query": "特斯拉降价" },
+  { "query": "披荆斩棘二公舞台", "display_query": "披荆斩棘二公舞台" }
 ]

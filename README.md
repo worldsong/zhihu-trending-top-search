@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 09 2026 08:46:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 09 2026 13:26:39 GMT+0800 (China Standard Time) -->
 
-1. [特斯拉降价](https://www.zhihu.com/search?q=特斯拉降价)
+1. [郑钦文仅剩一次外卡机会](https://www.zhihu.com/search?q=郑钦文仅剩一次外卡机会)
+1. [余承东建议苹果用户买华为备用机](https://www.zhihu.com/search?q=余承东建议苹果用户买华为备用机)
 1. [捷豹路虎大裁员](https://www.zhihu.com/search?q=捷豹路虎大裁员)
 1. [郑钦文vs莱巴金娜](https://www.zhihu.com/search?q=郑钦文vs莱巴金娜)
 1. [AL对战BLG](https://www.zhihu.com/search?q=AL对战BLG)
@@ -26,6 +27,7 @@
 1. [挣钱的本质](https://www.zhihu.com/search?q=挣钱的本质)
 1. [武松和鲁智深谁厉害](https://www.zhihu.com/search?q=武松和鲁智深谁厉害)
 1. [低精力人群如何自救](https://www.zhihu.com/search?q=低精力人群如何自救)
+1. [特斯拉降价](https://www.zhihu.com/search?q=特斯拉降价)
 1. [怎么快速判断一个人的认知水平](https://www.zhihu.com/search?q=怎么快速判断一个人的认知水平)
 
 <!-- END -->

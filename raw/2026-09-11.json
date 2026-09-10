@@ -1,0 +1,18 @@
+[
+  { "query": "教师节", "display_query": "教师节" },
+  { "query": "欧冠", "display_query": "欧冠" },
+  { "query": "心动的信号", "display_query": "心动的信号" },
+  { "query": "A股", "display_query": "A股" },
+  {
+    "query": "装警察打17岁少年霸凌者涉寻衅滋事",
+    "display_query": "装警察打17岁少年霸凌者涉寻衅滋事"
+  },
+  { "query": "上海地铁要涨价了", "display_query": "上海地铁要涨价了" },
+  { "query": "美网2026", "display_query": "美网2026" },
+  { "query": "刘翔 上海体育局", "display_query": "刘翔 上海体育局" },
+  {
+    "query": "武汉大学教授曾梦琪被举报",
+    "display_query": "武汉大学教授曾梦琪被举报"
+  },
+  { "query": "GPT-6 正式发布", "display_query": "GPT-6 正式发布" }
+]

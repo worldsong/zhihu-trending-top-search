@@ -15,20 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 09 2026 13:26:39 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Sep 10 2026 19:54:11 GMT+0800 (China Standard Time) -->
 
-1. [郑钦文仅剩一次外卡机会](https://www.zhihu.com/search?q=郑钦文仅剩一次外卡机会)
-1. [余承东建议苹果用户买华为备用机](https://www.zhihu.com/search?q=余承东建议苹果用户买华为备用机)
-1. [捷豹路虎大裁员](https://www.zhihu.com/search?q=捷豹路虎大裁员)
-1. [郑钦文vs莱巴金娜](https://www.zhihu.com/search?q=郑钦文vs莱巴金娜)
-1. [AL对战BLG](https://www.zhihu.com/search?q=AL对战BLG)
-1. [认知水平越低的人有什么明显特征](https://www.zhihu.com/search?q=认知水平越低的人有什么明显特征)
-1. [怎样最大程度延长自己的寿命](https://www.zhihu.com/search?q=怎样最大程度延长自己的寿命)
-1. [挣钱的本质](https://www.zhihu.com/search?q=挣钱的本质)
-1. [武松和鲁智深谁厉害](https://www.zhihu.com/search?q=武松和鲁智深谁厉害)
-1. [低精力人群如何自救](https://www.zhihu.com/search?q=低精力人群如何自救)
-1. [特斯拉降价](https://www.zhihu.com/search?q=特斯拉降价)
-1. [怎么快速判断一个人的认知水平](https://www.zhihu.com/search?q=怎么快速判断一个人的认知水平)
+1. [教师节](https://www.zhihu.com/search?q=教师节)
+1. [欧冠](https://www.zhihu.com/search?q=欧冠)
+1. [心动的信号](https://www.zhihu.com/search?q=心动的信号)
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [装警察打17岁少年霸凌者涉寻衅滋事](https://www.zhihu.com/search?q=装警察打17岁少年霸凌者涉寻衅滋事)
+1. [上海地铁要涨价了](https://www.zhihu.com/search?q=上海地铁要涨价了)
+1. [美网2026](https://www.zhihu.com/search?q=美网2026)
+1. [刘翔 上海体育局](https://www.zhihu.com/search?q=刘翔 上海体育局)
+1. [武汉大学教授曾梦琪被举报](https://www.zhihu.com/search?q=武汉大学教授曾梦琪被举报)
+1. [GPT-6 正式发布](https://www.zhihu.com/search?q=GPT-6 正式发布)
 
 <!-- END -->
 

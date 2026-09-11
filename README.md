@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 11 2026 23:21:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 12 2026 02:47:56 GMT+0800 (China Standard Time) -->
 
 1. [教师节](https://www.zhihu.com/search?q=教师节)
 1. [油价上涨](https://www.zhihu.com/search?q=油价上涨)
@@ -27,15 +27,6 @@
 1. [GPT-6 正式发布](https://www.zhihu.com/search?q=GPT-6 正式发布)
 1. [GPT-6 贵](https://www.zhihu.com/search?q=GPT-6 贵)
 1. [设计师称中国客厅已失去意义](https://www.zhihu.com/search?q=设计师称中国客厅已失去意义)
-1. [苹果18Pro勃艮第红](https://www.zhihu.com/search?q=苹果18Pro勃艮第红)
-1. [日本韩国女篮惨败](https://www.zhihu.com/search?q=日本韩国女篮惨败)
-1. [心动的信号](https://www.zhihu.com/search?q=心动的信号)
-1. [A股](https://www.zhihu.com/search?q=A股)
-1. [美网2026](https://www.zhihu.com/search?q=美网2026)
-1. [刘翔 上海体育局](https://www.zhihu.com/search?q=刘翔 上海体育局)
-1. [栾念尚之桃是he](https://www.zhihu.com/search?q=栾念尚之桃是he)
-1. [装警察打17岁少年霸凌者涉寻衅滋事](https://www.zhihu.com/search?q=装警察打17岁少年霸凌者涉寻衅滋事)
-1. [欧冠](https://www.zhihu.com/search?q=欧冠)
 
 <!-- END -->
 

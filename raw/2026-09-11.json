@@ -1,11 +1,8 @@
 [
-  { "query": "栾念尚之桃是he", "display_query": "栾念尚之桃是he" },
+  { "query": "苹果18Pro勃艮第红", "display_query": "苹果18Pro勃艮第红" },
+  { "query": "日本韩国女篮惨败", "display_query": "日本韩国女篮惨败" },
   { "query": "心动的信号", "display_query": "心动的信号" },
   { "query": "A股", "display_query": "A股" },
-  {
-    "query": "装警察打17岁少年霸凌者涉寻衅滋事",
-    "display_query": "装警察打17岁少年霸凌者涉寻衅滋事"
-  },
   { "query": "上海地铁要涨价了", "display_query": "上海地铁要涨价了" },
   { "query": "美网2026", "display_query": "美网2026" },
   { "query": "刘翔 上海体育局", "display_query": "刘翔 上海体育局" },
@@ -15,6 +12,11 @@
   },
   { "query": "GPT-6 正式发布", "display_query": "GPT-6 正式发布" },
   { "query": "GPT-6 贵", "display_query": "GPT-6 贵" },
+  { "query": "栾念尚之桃是he", "display_query": "栾念尚之桃是he" },
+  {
+    "query": "装警察打17岁少年霸凌者涉寻衅滋事",
+    "display_query": "装警察打17岁少年霸凌者涉寻衅滋事"
+  },
   { "query": "教师节", "display_query": "教师节" },
   { "query": "欧冠", "display_query": "欧冠" }
 ]

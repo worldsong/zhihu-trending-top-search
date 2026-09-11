@@ -1,6 +1,5 @@
 [
-  { "query": "教师节", "display_query": "教师节" },
-  { "query": "欧冠", "display_query": "欧冠" },
+  { "query": "栾念尚之桃是he", "display_query": "栾念尚之桃是he" },
   { "query": "心动的信号", "display_query": "心动的信号" },
   { "query": "A股", "display_query": "A股" },
   {
@@ -14,5 +13,8 @@
     "query": "武汉大学教授曾梦琪被举报",
     "display_query": "武汉大学教授曾梦琪被举报"
   },
-  { "query": "GPT-6 正式发布", "display_query": "GPT-6 正式发布" }
+  { "query": "GPT-6 正式发布", "display_query": "GPT-6 正式发布" },
+  { "query": "GPT-6 贵", "display_query": "GPT-6 贵" },
+  { "query": "教师节", "display_query": "教师节" },
+  { "query": "欧冠", "display_query": "欧冠" }
 ]

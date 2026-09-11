@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 11 2026 07:28:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 11 2026 09:41:39 GMT+0800 (China Standard Time) -->
 
-1. [教师节](https://www.zhihu.com/search?q=教师节)
-1. [欧冠](https://www.zhihu.com/search?q=欧冠)
+1. [栾念尚之桃是he](https://www.zhihu.com/search?q=栾念尚之桃是he)
 1. [心动的信号](https://www.zhihu.com/search?q=心动的信号)
 1. [A股](https://www.zhihu.com/search?q=A股)
 1. [装警察打17岁少年霸凌者涉寻衅滋事](https://www.zhihu.com/search?q=装警察打17岁少年霸凌者涉寻衅滋事)
@@ -27,6 +26,9 @@
 1. [刘翔 上海体育局](https://www.zhihu.com/search?q=刘翔 上海体育局)
 1. [武汉大学教授曾梦琪被举报](https://www.zhihu.com/search?q=武汉大学教授曾梦琪被举报)
 1. [GPT-6 正式发布](https://www.zhihu.com/search?q=GPT-6 正式发布)
+1. [GPT-6 贵](https://www.zhihu.com/search?q=GPT-6 贵)
+1. [教师节](https://www.zhihu.com/search?q=教师节)
+1. [欧冠](https://www.zhihu.com/search?q=欧冠)
 
 <!-- END -->
 

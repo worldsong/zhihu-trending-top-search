@@ -1,5 +1,4 @@
 [
-  { "query": "教师节", "display_query": "教师节" },
   { "query": "油价上涨", "display_query": "油价上涨" },
   {
     "query": "酒店为什么会有三小时钟点房",
@@ -17,12 +16,21 @@
   { "query": "上海地铁要涨价了", "display_query": "上海地铁要涨价了" },
   { "query": "梅姨被公诉", "display_query": "梅姨被公诉" },
   {
-    "query": "武汉大学教授曾梦琪被举报",
-    "display_query": "武汉大学教授曾梦琪被举报"
-  },
-  {
     "query": "设计师称中国客厅已失去意义",
     "display_query": "设计师称中国客厅已失去意义"
+  },
+  {
+    "query": "江西孩子看演唱会后全家低保取消",
+    "display_query": "江西孩子看演唱会后全家低保取消"
+  },
+  {
+    "query": "华为时隔六年再次发布高性能芯片",
+    "display_query": "华为时隔六年再次发布高性能芯片"
+  },
+  { "query": "教师节", "display_query": "教师节" },
+  {
+    "query": "武汉大学教授曾梦琪被举报",
+    "display_query": "武汉大学教授曾梦琪被举报"
   },
   { "query": "GPT-6 正式发布", "display_query": "GPT-6 正式发布" },
   { "query": "GPT-6 贵", "display_query": "GPT-6 贵" }

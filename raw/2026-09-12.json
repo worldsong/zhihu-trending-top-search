@@ -9,6 +9,7 @@
     "query": "中国航天又一次成功发射",
     "display_query": "中国航天又一次成功发射"
   },
+  { "query": "国乒男单全军覆没", "display_query": "国乒男单全军覆没" },
   {
     "query": "菏泽古沉船元青花疑遭内盗",
     "display_query": "菏泽古沉船元青花疑遭内盗"
@@ -19,10 +20,10 @@
     "query": "武汉大学教授曾梦琪被举报",
     "display_query": "武汉大学教授曾梦琪被举报"
   },
-  { "query": "GPT-6 正式发布", "display_query": "GPT-6 正式发布" },
-  { "query": "GPT-6 贵", "display_query": "GPT-6 贵" },
   {
     "query": "设计师称中国客厅已失去意义",
     "display_query": "设计师称中国客厅已失去意义"
-  }
+  },
+  { "query": "GPT-6 正式发布", "display_query": "GPT-6 正式发布" },
+  { "query": "GPT-6 贵", "display_query": "GPT-6 贵" }
 ]

@@ -15,19 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 12 2026 09:47:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 12 2026 14:36:01 GMT+0800 (China Standard Time) -->
 
 1. [教师节](https://www.zhihu.com/search?q=教师节)
 1. [油价上涨](https://www.zhihu.com/search?q=油价上涨)
 1. [酒店为什么会有三小时钟点房](https://www.zhihu.com/search?q=酒店为什么会有三小时钟点房)
 1. [中国航天又一次成功发射](https://www.zhihu.com/search?q=中国航天又一次成功发射)
+1. [国乒男单全军覆没](https://www.zhihu.com/search?q=国乒男单全军覆没)
 1. [菏泽古沉船元青花疑遭内盗](https://www.zhihu.com/search?q=菏泽古沉船元青花疑遭内盗)
 1. [上海地铁要涨价了](https://www.zhihu.com/search?q=上海地铁要涨价了)
 1. [梅姨被公诉](https://www.zhihu.com/search?q=梅姨被公诉)
 1. [武汉大学教授曾梦琪被举报](https://www.zhihu.com/search?q=武汉大学教授曾梦琪被举报)
+1. [设计师称中国客厅已失去意义](https://www.zhihu.com/search?q=设计师称中国客厅已失去意义)
 1. [GPT-6 正式发布](https://www.zhihu.com/search?q=GPT-6 正式发布)
 1. [GPT-6 贵](https://www.zhihu.com/search?q=GPT-6 贵)
-1. [设计师称中国客厅已失去意义](https://www.zhihu.com/search?q=设计师称中国客厅已失去意义)
 
 <!-- END -->
 

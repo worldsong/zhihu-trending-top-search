@@ -1,0 +1,27 @@
+[
+  { "query": "教师节", "display_query": "教师节" },
+  { "query": "油价上涨", "display_query": "油价上涨" },
+  {
+    "query": "酒店为什么会有三小时钟点房",
+    "display_query": "酒店为什么会有三小时钟点房"
+  },
+  {
+    "query": "中国航天又一次成功发射",
+    "display_query": "中国航天又一次成功发射"
+  },
+  {
+    "query": "菏泽古沉船元青花疑遭内盗",
+    "display_query": "菏泽古沉船元青花疑遭内盗"
+  },
+  { "query": "上海地铁要涨价了", "display_query": "上海地铁要涨价了" },
+  { "query": "梅姨被公诉", "display_query": "梅姨被公诉" },
+  {
+    "query": "《早春晴朗》口碑褒贬不一",
+    "display_query": "《早春晴朗》口碑褒贬不一"
+  },
+  {
+    "query": "华为时隔六年再次发布高性能芯片",
+    "display_query": "华为时隔六年再次发布高性能芯片"
+  },
+  { "query": "《冬城猎凶》热播", "display_query": "《冬城猎凶》热播" }
+]

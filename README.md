@@ -15,18 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 13 2026 14:51:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 13 2026 20:22:47 GMT+0800 (China Standard Time) -->
 
 1. [教师节](https://www.zhihu.com/search?q=教师节)
 1. [油价上涨](https://www.zhihu.com/search?q=油价上涨)
 1. [酒店为什么会有三小时钟点房](https://www.zhihu.com/search?q=酒店为什么会有三小时钟点房)
 1. [中国航天又一次成功发射](https://www.zhihu.com/search?q=中国航天又一次成功发射)
-1. [国乒男单全军覆没](https://www.zhihu.com/search?q=国乒男单全军覆没)
 1. [菏泽古沉船元青花疑遭内盗](https://www.zhihu.com/search?q=菏泽古沉船元青花疑遭内盗)
 1. [上海地铁要涨价了](https://www.zhihu.com/search?q=上海地铁要涨价了)
 1. [梅姨被公诉](https://www.zhihu.com/search?q=梅姨被公诉)
 1. [《早春晴朗》口碑褒贬不一](https://www.zhihu.com/search?q=《早春晴朗》口碑褒贬不一)
 1. [华为时隔六年再次发布高性能芯片](https://www.zhihu.com/search?q=华为时隔六年再次发布高性能芯片)
+1. [《冬城猎凶》热播](https://www.zhihu.com/search?q=《冬城猎凶》热播)
+1. [国乒男单全军覆没](https://www.zhihu.com/search?q=国乒男单全军覆没)
 1. [设计师称中国客厅已失去意义](https://www.zhihu.com/search?q=设计师称中国客厅已失去意义)
 1. [江西孩子看演唱会后全家低保取消](https://www.zhihu.com/search?q=江西孩子看演唱会后全家低保取消)
 

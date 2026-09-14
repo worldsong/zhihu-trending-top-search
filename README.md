@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 14 2026 22:29:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 15 2026 03:39:00 GMT+0800 (China Standard Time) -->
 
 1. [曼联vs曼城](https://www.zhihu.com/search?q=曼联vs曼城)
 1. [小胖FMVP](https://www.zhihu.com/search?q=小胖FMVP)
@@ -27,17 +27,6 @@
 1. [吉隆口岸小邬警官确认平安](https://www.zhihu.com/search?q=吉隆口岸小邬警官确认平安)
 1. [吉隆泥石流已致16人遇难546人失联](https://www.zhihu.com/search?q=吉隆泥石流已致16人遇难546人失联)
 1. [尼泊尔泥石流已致903遇难4247失联](https://www.zhihu.com/search?q=尼泊尔泥石流已致903遇难4247失联)
-1. [油价上涨](https://www.zhihu.com/search?q=油价上涨)
-1. [酒店为什么会有三小时钟点房](https://www.zhihu.com/search?q=酒店为什么会有三小时钟点房)
-1. [中国航天又一次成功发射](https://www.zhihu.com/search?q=中国航天又一次成功发射)
-1. [上海地铁要涨价了](https://www.zhihu.com/search?q=上海地铁要涨价了)
-1. [梅姨被公诉](https://www.zhihu.com/search?q=梅姨被公诉)
-1. [GPT-6 正式发布](https://www.zhihu.com/search?q=GPT-6 正式发布)
-1. [GPT-6 贵](https://www.zhihu.com/search?q=GPT-6 贵)
-1. [华为时隔六年再次发布高性能芯片](https://www.zhihu.com/search?q=华为时隔六年再次发布高性能芯片)
-1. [《冬城猎凶》热播](https://www.zhihu.com/search?q=《冬城猎凶》热播)
-1. [教师节](https://www.zhihu.com/search?q=教师节)
-1. [《早春晴朗》口碑褒贬不一](https://www.zhihu.com/search?q=《早春晴朗》口碑褒贬不一)
 
 <!-- END -->
 

@@ -1,0 +1,24 @@
+[
+  { "query": "曼联vs曼城", "display_query": "曼联vs曼城" },
+  { "query": "小胖FMVP", "display_query": "小胖FMVP" },
+  { "query": "GEN对战HLE", "display_query": "GEN对战HLE" },
+  { "query": "BLG对战AL", "display_query": "BLG对战AL" },
+  { "query": "苏超", "display_query": "苏超" },
+  { "query": "美联储加息预期升温", "display_query": "美联储加息预期升温" },
+  {
+    "query": "菏泽古沉船元青花疑遭内盗",
+    "display_query": "菏泽古沉船元青花疑遭内盗"
+  },
+  {
+    "query": "吉隆口岸小邬警官确认平安",
+    "display_query": "吉隆口岸小邬警官确认平安"
+  },
+  {
+    "query": "吉隆泥石流已致16人遇难546人失联",
+    "display_query": "吉隆泥石流已致16人遇难546人失联"
+  },
+  {
+    "query": "尼泊尔泥石流已致903遇难4247失联",
+    "display_query": "尼泊尔泥石流已致903遇难4247失联"
+  }
+]

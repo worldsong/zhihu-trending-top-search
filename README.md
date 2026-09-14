@@ -15,12 +15,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 14 2026 15:24:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 14 2026 22:29:17 GMT+0800 (China Standard Time) -->
 
+1. [曼联vs曼城](https://www.zhihu.com/search?q=曼联vs曼城)
+1. [小胖FMVP](https://www.zhihu.com/search?q=小胖FMVP)
+1. [GEN对战HLE](https://www.zhihu.com/search?q=GEN对战HLE)
+1. [BLG对战AL](https://www.zhihu.com/search?q=BLG对战AL)
+1. [苏超](https://www.zhihu.com/search?q=苏超)
+1. [美联储加息预期升温](https://www.zhihu.com/search?q=美联储加息预期升温)
+1. [菏泽古沉船元青花疑遭内盗](https://www.zhihu.com/search?q=菏泽古沉船元青花疑遭内盗)
+1. [吉隆口岸小邬警官确认平安](https://www.zhihu.com/search?q=吉隆口岸小邬警官确认平安)
+1. [吉隆泥石流已致16人遇难546人失联](https://www.zhihu.com/search?q=吉隆泥石流已致16人遇难546人失联)
+1. [尼泊尔泥石流已致903遇难4247失联](https://www.zhihu.com/search?q=尼泊尔泥石流已致903遇难4247失联)
 1. [油价上涨](https://www.zhihu.com/search?q=油价上涨)
 1. [酒店为什么会有三小时钟点房](https://www.zhihu.com/search?q=酒店为什么会有三小时钟点房)
 1. [中国航天又一次成功发射](https://www.zhihu.com/search?q=中国航天又一次成功发射)
-1. [菏泽古沉船元青花疑遭内盗](https://www.zhihu.com/search?q=菏泽古沉船元青花疑遭内盗)
 1. [上海地铁要涨价了](https://www.zhihu.com/search?q=上海地铁要涨价了)
 1. [梅姨被公诉](https://www.zhihu.com/search?q=梅姨被公诉)
 1. [GPT-6 正式发布](https://www.zhihu.com/search?q=GPT-6 正式发布)

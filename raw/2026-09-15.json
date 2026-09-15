@@ -2,8 +2,10 @@
   { "query": "曼联vs曼城", "display_query": "曼联vs曼城" },
   { "query": "小胖FMVP", "display_query": "小胖FMVP" },
   { "query": "GEN对战HLE", "display_query": "GEN对战HLE" },
+  { "query": "AL战胜BLG", "display_query": "AL战胜BLG" },
   { "query": "BLG对战AL", "display_query": "BLG对战AL" },
   { "query": "苏超", "display_query": "苏超" },
+  { "query": "DeepSeek 崩了", "display_query": "DeepSeek 崩了" },
   { "query": "美联储加息预期升温", "display_query": "美联储加息预期升温" },
   {
     "query": "菏泽古沉船元青花疑遭内盗",

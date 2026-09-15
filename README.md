@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 15 2026 20:16:56 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 16 2026 01:20:37 GMT+0800 (China Standard Time) -->
 
 1. [利物浦vs富勒姆](https://www.zhihu.com/search?q=利物浦vs富勒姆)
 1. [AL战胜BLG](https://www.zhihu.com/search?q=AL战胜BLG)
@@ -27,15 +27,6 @@
 1. [心动的信号9](https://www.zhihu.com/search?q=心动的信号9)
 1. [菏泽古沉船元青花疑遭内盗](https://www.zhihu.com/search?q=菏泽古沉船元青花疑遭内盗)
 1. [GPT-6 正式发布](https://www.zhihu.com/search?q=GPT-6 正式发布)
-1. [曼联vs曼城](https://www.zhihu.com/search?q=曼联vs曼城)
-1. [小胖FMVP](https://www.zhihu.com/search?q=小胖FMVP)
-1. [GEN对战HLE](https://www.zhihu.com/search?q=GEN对战HLE)
-1. [BLG对战AL](https://www.zhihu.com/search?q=BLG对战AL)
-1. [苏超](https://www.zhihu.com/search?q=苏超)
-1. [美联储加息预期升温](https://www.zhihu.com/search?q=美联储加息预期升温)
-1. [吉隆口岸小邬警官确认平安](https://www.zhihu.com/search?q=吉隆口岸小邬警官确认平安)
-1. [吉隆泥石流已致16人遇难546人失联](https://www.zhihu.com/search?q=吉隆泥石流已致16人遇难546人失联)
-1. [尼泊尔泥石流已致903遇难4247失联](https://www.zhihu.com/search?q=尼泊尔泥石流已致903遇难4247失联)
 
 <!-- END -->
 

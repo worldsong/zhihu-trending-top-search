@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 16 2026 07:14:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 16 2026 09:56:48 GMT+0800 (China Standard Time) -->
 
-1. [利物浦vs富勒姆](https://www.zhihu.com/search?q=利物浦vs富勒姆)
-1. [AL战胜BLG](https://www.zhihu.com/search?q=AL战胜BLG)
+1. [中端手机怎么越来越少了](https://www.zhihu.com/search?q=中端手机怎么越来越少了)
+1. [AI的“原子弹时刻”来了吗](https://www.zhihu.com/search?q=AI的“原子弹时刻”来了吗)
 1. [日本梅毒感染扩散](https://www.zhihu.com/search?q=日本梅毒感染扩散)
 1. [利物浦vs热刺](https://www.zhihu.com/search?q=利物浦vs热刺)
 1. [DeepSeek 崩了](https://www.zhihu.com/search?q=DeepSeek 崩了)
@@ -27,6 +27,8 @@
 1. [心动的信号9](https://www.zhihu.com/search?q=心动的信号9)
 1. [菏泽古沉船元青花疑遭内盗](https://www.zhihu.com/search?q=菏泽古沉船元青花疑遭内盗)
 1. [GPT-6 正式发布](https://www.zhihu.com/search?q=GPT-6 正式发布)
+1. [利物浦vs富勒姆](https://www.zhihu.com/search?q=利物浦vs富勒姆)
+1. [AL战胜BLG](https://www.zhihu.com/search?q=AL战胜BLG)
 
 <!-- END -->
 

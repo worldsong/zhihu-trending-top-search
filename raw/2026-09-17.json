@@ -1,4 +1,35 @@
 [
+  {
+    "query": "DeepSeek 工程师刘胜与长文",
+    "display_query": "DeepSeek 工程师刘胜与长文"
+  },
+  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
+  {
+    "query": "库克推折叠屏或受三星华为影响",
+    "display_query": "库克推折叠屏或受三星华为影响"
+  },
+  {
+    "query": "《星际争霸》将推出开放世界射击游戏",
+    "display_query": "《星际争霸》将推出开放世界射击游戏"
+  },
+  { "query": "罗永浩说野人先生难吃", "display_query": "罗永浩说野人先生难吃" },
+  {
+    "query": "Anthropic 等顶级 AI 公司呼吁减速",
+    "display_query": "Anthropic 等顶级 AI 公司呼吁减速"
+  },
+  {
+    "query": "三大 AI 巨头联手呼吁放缓开发步伐",
+    "display_query": "三大 AI 巨头联手呼吁放缓开发步伐"
+  },
+  { "query": "广汽集团突发紧急停牌", "display_query": "广汽集团突发紧急停牌" },
+  {
+    "query": "HYROX最新声明遭网友质疑",
+    "display_query": "HYROX最新声明遭网友质疑"
+  },
+  {
+    "query": "伊拉克重开伊朗边境口岸",
+    "display_query": "伊拉克重开伊朗边境口岸"
+  },
   { "query": "亚运会", "display_query": "亚运会" },
   { "query": "披荆斩棘", "display_query": "披荆斩棘" },
   { "query": "姆巴佩破门", "display_query": "姆巴佩破门" },
@@ -10,18 +41,8 @@
     "query": "知乎 CLI 创作者能力上新",
     "display_query": "知乎 CLI 创作者能力上新"
   },
-  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
-  {
-    "query": "库克推折叠屏或受三星华为影响",
-    "display_query": "库克推折叠屏或受三星华为影响"
-  },
-  {
-    "query": "《星际争霸》将推出开放世界射击游戏",
-    "display_query": "《星际争霸》将推出开放世界射击游戏"
-  },
   {
     "query": "16岁孙心然美网青少年夺冠",
     "display_query": "16岁孙心然美网青少年夺冠"
-  },
-  { "query": "罗永浩说野人先生难吃", "display_query": "罗永浩说野人先生难吃" }
+  }
 ]

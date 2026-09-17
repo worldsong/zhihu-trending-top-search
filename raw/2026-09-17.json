@@ -1,9 +1,5 @@
 [
   {
-    "query": "知乎 CLI 创作者能力上新",
-    "display_query": "知乎 CLI 创作者能力上新"
-  },
-  {
     "query": "吉隆口岸小邬警官确认平安",
     "display_query": "吉隆口岸小邬警官确认平安"
   },
@@ -15,6 +11,7 @@
     "query": "尼泊尔泥石流已致903遇难4247失联",
     "display_query": "尼泊尔泥石流已致903遇难4247失联"
   },
+  { "query": "交锋", "display_query": "交锋" },
   {
     "query": "通往吉隆口岸 216 国道实现畅通",
     "display_query": "通往吉隆口岸 216 国道实现畅通"
@@ -24,10 +21,22 @@
     "display_query": "Anthropic研究员因担忧AI失控辞职"
   },
   {
+    "query": "知乎 CLI 创作者能力上新",
+    "display_query": "知乎 CLI 创作者能力上新"
+  },
+  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
+  {
+    "query": "张国伟疑似谈刘翔安置事件",
+    "display_query": "张国伟疑似谈刘翔安置事件"
+  },
+  {
+    "query": "公职人员醉驾撞死5旬夫妻",
+    "display_query": "公职人员醉驾撞死5旬夫妻"
+  },
+  {
     "query": "「彩电第一股」拟主动退市",
     "display_query": "「彩电第一股」拟主动退市"
   },
-  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
   { "query": "罗永浩说野人先生难吃", "display_query": "罗永浩说野人先生难吃" },
   { "query": "广汽集团突发紧急停牌", "display_query": "广汽集团突发紧急停牌" },
   {

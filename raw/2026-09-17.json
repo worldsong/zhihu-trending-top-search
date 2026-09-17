@@ -1,9 +1,39 @@
 [
   {
+    "query": "知乎 CLI 创作者能力上新",
+    "display_query": "知乎 CLI 创作者能力上新"
+  },
+  {
+    "query": "吉隆口岸小邬警官确认平安",
+    "display_query": "吉隆口岸小邬警官确认平安"
+  },
+  {
+    "query": "吉隆泥石流已致16人遇难546人失联",
+    "display_query": "吉隆泥石流已致16人遇难546人失联"
+  },
+  {
+    "query": "尼泊尔泥石流已致903遇难4247失联",
+    "display_query": "尼泊尔泥石流已致903遇难4247失联"
+  },
+  {
+    "query": "通往吉隆口岸 216 国道实现畅通",
+    "display_query": "通往吉隆口岸 216 国道实现畅通"
+  },
+  {
+    "query": "Anthropic研究员因担忧AI失控辞职",
+    "display_query": "Anthropic研究员因担忧AI失控辞职"
+  },
+  {
+    "query": "「彩电第一股」拟主动退市",
+    "display_query": "「彩电第一股」拟主动退市"
+  },
+  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
+  { "query": "罗永浩说野人先生难吃", "display_query": "罗永浩说野人先生难吃" },
+  { "query": "广汽集团突发紧急停牌", "display_query": "广汽集团突发紧急停牌" },
+  {
     "query": "DeepSeek 工程师刘胜与长文",
     "display_query": "DeepSeek 工程师刘胜与长文"
   },
-  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
   {
     "query": "库克推折叠屏或受三星华为影响",
     "display_query": "库克推折叠屏或受三星华为影响"
@@ -12,7 +42,6 @@
     "query": "《星际争霸》将推出开放世界射击游戏",
     "display_query": "《星际争霸》将推出开放世界射击游戏"
   },
-  { "query": "罗永浩说野人先生难吃", "display_query": "罗永浩说野人先生难吃" },
   {
     "query": "Anthropic 等顶级 AI 公司呼吁减速",
     "display_query": "Anthropic 等顶级 AI 公司呼吁减速"
@@ -21,7 +50,6 @@
     "query": "三大 AI 巨头联手呼吁放缓开发步伐",
     "display_query": "三大 AI 巨头联手呼吁放缓开发步伐"
   },
-  { "query": "广汽集团突发紧急停牌", "display_query": "广汽集团突发紧急停牌" },
   {
     "query": "HYROX最新声明遭网友质疑",
     "display_query": "HYROX最新声明遭网友质疑"
@@ -36,10 +64,6 @@
   {
     "query": "平陆运河9月16日建成通航",
     "display_query": "平陆运河9月16日建成通航"
-  },
-  {
-    "query": "知乎 CLI 创作者能力上新",
-    "display_query": "知乎 CLI 创作者能力上新"
   },
   {
     "query": "16岁孙心然美网青少年夺冠",

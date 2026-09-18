@@ -15,8 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Sep 18 2026 14:46:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Sep 18 2026 19:55:41 GMT+0800 (China Standard Time) -->
 
+1. [华为升腾960](https://www.zhihu.com/search?q=华为升腾960)
+1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=美国情报系统现在属于什么水平)
+1. [为什么年轻人反感老一辈的说教](https://www.zhihu.com/search?q=为什么年轻人反感老一辈的说教)
+1. [钓鱼佬最接受不了什么](https://www.zhihu.com/search?q=钓鱼佬最接受不了什么)
+1. [小米大模型每小时烧钱超20万](https://www.zhihu.com/search?q=小米大模型每小时烧钱超20万)
+1. [许嵩 冯禧](https://www.zhihu.com/search?q=许嵩 冯禧)
+1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=为什么很多人喜欢和AI对话)
+1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=认知水平高的人有什么特征)
+1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=为什么一定要频繁记录自己)
+1. [语文是在考服从性吗](https://www.zhihu.com/search?q=语文是在考服从性吗)
 1. [女孩正颌手术被做反变成鞋拔子脸](https://www.zhihu.com/search?q=女孩正颌手术被做反变成鞋拔子脸)
 1. [《一人之下》最新](https://www.zhihu.com/search?q=《一人之下》最新)
 1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=知乎 CLI

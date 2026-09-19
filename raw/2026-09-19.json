@@ -1,5 +1,5 @@
 [
-  { "query": "法考客观题成绩公布", "display_query": "法考客观题成绩公布" },
+  { "query": "马拉加VS比利亚雷亚尔", "display_query": "马拉加VS比利亚雷亚尔" },
   { "query": "天赋到底是什么东西", "display_query": "天赋到底是什么东西" },
   {
     "query": "美国情报系统现在属于什么水平",
@@ -23,5 +23,6 @@
     "query": "为什么一定要频繁记录自己",
     "display_query": "为什么一定要频繁记录自己"
   },
-  { "query": "语文是在考服从性吗", "display_query": "语文是在考服从性吗" }
+  { "query": "语文是在考服从性吗", "display_query": "语文是在考服从性吗" },
+  { "query": "法考客观题成绩公布", "display_query": "法考客观题成绩公布" }
 ]

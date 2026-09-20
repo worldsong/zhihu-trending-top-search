@@ -15,8 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 20 2026 09:55:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 20 2026 15:12:52 GMT+0800 (China Standard Time) -->
 
+1. [女孩正颌手术被做反变成鞋拔子脸](https://www.zhihu.com/search?q=女孩正颌手术被做反变成鞋拔子脸)
+1. [字节调整豆包飞书火山架构](https://www.zhihu.com/search?q=字节调整豆包飞书火山架构)
+1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026名古屋亚运会)
+1. [野人先生首度发声感谢支持](https://www.zhihu.com/search?q=野人先生首度发声感谢支持)
+1. [苹果氟橡胶表带疑因 PFAS
+   超标下架](https://www.zhihu.com/search?q=苹果氟橡胶表带疑因 PFAS 超标下架)
+1. [王鹤棣方称已取证报警](https://www.zhihu.com/search?q=王鹤棣方称已取证报警)
+1. [静和医疗否认王鹤棣曾就诊](https://www.zhihu.com/search?q=静和医疗否认王鹤棣曾就诊)
+1. [HYROX 给运动员全额退费](https://www.zhihu.com/search?q=HYROX
+   给运动员全额退费)
+1. [日方演员扮演丰臣秀吉欢迎亚运选手引争议](https://www.zhihu.com/search?q=日方演员扮演丰臣秀吉欢迎亚运选手引争议)
+1. [2岁幼童从18楼坠亡事发时窗户没关](https://www.zhihu.com/search?q=2岁幼童从18楼坠亡事发时窗户没关)
 1. [天赋到底是什么东西](https://www.zhihu.com/search?q=天赋到底是什么东西)
 1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=美国情报系统现在属于什么水平)
 1. [为什么年轻人反感老一辈的说教](https://www.zhihu.com/search?q=为什么年轻人反感老一辈的说教)

@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 20 2026 20:41:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 21 2026 00:33:37 GMT+0800 (China Standard Time) -->
 
-1. [泰州2-0战胜盐城](https://www.zhihu.com/search?q=泰州2-0战胜盐城)
-1. [美国拥有在轨太空控制武器](https://www.zhihu.com/search?q=美国拥有在轨太空控制武器)
+1. [亚运会](https://www.zhihu.com/search?q=亚运会)
+1. [法考成绩](https://www.zhihu.com/search?q=法考成绩)
 1. [调休](https://www.zhihu.com/search?q=调休)
 1. [热刺VS阿斯顿维拉](https://www.zhihu.com/search?q=热刺VS阿斯顿维拉)
 1. [王曼昱 1-3 不敌朱雨玲](https://www.zhihu.com/search?q=王曼昱 1-3 不敌朱雨玲)
@@ -27,26 +27,6 @@
 1. [巴萨联赛7连胜](https://www.zhihu.com/search?q=巴萨联赛7连胜)
 1. [女孩正颌手术被做反变成鞋拔子脸](https://www.zhihu.com/search?q=女孩正颌手术被做反变成鞋拔子脸)
 1. [字节调整豆包飞书火山架构](https://www.zhihu.com/search?q=字节调整豆包飞书火山架构)
-1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026名古屋亚运会)
-1. [野人先生首度发声感谢支持](https://www.zhihu.com/search?q=野人先生首度发声感谢支持)
-1. [苹果氟橡胶表带疑因 PFAS
-   超标下架](https://www.zhihu.com/search?q=苹果氟橡胶表带疑因 PFAS 超标下架)
-1. [王鹤棣方称已取证报警](https://www.zhihu.com/search?q=王鹤棣方称已取证报警)
-1. [静和医疗否认王鹤棣曾就诊](https://www.zhihu.com/search?q=静和医疗否认王鹤棣曾就诊)
-1. [HYROX 给运动员全额退费](https://www.zhihu.com/search?q=HYROX
-   给运动员全额退费)
-1. [日方演员扮演丰臣秀吉欢迎亚运选手引争议](https://www.zhihu.com/search?q=日方演员扮演丰臣秀吉欢迎亚运选手引争议)
-1. [2岁幼童从18楼坠亡事发时窗户没关](https://www.zhihu.com/search?q=2岁幼童从18楼坠亡事发时窗户没关)
-1. [天赋到底是什么东西](https://www.zhihu.com/search?q=天赋到底是什么东西)
-1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=美国情报系统现在属于什么水平)
-1. [为什么年轻人反感老一辈的说教](https://www.zhihu.com/search?q=为什么年轻人反感老一辈的说教)
-1. [钓鱼佬最接受不了什么](https://www.zhihu.com/search?q=钓鱼佬最接受不了什么)
-1. [许嵩 冯禧](https://www.zhihu.com/search?q=许嵩 冯禧)
-1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=为什么很多人喜欢和AI对话)
-1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=认知水平高的人有什么特征)
-1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=为什么一定要频繁记录自己)
-1. [语文是在考服从性吗](https://www.zhihu.com/search?q=语文是在考服从性吗)
-1. [沪指站上3900点](https://www.zhihu.com/search?q=沪指站上3900点)
 
 <!-- END -->
 

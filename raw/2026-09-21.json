@@ -1,6 +1,12 @@
 [
-  { "query": "亚运会", "display_query": "亚运会" },
-  { "query": "法考成绩", "display_query": "法考成绩" },
+  {
+    "query": "印尼获意大利赠送退役航母",
+    "display_query": "印尼获意大利赠送退役航母"
+  },
+  {
+    "query": "《我的朋友很少》作者平坂读宣布退休",
+    "display_query": "《我的朋友很少》作者平坂读宣布退休"
+  },
   { "query": "调休", "display_query": "调休" },
   { "query": "热刺VS阿斯顿维拉", "display_query": "热刺VS阿斯顿维拉" },
   {
@@ -14,6 +20,9 @@
     "query": "女孩正颌手术被做反变成鞋拔子脸",
     "display_query": "女孩正颌手术被做反变成鞋拔子脸"
   },
+  { "query": "兰香如故", "display_query": "兰香如故" },
+  { "query": "亚运会", "display_query": "亚运会" },
+  { "query": "法考成绩", "display_query": "法考成绩" },
   {
     "query": "字节调整豆包飞书火山架构",
     "display_query": "字节调整豆包飞书火山架构"

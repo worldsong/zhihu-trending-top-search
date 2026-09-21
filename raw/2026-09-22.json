@@ -1,0 +1,30 @@
+[
+  { "query": "法考成绩", "display_query": "法考成绩" },
+  { "query": "天赋到底是什么东西", "display_query": "天赋到底是什么东西" },
+  {
+    "query": "「绝命毒师」为什么是神剧",
+    "display_query": "「绝命毒师」为什么是神剧"
+  },
+  {
+    "query": "警察是怎么靠细节破案的",
+    "display_query": "警察是怎么靠细节破案的"
+  },
+  {
+    "query": "为什么很多人喜欢和AI对话",
+    "display_query": "为什么很多人喜欢和AI对话"
+  },
+  {
+    "query": "怎样最大程度延长自己的寿命",
+    "display_query": "怎样最大程度延长自己的寿命"
+  },
+  {
+    "query": "为什么一定要频繁记录自己",
+    "display_query": "为什么一定要频繁记录自己"
+  },
+  { "query": "快递涨价", "display_query": "快递涨价" },
+  {
+    "query": "为什么吃碳水如今充满贬义色彩",
+    "display_query": "为什么吃碳水如今充满贬义色彩"
+  },
+  { "query": "普通人要Codex有什么用", "display_query": "普通人要Codex有什么用" }
+]

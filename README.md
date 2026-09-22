@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 22 2026 20:11:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 23 2026 01:23:29 GMT+0800 (China Standard Time) -->
 
 1. [亚运会](https://www.zhihu.com/search?q=亚运会)
 1. [央视中秋晚会](https://www.zhihu.com/search?q=央视中秋晚会)
@@ -27,24 +27,6 @@
 1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026名古屋亚运会)
 1. [盛世天下](https://www.zhihu.com/search?q=盛世天下)
 1. [问界将由赛力斯主导](https://www.zhihu.com/search?q=问界将由赛力斯主导)
-1. [智谱ZCode被曝偷传用户数据](https://www.zhihu.com/search?q=智谱ZCode被曝偷传用户数据)
-1. [前OpenAI研究员发布Jev模型](https://www.zhihu.com/search?q=前OpenAI研究员发布Jev模型)
-1. [专家怒斥尸皮针是救命材料拿去做医美](https://www.zhihu.com/search?q=专家怒斥尸皮针是救命材料拿去做医美)
-1. [被顾客用西瓜砸头摊主获赔近7万](https://www.zhihu.com/search?q=被顾客用西瓜砸头摊主获赔近7万)
-1. [啄木鸟维修全额退费并赔偿 2000
-   元](https://www.zhihu.com/search?q=啄木鸟维修全额退费并赔偿 2000 元)
-1. [中国女团 3-0 尼泊尔](https://www.zhihu.com/search?q=中国女团 3-0 尼泊尔)
-1. [理记炮轰罗永浩](https://www.zhihu.com/search?q=理记炮轰罗永浩)
-1. [名古屋亚运会为何办得如此抠搜](https://www.zhihu.com/search?q=名古屋亚运会为何办得如此抠搜)
-1. [法考成绩](https://www.zhihu.com/search?q=法考成绩)
-1. [天赋到底是什么东西](https://www.zhihu.com/search?q=天赋到底是什么东西)
-1. [「绝命毒师」为什么是神剧](https://www.zhihu.com/search?q=「绝命毒师」为什么是神剧)
-1. [警察是怎么靠细节破案的](https://www.zhihu.com/search?q=警察是怎么靠细节破案的)
-1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=为什么很多人喜欢和AI对话)
-1. [怎样最大程度延长自己的寿命](https://www.zhihu.com/search?q=怎样最大程度延长自己的寿命)
-1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=为什么一定要频繁记录自己)
-1. [为什么吃碳水如今充满贬义色彩](https://www.zhihu.com/search?q=为什么吃碳水如今充满贬义色彩)
-1. [普通人要Codex有什么用](https://www.zhihu.com/search?q=普通人要Codex有什么用)
 
 <!-- END -->
 

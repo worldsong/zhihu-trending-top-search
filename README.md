@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Sep 22 2026 06:53:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Sep 22 2026 09:18:53 GMT+0800 (China Standard Time) -->
 
 1. [法考成绩](https://www.zhihu.com/search?q=法考成绩)
 1. [天赋到底是什么东西](https://www.zhihu.com/search?q=天赋到底是什么东西)

@@ -1,6 +1,13 @@
 [
-  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
+  {
+    "query": "英伟达联想布局 AI 主机",
+    "display_query": "英伟达联想布局 AI 主机"
+  },
   { "query": "问界将由赛力斯主导", "display_query": "问界将由赛力斯主导" },
+  {
+    "query": "古偶剧名 锦月星梦排列组合",
+    "display_query": "古偶剧名 锦月星梦排列组合"
+  },
   { "query": "西贝被曝将彻底倒闭", "display_query": "西贝被曝将彻底倒闭" },
   {
     "query": "前OpenAI研究员发布Jev模型",
@@ -14,16 +21,18 @@
     "query": "被顾客用西瓜砸头摊主获赔近7万",
     "display_query": "被顾客用西瓜砸头摊主获赔近7万"
   },
+  { "query": "理记炮轰罗永浩", "display_query": "理记炮轰罗永浩" },
+  {
+    "query": "名古屋亚运会为何办得如此抠搜",
+    "display_query": "名古屋亚运会为何办得如此抠搜"
+  },
+  { "query": "iG 再进全球总决赛", "display_query": "iG 再进全球总决赛" },
+  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
   {
     "query": "啄木鸟维修全额退费并赔偿 2000 元",
     "display_query": "啄木鸟维修全额退费并赔偿 2000 元"
   },
-  {
-    "query": "英伟达联想布局 AI 主机",
-    "display_query": "英伟达联想布局 AI 主机"
-  },
   { "query": "中国女团 3-0 尼泊尔", "display_query": "中国女团 3-0 尼泊尔" },
-  { "query": "理记炮轰罗永浩", "display_query": "理记炮轰罗永浩" },
   { "query": "亚运会", "display_query": "亚运会" },
   { "query": "央视中秋晚会", "display_query": "央视中秋晚会" },
   { "query": "第一学历歧视", "display_query": "第一学历歧视" },

@@ -15,8 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 23 2026 16:00:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 23 2026 21:54:15 GMT+0800 (China Standard Time) -->
 
+1. [「绝命毒师」为什么是神剧](https://www.zhihu.com/search?q=「绝命毒师」为什么是神剧)
+1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
+1. [警察是怎么靠细节破案的](https://www.zhihu.com/search?q=警察是怎么靠细节破案的)
+1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=为什么很多人喜欢和AI对话)
+1. [怎样最大程度延长自己的寿命](https://www.zhihu.com/search?q=怎样最大程度延长自己的寿命)
+1. [张展硕1500米自由泳夺冠](https://www.zhihu.com/search?q=张展硕1500米自由泳夺冠)
+1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=为什么一定要频繁记录自己)
+1. [休斯顿火箭](https://www.zhihu.com/search?q=休斯顿火箭)
+1. [羽毛球男团](https://www.zhihu.com/search?q=羽毛球男团)
+1. [为什么物理学走向了场论](https://www.zhihu.com/search?q=为什么物理学走向了场论)
 1. [英伟达联想布局 AI 主机](https://www.zhihu.com/search?q=英伟达联想布局 AI
    主机)
 1. [问界将由赛力斯主导](https://www.zhihu.com/search?q=问界将由赛力斯主导)

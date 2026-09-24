@@ -1,9 +1,24 @@
 [
-  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
+  { "query": "隐翅虫", "display_query": "隐翅虫" },
+  { "query": "A股", "display_query": "A股" },
   {
-    "query": "古偶剧名 锦月星梦排列组合",
-    "display_query": "古偶剧名 锦月星梦排列组合"
+    "query": "吉隆口岸小邬警官确认平安",
+    "display_query": "吉隆口岸小邬警官确认平安"
   },
+  {
+    "query": "吉隆泥石流已致16人遇难546人失联",
+    "display_query": "吉隆泥石流已致16人遇难546人失联"
+  },
+  {
+    "query": "尼泊尔泥石流已致903遇难4247失联",
+    "display_query": "尼泊尔泥石流已致903遇难4247失联"
+  },
+  {
+    "query": "通往吉隆口岸 216 国道实现畅通",
+    "display_query": "通往吉隆口岸 216 国道实现畅通"
+  },
+  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
+  { "query": "兰香如故热度", "display_query": "兰香如故热度" },
   {
     "query": "前OpenAI研究员发布Jev模型",
     "display_query": "前OpenAI研究员发布Jev模型"
@@ -11,6 +26,10 @@
   {
     "query": "《生化危机：爆发夜》确认引进",
     "display_query": "《生化危机：爆发夜》确认引进"
+  },
+  {
+    "query": "古偶剧名 锦月星梦排列组合",
+    "display_query": "古偶剧名 锦月星梦排列组合"
   },
   { "query": "理记炮轰罗永浩", "display_query": "理记炮轰罗永浩" },
   {

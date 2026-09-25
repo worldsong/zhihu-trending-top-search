@@ -1,6 +1,9 @@
 [
-  { "query": "隐翅虫", "display_query": "隐翅虫" },
-  { "query": "A股", "display_query": "A股" },
+  {
+    "query": "江伊婷卫冕女子双向飞碟冠军",
+    "display_query": "江伊婷卫冕女子双向飞碟冠军"
+  },
+  { "query": "济公爷爷一路走好", "display_query": "济公爷爷一路走好" },
   {
     "query": "吉隆口岸小邬警官确认平安",
     "display_query": "吉隆口岸小邬警官确认平安"
@@ -26,5 +29,7 @@
   {
     "query": "《生化危机：爆发夜》确认引进",
     "display_query": "《生化危机：爆发夜》确认引进"
-  }
+  },
+  { "query": "隐翅虫", "display_query": "隐翅虫" },
+  { "query": "A股", "display_query": "A股" }
 ]

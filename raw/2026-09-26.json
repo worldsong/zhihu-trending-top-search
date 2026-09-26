@@ -3,14 +3,34 @@
   { "query": "亚运会", "display_query": "亚运会" },
   { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
   {
-    "query": "前OpenAI研究员发布Jev模型",
-    "display_query": "前OpenAI研究员发布Jev模型"
+    "query": "曝患者因医疗纠纷向产科医生扔粪便",
+    "display_query": "曝患者因医疗纠纷向产科医生扔粪便"
   },
   {
     "query": "人民日报评第一学历歧视",
     "display_query": "人民日报评第一学历歧视"
   },
+  {
+    "query": "多所高校取消吸烟学生学费减免资格",
+    "display_query": "多所高校取消吸烟学生学费减免资格"
+  },
   { "query": "看山今日一签", "display_query": "看山今日一签" },
+  {
+    "query": "苹果高管：看到iPhone贴膜浑身不自在",
+    "display_query": "苹果高管：看到iPhone贴膜浑身不自在"
+  },
+  {
+    "query": "中国男篮的病灶到底有多深",
+    "display_query": "中国男篮的病灶到底有多深"
+  },
+  {
+    "query": "每周至少半天校外实践教学",
+    "display_query": "每周至少半天校外实践教学"
+  },
+  {
+    "query": "前OpenAI研究员发布Jev模型",
+    "display_query": "前OpenAI研究员发布Jev模型"
+  },
   {
     "query": "施一公称西湖大学放弃科研量化指标",
     "display_query": "施一公称西湖大学放弃科研量化指标"
@@ -19,10 +39,6 @@
   {
     "query": "管维佳曝男篮球员抱怨郭士强",
     "display_query": "管维佳曝男篮球员抱怨郭士强"
-  },
-  {
-    "query": "中国男篮的病灶到底有多深",
-    "display_query": "中国男篮的病灶到底有多深"
   },
   { "query": "美债收益率飙升", "display_query": "美债收益率飙升" },
   { "query": "AMD市值首破1万亿美元", "display_query": "AMD市值首破1万亿美元" },

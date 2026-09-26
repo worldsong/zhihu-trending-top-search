@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Sep 26 2026 06:52:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Sep 26 2026 08:59:47 GMT+0800 (China Standard Time) -->
 
 1. [央视中秋晚会节目单](https://www.zhihu.com/search?q=央视中秋晚会节目单)
 1. [美债收益率飙升](https://www.zhihu.com/search?q=美债收益率飙升)
@@ -26,6 +26,7 @@
 1. [2026 国庆](https://www.zhihu.com/search?q=2026 国庆)
 1. [管维佳曝男篮球员抱怨郭士强](https://www.zhihu.com/search?q=管维佳曝男篮球员抱怨郭士强)
 1. [AMD市值首破1万亿美元](https://www.zhihu.com/search?q=AMD市值首破1万亿美元)
+1. [中国男篮的病灶到底有多深](https://www.zhihu.com/search?q=中国男篮的病灶到底有多深)
 1. [汪顺亚运会400米混摘铜](https://www.zhihu.com/search?q=汪顺亚运会400米混摘铜)
 
 <!-- END -->

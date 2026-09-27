@@ -15,19 +15,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 27 2026 17:34:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 27 2026 22:51:43 GMT+0800 (China Standard Time) -->
 
+1. [拉塞尔F1阿塞拜疆站夺冠](https://www.zhihu.com/search?q=拉塞尔F1阿塞拜疆站夺冠)
+1. [国乒男团银牌](https://www.zhihu.com/search?q=国乒男团银牌)
 1. [央视中秋晚会节目单](https://www.zhihu.com/search?q=央视中秋晚会节目单)
-1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026名古屋亚运会)
 1. [曝患者因医疗纠纷向产科医生扔粪便](https://www.zhihu.com/search?q=曝患者因医疗纠纷向产科医生扔粪便)
-1. [多所高校取消吸烟学生学费减免资格](https://www.zhihu.com/search?q=多所高校取消吸烟学生学费减免资格)
 1. [看山今日一签](https://www.zhihu.com/search?q=看山今日一签)
 1. [2026 国庆](https://www.zhihu.com/search?q=2026 国庆)
 1. [冯小刚谈《抓特务》制作细节](https://www.zhihu.com/search?q=冯小刚谈《抓特务》制作细节)
+1. [Claude称发现类CRISPR酶系统](https://www.zhihu.com/search?q=Claude称发现类CRISPR酶系统)
+1. [国乒男团 2-3 日本队](https://www.zhihu.com/search?q=国乒男团 2-3 日本队)
+1. [欧国联A级联赛 英格兰2-3西班牙](https://www.zhihu.com/search?q=欧国联A级联赛
+   英格兰2-3西班牙)
+1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026名古屋亚运会)
+1. [多所高校取消吸烟学生学费减免资格](https://www.zhihu.com/search?q=多所高校取消吸烟学生学费减免资格)
 1. [闪身步是什么梗](https://www.zhihu.com/search?q=闪身步是什么梗)
 1. [亚运乒乓男团中国 2-3 日本](https://www.zhihu.com/search?q=亚运乒乓男团中国
    2-3 日本)
-1. [国乒男团 2-3 日本队](https://www.zhihu.com/search?q=国乒男团 2-3 日本队)
 1. [S16全球总决赛赛程公布](https://www.zhihu.com/search?q=S16全球总决赛赛程公布)
 1. [陈芋汐卢为10米台夺金](https://www.zhihu.com/search?q=陈芋汐卢为10米台夺金)
 1. [人民日报评第一学历歧视](https://www.zhihu.com/search?q=人民日报评第一学历歧视)

@@ -1,13 +1,13 @@
 [
+  {
+    "query": "拉塞尔F1阿塞拜疆站夺冠",
+    "display_query": "拉塞尔F1阿塞拜疆站夺冠"
+  },
+  { "query": "国乒男团银牌", "display_query": "国乒男团银牌" },
   { "query": "央视中秋晚会节目单", "display_query": "央视中秋晚会节目单" },
-  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
   {
     "query": "曝患者因医疗纠纷向产科医生扔粪便",
     "display_query": "曝患者因医疗纠纷向产科医生扔粪便"
-  },
-  {
-    "query": "多所高校取消吸烟学生学费减免资格",
-    "display_query": "多所高校取消吸烟学生学费减免资格"
   },
   { "query": "看山今日一签", "display_query": "看山今日一签" },
   { "query": "2026 国庆", "display_query": "2026 国庆" },
@@ -15,12 +15,25 @@
     "query": "冯小刚谈《抓特务》制作细节",
     "display_query": "冯小刚谈《抓特务》制作细节"
   },
+  {
+    "query": "Claude称发现类CRISPR酶系统",
+    "display_query": "Claude称发现类CRISPR酶系统"
+  },
+  { "query": "国乒男团 2-3 日本队", "display_query": "国乒男团 2-3 日本队" },
+  {
+    "query": "欧国联A级联赛 英格兰2-3西班牙",
+    "display_query": "欧国联A级联赛 英格兰2-3西班牙"
+  },
+  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
+  {
+    "query": "多所高校取消吸烟学生学费减免资格",
+    "display_query": "多所高校取消吸烟学生学费减免资格"
+  },
   { "query": "闪身步是什么梗", "display_query": "闪身步是什么梗" },
   {
     "query": "亚运乒乓男团中国 2-3 日本",
     "display_query": "亚运乒乓男团中国 2-3 日本"
   },
-  { "query": "国乒男团 2-3 日本队", "display_query": "国乒男团 2-3 日本队" },
   {
     "query": "S16全球总决赛赛程公布",
     "display_query": "S16全球总决赛赛程公布"

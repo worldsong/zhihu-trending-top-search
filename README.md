@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 28 2026 02:42:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 28 2026 05:41:38 GMT+0800 (China Standard Time) -->
 
 1. [央视中秋晚会节目单](https://www.zhihu.com/search?q=央视中秋晚会节目单)
 1. [曝患者因医疗纠纷向产科医生扔粪便](https://www.zhihu.com/search?q=曝患者因医疗纠纷向产科医生扔粪便)

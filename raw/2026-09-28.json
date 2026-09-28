@@ -14,11 +14,19 @@
     "query": "Claude称发现类CRISPR酶系统",
     "display_query": "Claude称发现类CRISPR酶系统"
   },
-  { "query": "国乒男团 2-3 日本队", "display_query": "国乒男团 2-3 日本队" },
-  { "query": "国乒男团银牌", "display_query": "国乒男团银牌" },
   { "query": "央视2026中秋晚会", "display_query": "央视2026中秋晚会" },
   {
     "query": "交个朋友就售卖发霉溜溜凳道歉",
     "display_query": "交个朋友就售卖发霉溜溜凳道歉"
-  }
+  },
+  {
+    "query": "护士倒在工位抢救10天未认定为工伤",
+    "display_query": "护士倒在工位抢救10天未认定为工伤"
+  },
+  {
+    "query": "车价在降消费者购车均价却上升",
+    "display_query": "车价在降消费者购车均价却上升"
+  },
+  { "query": "国乒男团 2-3 日本队", "display_query": "国乒男团 2-3 日本队" },
+  { "query": "国乒男团银牌", "display_query": "国乒男团银牌" }
 ]

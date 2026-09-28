@@ -15,8 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Sep 28 2026 14:01:02 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Sep 28 2026 22:37:18 GMT+0800 (China Standard Time) -->
 
+1. [亚运会](https://www.zhihu.com/search?q=亚运会)
+1. [仁爱礁](https://www.zhihu.com/search?q=仁爱礁)
+1. [梅西任意球破门](https://www.zhihu.com/search?q=梅西任意球破门)
+1. [「绝命毒师」为什么是神剧](https://www.zhihu.com/search?q=「绝命毒师」为什么是神剧)
+1. [陈圆将男子110米栏夺冠](https://www.zhihu.com/search?q=陈圆将男子110米栏夺冠)
+1. [警察是怎么靠细节破案的](https://www.zhihu.com/search?q=警察是怎么靠细节破案的)
+1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=认知水平高的人有什么特征)
+1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=为什么一定要频繁记录自己)
+1. [财务自由的感觉是怎样的](https://www.zhihu.com/search?q=财务自由的感觉是怎样的)
+1. [为什么吃碳水如今充满贬义色彩](https://www.zhihu.com/search?q=为什么吃碳水如今充满贬义色彩)
 1. [央视中秋晚会节目单](https://www.zhihu.com/search?q=央视中秋晚会节目单)
 1. [曝患者因医疗纠纷向产科医生扔粪便](https://www.zhihu.com/search?q=曝患者因医疗纠纷向产科医生扔粪便)
 1. [看山今日一签](https://www.zhihu.com/search?q=看山今日一签)

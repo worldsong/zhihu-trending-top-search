@@ -15,8 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 30 2026 15:35:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 30 2026 22:18:45 GMT+0800 (China Standard Time) -->
 
+1. [你都见过哪些不动声色的善良](https://www.zhihu.com/search?q=你都见过哪些不动声色的善良)
+1. [飞天奖](https://www.zhihu.com/search?q=飞天奖)
+1. [金鹰奖](https://www.zhihu.com/search?q=金鹰奖)
+1. [「绝命毒师」为什么是神剧](https://www.zhihu.com/search?q=「绝命毒师」为什么是神剧)
+1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=你的低成本爱好是什么)
+1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=美国情报系统现在属于什么水平)
+1. [警察是怎么靠细节破案的](https://www.zhihu.com/search?q=警察是怎么靠细节破案的)
+1. [为什么长期主义者都很厉害](https://www.zhihu.com/search?q=为什么长期主义者都很厉害)
+1. [为什么物理学走向了场论](https://www.zhihu.com/search?q=为什么物理学走向了场论)
+1. [Dior大秀](https://www.zhihu.com/search?q=Dior大秀)
 1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026名古屋亚运会)
 1. [看山今日一签](https://www.zhihu.com/search?q=看山今日一签)
 1. [2026 国庆](https://www.zhihu.com/search?q=2026 国庆)
@@ -32,7 +42,6 @@
 1. [米兰时装周](https://www.zhihu.com/search?q=米兰时装周)
 1. [港漫是如何沦落到如今的地步的](https://www.zhihu.com/search?q=港漫是如何沦落到如今的地步的)
 1. [王楚钦vs林诗栋](https://www.zhihu.com/search?q=王楚钦vs林诗栋)
-1. [「绝命毒师」为什么是神剧](https://www.zhihu.com/search?q=「绝命毒师」为什么是神剧)
 1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=认知水平高的人有什么特征)
 1. [职场中懂规矩比能力更重要吗](https://www.zhihu.com/search?q=职场中懂规矩比能力更重要吗)
 1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=为什么一定要频繁记录自己)

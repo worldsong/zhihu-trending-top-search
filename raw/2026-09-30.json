@@ -1,4 +1,32 @@
 [
+  {
+    "query": "你都见过哪些不动声色的善良",
+    "display_query": "你都见过哪些不动声色的善良"
+  },
+  { "query": "飞天奖", "display_query": "飞天奖" },
+  { "query": "金鹰奖", "display_query": "金鹰奖" },
+  {
+    "query": "「绝命毒师」为什么是神剧",
+    "display_query": "「绝命毒师」为什么是神剧"
+  },
+  { "query": "你的低成本爱好是什么", "display_query": "你的低成本爱好是什么" },
+  {
+    "query": "美国情报系统现在属于什么水平",
+    "display_query": "美国情报系统现在属于什么水平"
+  },
+  {
+    "query": "警察是怎么靠细节破案的",
+    "display_query": "警察是怎么靠细节破案的"
+  },
+  {
+    "query": "为什么长期主义者都很厉害",
+    "display_query": "为什么长期主义者都很厉害"
+  },
+  {
+    "query": "为什么物理学走向了场论",
+    "display_query": "为什么物理学走向了场论"
+  },
+  { "query": "Dior大秀", "display_query": "Dior大秀" },
   { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
   { "query": "看山今日一签", "display_query": "看山今日一签" },
   { "query": "2026 国庆", "display_query": "2026 国庆" },
@@ -28,10 +56,6 @@
     "display_query": "港漫是如何沦落到如今的地步的"
   },
   { "query": "王楚钦vs林诗栋", "display_query": "王楚钦vs林诗栋" },
-  {
-    "query": "「绝命毒师」为什么是神剧",
-    "display_query": "「绝命毒师」为什么是神剧"
-  },
   {
     "query": "认知水平高的人有什么特征",
     "display_query": "认知水平高的人有什么特征"

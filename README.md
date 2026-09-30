@@ -15,8 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Sep 30 2026 09:41:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Sep 30 2026 15:35:04 GMT+0800 (China Standard Time) -->
 
+1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026名古屋亚运会)
+1. [看山今日一签](https://www.zhihu.com/search?q=看山今日一签)
+1. [2026 国庆](https://www.zhihu.com/search?q=2026 国庆)
+1. [刘欢病逝](https://www.zhihu.com/search?q=刘欢病逝)
+1. [刘欢到退休时仍是副教授](https://www.zhihu.com/search?q=刘欢到退休时仍是副教授)
+1. [曝车上冰箱使用率仅5%](https://www.zhihu.com/search?q=曝车上冰箱使用率仅5%)
+1. [亚运女单决赛王曼昱vs孙颖莎](https://www.zhihu.com/search?q=亚运女单决赛王曼昱vs孙颖莎)
+1. [王曼昱战胜孙颖莎夺冠](https://www.zhihu.com/search?q=王曼昱战胜孙颖莎夺冠)
+1. [张家齐妈妈公开念家书批评女儿](https://www.zhihu.com/search?q=张家齐妈妈公开念家书批评女儿)
+1. [张家齐妈妈聊天记录 窒息](https://www.zhihu.com/search?q=张家齐妈妈聊天记录
+   窒息)
 1. [柏林马拉松](https://www.zhihu.com/search?q=柏林马拉松)
 1. [米兰时装周](https://www.zhihu.com/search?q=米兰时装周)
 1. [港漫是如何沦落到如今的地步的](https://www.zhihu.com/search?q=港漫是如何沦落到如今的地步的)

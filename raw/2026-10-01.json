@@ -1,4 +1,23 @@
 [
+  { "query": "国庆节", "display_query": "国庆节" },
+  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
+  { "query": "2026 国庆", "display_query": "2026 国庆" },
+  { "query": "刘欢病逝", "display_query": "刘欢病逝" },
+  {
+    "query": "张家齐妈妈公开念家书批评女儿",
+    "display_query": "张家齐妈妈公开念家书批评女儿"
+  },
+  {
+    "query": "张家齐妈妈原谅张家齐了",
+    "display_query": "张家齐妈妈原谅张家齐了"
+  },
+  { "query": "武契奇宣布辞职", "display_query": "武契奇宣布辞职" },
+  { "query": "樊振东 3-0 格拉尔多", "display_query": "樊振东 3-0 格拉尔多" },
+  {
+    "query": "SpaceX星舰第14 次试飞",
+    "display_query": "SpaceX星舰第14 次试飞"
+  },
+  { "query": "王楚钦 vs 林诗栋", "display_query": "王楚钦 vs 林诗栋" },
   {
     "query": "你都见过哪些不动声色的善良",
     "display_query": "你都见过哪些不动声色的善良"

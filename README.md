@@ -15,8 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 01 2026 07:15:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 01 2026 10:42:36 GMT+0800 (China Standard Time) -->
 
+1. [国庆节](https://www.zhihu.com/search?q=国庆节)
+1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026名古屋亚运会)
+1. [2026 国庆](https://www.zhihu.com/search?q=2026 国庆)
+1. [刘欢病逝](https://www.zhihu.com/search?q=刘欢病逝)
+1. [张家齐妈妈公开念家书批评女儿](https://www.zhihu.com/search?q=张家齐妈妈公开念家书批评女儿)
+1. [张家齐妈妈原谅张家齐了](https://www.zhihu.com/search?q=张家齐妈妈原谅张家齐了)
+1. [武契奇宣布辞职](https://www.zhihu.com/search?q=武契奇宣布辞职)
+1. [樊振东 3-0 格拉尔多](https://www.zhihu.com/search?q=樊振东 3-0 格拉尔多)
+1. [SpaceX星舰第14 次试飞](https://www.zhihu.com/search?q=SpaceX星舰第14 次试飞)
+1. [王楚钦 vs 林诗栋](https://www.zhihu.com/search?q=王楚钦 vs 林诗栋)
 1. [你都见过哪些不动声色的善良](https://www.zhihu.com/search?q=你都见过哪些不动声色的善良)
 1. [飞天奖](https://www.zhihu.com/search?q=飞天奖)
 1. [金鹰奖](https://www.zhihu.com/search?q=金鹰奖)

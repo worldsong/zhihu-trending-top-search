@@ -1,7 +1,27 @@
 [
   { "query": "国庆节", "display_query": "国庆节" },
-  { "query": "赛力斯", "display_query": "赛力斯" },
+  { "query": "披荆斩棘四公", "display_query": "披荆斩棘四公" },
+  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
   { "query": "2026 国庆", "display_query": "2026 国庆" },
+  {
+    "query": "张家齐被问直播赚多少钱算够",
+    "display_query": "张家齐被问直播赚多少钱算够"
+  },
+  {
+    "query": "AI 抽卡出重大成果论文署名归属",
+    "display_query": "AI 抽卡出重大成果论文署名归属"
+  },
+  { "query": "易会满被公诉", "display_query": "易会满被公诉" },
+  {
+    "query": "迪拜航空客机发疑似劫机警报",
+    "display_query": "迪拜航空客机发疑似劫机警报"
+  },
+  {
+    "query": "C罗官宣离开国家队集训",
+    "display_query": "C罗官宣离开国家队集训"
+  },
+  { "query": "国庆假期", "display_query": "国庆假期" },
+  { "query": "赛力斯", "display_query": "赛力斯" },
   { "query": "武契奇宣布辞职", "display_query": "武契奇宣布辞职" },
   { "query": "我国最北高铁正式通车", "display_query": "我国最北高铁正式通车" },
   {
@@ -10,10 +30,6 @@
   },
   { "query": "如何实现财务自由", "display_query": "如何实现财务自由" },
   { "query": "林雨薇长文告别国家队", "display_query": "林雨薇长文告别国家队" },
-  {
-    "query": "张家齐被问直播赚多少钱算够",
-    "display_query": "张家齐被问直播赚多少钱算够"
-  },
   {
     "query": "北京动物园办抓美国白蛾大赛",
     "display_query": "北京动物园办抓美国白蛾大赛"

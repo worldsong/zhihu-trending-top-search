@@ -15,17 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 04 2026 07:24:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 04 2026 11:04:21 GMT+0800 (China Standard Time) -->
 
 1. [国庆节](https://www.zhihu.com/search?q=国庆节)
 1. [披荆斩棘四公](https://www.zhihu.com/search?q=披荆斩棘四公)
 1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026名古屋亚运会)
 1. [2026 国庆](https://www.zhihu.com/search?q=2026 国庆)
-1. [张家齐被问直播赚多少钱算够](https://www.zhihu.com/search?q=张家齐被问直播赚多少钱算够)
 1. [《给阿嬷的情书》累计票房20.05亿](https://www.zhihu.com/search?q=《给阿嬷的情书》累计票房20.05亿)
 1. [AI 抽卡出重大成果论文署名归属](https://www.zhihu.com/search?q=AI
    抽卡出重大成果论文署名归属)
 1. [易会满被公诉](https://www.zhihu.com/search?q=易会满被公诉)
+1. [25 岁画师约稿遭电诈 4 万元后坠亡](https://www.zhihu.com/search?q=25
+   岁画师约稿遭电诈 4 万元后坠亡)
+1. [2025 年全国结婚登记 676.5 万对](https://www.zhihu.com/search?q=2025
+   年全国结婚登记 676.5 万对)
+1. [多家车企9月交付量出炉](https://www.zhihu.com/search?q=多家车企9月交付量出炉)
+1. [张家齐被问直播赚多少钱算够](https://www.zhihu.com/search?q=张家齐被问直播赚多少钱算够)
 1. [迪拜航空客机发疑似劫机警报](https://www.zhihu.com/search?q=迪拜航空客机发疑似劫机警报)
 1. [国庆假期](https://www.zhihu.com/search?q=国庆假期)
 

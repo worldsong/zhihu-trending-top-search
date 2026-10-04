@@ -1,21 +1,35 @@
 [
   { "query": "国庆节", "display_query": "国庆节" },
-  { "query": "披荆斩棘四公", "display_query": "披荆斩棘四公" },
+  { "query": "世界动物日", "display_query": "世界动物日" },
   { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
   { "query": "2026 国庆", "display_query": "2026 国庆" },
   {
     "query": "《给阿嬷的情书》累计票房20.05亿",
     "display_query": "《给阿嬷的情书》累计票房20.05亿"
   },
+  { "query": "房贷贴息1个百分点", "display_query": "房贷贴息1个百分点" },
+  {
+    "query": "25 岁画师约稿遭电诈 4 万元后坠亡",
+    "display_query": "25 岁画师约稿遭电诈 4 万元后坠亡"
+  },
+  {
+    "query": "小沈阳夫妇《什么意思夫妇》热映",
+    "display_query": "小沈阳夫妇《什么意思夫妇》热映"
+  },
+  {
+    "query": "孕妇骑车别车被司机踹翻",
+    "display_query": "孕妇骑车别车被司机踹翻"
+  },
+  {
+    "query": "严子怡一枪力压北口榛花夺冠",
+    "display_query": "严子怡一枪力压北口榛花夺冠"
+  },
+  { "query": "披荆斩棘四公", "display_query": "披荆斩棘四公" },
   {
     "query": "AI 抽卡出重大成果论文署名归属",
     "display_query": "AI 抽卡出重大成果论文署名归属"
   },
   { "query": "易会满被公诉", "display_query": "易会满被公诉" },
-  {
-    "query": "25 岁画师约稿遭电诈 4 万元后坠亡",
-    "display_query": "25 岁画师约稿遭电诈 4 万元后坠亡"
-  },
   {
     "query": "2025 年全国结婚登记 676.5 万对",
     "display_query": "2025 年全国结婚登记 676.5 万对"

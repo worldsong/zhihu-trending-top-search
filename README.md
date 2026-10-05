@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 05 2026 06:02:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 05 2026 09:20:35 GMT+0800 (China Standard Time) -->
 
 1. [世界动物日](https://www.zhihu.com/search?q=世界动物日)
 1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026名古屋亚运会)

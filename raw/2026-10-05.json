@@ -1,6 +1,8 @@
 [
+  { "query": "国庆节", "display_query": "国庆节" },
   { "query": "世界动物日", "display_query": "世界动物日" },
   { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
+  { "query": "2026 国庆", "display_query": "2026 国庆" },
   { "query": "房贷贴息1个百分点", "display_query": "房贷贴息1个百分点" },
   {
     "query": "小沈阳夫妇《什么意思夫妇》热映",

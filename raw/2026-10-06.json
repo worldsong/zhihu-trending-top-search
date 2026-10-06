@@ -1,5 +1,6 @@
 [
   { "query": "国庆节", "display_query": "国庆节" },
+  { "query": "诺贝尔物理学奖预测", "display_query": "诺贝尔物理学奖预测" },
   {
     "query": "伊朗格什姆岛防空系统启动",
     "display_query": "伊朗格什姆岛防空系统启动"

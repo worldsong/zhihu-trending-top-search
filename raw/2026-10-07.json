@@ -2,7 +2,6 @@
   { "query": "国庆节", "display_query": "国庆节" },
   { "query": "韦世豪被红牌罚下", "display_query": "韦世豪被红牌罚下" },
   { "query": "诺贝尔物理学奖预测", "display_query": "诺贝尔物理学奖预测" },
-  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
   { "query": "2026 国庆", "display_query": "2026 国庆" },
   { "query": "邵佳一 国足", "display_query": "邵佳一 国足" },
   {
@@ -14,5 +13,10 @@
     "display_query": "派拉蒙与华纳兄弟探索将正式合并更名"
   },
   { "query": "李昊两扑点球", "display_query": "李昊两扑点球" },
-  { "query": "李昊扑出两个点球", "display_query": "李昊扑出两个点球" }
+  { "query": "李昊扑出两个点球", "display_query": "李昊扑出两个点球" },
+  {
+    "query": "巴勒斯坦球员向国足道歉",
+    "display_query": "巴勒斯坦球员向国足道歉"
+  },
+  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" }
 ]

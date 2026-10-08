@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 08 2026 04:14:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 08 2026 08:30:15 GMT+0800 (China Standard Time) -->
 
 1. [国庆节](https://www.zhihu.com/search?q=国庆节)
 1. [韦世豪被红牌罚下](https://www.zhihu.com/search?q=韦世豪被红牌罚下)
@@ -23,11 +23,12 @@
 1. [2026 国庆](https://www.zhihu.com/search?q=2026 国庆)
 1. [邵佳一 国足](https://www.zhihu.com/search?q=邵佳一 国足)
 1. [国足0比5惨败却让小将接受采访](https://www.zhihu.com/search?q=国足0比5惨败却让小将接受采访)
-1. [《艾希》续作众筹破 1200
-   万元](https://www.zhihu.com/search?q=《艾希》续作众筹破 1200 万元)
 1. [网传俄实验室发生鼠疫泄漏](https://www.zhihu.com/search?q=网传俄实验室发生鼠疫泄漏)
 1. [辅导员被要求与学生同吃同住](https://www.zhihu.com/search?q=辅导员被要求与学生同吃同住)
 1. [张家齐妈妈看见张家齐就哭](https://www.zhihu.com/search?q=张家齐妈妈看见张家齐就哭)
+1. [《生化危机：爆发夜》热映](https://www.zhihu.com/search?q=《生化危机：爆发夜》热映)
+1. [《艾希》续作众筹破 1200
+   万元](https://www.zhihu.com/search?q=《艾希》续作众筹破 1200 万元)
 
 <!-- END -->
 

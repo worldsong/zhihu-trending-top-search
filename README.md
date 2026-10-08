@@ -15,11 +15,12 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 08 2026 08:30:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 08 2026 14:44:40 GMT+0800 (China Standard Time) -->
 
 1. [国庆节](https://www.zhihu.com/search?q=国庆节)
 1. [韦世豪被红牌罚下](https://www.zhihu.com/search?q=韦世豪被红牌罚下)
 1. [诺贝尔物理学奖预测](https://www.zhihu.com/search?q=诺贝尔物理学奖预测)
+1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026名古屋亚运会)
 1. [2026 国庆](https://www.zhihu.com/search?q=2026 国庆)
 1. [邵佳一 国足](https://www.zhihu.com/search?q=邵佳一 国足)
 1. [国足0比5惨败却让小将接受采访](https://www.zhihu.com/search?q=国足0比5惨败却让小将接受采访)

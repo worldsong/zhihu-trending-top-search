@@ -1,4 +1,38 @@
 [
+  { "query": "保时捷回归燃油车", "display_query": "保时捷回归燃油车" },
+  {
+    "query": "网传俄实验室发生鼠疫泄漏",
+    "display_query": "网传俄实验室发生鼠疫泄漏"
+  },
+  { "query": "诺贝尔物理学奖预测", "display_query": "诺贝尔物理学奖预测" },
+  {
+    "query": "《生化危机：爆发夜》热映",
+    "display_query": "《生化危机：爆发夜》热映"
+  },
+  {
+    "query": "2026 诺贝尔生理学或医学奖",
+    "display_query": "2026 诺贝尔生理学或医学奖"
+  },
+  {
+    "query": "代入代露娃的妈妈天塌了",
+    "display_query": "代入代露娃的妈妈天塌了"
+  },
+  {
+    "query": "卡尔·戴塞洛斯等三位学者获 2026 诺贝尔奖",
+    "display_query": "卡尔·戴塞洛斯等三位学者获 2026 诺贝尔奖"
+  },
+  {
+    "query": "卡尔·戴塞洛斯等三位学者因光遗传学获奖",
+    "display_query": "卡尔·戴塞洛斯等三位学者因光遗传学获奖"
+  },
+  {
+    "query": "诺贝尔生理学或医学奖颁给光遗传学",
+    "display_query": "诺贝尔生理学或医学奖颁给光遗传学"
+  },
+  {
+    "query": "游客免费住宿舍学生同意了吗",
+    "display_query": "游客免费住宿舍学生同意了吗"
+  },
   { "query": "国庆节", "display_query": "国庆节" },
   { "query": "三大指数开盘涨跌不一", "display_query": "三大指数开盘涨跌不一" },
   { "query": "全国秋粮收获过四成", "display_query": "全国秋粮收获过四成" },
@@ -7,6 +41,5 @@
   { "query": "郑钦文晋级中网八强", "display_query": "郑钦文晋级中网八强" },
   { "query": "雷霆vs雄鹿", "display_query": "雷霆vs雄鹿" },
   { "query": "节后综合征", "display_query": "节后综合征" },
-  { "query": "诺贝尔物理学奖预测", "display_query": "诺贝尔物理学奖预测" },
   { "query": "开拓者VS勇士", "display_query": "开拓者VS勇士" }
 ]

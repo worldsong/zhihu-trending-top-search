@@ -15,18 +15,30 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 10 2026 07:37:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 10 2026 10:58:44 GMT+0800 (China Standard Time) -->
 
+1. [NBA 季前赛 76 人对战篮网](https://www.zhihu.com/search?q=NBA 季前赛 76
+   人对战篮网)
+1. [中国篮球小将庞清方遭美 ICE
+   拘留](https://www.zhihu.com/search?q=中国篮球小将庞清方遭美 ICE 拘留)
+1. [诺贝尔物理学奖预测](https://www.zhihu.com/search?q=诺贝尔物理学奖预测)
+1. [王艺迪 2-4 张本美和](https://www.zhihu.com/search?q=王艺迪 2-4 张本美和)
+1. [2026 国庆](https://www.zhihu.com/search?q=2026 国庆)
+1. [《生化危机：爆发夜》热映](https://www.zhihu.com/search?q=《生化危机：爆发夜》热映)
+1. [2026 诺贝尔生理学或医学奖](https://www.zhihu.com/search?q=2026
+   诺贝尔生理学或医学奖)
+1. [卡尔·戴塞洛斯等三位学者获 2026
+   诺贝尔奖](https://www.zhihu.com/search?q=卡尔·戴塞洛斯等三位学者获 2026
+   诺贝尔奖)
+1. [卡尔·戴塞洛斯等三位学者因光遗传学获奖](https://www.zhihu.com/search?q=卡尔·戴塞洛斯等三位学者因光遗传学获奖)
+1. [诺贝尔生理学或医学奖颁给光遗传学](https://www.zhihu.com/search?q=诺贝尔生理学或医学奖颁给光遗传学)
 1. [国庆节](https://www.zhihu.com/search?q=国庆节)
 1. [韦世豪被红牌罚下](https://www.zhihu.com/search?q=韦世豪被红牌罚下)
 1. [勇士vs开拓者](https://www.zhihu.com/search?q=勇士vs开拓者)
 1. [鹈鹕VS热火](https://www.zhihu.com/search?q=鹈鹕VS热火)
-1. [诺贝尔物理学奖预测](https://www.zhihu.com/search?q=诺贝尔物理学奖预测)
 1. [奇才VS尼克斯](https://www.zhihu.com/search?q=奇才VS尼克斯)
 1. [小米澎程](https://www.zhihu.com/search?q=小米澎程)
-1. [王艺迪 2-4 张本美和](https://www.zhihu.com/search?q=王艺迪 2-4 张本美和)
 1. [2026德玛西亚杯国际邀请赛](https://www.zhihu.com/search?q=2026德玛西亚杯国际邀请赛)
-1. [2026 国庆](https://www.zhihu.com/search?q=2026 国庆)
 
 <!-- END -->
 

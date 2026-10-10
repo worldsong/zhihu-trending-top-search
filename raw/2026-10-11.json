@@ -1,0 +1,24 @@
+[
+  { "query": "中超联赛", "display_query": "中超联赛" },
+  { "query": "你好星期六", "display_query": "你好星期六" },
+  { "query": "辽宁男篮", "display_query": "辽宁男篮" },
+  { "query": "王曼昱vs张本美和", "display_query": "王曼昱vs张本美和" },
+  {
+    "query": "全国各地最低工资标准公布",
+    "display_query": "全国各地最低工资标准公布"
+  },
+  { "query": "尊界", "display_query": "尊界" },
+  { "query": "王艺迪 2-4 张本美和", "display_query": "王艺迪 2-4 张本美和" },
+  {
+    "query": "2026 诺贝尔生理学或医学奖",
+    "display_query": "2026 诺贝尔生理学或医学奖"
+  },
+  {
+    "query": "卡尔·戴塞洛斯等三位学者获 2026 诺贝尔奖",
+    "display_query": "卡尔·戴塞洛斯等三位学者获 2026 诺贝尔奖"
+  },
+  {
+    "query": "卡尔·戴塞洛斯等三位学者因光遗传学获奖",
+    "display_query": "卡尔·戴塞洛斯等三位学者因光遗传学获奖"
+  }
+]

@@ -1,15 +1,12 @@
 [
   {
-    "query": "NBA 季前赛 76 人对战篮网",
-    "display_query": "NBA 季前赛 76 人对战篮网"
+    "query": "武汉一中学要求家长轮值晚自习",
+    "display_query": "武汉一中学要求家长轮值晚自习"
   },
   {
-    "query": "中国篮球小将庞清方遭美 ICE 拘留",
-    "display_query": "中国篮球小将庞清方遭美 ICE 拘留"
+    "query": "媒体曝OpenAI收入比预期少200亿",
+    "display_query": "媒体曝OpenAI收入比预期少200亿"
   },
-  { "query": "诺贝尔物理学奖预测", "display_query": "诺贝尔物理学奖预测" },
-  { "query": "王艺迪 2-4 张本美和", "display_query": "王艺迪 2-4 张本美和" },
-  { "query": "2026 国庆", "display_query": "2026 国庆" },
   {
     "query": "《生化危机：爆发夜》热映",
     "display_query": "《生化危机：爆发夜》热映"
@@ -30,6 +27,29 @@
     "query": "诺贝尔生理学或医学奖颁给光遗传学",
     "display_query": "诺贝尔生理学或医学奖颁给光遗传学"
   },
+  {
+    "query": "纪录片《缅北电诈覆灭纪实》首播",
+    "display_query": "纪录片《缅北电诈覆灭纪实》首播"
+  },
+  {
+    "query": "生化危机爆发夜评价两极分化",
+    "display_query": "生化危机爆发夜评价两极分化"
+  },
+  {
+    "query": "杭天琪女儿控诉冯文娟破坏家庭",
+    "display_query": "杭天琪女儿控诉冯文娟破坏家庭"
+  },
+  {
+    "query": "NBA 季前赛 76 人对战篮网",
+    "display_query": "NBA 季前赛 76 人对战篮网"
+  },
+  {
+    "query": "中国篮球小将庞清方遭美 ICE 拘留",
+    "display_query": "中国篮球小将庞清方遭美 ICE 拘留"
+  },
+  { "query": "诺贝尔物理学奖预测", "display_query": "诺贝尔物理学奖预测" },
+  { "query": "王艺迪 2-4 张本美和", "display_query": "王艺迪 2-4 张本美和" },
+  { "query": "2026 国庆", "display_query": "2026 国庆" },
   { "query": "国庆节", "display_query": "国庆节" },
   { "query": "韦世豪被红牌罚下", "display_query": "韦世豪被红牌罚下" },
   { "query": "勇士vs开拓者", "display_query": "勇士vs开拓者" },

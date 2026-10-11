@@ -15,14 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 11 2026 07:00:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 11 2026 10:28:15 GMT+0800 (China Standard Time) -->
 
-1. [中超联赛](https://www.zhihu.com/search?q=中超联赛)
-1. [你好星期六](https://www.zhihu.com/search?q=你好星期六)
-1. [辽宁男篮](https://www.zhihu.com/search?q=辽宁男篮)
 1. [王曼昱vs张本美和](https://www.zhihu.com/search?q=王曼昱vs张本美和)
-1. [全国各地最低工资标准公布](https://www.zhihu.com/search?q=全国各地最低工资标准公布)
-1. [尊界](https://www.zhihu.com/search?q=尊界)
 1. [王艺迪 2-4 张本美和](https://www.zhihu.com/search?q=王艺迪 2-4 张本美和)
 1. [2026 诺贝尔生理学或医学奖](https://www.zhihu.com/search?q=2026
    诺贝尔生理学或医学奖)
@@ -30,6 +25,16 @@
    诺贝尔奖](https://www.zhihu.com/search?q=卡尔·戴塞洛斯等三位学者获 2026
    诺贝尔奖)
 1. [卡尔·戴塞洛斯等三位学者因光遗传学获奖](https://www.zhihu.com/search?q=卡尔·戴塞洛斯等三位学者因光遗传学获奖)
+1. [诺贝尔生理学或医学奖颁给光遗传学](https://www.zhihu.com/search?q=诺贝尔生理学或医学奖颁给光遗传学)
+1. [阿根廷队长迎来国家队告别战](https://www.zhihu.com/search?q=阿根廷队长迎来国家队告别战)
+1. [阿根廷vs贝宁](https://www.zhihu.com/search?q=阿根廷vs贝宁)
+1. [俄罗斯实验员疑死于鼠疫](https://www.zhihu.com/search?q=俄罗斯实验员疑死于鼠疫)
+1. [阿根廷 3-0 贝宁](https://www.zhihu.com/search?q=阿根廷 3-0 贝宁)
+1. [中超联赛](https://www.zhihu.com/search?q=中超联赛)
+1. [你好星期六](https://www.zhihu.com/search?q=你好星期六)
+1. [辽宁男篮](https://www.zhihu.com/search?q=辽宁男篮)
+1. [全国各地最低工资标准公布](https://www.zhihu.com/search?q=全国各地最低工资标准公布)
+1. [尊界](https://www.zhihu.com/search?q=尊界)
 
 <!-- END -->
 

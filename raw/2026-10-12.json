@@ -1,18 +1,38 @@
 [
-  { "query": "国庆节", "display_query": "国庆节" },
-  { "query": "王曼昱vs佐藤瞳", "display_query": "王曼昱vs佐藤瞳" },
+  {
+    "query": "打一针让癌细胞生锈而死",
+    "display_query": "打一针让癌细胞生锈而死"
+  },
+  {
+    "query": "黄仁勋马斯克获美国科学奖章",
+    "display_query": "黄仁勋马斯克获美国科学奖章"
+  },
   { "query": "王艺迪 2-4 张本美和", "display_query": "王艺迪 2-4 张本美和" },
   { "query": "2026 国庆", "display_query": "2026 国庆" },
   {
     "query": "纪录片《缅北电诈覆灭纪实》首播",
     "display_query": "纪录片《缅北电诈覆灭纪实》首播"
   },
+  { "query": "保时捷回归燃油车", "display_query": "保时捷回归燃油车" },
+  { "query": "2026 诺贝尔文学奖", "display_query": "2026 诺贝尔文学奖" },
+  {
+    "query": "OpenAI撤回3项数学研究成果",
+    "display_query": "OpenAI撤回3项数学研究成果"
+  },
+  {
+    "query": "OpenAI撤回3篇论文手稿",
+    "display_query": "OpenAI撤回3篇论文手稿"
+  },
+  {
+    "query": "胖东来多收顾客钱补偿两百元",
+    "display_query": "胖东来多收顾客钱补偿两百元"
+  },
+  { "query": "国庆节", "display_query": "国庆节" },
+  { "query": "王曼昱vs佐藤瞳", "display_query": "王曼昱vs佐藤瞳" },
   {
     "query": "尊界V800刹车踏板支架断裂",
     "display_query": "尊界V800刹车踏板支架断裂"
   },
-  { "query": "保时捷回归燃油车", "display_query": "保时捷回归燃油车" },
-  { "query": "2026 诺贝尔文学奖", "display_query": "2026 诺贝尔文学奖" },
   {
     "query": "江淮汽车回应尊界刹车踏板支架断裂",
     "display_query": "江淮汽车回应尊界刹车踏板支架断裂"

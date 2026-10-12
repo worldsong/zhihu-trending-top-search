@@ -15,24 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 12 2026 17:52:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 13 2026 03:27:04 GMT+0800 (China Standard Time) -->
 
-1. [国庆节](https://www.zhihu.com/search?q=国庆节)
-1. [王艺迪 2-4 张本美和](https://www.zhihu.com/search?q=王艺迪 2-4 张本美和)
-1. [2026 国庆](https://www.zhihu.com/search?q=2026 国庆)
+1. [地磁暴](https://www.zhihu.com/search?q=地磁暴)
+1. [印度正式申办2036年奥运会](https://www.zhihu.com/search?q=印度正式申办2036年奥运会)
+1. [苏超四强](https://www.zhihu.com/search?q=苏超四强)
+1. [苏超](https://www.zhihu.com/search?q=苏超)
+1. [中网](https://www.zhihu.com/search?q=中网)
 1. [尊界V800刹车踏板支架断裂](https://www.zhihu.com/search?q=尊界V800刹车踏板支架断裂)
-1. [保时捷回归燃油车](https://www.zhihu.com/search?q=保时捷回归燃油车)
-1. [2026 诺贝尔文学奖](https://www.zhihu.com/search?q=2026 诺贝尔文学奖)
+1. [711关闭印度全部门店](https://www.zhihu.com/search?q=711关闭印度全部门店)
 1. [江淮汽车回应尊界刹车踏板支架断裂](https://www.zhihu.com/search?q=江淮汽车回应尊界刹车踏板支架断裂)
 1. [尊界回应刹车踏板支架断裂](https://www.zhihu.com/search?q=尊界回应刹车踏板支架断裂)
 1. [OpenAI撤回3项数学研究成果](https://www.zhihu.com/search?q=OpenAI撤回3项数学研究成果)
-1. [OpenAI撤回3篇论文手稿](https://www.zhihu.com/search?q=OpenAI撤回3篇论文手稿)
-1. [打一针让癌细胞生锈而死](https://www.zhihu.com/search?q=打一针让癌细胞生锈而死)
-1. [黄仁勋马斯克获美国科学奖章](https://www.zhihu.com/search?q=黄仁勋马斯克获美国科学奖章)
-1. [纪录片《缅北电诈覆灭纪实》首播](https://www.zhihu.com/search?q=纪录片《缅北电诈覆灭纪实》首播)
-1. [胖东来多收顾客钱补偿两百元](https://www.zhihu.com/search?q=胖东来多收顾客钱补偿两百元)
-1. [王曼昱vs佐藤瞳](https://www.zhihu.com/search?q=王曼昱vs佐藤瞳)
-1. [薄肌理论](https://www.zhihu.com/search?q=薄肌理论)
 
 <!-- END -->
 

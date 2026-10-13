@@ -1,17 +1,12 @@
 [
-  { "query": "地磁暴", "display_query": "地磁暴" },
   {
     "query": "印度正式申办2036年奥运会",
     "display_query": "印度正式申办2036年奥运会"
   },
-  { "query": "苏超四强", "display_query": "苏超四强" },
-  { "query": "苏超", "display_query": "苏超" },
-  { "query": "中网", "display_query": "中网" },
   {
     "query": "尊界V800刹车踏板支架断裂",
     "display_query": "尊界V800刹车踏板支架断裂"
   },
-  { "query": "711关闭印度全部门店", "display_query": "711关闭印度全部门店" },
   {
     "query": "江淮汽车回应尊界刹车踏板支架断裂",
     "display_query": "江淮汽车回应尊界刹车踏板支架断裂"
@@ -20,6 +15,32 @@
     "query": "尊界回应刹车踏板支架断裂",
     "display_query": "尊界回应刹车踏板支架断裂"
   },
+  {
+    "query": "广东一医院病房墙体长满霉菌",
+    "display_query": "广东一医院病房墙体长满霉菌"
+  },
+  {
+    "query": "懂车帝称暴力测试是谣言",
+    "display_query": "懂车帝称暴力测试是谣言"
+  },
+  {
+    "query": "懂车帝辟谣被立案调查传闻",
+    "display_query": "懂车帝辟谣被立案调查传闻"
+  },
+  {
+    "query": "永州一局长被举报婚内出轨多人",
+    "display_query": "永州一局长被举报婚内出轨多人"
+  },
+  {
+    "query": "永州通报一局长被举报婚内出轨",
+    "display_query": "永州通报一局长被举报婚内出轨"
+  },
+  { "query": "邵艾伦对话孙宇晨", "display_query": "邵艾伦对话孙宇晨" },
+  { "query": "地磁暴", "display_query": "地磁暴" },
+  { "query": "苏超四强", "display_query": "苏超四强" },
+  { "query": "苏超", "display_query": "苏超" },
+  { "query": "中网", "display_query": "中网" },
+  { "query": "711关闭印度全部门店", "display_query": "711关闭印度全部门店" },
   {
     "query": "OpenAI撤回3项数学研究成果",
     "display_query": "OpenAI撤回3项数学研究成果"

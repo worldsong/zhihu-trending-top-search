@@ -15,24 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 13 2026 16:35:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 14 2026 00:31:32 GMT+0800 (China Standard Time) -->
 
 1. [印度正式申办2036年奥运会](https://www.zhihu.com/search?q=印度正式申办2036年奥运会)
+1. [霸王茶姬致歉](https://www.zhihu.com/search?q=霸王茶姬致歉)
+1. [全市场超4300只个股下挫](https://www.zhihu.com/search?q=全市场超4300只个股下挫)
 1. [尊界V800刹车踏板支架断裂](https://www.zhihu.com/search?q=尊界V800刹车踏板支架断裂)
 1. [江淮汽车回应尊界刹车踏板支架断裂](https://www.zhihu.com/search?q=江淮汽车回应尊界刹车踏板支架断裂)
+1. [苹果计划进军智能家居市场](https://www.zhihu.com/search?q=苹果计划进军智能家居市场)
 1. [尊界回应刹车踏板支架断裂](https://www.zhihu.com/search?q=尊界回应刹车踏板支架断裂)
 1. [广东一医院病房墙体长满霉菌](https://www.zhihu.com/search?q=广东一医院病房墙体长满霉菌)
-1. [懂车帝称暴力测试是谣言](https://www.zhihu.com/search?q=懂车帝称暴力测试是谣言)
-1. [懂车帝辟谣被立案调查传闻](https://www.zhihu.com/search?q=懂车帝辟谣被立案调查传闻)
-1. [永州一局长被举报婚内出轨多人](https://www.zhihu.com/search?q=永州一局长被举报婚内出轨多人)
-1. [永州通报一局长被举报婚内出轨](https://www.zhihu.com/search?q=永州通报一局长被举报婚内出轨)
-1. [邵艾伦对话孙宇晨](https://www.zhihu.com/search?q=邵艾伦对话孙宇晨)
-1. [地磁暴](https://www.zhihu.com/search?q=地磁暴)
-1. [苏超四强](https://www.zhihu.com/search?q=苏超四强)
-1. [苏超](https://www.zhihu.com/search?q=苏超)
-1. [中网](https://www.zhihu.com/search?q=中网)
-1. [711关闭印度全部门店](https://www.zhihu.com/search?q=711关闭印度全部门店)
-1. [OpenAI撤回3项数学研究成果](https://www.zhihu.com/search?q=OpenAI撤回3项数学研究成果)
+1. [双汇被罚1.29亿](https://www.zhihu.com/search?q=双汇被罚1.29亿)
+1. [电影《生化危机：爆发夜》热映](https://www.zhihu.com/search?q=电影《生化危机：爆发夜》热映)
 
 <!-- END -->
 

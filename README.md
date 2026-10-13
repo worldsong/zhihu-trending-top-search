@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 14 2026 00:31:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 14 2026 05:36:13 GMT+0800 (China Standard Time) -->
 
 1. [印度正式申办2036年奥运会](https://www.zhihu.com/search?q=印度正式申办2036年奥运会)
 1. [霸王茶姬致歉](https://www.zhihu.com/search?q=霸王茶姬致歉)

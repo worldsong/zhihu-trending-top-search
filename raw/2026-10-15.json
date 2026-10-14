@@ -1,0 +1,21 @@
+[
+  { "query": "欧冠", "display_query": "欧冠" },
+  { "query": "国考", "display_query": "国考" },
+  { "query": "勇士vs湖人", "display_query": "勇士vs湖人" },
+  { "query": "雷霆VS步行者", "display_query": "雷霆VS步行者" },
+  { "query": "猛龙VS尼克斯", "display_query": "猛龙VS尼克斯" },
+  { "query": "尊界", "display_query": "尊界" },
+  { "query": "无畏契约", "display_query": "无畏契约" },
+  {
+    "query": "尊界V800刹车踏板支架断裂",
+    "display_query": "尊界V800刹车踏板支架断裂"
+  },
+  {
+    "query": "江淮汽车回应尊界刹车踏板支架断裂",
+    "display_query": "江淮汽车回应尊界刹车踏板支架断裂"
+  },
+  {
+    "query": "尊界回应刹车踏板支架断裂",
+    "display_query": "尊界回应刹车踏板支架断裂"
+  }
+]

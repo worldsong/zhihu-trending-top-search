@@ -15,18 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 14 2026 08:41:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 14 2026 13:33:16 GMT+0800 (China Standard Time) -->
 
 1. [印度正式申办2036年奥运会](https://www.zhihu.com/search?q=印度正式申办2036年奥运会)
-1. [霸王茶姬致歉](https://www.zhihu.com/search?q=霸王茶姬致歉)
-1. [全市场超4300只个股下挫](https://www.zhihu.com/search?q=全市场超4300只个股下挫)
 1. [尊界V800刹车踏板支架断裂](https://www.zhihu.com/search?q=尊界V800刹车踏板支架断裂)
 1. [江淮汽车回应尊界刹车踏板支架断裂](https://www.zhihu.com/search?q=江淮汽车回应尊界刹车踏板支架断裂)
-1. [苹果计划进军智能家居市场](https://www.zhihu.com/search?q=苹果计划进军智能家居市场)
 1. [尊界回应刹车踏板支架断裂](https://www.zhihu.com/search?q=尊界回应刹车踏板支架断裂)
-1. [广东一医院病房墙体长满霉菌](https://www.zhihu.com/search?q=广东一医院病房墙体长满霉菌)
 1. [双汇被罚1.29亿](https://www.zhihu.com/search?q=双汇被罚1.29亿)
 1. [电影《生化危机：爆发夜》热映](https://www.zhihu.com/search?q=电影《生化危机：爆发夜》热映)
+1. [傅园慧爸爸意外迎来「宣发期」](https://www.zhihu.com/search?q=傅园慧爸爸意外迎来「宣发期」)
+1. [雅思考试临时取消仅退考试费](https://www.zhihu.com/search?q=雅思考试临时取消仅退考试费)
+1. [四部门终结速成车乱象](https://www.zhihu.com/search?q=四部门终结速成车乱象)
+1. [岸本齐史火影忍者全新漫画](https://www.zhihu.com/search?q=岸本齐史火影忍者全新漫画)
+1. [霸王茶姬致歉](https://www.zhihu.com/search?q=霸王茶姬致歉)
+1. [全市场超4300只个股下挫](https://www.zhihu.com/search?q=全市场超4300只个股下挫)
+1. [苹果计划进军智能家居市场](https://www.zhihu.com/search?q=苹果计划进军智能家居市场)
+1. [广东一医院病房墙体长满霉菌](https://www.zhihu.com/search?q=广东一医院病房墙体长满霉菌)
 
 <!-- END -->
 

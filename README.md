@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 15 2026 03:46:30 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 15 2026 06:44:55 GMT+0800 (China Standard Time) -->
 
 1. [欧冠](https://www.zhihu.com/search?q=欧冠)
 1. [国考](https://www.zhihu.com/search?q=国考)

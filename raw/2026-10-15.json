@@ -1,5 +1,7 @@
 [
+  { "query": "欧冠", "display_query": "欧冠" },
   { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
+  { "query": "独行侠vs鹈鹕", "display_query": "独行侠vs鹈鹕" },
   {
     "query": "尊界V800刹车踏板支架断裂",
     "display_query": "尊界V800刹车踏板支架断裂"
@@ -17,6 +19,18 @@
     "display_query": "雅思考试临时取消仅退考试费"
   },
   {
+    "query": "哈药股份总裁芦传有被立案",
+    "display_query": "哈药股份总裁芦传有被立案"
+  },
+  {
+    "query": "AI 逆向工程工具 REA 爆火",
+    "display_query": "AI 逆向工程工具 REA 爆火"
+  },
+  {
+    "query": "偶像剧扎堆出现「二婚男主」",
+    "display_query": "偶像剧扎堆出现「二婚男主」"
+  },
+  {
     "query": "郑钦文夺得中网女单冠军",
     "display_query": "郑钦文夺得中网女单冠军"
   },
@@ -27,10 +41,6 @@
     "display_query": "日本用工市场再现「挑企业」潮"
   },
   {
-    "query": "AI 逆向工程工具 REA 爆火",
-    "display_query": "AI 逆向工程工具 REA 爆火"
-  },
-  {
     "query": "男子在悬空寺做引体向上被立案",
     "display_query": "男子在悬空寺做引体向上被立案"
   },
@@ -39,6 +49,5 @@
   { "query": "雷霆VS步行者", "display_query": "雷霆VS步行者" },
   { "query": "猛龙VS尼克斯", "display_query": "猛龙VS尼克斯" },
   { "query": "尊界", "display_query": "尊界" },
-  { "query": "无畏契约", "display_query": "无畏契约" },
-  { "query": "欧冠", "display_query": "欧冠" }
+  { "query": "无畏契约", "display_query": "无畏契约" }
 ]

@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 15 2026 06:44:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 15 2026 09:00:33 GMT+0800 (China Standard Time) -->
 
-1. [欧冠](https://www.zhihu.com/search?q=欧冠)
+1. [男子在悬空寺做引体向上被立案](https://www.zhihu.com/search?q=男子在悬空寺做引体向上被立案)
 1. [国考](https://www.zhihu.com/search?q=国考)
 1. [勇士vs湖人](https://www.zhihu.com/search?q=勇士vs湖人)
 1. [雷霆VS步行者](https://www.zhihu.com/search?q=雷霆VS步行者)
@@ -27,6 +27,7 @@
 1. [尊界V800刹车踏板支架断裂](https://www.zhihu.com/search?q=尊界V800刹车踏板支架断裂)
 1. [江淮汽车回应尊界刹车踏板支架断裂](https://www.zhihu.com/search?q=江淮汽车回应尊界刹车踏板支架断裂)
 1. [尊界回应刹车踏板支架断裂](https://www.zhihu.com/search?q=尊界回应刹车踏板支架断裂)
+1. [欧冠](https://www.zhihu.com/search?q=欧冠)
 
 <!-- END -->
 

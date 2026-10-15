@@ -1,5 +1,8 @@
 [
-  { "query": "欧冠", "display_query": "欧冠" },
+  {
+    "query": "男子在悬空寺做引体向上被立案",
+    "display_query": "男子在悬空寺做引体向上被立案"
+  },
   { "query": "国考", "display_query": "国考" },
   { "query": "勇士vs湖人", "display_query": "勇士vs湖人" },
   { "query": "雷霆VS步行者", "display_query": "雷霆VS步行者" },
@@ -17,5 +20,6 @@
   {
     "query": "尊界回应刹车踏板支架断裂",
     "display_query": "尊界回应刹车踏板支架断裂"
-  }
+  },
+  { "query": "欧冠", "display_query": "欧冠" }
 ]

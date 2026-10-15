@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 15 2026 20:11:57 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 16 2026 01:24:57 GMT+0800 (China Standard Time) -->
 
 1. [欧冠](https://www.zhihu.com/search?q=欧冠)
 1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek崩了)
@@ -28,17 +28,6 @@
 1. [AI 逆向工程工具 REA 爆火](https://www.zhihu.com/search?q=AI 逆向工程工具 REA
    爆火)
 1. [偶像剧扎堆出现「二婚男主」](https://www.zhihu.com/search?q=偶像剧扎堆出现「二婚男主」)
-1. [郑钦文夺得中网女单冠军](https://www.zhihu.com/search?q=郑钦文夺得中网女单冠军)
-1. [郑钦文 2-0 安德列娃](https://www.zhihu.com/search?q=郑钦文 2-0 安德列娃)
-1. [郑钦文夺冠后热泪盈眶](https://www.zhihu.com/search?q=郑钦文夺冠后热泪盈眶)
-1. [日本用工市场再现「挑企业」潮](https://www.zhihu.com/search?q=日本用工市场再现「挑企业」潮)
-1. [男子在悬空寺做引体向上被立案](https://www.zhihu.com/search?q=男子在悬空寺做引体向上被立案)
-1. [国考](https://www.zhihu.com/search?q=国考)
-1. [勇士vs湖人](https://www.zhihu.com/search?q=勇士vs湖人)
-1. [雷霆VS步行者](https://www.zhihu.com/search?q=雷霆VS步行者)
-1. [猛龙VS尼克斯](https://www.zhihu.com/search?q=猛龙VS尼克斯)
-1. [尊界](https://www.zhihu.com/search?q=尊界)
-1. [无畏契约](https://www.zhihu.com/search?q=无畏契约)
 
 <!-- END -->
 

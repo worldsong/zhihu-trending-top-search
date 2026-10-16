@@ -1,6 +1,12 @@
 [
-  { "query": "欧冠", "display_query": "欧冠" },
-  { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
+  {
+    "query": "港中大硕士大厂辞职去大专教书",
+    "display_query": "港中大硕士大厂辞职去大专教书"
+  },
+  {
+    "query": "患者送1.9元汽水后举报药房人员收礼",
+    "display_query": "患者送1.9元汽水后举报药房人员收礼"
+  },
   { "query": "独行侠vs鹈鹕", "display_query": "独行侠vs鹈鹕" },
   {
     "query": "尊界V800刹车踏板支架断裂",
@@ -23,11 +29,17 @@
     "display_query": "哈药股份总裁芦传有被立案"
   },
   {
-    "query": "AI 逆向工程工具 REA 爆火",
-    "display_query": "AI 逆向工程工具 REA 爆火"
-  },
-  {
     "query": "偶像剧扎堆出现「二婚男主」",
     "display_query": "偶像剧扎堆出现「二婚男主」"
+  },
+  {
+    "query": "懂车帝质疑尊界V800检测结果",
+    "display_query": "懂车帝质疑尊界V800检测结果"
+  },
+  { "query": "欧冠", "display_query": "欧冠" },
+  { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
+  {
+    "query": "AI 逆向工程工具 REA 爆火",
+    "display_query": "AI 逆向工程工具 REA 爆火"
   }
 ]

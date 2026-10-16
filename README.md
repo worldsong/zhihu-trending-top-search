@@ -15,9 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 16 2026 19:57:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 16 2026 23:55:10 GMT+0800 (China Standard Time) -->
 
 1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek崩了)
+1. [蔡天凤失踪前曾致电多人](https://www.zhihu.com/search?q=蔡天凤失踪前曾致电多人)
 1. [尊界V800刹车踏板支架断裂](https://www.zhihu.com/search?q=尊界V800刹车踏板支架断裂)
 1. [江淮汽车回应尊界刹车踏板支架断裂](https://www.zhihu.com/search?q=江淮汽车回应尊界刹车踏板支架断裂)
 1. [尊界回应刹车踏板支架断裂](https://www.zhihu.com/search?q=尊界回应刹车踏板支架断裂)

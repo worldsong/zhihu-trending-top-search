@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 17 2026 03:04:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 17 2026 06:15:51 GMT+0800 (China Standard Time) -->
 
 1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek崩了)
 1. [蔡天凤失踪前曾致电多人](https://www.zhihu.com/search?q=蔡天凤失踪前曾致电多人)
@@ -26,6 +26,8 @@
 1. [番茄小说签约新规](https://www.zhihu.com/search?q=番茄小说签约新规)
 1. [懂车帝质疑尊界V800检测结果](https://www.zhihu.com/search?q=懂车帝质疑尊界V800检测结果)
 1. [饶毅曝某华人编辑收费200万帮发论文](https://www.zhihu.com/search?q=饶毅曝某华人编辑收费200万帮发论文)
+1. [苹果手表 睡眠呼吸暂停识别功能](https://www.zhihu.com/search?q=苹果手表
+   睡眠呼吸暂停识别功能)
 1. [谷歌发布Gemini4Argon](https://www.zhihu.com/search?q=谷歌发布Gemini4Argon)
 
 <!-- END -->

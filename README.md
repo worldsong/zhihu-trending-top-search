@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 16 2026 23:55:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 17 2026 03:04:46 GMT+0800 (China Standard Time) -->
 
 1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek崩了)
 1. [蔡天凤失踪前曾致电多人](https://www.zhihu.com/search?q=蔡天凤失踪前曾致电多人)
@@ -27,19 +27,6 @@
 1. [懂车帝质疑尊界V800检测结果](https://www.zhihu.com/search?q=懂车帝质疑尊界V800检测结果)
 1. [饶毅曝某华人编辑收费200万帮发论文](https://www.zhihu.com/search?q=饶毅曝某华人编辑收费200万帮发论文)
 1. [谷歌发布Gemini4Argon](https://www.zhihu.com/search?q=谷歌发布Gemini4Argon)
-1. [苹果手表 睡眠呼吸暂停识别功能](https://www.zhihu.com/search?q=苹果手表
-   睡眠呼吸暂停识别功能)
-1. [长实否认李嘉诚逝世](https://www.zhihu.com/search?q=长实否认李嘉诚逝世)
-1. [患者送1.9元汽水后举报药房人员收礼](https://www.zhihu.com/search?q=患者送1.9元汽水后举报药房人员收礼)
-1. [哈药股份总裁芦传有被立案](https://www.zhihu.com/search?q=哈药股份总裁芦传有被立案)
-1. [偶像剧扎堆出现「二婚男主」](https://www.zhihu.com/search?q=偶像剧扎堆出现「二婚男主」)
-1. [科学家首次用中国大模型攻克世界级数学难题](https://www.zhihu.com/search?q=科学家首次用中国大模型攻克世界级数学难题)
-1. [港中大硕士大厂辞职去大专教书](https://www.zhihu.com/search?q=港中大硕士大厂辞职去大专教书)
-1. [独行侠vs鹈鹕](https://www.zhihu.com/search?q=独行侠vs鹈鹕)
-1. [雅思考试临时取消仅退考试费](https://www.zhihu.com/search?q=雅思考试临时取消仅退考试费)
-1. [欧冠](https://www.zhihu.com/search?q=欧冠)
-1. [AI 逆向工程工具 REA 爆火](https://www.zhihu.com/search?q=AI 逆向工程工具 REA
-   爆火)
 
 <!-- END -->
 

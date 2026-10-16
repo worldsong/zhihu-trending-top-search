@@ -1,16 +1,8 @@
 [
-  {
-    "query": "港中大硕士大厂辞职去大专教书",
-    "display_query": "港中大硕士大厂辞职去大专教书"
-  },
+  { "query": "长实否认李嘉诚逝世", "display_query": "长实否认李嘉诚逝世" },
   {
     "query": "患者送1.9元汽水后举报药房人员收礼",
     "display_query": "患者送1.9元汽水后举报药房人员收礼"
-  },
-  { "query": "独行侠vs鹈鹕", "display_query": "独行侠vs鹈鹕" },
-  {
-    "query": "尊界V800刹车踏板支架断裂",
-    "display_query": "尊界V800刹车踏板支架断裂"
   },
   {
     "query": "江淮汽车回应尊界刹车踏板支架断裂",
@@ -21,8 +13,8 @@
     "display_query": "尊界回应刹车踏板支架断裂"
   },
   {
-    "query": "雅思考试临时取消仅退考试费",
-    "display_query": "雅思考试临时取消仅退考试费"
+    "query": "Yandex数据中心遭乌袭击停运",
+    "display_query": "Yandex数据中心遭乌袭击停运"
   },
   {
     "query": "哈药股份总裁芦传有被立案",
@@ -35,6 +27,27 @@
   {
     "query": "懂车帝质疑尊界V800检测结果",
     "display_query": "懂车帝质疑尊界V800检测结果"
+  },
+  {
+    "query": "科学家首次用中国大模型攻克世界级数学难题",
+    "display_query": "科学家首次用中国大模型攻克世界级数学难题"
+  },
+  {
+    "query": "饶毅曝某华人编辑收费200万帮发论文",
+    "display_query": "饶毅曝某华人编辑收费200万帮发论文"
+  },
+  {
+    "query": "港中大硕士大厂辞职去大专教书",
+    "display_query": "港中大硕士大厂辞职去大专教书"
+  },
+  { "query": "独行侠vs鹈鹕", "display_query": "独行侠vs鹈鹕" },
+  {
+    "query": "尊界V800刹车踏板支架断裂",
+    "display_query": "尊界V800刹车踏板支架断裂"
+  },
+  {
+    "query": "雅思考试临时取消仅退考试费",
+    "display_query": "雅思考试临时取消仅退考试费"
   },
   { "query": "欧冠", "display_query": "欧冠" },
   { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },

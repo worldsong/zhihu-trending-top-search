@@ -15,11 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 17 2026 17:47:26 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 17 2026 21:18:27 GMT+0800 (China Standard Time) -->
 
 1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek崩了)
 1. [蔡天凤失踪前曾致电多人](https://www.zhihu.com/search?q=蔡天凤失踪前曾致电多人)
-1. [Yandex数据中心遭乌袭击停运](https://www.zhihu.com/search?q=Yandex数据中心遭乌袭击停运)
 1. [番茄小说签约新规](https://www.zhihu.com/search?q=番茄小说签约新规)
 1. [饶毅曝某华人编辑收费200万帮发论文](https://www.zhihu.com/search?q=饶毅曝某华人编辑收费200万帮发论文)
 1. [苹果手表 睡眠呼吸暂停识别功能](https://www.zhihu.com/search?q=苹果手表
@@ -28,6 +27,9 @@
 1. [A 股 10 月 14 日行情](https://www.zhihu.com/search?q=A 股 10 月 14 日行情)
 1. [硕士年薪 25 万辞职去教书](https://www.zhihu.com/search?q=硕士年薪 25
    万辞职去教书)
+1. [短剧被指让人越看越笨](https://www.zhihu.com/search?q=短剧被指让人越看越笨)
+1. [懂车帝改口北美花生员工身份](https://www.zhihu.com/search?q=懂车帝改口北美花生员工身份)
+1. [Yandex数据中心遭乌袭击停运](https://www.zhihu.com/search?q=Yandex数据中心遭乌袭击停运)
 1. [谷歌发布 AI 游戏创作平台](https://www.zhihu.com/search?q=谷歌发布 AI
    游戏创作平台)
 1. [特斯拉 Roadster 亮相](https://www.zhihu.com/search?q=特斯拉 Roadster 亮相)

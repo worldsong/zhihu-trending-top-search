@@ -4,10 +4,6 @@
     "query": "蔡天凤失踪前曾致电多人",
     "display_query": "蔡天凤失踪前曾致电多人"
   },
-  {
-    "query": "Yandex数据中心遭乌袭击停运",
-    "display_query": "Yandex数据中心遭乌袭击停运"
-  },
   { "query": "番茄小说签约新规", "display_query": "番茄小说签约新规" },
   {
     "query": "饶毅曝某华人编辑收费200万帮发论文",
@@ -25,6 +21,15 @@
   {
     "query": "硕士年薪 25 万辞职去教书",
     "display_query": "硕士年薪 25 万辞职去教书"
+  },
+  { "query": "短剧被指让人越看越笨", "display_query": "短剧被指让人越看越笨" },
+  {
+    "query": "懂车帝改口北美花生员工身份",
+    "display_query": "懂车帝改口北美花生员工身份"
+  },
+  {
+    "query": "Yandex数据中心遭乌袭击停运",
+    "display_query": "Yandex数据中心遭乌袭击停运"
   },
   {
     "query": "谷歌发布 AI 游戏创作平台",

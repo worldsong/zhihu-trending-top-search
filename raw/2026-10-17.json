@@ -1,9 +1,36 @@
 [
-  { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
+  { "query": "特斯拉 Roadster 亮相", "display_query": "特斯拉 Roadster 亮相" },
+  {
+    "query": "上市公司子公司被国网起诉窃电8年",
+    "display_query": "上市公司子公司被国网起诉窃电8年"
+  },
   {
     "query": "蔡天凤失踪前曾致电多人",
     "display_query": "蔡天凤失踪前曾致电多人"
   },
+  {
+    "query": "Yandex数据中心遭乌袭击停运",
+    "display_query": "Yandex数据中心遭乌袭击停运"
+  },
+  { "query": "番茄小说签约新规", "display_query": "番茄小说签约新规" },
+  {
+    "query": "饶毅曝某华人编辑收费200万帮发论文",
+    "display_query": "饶毅曝某华人编辑收费200万帮发论文"
+  },
+  {
+    "query": "《挖掘者》开局不及预期",
+    "display_query": "《挖掘者》开局不及预期"
+  },
+  {
+    "query": "《兰香如故》女主婚后剧情被指劝退",
+    "display_query": "《兰香如故》女主婚后剧情被指劝退"
+  },
+  { "query": "A 股 10 月 14 日行情", "display_query": "A 股 10 月 14 日行情" },
+  {
+    "query": "硕士年薪 25 万辞职去教书",
+    "display_query": "硕士年薪 25 万辞职去教书"
+  },
+  { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
   {
     "query": "尊界V800刹车踏板支架断裂",
     "display_query": "尊界V800刹车踏板支架断裂"
@@ -17,17 +44,8 @@
     "display_query": "尊界回应刹车踏板支架断裂"
   },
   {
-    "query": "Yandex数据中心遭乌袭击停运",
-    "display_query": "Yandex数据中心遭乌袭击停运"
-  },
-  { "query": "番茄小说签约新规", "display_query": "番茄小说签约新规" },
-  {
     "query": "懂车帝质疑尊界V800检测结果",
     "display_query": "懂车帝质疑尊界V800检测结果"
-  },
-  {
-    "query": "饶毅曝某华人编辑收费200万帮发论文",
-    "display_query": "饶毅曝某华人编辑收费200万帮发论文"
   },
   {
     "query": "苹果手表 睡眠呼吸暂停识别功能",

@@ -15,34 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 18 2026 22:57:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 19 2026 01:43:21 GMT+0800 (China Standard Time) -->
 
-1. [「加一秒」要消失了](https://www.zhihu.com/search?q=「加一秒」要消失了)
-1. [茉莉奶白买一送一活动爆单](https://www.zhihu.com/search?q=茉莉奶白买一送一活动爆单)
+1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek崩了)
 1. [2岁幼童从18楼坠亡事发时窗户没关](https://www.zhihu.com/search?q=2岁幼童从18楼坠亡事发时窗户没关)
 1. [蔡天凤失踪前曾致电多人](https://www.zhihu.com/search?q=蔡天凤失踪前曾致电多人)
 1. [番茄小说签约新规](https://www.zhihu.com/search?q=番茄小说签约新规)
-1. [科学家首次用中国大模型攻克世界级数学难题](https://www.zhihu.com/search?q=科学家首次用中国大模型攻克世界级数学难题)
 1. [DeepSeek宣布故障补偿方案](https://www.zhihu.com/search?q=DeepSeek宣布故障补偿方案)
 1. [二十岁拿国际 A
    类影后和四十岁区别](https://www.zhihu.com/search?q=二十岁拿国际 A
    类影后和四十岁区别)
 1. [DeepSeek故障补偿](https://www.zhihu.com/search?q=DeepSeek故障补偿)
 1. [黄子韬徐艺洋宣布当爸妈](https://www.zhihu.com/search?q=黄子韬徐艺洋宣布当爸妈)
-1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek崩了)
-1. [短剧被指让人越看越笨](https://www.zhihu.com/search?q=短剧被指让人越看越笨)
-1. [蒙古国草原火灾](https://www.zhihu.com/search?q=蒙古国草原火灾)
-1. [苹果手表 睡眠呼吸暂停识别功能](https://www.zhihu.com/search?q=苹果手表
-   睡眠呼吸暂停识别功能)
-1. [A 股 10 月 14 日行情](https://www.zhihu.com/search?q=A 股 10 月 14 日行情)
-1. [李秀满新女团被曝最小成员仅 13
-   岁](https://www.zhihu.com/search?q=李秀满新女团被曝最小成员仅 13 岁)
-1. [女子转走前男友近20万被判返还](https://www.zhihu.com/search?q=女子转走前男友近20万被判返还)
-1. [2700元搞死一家店铺](https://www.zhihu.com/search?q=2700元搞死一家店铺)
-1. [《兰香如故》女主婚后剧情被指劝退](https://www.zhihu.com/search?q=《兰香如故》女主婚后剧情被指劝退)
-1. [懂车帝改口北美花生员工身份](https://www.zhihu.com/search?q=懂车帝改口北美花生员工身份)
-1. [研究显示中国高校教师平均年薪 15.54
-   万元](https://www.zhihu.com/search?q=研究显示中国高校教师平均年薪 15.54 万元)
+1. [三部门调查尊界刹车踏板支架断裂问题](https://www.zhihu.com/search?q=三部门调查尊界刹车踏板支架断裂问题)
+1. [申真谞斩获烂柯杯成九冠王](https://www.zhihu.com/search?q=申真谞斩获烂柯杯成九冠王)
 
 <!-- END -->
 

@@ -13,10 +13,6 @@
     "query": "DeepSeek宣布故障补偿方案",
     "display_query": "DeepSeek宣布故障补偿方案"
   },
-  {
-    "query": "二十岁拿国际 A 类影后和四十岁区别",
-    "display_query": "二十岁拿国际 A 类影后和四十岁区别"
-  },
   { "query": "DeepSeek故障补偿", "display_query": "DeepSeek故障补偿" },
   {
     "query": "黄子韬徐艺洋宣布当爸妈",
@@ -29,5 +25,13 @@
   {
     "query": "申真谞斩获烂柯杯成九冠王",
     "display_query": "申真谞斩获烂柯杯成九冠王"
+  },
+  {
+    "query": "13 岁女团成员父母被曝恶意欠薪",
+    "display_query": "13 岁女团成员父母被曝恶意欠薪"
+  },
+  {
+    "query": "二十岁拿国际 A 类影后和四十岁区别",
+    "display_query": "二十岁拿国际 A 类影后和四十岁区别"
   }
 ]

@@ -15,8 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 20 2026 07:59:17 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 20 2026 11:30:06 GMT+0800 (China Standard Time) -->
 
+1. [山姆回应下架好物维权系AI拼接](https://www.zhihu.com/search?q=山姆回应下架好物维权系AI拼接)
+1. [央行将退出存贷款基准利率](https://www.zhihu.com/search?q=央行将退出存贷款基准利率)
+1. [女子晒手机单号遭5人接力冒领](https://www.zhihu.com/search?q=女子晒手机单号遭5人接力冒领)
+1. [iPhoneDuo一分钟售罄](https://www.zhihu.com/search?q=iPhoneDuo一分钟售罄)
+1. [女子转走前男友近20万被判返还](https://www.zhihu.com/search?q=女子转走前男友近20万被判返还)
+1. [自愿放弃社保无效](https://www.zhihu.com/search?q=自愿放弃社保无效)
+1. [DeepSeek V4.1 Flash 发布新版本](https://www.zhihu.com/search?q=DeepSeek V4.1
+   Flash 发布新版本)
+1. [英伟达市值9天蒸发4万亿](https://www.zhihu.com/search?q=英伟达市值9天蒸发4万亿)
+1. [95后小伙兼职做共享儿女](https://www.zhihu.com/search?q=95后小伙兼职做共享儿女)
+1. [巴萨5比2贝蒂斯](https://www.zhihu.com/search?q=巴萨5比2贝蒂斯)
 1. [北京JDG对战长沙TES](https://www.zhihu.com/search?q=北京JDG对战长沙TES)
 1. [如何用最少的钱打扮自己](https://www.zhihu.com/search?q=如何用最少的钱打扮自己)
 1. [中年人了还有减肥的必要吗](https://www.zhihu.com/search?q=中年人了还有减肥的必要吗)

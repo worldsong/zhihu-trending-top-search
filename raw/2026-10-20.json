@@ -1,12 +1,12 @@
 [
-  {
-    "query": "司美格鲁肽在美遭批量起诉",
-    "display_query": "司美格鲁肽在美遭批量起诉"
-  },
+  { "query": "退休后旅游有意义吗", "display_query": "退休后旅游有意义吗" },
+  { "query": "兰香如故", "display_query": "兰香如故" },
+  { "query": "嫁金钗", "display_query": "嫁金钗" },
   {
     "query": "Yandex数据中心遭乌袭击停运",
     "display_query": "Yandex数据中心遭乌袭击停运"
   },
+  { "query": "缩量", "display_query": "缩量" },
   {
     "query": "女子晒手机单号遭5人接力冒领",
     "display_query": "女子晒手机单号遭5人接力冒领"
@@ -18,12 +18,16 @@
     "display_query": "妈妈因大一儿子未考技能证书降生活费"
   },
   {
-    "query": "DeepSeek V4.1 Flash 发布新版本",
-    "display_query": "DeepSeek V4.1 Flash 发布新版本"
-  },
-  {
     "query": "英伟达市值9天蒸发4万亿",
     "display_query": "英伟达市值9天蒸发4万亿"
+  },
+  {
+    "query": "司美格鲁肽在美遭批量起诉",
+    "display_query": "司美格鲁肽在美遭批量起诉"
+  },
+  {
+    "query": "DeepSeek V4.1 Flash 发布新版本",
+    "display_query": "DeepSeek V4.1 Flash 发布新版本"
   },
   {
     "query": "95后小伙兼职做共享儿女",

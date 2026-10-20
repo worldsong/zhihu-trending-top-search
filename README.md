@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 20 2026 21:56:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 21 2026 02:10:29 GMT+0800 (China Standard Time) -->
 
 1. [退休后旅游有意义吗](https://www.zhihu.com/search?q=退休后旅游有意义吗)
 1. [兰香如故](https://www.zhihu.com/search?q=兰香如故)
@@ -27,25 +27,6 @@
 1. [自愿放弃社保无效](https://www.zhihu.com/search?q=自愿放弃社保无效)
 1. [妈妈因大一儿子未考技能证书降生活费](https://www.zhihu.com/search?q=妈妈因大一儿子未考技能证书降生活费)
 1. [英伟达市值9天蒸发4万亿](https://www.zhihu.com/search?q=英伟达市值9天蒸发4万亿)
-1. [司美格鲁肽在美遭批量起诉](https://www.zhihu.com/search?q=司美格鲁肽在美遭批量起诉)
-1. [DeepSeek V4.1 Flash 发布新版本](https://www.zhihu.com/search?q=DeepSeek V4.1
-   Flash 发布新版本)
-1. [95后小伙兼职做共享儿女](https://www.zhihu.com/search?q=95后小伙兼职做共享儿女)
-1. [巴萨5比2贝蒂斯](https://www.zhihu.com/search?q=巴萨5比2贝蒂斯)
-1. [山姆回应下架好物维权系AI拼接](https://www.zhihu.com/search?q=山姆回应下架好物维权系AI拼接)
-1. [央行将退出存贷款基准利率](https://www.zhihu.com/search?q=央行将退出存贷款基准利率)
-1. [iPhoneDuo一分钟售罄](https://www.zhihu.com/search?q=iPhoneDuo一分钟售罄)
-1. [女子转走前男友近20万被判返还](https://www.zhihu.com/search?q=女子转走前男友近20万被判返还)
-1. [北京JDG对战长沙TES](https://www.zhihu.com/search?q=北京JDG对战长沙TES)
-1. [如何用最少的钱打扮自己](https://www.zhihu.com/search?q=如何用最少的钱打扮自己)
-1. [中年人了还有减肥的必要吗](https://www.zhihu.com/search?q=中年人了还有减肥的必要吗)
-1. [如何才能永保旺盛的精力](https://www.zhihu.com/search?q=如何才能永保旺盛的精力)
-1. [鳄鱼和鸟类不会衰老是真的吗](https://www.zhihu.com/search?q=鳄鱼和鸟类不会衰老是真的吗)
-1. [怎样避免活在信息茧房之中](https://www.zhihu.com/search?q=怎样避免活在信息茧房之中)
-1. [为什么大多数人没有超强的执行力](https://www.zhihu.com/search?q=为什么大多数人没有超强的执行力)
-1. [怎么样做到真正的不内耗](https://www.zhihu.com/search?q=怎么样做到真正的不内耗)
-1. [能讲一个身边的无解阳谋吗](https://www.zhihu.com/search?q=能讲一个身边的无解阳谋吗)
-1. [立场重要还是是非重要](https://www.zhihu.com/search?q=立场重要还是是非重要)
 
 <!-- END -->
 

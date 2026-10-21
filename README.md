@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 21 2026 23:41:13 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 22 2026 03:42:45 GMT+0800 (China Standard Time) -->
 
 1. [台风](https://www.zhihu.com/search?q=台风)
 1. [NBA常规赛](https://www.zhihu.com/search?q=NBA常规赛)
@@ -27,20 +27,6 @@
 1. [台风蔷琵加强为超强台风](https://www.zhihu.com/search?q=台风蔷琵加强为超强台风)
 1. [建议售价1980的眼镜片批发价30](https://www.zhihu.com/search?q=建议售价1980的眼镜片批发价30)
 1. [孙悟空林黛玉圣黛CP缘何爆火](https://www.zhihu.com/search?q=孙悟空林黛玉圣黛CP缘何爆火)
-1. [2026 年维密大秀](https://www.zhihu.com/search?q=2026 年维密大秀)
-1. [主播齐枫遇选手摆烂反被封号](https://www.zhihu.com/search?q=主播齐枫遇选手摆烂反被封号)
-1. [妈妈因大一儿子未考技能证书降生活费](https://www.zhihu.com/search?q=妈妈因大一儿子未考技能证书降生活费)
-1. [AB型爸A型妈生出O型娃](https://www.zhihu.com/search?q=AB型爸A型妈生出O型娃)
-1. [2026 法考主观题](https://www.zhihu.com/search?q=2026 法考主观题)
-1. [七旬老人半年偷104瓶酒被抓](https://www.zhihu.com/search?q=七旬老人半年偷104瓶酒被抓)
-1. [孕妇取消订单快递员称被登记为投诉](https://www.zhihu.com/search?q=孕妇取消订单快递员称被登记为投诉)
-1. [退休后旅游有意义吗](https://www.zhihu.com/search?q=退休后旅游有意义吗)
-1. [兰香如故](https://www.zhihu.com/search?q=兰香如故)
-1. [嫁金钗](https://www.zhihu.com/search?q=嫁金钗)
-1. [缩量](https://www.zhihu.com/search?q=缩量)
-1. [特斯拉SpaceX大跌](https://www.zhihu.com/search?q=特斯拉SpaceX大跌)
-1. [防癌神药出厂价不到1块钱](https://www.zhihu.com/search?q=防癌神药出厂价不到1块钱)
-1. [自愿放弃社保无效](https://www.zhihu.com/search?q=自愿放弃社保无效)
 
 <!-- END -->
 

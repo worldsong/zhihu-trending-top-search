@@ -12,7 +12,6 @@
     "display_query": "女子晒手机单号遭5人接力冒领"
   },
   { "query": "特斯拉SpaceX大跌", "display_query": "特斯拉SpaceX大跌" },
-  { "query": "自愿放弃社保无效", "display_query": "自愿放弃社保无效" },
   {
     "query": "妈妈因大一儿子未考技能证书降生活费",
     "display_query": "妈妈因大一儿子未考技能证书降生活费"
@@ -20,5 +19,10 @@
   {
     "query": "英伟达市值9天蒸发4万亿",
     "display_query": "英伟达市值9天蒸发4万亿"
-  }
+  },
+  {
+    "query": "防癌神药出厂价不到1块钱",
+    "display_query": "防癌神药出厂价不到1块钱"
+  },
+  { "query": "自愿放弃社保无效", "display_query": "自愿放弃社保无效" }
 ]

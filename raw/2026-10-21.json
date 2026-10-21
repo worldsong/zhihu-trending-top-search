@@ -1,25 +1,26 @@
 [
+  { "query": "台风", "display_query": "台风" },
+  { "query": "NBA常规赛", "display_query": "NBA常规赛" },
+  { "query": "《兰香如故》热播", "display_query": "《兰香如故》热播" },
   {
-    "query": "主播齐枫遇选手摆烂反被封号",
-    "display_query": "主播齐枫遇选手摆烂反被封号"
+    "query": "Yandex数据中心遭乌袭击停运",
+    "display_query": "Yandex数据中心遭乌袭击停运"
   },
   {
-    "query": "台风蔷琵加强为超强台风",
-    "display_query": "台风蔷琵加强为超强台风"
+    "query": "女子晒手机单号遭5人接力冒领",
+    "display_query": "女子晒手机单号遭5人接力冒领"
   },
   {
-    "query": "妈妈因大一儿子未考技能证书降生活费",
-    "display_query": "妈妈因大一儿子未考技能证书降生活费"
+    "query": "英伟达市值9天蒸发4万亿",
+    "display_query": "英伟达市值9天蒸发4万亿"
   },
-  { "query": "AB型爸A型妈生出O型娃", "display_query": "AB型爸A型妈生出O型娃" },
   {
     "query": "大麦就肖战演唱会天价票谣言报警",
     "display_query": "大麦就肖战演唱会天价票谣言报警"
   },
-  { "query": "2026 法考主观题", "display_query": "2026 法考主观题" },
   {
-    "query": "七旬老人半年偷104瓶酒被抓",
-    "display_query": "七旬老人半年偷104瓶酒被抓"
+    "query": "台风蔷琵加强为超强台风",
+    "display_query": "台风蔷琵加强为超强台风"
   },
   {
     "query": "孙悟空林黛玉圣黛CP缘何爆火",
@@ -27,26 +28,28 @@
   },
   { "query": "2026 年维密大秀", "display_query": "2026 年维密大秀" },
   {
+    "query": "主播齐枫遇选手摆烂反被封号",
+    "display_query": "主播齐枫遇选手摆烂反被封号"
+  },
+  {
+    "query": "妈妈因大一儿子未考技能证书降生活费",
+    "display_query": "妈妈因大一儿子未考技能证书降生活费"
+  },
+  { "query": "AB型爸A型妈生出O型娃", "display_query": "AB型爸A型妈生出O型娃" },
+  { "query": "2026 法考主观题", "display_query": "2026 法考主观题" },
+  {
+    "query": "七旬老人半年偷104瓶酒被抓",
+    "display_query": "七旬老人半年偷104瓶酒被抓"
+  },
+  {
     "query": "孕妇取消订单快递员称被登记为投诉",
     "display_query": "孕妇取消订单快递员称被登记为投诉"
   },
   { "query": "退休后旅游有意义吗", "display_query": "退休后旅游有意义吗" },
   { "query": "兰香如故", "display_query": "兰香如故" },
   { "query": "嫁金钗", "display_query": "嫁金钗" },
-  {
-    "query": "Yandex数据中心遭乌袭击停运",
-    "display_query": "Yandex数据中心遭乌袭击停运"
-  },
   { "query": "缩量", "display_query": "缩量" },
-  {
-    "query": "女子晒手机单号遭5人接力冒领",
-    "display_query": "女子晒手机单号遭5人接力冒领"
-  },
   { "query": "特斯拉SpaceX大跌", "display_query": "特斯拉SpaceX大跌" },
-  {
-    "query": "英伟达市值9天蒸发4万亿",
-    "display_query": "英伟达市值9天蒸发4万亿"
-  },
   {
     "query": "防癌神药出厂价不到1块钱",
     "display_query": "防癌神药出厂价不到1块钱"

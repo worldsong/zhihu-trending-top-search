@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 22 2026 06:50:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 22 2026 09:01:45 GMT+0800 (China Standard Time) -->
 
 1. [台风](https://www.zhihu.com/search?q=台风)
 1. [NBA常规赛](https://www.zhihu.com/search?q=NBA常规赛)
@@ -24,9 +24,10 @@
 1. [女子晒手机单号遭5人接力冒领](https://www.zhihu.com/search?q=女子晒手机单号遭5人接力冒领)
 1. [英伟达市值9天蒸发4万亿](https://www.zhihu.com/search?q=英伟达市值9天蒸发4万亿)
 1. [大麦就肖战演唱会天价票谣言报警](https://www.zhihu.com/search?q=大麦就肖战演唱会天价票谣言报警)
-1. [台风蔷琵加强为超强台风](https://www.zhihu.com/search?q=台风蔷琵加强为超强台风)
 1. [建议售价1980的眼镜片批发价30](https://www.zhihu.com/search?q=建议售价1980的眼镜片批发价30)
 1. [孙悟空林黛玉圣黛CP缘何爆火](https://www.zhihu.com/search?q=孙悟空林黛玉圣黛CP缘何爆火)
+1. [2026 年维密大秀](https://www.zhihu.com/search?q=2026 年维密大秀)
+1. [台风蔷琵加强为超强台风](https://www.zhihu.com/search?q=台风蔷琵加强为超强台风)
 
 <!-- END -->
 

@@ -15,13 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 22 2026 14:43:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 22 2026 20:34:00 GMT+0800 (China Standard Time) -->
 
-1. [问界海外车型拟采用博世方案](https://www.zhihu.com/search?q=问界海外车型拟采用博世方案)
-1. [独立游戏Demo一天被AI抄走](https://www.zhihu.com/search?q=独立游戏Demo一天被AI抄走)
+1. [欧冠](https://www.zhihu.com/search?q=欧冠)
+1. [问界](https://www.zhihu.com/search?q=问界)
+1. [大同下雪了](https://www.zhihu.com/search?q=大同下雪了)
+1. [勇士vs湖人](https://www.zhihu.com/search?q=勇士vs湖人)
+1. [《兰香如故》热播](https://www.zhihu.com/search?q=《兰香如故》热播)
+1. [嫁金钗](https://www.zhihu.com/search?q=嫁金钗)
+1. [Yandex数据中心遭乌袭击停运](https://www.zhihu.com/search?q=Yandex数据中心遭乌袭击停运)
 1. [英伟达市值9天蒸发4万亿](https://www.zhihu.com/search?q=英伟达市值9天蒸发4万亿)
 1. [建议售价1980的眼镜片批发价30](https://www.zhihu.com/search?q=建议售价1980的眼镜片批发价30)
 1. [灵活就业人员可贷款缴社保](https://www.zhihu.com/search?q=灵活就业人员可贷款缴社保)
+1. [问界海外车型拟采用博世方案](https://www.zhihu.com/search?q=问界海外车型拟采用博世方案)
+1. [独立游戏Demo一天被AI抄走](https://www.zhihu.com/search?q=独立游戏Demo一天被AI抄走)
 1. [多家学术期刊拒绝AI参与撰稿](https://www.zhihu.com/search?q=多家学术期刊拒绝AI参与撰稿)
 1. [DeepSeek开放自研搜索API](https://www.zhihu.com/search?q=DeepSeek开放自研搜索API)
 1. [潘斌龙新片《杯雪·一战成名》上线](https://www.zhihu.com/search?q=潘斌龙新片《杯雪·一战成名》上线)
@@ -29,8 +36,6 @@
 1. [日本流行取消吃饭](https://www.zhihu.com/search?q=日本流行取消吃饭)
 1. [台风](https://www.zhihu.com/search?q=台风)
 1. [NBA常规赛](https://www.zhihu.com/search?q=NBA常规赛)
-1. [《兰香如故》热播](https://www.zhihu.com/search?q=《兰香如故》热播)
-1. [Yandex数据中心遭乌袭击停运](https://www.zhihu.com/search?q=Yandex数据中心遭乌袭击停运)
 1. [女子晒手机单号遭5人接力冒领](https://www.zhihu.com/search?q=女子晒手机单号遭5人接力冒领)
 1. [大麦就肖战演唱会天价票谣言报警](https://www.zhihu.com/search?q=大麦就肖战演唱会天价票谣言报警)
 1. [孙悟空林黛玉圣黛CP缘何爆火](https://www.zhihu.com/search?q=孙悟空林黛玉圣黛CP缘何爆火)

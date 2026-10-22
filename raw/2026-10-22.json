@@ -1,11 +1,13 @@
 [
+  { "query": "欧冠", "display_query": "欧冠" },
+  { "query": "问界", "display_query": "问界" },
+  { "query": "大同下雪了", "display_query": "大同下雪了" },
+  { "query": "勇士vs湖人", "display_query": "勇士vs湖人" },
+  { "query": "《兰香如故》热播", "display_query": "《兰香如故》热播" },
+  { "query": "嫁金钗", "display_query": "嫁金钗" },
   {
-    "query": "问界海外车型拟采用博世方案",
-    "display_query": "问界海外车型拟采用博世方案"
-  },
-  {
-    "query": "独立游戏Demo一天被AI抄走",
-    "display_query": "独立游戏Demo一天被AI抄走"
+    "query": "Yandex数据中心遭乌袭击停运",
+    "display_query": "Yandex数据中心遭乌袭击停运"
   },
   {
     "query": "英伟达市值9天蒸发4万亿",
@@ -18,6 +20,14 @@
   {
     "query": "灵活就业人员可贷款缴社保",
     "display_query": "灵活就业人员可贷款缴社保"
+  },
+  {
+    "query": "问界海外车型拟采用博世方案",
+    "display_query": "问界海外车型拟采用博世方案"
+  },
+  {
+    "query": "独立游戏Demo一天被AI抄走",
+    "display_query": "独立游戏Demo一天被AI抄走"
   },
   {
     "query": "多家学术期刊拒绝AI参与撰稿",
@@ -38,11 +48,6 @@
   { "query": "日本流行取消吃饭", "display_query": "日本流行取消吃饭" },
   { "query": "台风", "display_query": "台风" },
   { "query": "NBA常规赛", "display_query": "NBA常规赛" },
-  { "query": "《兰香如故》热播", "display_query": "《兰香如故》热播" },
-  {
-    "query": "Yandex数据中心遭乌袭击停运",
-    "display_query": "Yandex数据中心遭乌袭击停运"
-  },
   {
     "query": "女子晒手机单号遭5人接力冒领",
     "display_query": "女子晒手机单号遭5人接力冒领"

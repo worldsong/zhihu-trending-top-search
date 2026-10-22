@@ -1,0 +1,24 @@
+[
+  { "query": "欧冠", "display_query": "欧冠" },
+  { "query": "问界", "display_query": "问界" },
+  { "query": "大同下雪了", "display_query": "大同下雪了" },
+  { "query": "勇士vs湖人", "display_query": "勇士vs湖人" },
+  { "query": "《兰香如故》热播", "display_query": "《兰香如故》热播" },
+  { "query": "嫁金钗", "display_query": "嫁金钗" },
+  {
+    "query": "Yandex数据中心遭乌袭击停运",
+    "display_query": "Yandex数据中心遭乌袭击停运"
+  },
+  {
+    "query": "英伟达市值9天蒸发4万亿",
+    "display_query": "英伟达市值9天蒸发4万亿"
+  },
+  {
+    "query": "灵活就业人员可贷款缴社保",
+    "display_query": "灵活就业人员可贷款缴社保"
+  },
+  {
+    "query": "多家学术期刊拒绝AI参与撰稿",
+    "display_query": "多家学术期刊拒绝AI参与撰稿"
+  }
+]

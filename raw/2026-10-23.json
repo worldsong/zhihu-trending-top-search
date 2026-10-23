@@ -1,8 +1,9 @@
 [
+  { "query": "勇士105:127湖人", "display_query": "勇士105:127湖人" },
   { "query": "《兰香如故》热播", "display_query": "《兰香如故》热播" },
   {
-    "query": "Yandex数据中心遭乌袭击停运",
-    "display_query": "Yandex数据中心遭乌袭击停运"
+    "query": "三部门调查尊界刹车踏板支架断裂问题",
+    "display_query": "三部门调查尊界刹车踏板支架断裂问题"
   },
   {
     "query": "英伟达市值9天蒸发4万亿",
@@ -21,6 +22,15 @@
     "display_query": "DeepSeek新模型名登顶最差榜"
   },
   { "query": "内娱进入大怀孕时代", "display_query": "内娱进入大怀孕时代" },
+  { "query": "家长吐槽大学课程太少", "display_query": "家长吐槽大学课程太少" },
+  {
+    "query": "小天才手表封闭社交被质疑",
+    "display_query": "小天才手表封闭社交被质疑"
+  },
+  {
+    "query": "Yandex数据中心遭乌袭击停运",
+    "display_query": "Yandex数据中心遭乌袭击停运"
+  },
   { "query": "法国怎么了", "display_query": "法国怎么了" },
   {
     "query": "星巴克被曝将实行消费入座",

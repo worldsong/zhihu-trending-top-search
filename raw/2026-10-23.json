@@ -1,10 +1,5 @@
 [
-  { "query": "欧冠", "display_query": "欧冠" },
-  { "query": "问界", "display_query": "问界" },
-  { "query": "大同下雪了", "display_query": "大同下雪了" },
-  { "query": "勇士vs湖人", "display_query": "勇士vs湖人" },
   { "query": "《兰香如故》热播", "display_query": "《兰香如故》热播" },
-  { "query": "嫁金钗", "display_query": "嫁金钗" },
   {
     "query": "Yandex数据中心遭乌袭击停运",
     "display_query": "Yandex数据中心遭乌袭击停运"
@@ -17,6 +12,29 @@
     "query": "灵活就业人员可贷款缴社保",
     "display_query": "灵活就业人员可贷款缴社保"
   },
+  {
+    "query": "潘斌龙新片《杯雪·一战成名》上线",
+    "display_query": "潘斌龙新片《杯雪·一战成名》上线"
+  },
+  {
+    "query": "DeepSeek新模型名登顶最差榜",
+    "display_query": "DeepSeek新模型名登顶最差榜"
+  },
+  { "query": "内娱进入大怀孕时代", "display_query": "内娱进入大怀孕时代" },
+  { "query": "法国怎么了", "display_query": "法国怎么了" },
+  {
+    "query": "星巴克被曝将实行消费入座",
+    "display_query": "星巴克被曝将实行消费入座"
+  },
+  {
+    "query": "网红王扁遭前经纪人锤击",
+    "display_query": "网红王扁遭前经纪人锤击"
+  },
+  { "query": "欧冠", "display_query": "欧冠" },
+  { "query": "问界", "display_query": "问界" },
+  { "query": "大同下雪了", "display_query": "大同下雪了" },
+  { "query": "勇士vs湖人", "display_query": "勇士vs湖人" },
+  { "query": "嫁金钗", "display_query": "嫁金钗" },
   {
     "query": "多家学术期刊拒绝AI参与撰稿",
     "display_query": "多家学术期刊拒绝AI参与撰稿"

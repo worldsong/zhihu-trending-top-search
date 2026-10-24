@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 24 2026 21:40:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 25 2026 01:02:26 GMT+0800 (China Standard Time) -->
 
 1. [今日霜降](https://www.zhihu.com/search?q=今日霜降)
 1. [明代运粮为何不走海运](https://www.zhihu.com/search?q=明代运粮为何不走海运)
@@ -27,10 +27,6 @@
 1. [法国怎么了](https://www.zhihu.com/search?q=法国怎么了)
 1. [美舰冲闯南沙仙宾礁海域](https://www.zhihu.com/search?q=美舰冲闯南沙仙宾礁海域)
 1. [巴黎圣日耳曼 4-2 巴萨](https://www.zhihu.com/search?q=巴黎圣日耳曼 4-2 巴萨)
-1. [网友高铁偶遇自称114岁老人](https://www.zhihu.com/search?q=网友高铁偶遇自称114岁老人)
-1. [《兰香如故》热播](https://www.zhihu.com/search?q=《兰香如故》热播)
-1. [「不烧心」梗爆火网络](https://www.zhihu.com/search?q=「不烧心」梗爆火网络)
-1. [小天才手表封闭社交被质疑](https://www.zhihu.com/search?q=小天才手表封闭社交被质疑)
 
 <!-- END -->
 

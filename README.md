@@ -15,17 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 24 2026 08:05:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 24 2026 17:53:38 GMT+0800 (China Standard Time) -->
 
 1. [今日霜降](https://www.zhihu.com/search?q=今日霜降)
 1. [明代运粮为何不走海运](https://www.zhihu.com/search?q=明代运粮为何不走海运)
 1. [NBA](https://www.zhihu.com/search?q=NBA)
-1. [《兰香如故》热播](https://www.zhihu.com/search?q=《兰香如故》热播)
-1. [「不烧心」梗爆火网络](https://www.zhihu.com/search?q=「不烧心」梗爆火网络)
 1. [Yandex数据中心遭乌袭击停运](https://www.zhihu.com/search?q=Yandex数据中心遭乌袭击停运)
 1. [玉簟秋](https://www.zhihu.com/search?q=玉簟秋)
 1. [三部门调查尊界刹车踏板支架断裂问题](https://www.zhihu.com/search?q=三部门调查尊界刹车踏板支架断裂问题)
 1. [灵活就业人员可贷款缴社保](https://www.zhihu.com/search?q=灵活就业人员可贷款缴社保)
+1. [法国怎么了](https://www.zhihu.com/search?q=法国怎么了)
+1. [网友高铁偶遇自称114岁老人](https://www.zhihu.com/search?q=网友高铁偶遇自称114岁老人)
+1. [美舰冲闯南沙仙宾礁海域](https://www.zhihu.com/search?q=美舰冲闯南沙仙宾礁海域)
+1. [《兰香如故》热播](https://www.zhihu.com/search?q=《兰香如故》热播)
+1. [「不烧心」梗爆火网络](https://www.zhihu.com/search?q=「不烧心」梗爆火网络)
 1. [小天才手表封闭社交被质疑](https://www.zhihu.com/search?q=小天才手表封闭社交被质疑)
 
 <!-- END -->

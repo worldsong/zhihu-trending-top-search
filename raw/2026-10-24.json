@@ -2,8 +2,6 @@
   { "query": "今日霜降", "display_query": "今日霜降" },
   { "query": "明代运粮为何不走海运", "display_query": "明代运粮为何不走海运" },
   { "query": "NBA", "display_query": "NBA" },
-  { "query": "《兰香如故》热播", "display_query": "《兰香如故》热播" },
-  { "query": "「不烧心」梗爆火网络", "display_query": "「不烧心」梗爆火网络" },
   {
     "query": "Yandex数据中心遭乌袭击停运",
     "display_query": "Yandex数据中心遭乌袭击停运"
@@ -17,6 +15,17 @@
     "query": "灵活就业人员可贷款缴社保",
     "display_query": "灵活就业人员可贷款缴社保"
   },
+  { "query": "法国怎么了", "display_query": "法国怎么了" },
+  {
+    "query": "网友高铁偶遇自称114岁老人",
+    "display_query": "网友高铁偶遇自称114岁老人"
+  },
+  {
+    "query": "美舰冲闯南沙仙宾礁海域",
+    "display_query": "美舰冲闯南沙仙宾礁海域"
+  },
+  { "query": "《兰香如故》热播", "display_query": "《兰香如故》热播" },
+  { "query": "「不烧心」梗爆火网络", "display_query": "「不烧心」梗爆火网络" },
   {
     "query": "小天才手表封闭社交被质疑",
     "display_query": "小天才手表封闭社交被质疑"

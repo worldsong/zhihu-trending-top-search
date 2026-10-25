@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 25 2026 22:37:08 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 26 2026 01:55:06 GMT+0800 (China Standard Time) -->
 
 1. [今日霜降](https://www.zhihu.com/search?q=今日霜降)
 1. [金价大跌](https://www.zhihu.com/search?q=金价大跌)
@@ -25,13 +25,8 @@
 1. [玉簟秋](https://www.zhihu.com/search?q=玉簟秋)
 1. [三部门调查尊界刹车踏板支架断裂问题](https://www.zhihu.com/search?q=三部门调查尊界刹车踏板支架断裂问题)
 1. [灵活就业人员可贷款缴社保](https://www.zhihu.com/search?q=灵活就业人员可贷款缴社保)
-1. [星巴克将施行消费入座](https://www.zhihu.com/search?q=星巴克将施行消费入座)
 1. [宝马员工争着离职](https://www.zhihu.com/search?q=宝马员工争着离职)
-1. [《沙丘3》中国内地定档](https://www.zhihu.com/search?q=《沙丘3》中国内地定档)
-1. [96岁老人独自乘火车进藏](https://www.zhihu.com/search?q=96岁老人独自乘火车进藏)
-1. [法国怎么了](https://www.zhihu.com/search?q=法国怎么了)
-1. [美舰冲闯南沙仙宾礁海域](https://www.zhihu.com/search?q=美舰冲闯南沙仙宾礁海域)
-1. [巴黎圣日耳曼 4-2 巴萨](https://www.zhihu.com/search?q=巴黎圣日耳曼 4-2 巴萨)
+1. [美国一战斗舰冲闯中国南沙海域](https://www.zhihu.com/search?q=美国一战斗舰冲闯中国南沙海域)
 
 <!-- END -->
 

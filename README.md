@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 25 2026 13:25:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 25 2026 18:15:05 GMT+0800 (China Standard Time) -->
 
 1. [今日霜降](https://www.zhihu.com/search?q=今日霜降)
 1. [金价大跌](https://www.zhihu.com/search?q=金价大跌)

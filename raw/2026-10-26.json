@@ -1,12 +1,35 @@
 [
-  { "query": "今日霜降", "display_query": "今日霜降" },
   { "query": "金价大跌", "display_query": "金价大跌" },
-  { "query": "明代运粮为何不走海运", "display_query": "明代运粮为何不走海运" },
-  { "query": "NBA", "display_query": "NBA" },
   {
     "query": "Yandex数据中心遭乌袭击停运",
     "display_query": "Yandex数据中心遭乌袭击停运"
   },
+  { "query": "法国怎么了", "display_query": "法国怎么了" },
+  {
+    "query": "令人心动的offer8遭医学生吐槽",
+    "display_query": "令人心动的offer8遭医学生吐槽"
+  },
+  { "query": "子祺事变", "display_query": "子祺事变" },
+  {
+    "query": "中土网民爆发大规模互怼",
+    "display_query": "中土网民爆发大规模互怼"
+  },
+  { "query": "英国拟征收看剧税", "display_query": "英国拟征收看剧税" },
+  {
+    "query": "懂车帝曾指出问界油路靠前",
+    "display_query": "懂车帝曾指出问界油路靠前"
+  },
+  {
+    "query": "广州商学院涨租逼走快递网点",
+    "display_query": "广州商学院涨租逼走快递网点"
+  },
+  {
+    "query": "人民日报批「一有分歧家长就举报」",
+    "display_query": "人民日报批「一有分歧家长就举报」"
+  },
+  { "query": "今日霜降", "display_query": "今日霜降" },
+  { "query": "明代运粮为何不走海运", "display_query": "明代运粮为何不走海运" },
+  { "query": "NBA", "display_query": "NBA" },
   { "query": "玉簟秋", "display_query": "玉簟秋" },
   {
     "query": "三部门调查尊界刹车踏板支架断裂问题",

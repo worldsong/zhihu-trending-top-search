@@ -1,5 +1,14 @@
 [
-  { "query": "金价大跌", "display_query": "金价大跌" },
+  {
+    "query": "孙心然青少年年终总决赛冠军",
+    "display_query": "孙心然青少年年终总决赛冠军"
+  },
+  {
+    "query": "爱马仕CFO称中国市场非常困难",
+    "display_query": "爱马仕CFO称中国市场非常困难"
+  },
+  { "query": "DK战胜T1", "display_query": "DK战胜T1" },
+  { "query": "小城良方", "display_query": "小城良方" },
   {
     "query": "Yandex数据中心遭乌袭击停运",
     "display_query": "Yandex数据中心遭乌袭击停运"
@@ -10,14 +19,15 @@
     "display_query": "令人心动的offer8遭医学生吐槽"
   },
   { "query": "子祺事变", "display_query": "子祺事变" },
-  {
-    "query": "中土网民爆发大规模互怼",
-    "display_query": "中土网民爆发大规模互怼"
-  },
   { "query": "英国拟征收看剧税", "display_query": "英国拟征收看剧税" },
   {
     "query": "懂车帝曾指出问界油路靠前",
     "display_query": "懂车帝曾指出问界油路靠前"
+  },
+  { "query": "金价大跌", "display_query": "金价大跌" },
+  {
+    "query": "中土网民爆发大规模互怼",
+    "display_query": "中土网民爆发大规模互怼"
   },
   {
     "query": "广州商学院涨租逼走快递网点",

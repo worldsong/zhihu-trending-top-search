@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Oct 27 2026 05:58:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Oct 27 2026 09:03:08 GMT+0800 (China Standard Time) -->
 
 1. [金价大跌](https://www.zhihu.com/search?q=金价大跌)
 1. [森林狼vs猛龙](https://www.zhihu.com/search?q=森林狼vs猛龙)
@@ -26,6 +26,7 @@
 1. [令人心动的offer8遭医学生吐槽](https://www.zhihu.com/search?q=令人心动的offer8遭医学生吐槽)
 1. [子祺事变](https://www.zhihu.com/search?q=子祺事变)
 1. [中土网民爆发大规模互怼](https://www.zhihu.com/search?q=中土网民爆发大规模互怼)
+1. [人民日报批「一有分歧家长就举报」](https://www.zhihu.com/search?q=人民日报批「一有分歧家长就举报」)
 1. [懂车帝曾指出问界油路靠前](https://www.zhihu.com/search?q=懂车帝曾指出问界油路靠前)
 
 <!-- END -->

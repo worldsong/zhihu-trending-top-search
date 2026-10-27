@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 28 2026 02:25:07 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 28 2026 06:41:32 GMT+0800 (China Standard Time) -->
 
 1. [F1](https://www.zhihu.com/search?q=F1)
 1. [金价大跌](https://www.zhihu.com/search?q=金价大跌)

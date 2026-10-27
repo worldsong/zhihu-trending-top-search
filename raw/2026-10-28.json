@@ -1,0 +1,21 @@
+[
+  { "query": "F1", "display_query": "F1" },
+  { "query": "金价大跌", "display_query": "金价大跌" },
+  { "query": "TES战胜G2", "display_query": "TES战胜G2" },
+  { "query": "小城良方", "display_query": "小城良方" },
+  {
+    "query": "横店兴起普通人短剧落地签",
+    "display_query": "横店兴起普通人短剧落地签"
+  },
+  {
+    "query": "Yandex数据中心遭乌袭击停运",
+    "display_query": "Yandex数据中心遭乌袭击停运"
+  },
+  { "query": "玉簟秋", "display_query": "玉簟秋" },
+  { "query": "法国怎么了", "display_query": "法国怎么了" },
+  {
+    "query": "令人心动的offer8遭医学生吐槽",
+    "display_query": "令人心动的offer8遭医学生吐槽"
+  },
+  { "query": "子祺事变", "display_query": "子祺事变" }
+]

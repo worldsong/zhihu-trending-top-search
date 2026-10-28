@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 29 2026 03:55:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 29 2026 07:42:03 GMT+0800 (China Standard Time) -->
 
 1. [金球奖](https://www.zhihu.com/search?q=金球奖)
 1. [金价大跌](https://www.zhihu.com/search?q=金价大跌)

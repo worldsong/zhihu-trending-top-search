@@ -15,18 +15,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 28 2026 09:50:48 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Oct 28 2026 15:36:16 GMT+0800 (China Standard Time) -->
 
-1. [F1](https://www.zhihu.com/search?q=F1)
 1. [金价大跌](https://www.zhihu.com/search?q=金价大跌)
-1. [TES战胜G2](https://www.zhihu.com/search?q=TES战胜G2)
-1. [小城良方](https://www.zhihu.com/search?q=小城良方)
 1. [横店兴起普通人短剧落地签](https://www.zhihu.com/search?q=横店兴起普通人短剧落地签)
-1. [Yandex数据中心遭乌袭击停运](https://www.zhihu.com/search?q=Yandex数据中心遭乌袭击停运)
-1. [玉簟秋](https://www.zhihu.com/search?q=玉簟秋)
 1. [法国怎么了](https://www.zhihu.com/search?q=法国怎么了)
 1. [令人心动的offer8遭医学生吐槽](https://www.zhihu.com/search?q=令人心动的offer8遭医学生吐槽)
 1. [子祺事变](https://www.zhihu.com/search?q=子祺事变)
+1. [中土网民爆发大规模互怼](https://www.zhihu.com/search?q=中土网民爆发大规模互怼)
+1. [红果短剧日活超爱优腾芒总和](https://www.zhihu.com/search?q=红果短剧日活超爱优腾芒总和)
+1. [毛不易婚礼致辞争议](https://www.zhihu.com/search?q=毛不易婚礼致辞争议)
+1. [全球超八成新船订单涌向中国](https://www.zhihu.com/search?q=全球超八成新船订单涌向中国)
+1. [Kimi K3.1 Pro 正式发布](https://www.zhihu.com/search?q=Kimi K3.1 Pro
+   正式发布)
+1. [F1](https://www.zhihu.com/search?q=F1)
+1. [TES战胜G2](https://www.zhihu.com/search?q=TES战胜G2)
+1. [小城良方](https://www.zhihu.com/search?q=小城良方)
+1. [Yandex数据中心遭乌袭击停运](https://www.zhihu.com/search?q=Yandex数据中心遭乌袭击停运)
+1. [玉簟秋](https://www.zhihu.com/search?q=玉簟秋)
 
 <!-- END -->
 

@@ -15,10 +15,10 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Oct 28 2026 22:35:04 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 29 2026 03:55:48 GMT+0800 (China Standard Time) -->
 
-1. [恢复出厂不等于清空手机](https://www.zhihu.com/search?q=恢复出厂不等于清空手机)
-1. [先导编辑首次在人体内改写dna](https://www.zhihu.com/search?q=先导编辑首次在人体内改写dna)
+1. [金球奖](https://www.zhihu.com/search?q=金球奖)
+1. [金价大跌](https://www.zhihu.com/search?q=金价大跌)
 1. [塔图姆绝杀](https://www.zhihu.com/search?q=塔图姆绝杀)
 1. [嫁金钗](https://www.zhihu.com/search?q=嫁金钗)
 1. [横店兴起普通人短剧落地签](https://www.zhihu.com/search?q=横店兴起普通人短剧落地签)
@@ -27,17 +27,6 @@
 1. [毛不易婚礼致辞争议](https://www.zhihu.com/search?q=毛不易婚礼致辞争议)
 1. [全球超八成新船订单涌向中国](https://www.zhihu.com/search?q=全球超八成新船订单涌向中国)
 1. [法国报告首例人类感染沙蒙达病毒](https://www.zhihu.com/search?q=法国报告首例人类感染沙蒙达病毒)
-1. [金价大跌](https://www.zhihu.com/search?q=金价大跌)
-1. [令人心动的offer8遭医学生吐槽](https://www.zhihu.com/search?q=令人心动的offer8遭医学生吐槽)
-1. [子祺事变](https://www.zhihu.com/search?q=子祺事变)
-1. [中土网民爆发大规模互怼](https://www.zhihu.com/search?q=中土网民爆发大规模互怼)
-1. [Kimi K3.1 Pro 正式发布](https://www.zhihu.com/search?q=Kimi K3.1 Pro
-   正式发布)
-1. [F1](https://www.zhihu.com/search?q=F1)
-1. [TES战胜G2](https://www.zhihu.com/search?q=TES战胜G2)
-1. [小城良方](https://www.zhihu.com/search?q=小城良方)
-1. [Yandex数据中心遭乌袭击停运](https://www.zhihu.com/search?q=Yandex数据中心遭乌袭击停运)
-1. [玉簟秋](https://www.zhihu.com/search?q=玉簟秋)
 
 <!-- END -->
 

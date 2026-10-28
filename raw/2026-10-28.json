@@ -1,19 +1,19 @@
 [
-  { "query": "金价大跌", "display_query": "金价大跌" },
+  {
+    "query": "恢复出厂不等于清空手机",
+    "display_query": "恢复出厂不等于清空手机"
+  },
+  {
+    "query": "先导编辑首次在人体内改写dna",
+    "display_query": "先导编辑首次在人体内改写dna"
+  },
+  { "query": "塔图姆绝杀", "display_query": "塔图姆绝杀" },
+  { "query": "嫁金钗", "display_query": "嫁金钗" },
   {
     "query": "横店兴起普通人短剧落地签",
     "display_query": "横店兴起普通人短剧落地签"
   },
   { "query": "法国怎么了", "display_query": "法国怎么了" },
-  {
-    "query": "令人心动的offer8遭医学生吐槽",
-    "display_query": "令人心动的offer8遭医学生吐槽"
-  },
-  { "query": "子祺事变", "display_query": "子祺事变" },
-  {
-    "query": "中土网民爆发大规模互怼",
-    "display_query": "中土网民爆发大规模互怼"
-  },
   {
     "query": "红果短剧日活超爱优腾芒总和",
     "display_query": "红果短剧日活超爱优腾芒总和"
@@ -22,6 +22,20 @@
   {
     "query": "全球超八成新船订单涌向中国",
     "display_query": "全球超八成新船订单涌向中国"
+  },
+  {
+    "query": "法国报告首例人类感染沙蒙达病毒",
+    "display_query": "法国报告首例人类感染沙蒙达病毒"
+  },
+  { "query": "金价大跌", "display_query": "金价大跌" },
+  {
+    "query": "令人心动的offer8遭医学生吐槽",
+    "display_query": "令人心动的offer8遭医学生吐槽"
+  },
+  { "query": "子祺事变", "display_query": "子祺事变" },
+  {
+    "query": "中土网民爆发大规模互怼",
+    "display_query": "中土网民爆发大规模互怼"
   },
   {
     "query": "Kimi K3.1 Pro 正式发布",

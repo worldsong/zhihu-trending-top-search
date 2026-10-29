@@ -1,8 +1,9 @@
 [
-  { "query": "金球奖", "display_query": "金球奖" },
-  { "query": "金价大跌", "display_query": "金价大跌" },
-  { "query": "塔图姆绝杀", "display_query": "塔图姆绝杀" },
-  { "query": "嫁金钗", "display_query": "嫁金钗" },
+  {
+    "query": "姆巴佩曾刻意运营中国市场社交内容",
+    "display_query": "姆巴佩曾刻意运营中国市场社交内容"
+  },
+  { "query": "多方终止与姆巴佩合作", "display_query": "多方终止与姆巴佩合作" },
   {
     "query": "横店兴起普通人短剧落地签",
     "display_query": "横店兴起普通人短剧落地签"
@@ -17,6 +18,19 @@
     "query": "全球超八成新船订单涌向中国",
     "display_query": "全球超八成新船订单涌向中国"
   },
+  {
+    "query": "厉娜许飞友谊破裂谁的错",
+    "display_query": "厉娜许飞友谊破裂谁的错"
+  },
+  { "query": "深圳水贝被挤爆", "display_query": "深圳水贝被挤爆" },
+  {
+    "query": "iPhoneDuo开卖次日曝内屏损坏",
+    "display_query": "iPhoneDuo开卖次日曝内屏损坏"
+  },
+  { "query": "金球奖", "display_query": "金球奖" },
+  { "query": "金价大跌", "display_query": "金价大跌" },
+  { "query": "塔图姆绝杀", "display_query": "塔图姆绝杀" },
+  { "query": "嫁金钗", "display_query": "嫁金钗" },
   {
     "query": "法国报告首例人类感染沙蒙达病毒",
     "display_query": "法国报告首例人类感染沙蒙达病毒"

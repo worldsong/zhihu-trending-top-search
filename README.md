@@ -15,18 +15,25 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 30 2026 10:11:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 30 2026 17:08:32 GMT+0800 (China Standard Time) -->
 
+1. [肿瘤疫苗迎百年破局](https://www.zhihu.com/search?q=肿瘤疫苗迎百年破局)
+1. [AI成为医患之间的第三人](https://www.zhihu.com/search?q=AI成为医患之间的第三人)
+1. [厉娜许飞友谊破裂谁的错](https://www.zhihu.com/search?q=厉娜许飞友谊破裂谁的错)
+1. [《影之刃零》获海外媒体高分好评](https://www.zhihu.com/search?q=《影之刃零》获海外媒体高分好评)
+1. [2026年第70届金球奖](https://www.zhihu.com/search?q=2026年第70届金球奖)
+1. [苹果发布iPadmini8](https://www.zhihu.com/search?q=苹果发布iPadmini8)
+1. [凯恩获2026年金球奖](https://www.zhihu.com/search?q=凯恩获2026年金球奖)
+1. [盆栽哥新歌采样王菲作品](https://www.zhihu.com/search?q=盆栽哥新歌采样王菲作品)
+1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=反诈博主徽剑被曝遇害)
+1. [东鹏饮料终止与姆巴佩合作](https://www.zhihu.com/search?q=东鹏饮料终止与姆巴佩合作)
 1. [苹果触屏 MacBook Pro 发布](https://www.zhihu.com/search?q=苹果触屏 MacBook
    Pro 发布)
 1. [第一个「三机场」城市要来了](https://www.zhihu.com/search?q=第一个「三机场」城市要来了)
 1. [横店兴起普通人短剧落地签](https://www.zhihu.com/search?q=横店兴起普通人短剧落地签)
 1. [红果短剧日活超爱优腾芒总和](https://www.zhihu.com/search?q=红果短剧日活超爱优腾芒总和)
 1. [毛不易婚礼致辞争议](https://www.zhihu.com/search?q=毛不易婚礼致辞争议)
-1. [厉娜许飞友谊破裂谁的错](https://www.zhihu.com/search?q=厉娜许飞友谊破裂谁的错)
-1. [《影之刃零》获海外媒体高分好评](https://www.zhihu.com/search?q=《影之刃零》获海外媒体高分好评)
 1. [首部AI院线电影票房遇冷](https://www.zhihu.com/search?q=首部AI院线电影票房遇冷)
-1. [2026年第70届金球奖](https://www.zhihu.com/search?q=2026年第70届金球奖)
 1. [Anthropic公开提交纳斯达克IPO申请](https://www.zhihu.com/search?q=Anthropic公开提交纳斯达克IPO申请)
 1. [华为畅享100系列续航](https://www.zhihu.com/search?q=华为畅享100系列续航)
 1. [MacBookPro](https://www.zhihu.com/search?q=MacBookPro)

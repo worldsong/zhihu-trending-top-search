@@ -15,8 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 30 2026 01:07:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Oct 30 2026 10:11:36 GMT+0800 (China Standard Time) -->
 
+1. [苹果触屏 MacBook Pro 发布](https://www.zhihu.com/search?q=苹果触屏 MacBook
+   Pro 发布)
+1. [第一个「三机场」城市要来了](https://www.zhihu.com/search?q=第一个「三机场」城市要来了)
+1. [横店兴起普通人短剧落地签](https://www.zhihu.com/search?q=横店兴起普通人短剧落地签)
+1. [红果短剧日活超爱优腾芒总和](https://www.zhihu.com/search?q=红果短剧日活超爱优腾芒总和)
+1. [毛不易婚礼致辞争议](https://www.zhihu.com/search?q=毛不易婚礼致辞争议)
+1. [厉娜许飞友谊破裂谁的错](https://www.zhihu.com/search?q=厉娜许飞友谊破裂谁的错)
+1. [《影之刃零》获海外媒体高分好评](https://www.zhihu.com/search?q=《影之刃零》获海外媒体高分好评)
+1. [首部AI院线电影票房遇冷](https://www.zhihu.com/search?q=首部AI院线电影票房遇冷)
+1. [2026年第70届金球奖](https://www.zhihu.com/search?q=2026年第70届金球奖)
+1. [Anthropic公开提交纳斯达克IPO申请](https://www.zhihu.com/search?q=Anthropic公开提交纳斯达克IPO申请)
 1. [华为畅享100系列续航](https://www.zhihu.com/search?q=华为畅享100系列续航)
 1. [MacBookPro](https://www.zhihu.com/search?q=MacBookPro)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)

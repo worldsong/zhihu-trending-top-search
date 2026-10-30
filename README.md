@@ -15,36 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Oct 30 2026 17:08:32 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 31 2026 00:18:02 GMT+0800 (China Standard Time) -->
 
+1. [影之刃零](https://www.zhihu.com/search?q=影之刃零)
 1. [肿瘤疫苗迎百年破局](https://www.zhihu.com/search?q=肿瘤疫苗迎百年破局)
 1. [AI成为医患之间的第三人](https://www.zhihu.com/search?q=AI成为医患之间的第三人)
-1. [厉娜许飞友谊破裂谁的错](https://www.zhihu.com/search?q=厉娜许飞友谊破裂谁的错)
 1. [《影之刃零》获海外媒体高分好评](https://www.zhihu.com/search?q=《影之刃零》获海外媒体高分好评)
-1. [2026年第70届金球奖](https://www.zhihu.com/search?q=2026年第70届金球奖)
-1. [苹果发布iPadmini8](https://www.zhihu.com/search?q=苹果发布iPadmini8)
-1. [凯恩获2026年金球奖](https://www.zhihu.com/search?q=凯恩获2026年金球奖)
-1. [盆栽哥新歌采样王菲作品](https://www.zhihu.com/search?q=盆栽哥新歌采样王菲作品)
 1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=反诈博主徽剑被曝遇害)
 1. [东鹏饮料终止与姆巴佩合作](https://www.zhihu.com/search?q=东鹏饮料终止与姆巴佩合作)
-1. [苹果触屏 MacBook Pro 发布](https://www.zhihu.com/search?q=苹果触屏 MacBook
-   Pro 发布)
-1. [第一个「三机场」城市要来了](https://www.zhihu.com/search?q=第一个「三机场」城市要来了)
-1. [横店兴起普通人短剧落地签](https://www.zhihu.com/search?q=横店兴起普通人短剧落地签)
-1. [红果短剧日活超爱优腾芒总和](https://www.zhihu.com/search?q=红果短剧日活超爱优腾芒总和)
-1. [毛不易婚礼致辞争议](https://www.zhihu.com/search?q=毛不易婚礼致辞争议)
-1. [首部AI院线电影票房遇冷](https://www.zhihu.com/search?q=首部AI院线电影票房遇冷)
-1. [Anthropic公开提交纳斯达克IPO申请](https://www.zhihu.com/search?q=Anthropic公开提交纳斯达克IPO申请)
-1. [华为畅享100系列续航](https://www.zhihu.com/search?q=华为畅享100系列续航)
-1. [MacBookPro](https://www.zhihu.com/search?q=MacBookPro)
-1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=美联储宣布维持利率不变)
-1. [独行侠VS雷霆](https://www.zhihu.com/search?q=独行侠VS雷霆)
-1. [「绝命毒师」为什么是神剧](https://www.zhihu.com/search?q=「绝命毒师」为什么是神剧)
-1. [目前你总结出最大的旅行经验](https://www.zhihu.com/search?q=目前你总结出最大的旅行经验)
-1. [东契奇空砍41分](https://www.zhihu.com/search?q=东契奇空砍41分)
-1. [有哪些超简单的家常菜](https://www.zhihu.com/search?q=有哪些超简单的家常菜)
-1. [怎样避免活在信息茧房之中](https://www.zhihu.com/search?q=怎样避免活在信息茧房之中)
-1. [能讲一个身边的无解阳谋吗](https://www.zhihu.com/search?q=能讲一个身边的无解阳谋吗)
+1. [蒙牛终止与姆巴佩全部合作](https://www.zhihu.com/search?q=蒙牛终止与姆巴佩全部合作)
+1. [网飞韩剧单集1512万人民币](https://www.zhihu.com/search?q=网飞韩剧单集1512万人民币)
+1. [东鹏解约姆巴佩或无需赔偿](https://www.zhihu.com/search?q=东鹏解约姆巴佩或无需赔偿)
+1. [央视全面叫停涉姆巴佩赛事和广告播出](https://www.zhihu.com/search?q=央视全面叫停涉姆巴佩赛事和广告播出)
 
 <!-- END -->
 

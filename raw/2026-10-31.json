@@ -1,8 +1,7 @@
 [
-  { "query": "影之刃零", "display_query": "影之刃零" },
   {
-    "query": "AI成为医患之间的第三人",
-    "display_query": "AI成为医患之间的第三人"
+    "query": "泡泡玛特不是段永平的可口可乐",
+    "display_query": "泡泡玛特不是段永平的可口可乐"
   },
   {
     "query": "全球超八成新船订单涌向中国",
@@ -30,6 +29,12 @@
     "display_query": "央视全面叫停涉姆巴佩赛事和广告播出"
   },
   { "query": "开造啦！好奇岛", "display_query": "开造啦！好奇岛" },
+  { "query": "好奇岛装扮游戏", "display_query": "好奇岛装扮游戏" },
+  { "query": "影之刃零", "display_query": "影之刃零" },
+  {
+    "query": "AI成为医患之间的第三人",
+    "display_query": "AI成为医患之间的第三人"
+  },
   { "query": "肿瘤疫苗迎百年破局", "display_query": "肿瘤疫苗迎百年破局" },
   {
     "query": "网飞韩剧单集1512万人民币",

@@ -15,10 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Oct 31 2026 15:37:16 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Oct 31 2026 21:56:40 GMT+0800 (China Standard Time) -->
 
-1. [影之刃零](https://www.zhihu.com/search?q=影之刃零)
-1. [AI成为医患之间的第三人](https://www.zhihu.com/search?q=AI成为医患之间的第三人)
+1. [泡泡玛特不是段永平的可口可乐](https://www.zhihu.com/search?q=泡泡玛特不是段永平的可口可乐)
 1. [全球超八成新船订单涌向中国](https://www.zhihu.com/search?q=全球超八成新船订单涌向中国)
 1. [《影之刃零》获海外媒体高分好评](https://www.zhihu.com/search?q=《影之刃零》获海外媒体高分好评)
 1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=反诈博主徽剑被曝遇害)
@@ -27,6 +26,9 @@
 1. [东鹏解约姆巴佩或无需赔偿](https://www.zhihu.com/search?q=东鹏解约姆巴佩或无需赔偿)
 1. [央视全面叫停涉姆巴佩赛事和广告播出](https://www.zhihu.com/search?q=央视全面叫停涉姆巴佩赛事和广告播出)
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=开造啦！好奇岛)
+1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=好奇岛装扮游戏)
+1. [影之刃零](https://www.zhihu.com/search?q=影之刃零)
+1. [AI成为医患之间的第三人](https://www.zhihu.com/search?q=AI成为医患之间的第三人)
 1. [肿瘤疫苗迎百年破局](https://www.zhihu.com/search?q=肿瘤疫苗迎百年破局)
 1. [网飞韩剧单集1512万人民币](https://www.zhihu.com/search?q=网飞韩剧单集1512万人民币)
 

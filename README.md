@@ -15,14 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 01 2026 14:56:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 01 2026 21:55:21 GMT+0800 (China Standard Time) -->
 
-1. [HLE VS BLG](https://www.zhihu.com/search?q=HLE VS BLG)
-1. [丘成桐新领军数学基础测试](https://www.zhihu.com/search?q=丘成桐新领军数学基础测试)
+1. [影之刃零黑神话](https://www.zhihu.com/search?q=影之刃零黑神话)
+1. [小城良方 粉毛](https://www.zhihu.com/search?q=小城良方 粉毛)
 1. [影之刃零](https://www.zhihu.com/search?q=影之刃零)
 1. [毛不易婚礼致辞争议](https://www.zhihu.com/search?q=毛不易婚礼致辞争议)
 1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=反诈博主徽剑被曝遇害)
+1. [东鹏饮料终止与姆巴佩合作](https://www.zhihu.com/search?q=东鹏饮料终止与姆巴佩合作)
+1. [蒙牛终止与姆巴佩全部合作](https://www.zhihu.com/search?q=蒙牛终止与姆巴佩全部合作)
+1. [东鹏解约姆巴佩或无需赔偿](https://www.zhihu.com/search?q=东鹏解约姆巴佩或无需赔偿)
+1. [央视全面叫停涉姆巴佩赛事和广告播出](https://www.zhihu.com/search?q=央视全面叫停涉姆巴佩赛事和广告播出)
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=开造啦！好奇岛)
+1. [HLE VS BLG](https://www.zhihu.com/search?q=HLE VS BLG)
+1. [丘成桐新领军数学基础测试](https://www.zhihu.com/search?q=丘成桐新领军数学基础测试)
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=好奇岛装扮游戏)
 1. [许飞 厉娜](https://www.zhihu.com/search?q=许飞 厉娜)
 1. [曝多家厂商入局阔直板手机](https://www.zhihu.com/search?q=曝多家厂商入局阔直板手机)

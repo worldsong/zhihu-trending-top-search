@@ -15,19 +15,21 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 01 2026 08:38:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 01 2026 14:56:31 GMT+0800 (China Standard Time) -->
 
 1. [HLE VS BLG](https://www.zhihu.com/search?q=HLE VS BLG)
+1. [丘成桐新领军数学基础测试](https://www.zhihu.com/search?q=丘成桐新领军数学基础测试)
 1. [影之刃零](https://www.zhihu.com/search?q=影之刃零)
 1. [毛不易婚礼致辞争议](https://www.zhihu.com/search?q=毛不易婚礼致辞争议)
-1. [全球超八成新船订单涌向中国](https://www.zhihu.com/search?q=全球超八成新船订单涌向中国)
-1. [《影之刃零》获海外媒体高分好评](https://www.zhihu.com/search?q=《影之刃零》获海外媒体高分好评)
 1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=反诈博主徽剑被曝遇害)
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=开造啦！好奇岛)
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=好奇岛装扮游戏)
 1. [许飞 厉娜](https://www.zhihu.com/search?q=许飞 厉娜)
-1. [小城良方被指医学漏洞百出](https://www.zhihu.com/search?q=小城良方被指医学漏洞百出)
 1. [曝多家厂商入局阔直板手机](https://www.zhihu.com/search?q=曝多家厂商入局阔直板手机)
+1. [李亮秦朔辩论「字节时间」](https://www.zhihu.com/search?q=李亮秦朔辩论「字节时间」)
+1. [全球超八成新船订单涌向中国](https://www.zhihu.com/search?q=全球超八成新船订单涌向中国)
+1. [《影之刃零》获海外媒体高分好评](https://www.zhihu.com/search?q=《影之刃零》获海外媒体高分好评)
+1. [小城良方被指医学漏洞百出](https://www.zhihu.com/search?q=小城良方被指医学漏洞百出)
 
 <!-- END -->
 

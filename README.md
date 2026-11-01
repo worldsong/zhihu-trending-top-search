@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 02 2026 02:38:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 02 2026 06:29:23 GMT+0800 (China Standard Time) -->
 
 1. [HLE VS BLG](https://www.zhihu.com/search?q=HLE VS BLG)
 1. [丘成桐新领军数学基础测试](https://www.zhihu.com/search?q=丘成桐新领军数学基础测试)

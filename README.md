@@ -15,11 +15,11 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 02 2026 09:55:49 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 02 2026 16:34:11 GMT+0800 (China Standard Time) -->
 
-1. [SK海力士为股价发愁](https://www.zhihu.com/search?q=SK海力士为股价发愁)
-1. [影之刃零黑神话](https://www.zhihu.com/search?q=影之刃零黑神话)
-1. [影之刃零](https://www.zhihu.com/search?q=影之刃零)
+1. [丘成桐新领军数学基础测试](https://www.zhihu.com/search?q=丘成桐新领军数学基础测试)
+1. [令人心动的offer8遭医学生吐槽](https://www.zhihu.com/search?q=令人心动的offer8遭医学生吐槽)
+1. [子祺事变](https://www.zhihu.com/search?q=子祺事变)
 1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=反诈博主徽剑被曝遇害)
 1. [东鹏饮料终止与姆巴佩合作](https://www.zhihu.com/search?q=东鹏饮料终止与姆巴佩合作)
 1. [蒙牛终止与姆巴佩全部合作](https://www.zhihu.com/search?q=蒙牛终止与姆巴佩全部合作)
@@ -27,8 +27,10 @@
 1. [央视全面叫停涉姆巴佩赛事和广告播出](https://www.zhihu.com/search?q=央视全面叫停涉姆巴佩赛事和广告播出)
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=开造啦！好奇岛)
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=好奇岛装扮游戏)
+1. [SK海力士为股价发愁](https://www.zhihu.com/search?q=SK海力士为股价发愁)
+1. [影之刃零黑神话](https://www.zhihu.com/search?q=影之刃零黑神话)
+1. [影之刃零](https://www.zhihu.com/search?q=影之刃零)
 1. [HLE VS BLG](https://www.zhihu.com/search?q=HLE VS BLG)
-1. [丘成桐新领军数学基础测试](https://www.zhihu.com/search?q=丘成桐新领军数学基础测试)
 
 <!-- END -->
 

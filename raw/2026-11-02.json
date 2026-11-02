@@ -1,9 +1,6 @@
 [
-  { "query": "HLE VS BLG", "display_query": "HLE VS BLG" },
-  {
-    "query": "丘成桐新领军数学基础测试",
-    "display_query": "丘成桐新领军数学基础测试"
-  },
+  { "query": "SK海力士为股价发愁", "display_query": "SK海力士为股价发愁" },
+  { "query": "影之刃零黑神话", "display_query": "影之刃零黑神话" },
   { "query": "影之刃零", "display_query": "影之刃零" },
   { "query": "反诈博主徽剑被曝遇害", "display_query": "反诈博主徽剑被曝遇害" },
   {
@@ -23,5 +20,10 @@
     "display_query": "央视全面叫停涉姆巴佩赛事和广告播出"
   },
   { "query": "开造啦！好奇岛", "display_query": "开造啦！好奇岛" },
-  { "query": "好奇岛装扮游戏", "display_query": "好奇岛装扮游戏" }
+  { "query": "好奇岛装扮游戏", "display_query": "好奇岛装扮游戏" },
+  { "query": "HLE VS BLG", "display_query": "HLE VS BLG" },
+  {
+    "query": "丘成桐新领军数学基础测试",
+    "display_query": "丘成桐新领军数学基础测试"
+  }
 ]

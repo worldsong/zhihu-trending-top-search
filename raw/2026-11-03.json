@@ -2,10 +2,6 @@
   { "query": "万圣节", "display_query": "万圣节" },
   { "query": "国考", "display_query": "国考" },
   {
-    "query": "丘成桐新领军数学基础测试",
-    "display_query": "丘成桐新领军数学基础测试"
-  },
-  {
     "query": "为什么只有中国发明了皮蛋",
     "display_query": "为什么只有中国发明了皮蛋"
   },
@@ -26,5 +22,10 @@
   {
     "query": "Yandex数据中心遭乌袭击停运",
     "display_query": "Yandex数据中心遭乌袭击停运"
+  },
+  { "query": "红果短剧为何让人着迷", "display_query": "红果短剧为何让人着迷" },
+  {
+    "query": "丘成桐新领军数学基础测试",
+    "display_query": "丘成桐新领军数学基础测试"
   }
 ]

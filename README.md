@@ -15,29 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 03 2026 16:43:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 04 2026 00:39:57 GMT+0800 (China Standard Time) -->
 
-1. [乒乓球假赛事直播引数万人围观](https://www.zhihu.com/search?q=乒乓球假赛事直播引数万人围观)
-1. [网传Zuian签证通过在美服训练](https://www.zhihu.com/search?q=网传Zuian签证通过在美服训练)
-1. [东鹏饮料终止与姆巴佩合作](https://www.zhihu.com/search?q=东鹏饮料终止与姆巴佩合作)
-1. [蒙牛终止与姆巴佩全部合作](https://www.zhihu.com/search?q=蒙牛终止与姆巴佩全部合作)
-1. [东鹏解约姆巴佩或无需赔偿](https://www.zhihu.com/search?q=东鹏解约姆巴佩或无需赔偿)
-1. [央视全面叫停涉姆巴佩赛事和广告播出](https://www.zhihu.com/search?q=央视全面叫停涉姆巴佩赛事和广告播出)
-1. [开造啦！好奇岛](https://www.zhihu.com/search?q=开造啦！好奇岛)
-1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=好奇岛装扮游戏)
-1. [姆巴佩道歉](https://www.zhihu.com/search?q=姆巴佩道歉)
-1. [新生将大体老师头骨当道具摆拍](https://www.zhihu.com/search?q=新生将大体老师头骨当道具摆拍)
 1. [万圣节](https://www.zhihu.com/search?q=万圣节)
-1. [国考](https://www.zhihu.com/search?q=国考)
-1. [为什么只有中国发明了皮蛋](https://www.zhihu.com/search?q=为什么只有中国发明了皮蛋)
-1. [大家有什么低成本的爱好](https://www.zhihu.com/search?q=大家有什么低成本的爱好)
+1. [披荆斩棘](https://www.zhihu.com/search?q=披荆斩棘)
+1. [湖人VS热火](https://www.zhihu.com/search?q=湖人VS热火)
+1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek崩了)
 1. [怎样避免活在信息茧房之中](https://www.zhihu.com/search?q=怎样避免活在信息茧房之中)
-1. [为什么年轻人现在更愿意选择国货](https://www.zhihu.com/search?q=为什么年轻人现在更愿意选择国货)
-1. [一个人怎样才叫成熟](https://www.zhihu.com/search?q=一个人怎样才叫成熟)
-1. [兰香如故](https://www.zhihu.com/search?q=兰香如故)
-1. [Yandex数据中心遭乌袭击停运](https://www.zhihu.com/search?q=Yandex数据中心遭乌袭击停运)
-1. [红果短剧为何让人着迷](https://www.zhihu.com/search?q=红果短剧为何让人着迷)
-1. [丘成桐新领军数学基础测试](https://www.zhihu.com/search?q=丘成桐新领军数学基础测试)
+1. [为什么大多数人没有超强的执行力](https://www.zhihu.com/search?q=为什么大多数人没有超强的执行力)
+1. [王楚钦vs林德](https://www.zhihu.com/search?q=王楚钦vs林德)
+1. [人到中年为什么对许多事没了兴趣](https://www.zhihu.com/search?q=人到中年为什么对许多事没了兴趣)
+1. [失业真的是一件很可怕的事吗](https://www.zhihu.com/search?q=失业真的是一件很可怕的事吗)
+1. [嫁金钗](https://www.zhihu.com/search?q=嫁金钗)
 
 <!-- END -->
 

@@ -1,8 +1,35 @@
 [
+  { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
+  { "query": "王楚钦vs林德", "display_query": "王楚钦vs林德" },
+  { "query": "TES vs iG", "display_query": "TES vs iG" },
+  {
+    "query": "Yandex数据中心遭乌袭击停运",
+    "display_query": "Yandex数据中心遭乌袭击停运"
+  },
+  {
+    "query": "厉娜许飞友谊破裂谁的错",
+    "display_query": "厉娜许飞友谊破裂谁的错"
+  },
+  { "query": "反诈博主徽剑被曝遇害", "display_query": "反诈博主徽剑被曝遇害" },
+  {
+    "query": "东鹏饮料终止与姆巴佩合作",
+    "display_query": "东鹏饮料终止与姆巴佩合作"
+  },
+  {
+    "query": "蒙牛终止与姆巴佩全部合作",
+    "display_query": "蒙牛终止与姆巴佩全部合作"
+  },
+  {
+    "query": "东鹏解约姆巴佩或无需赔偿",
+    "display_query": "东鹏解约姆巴佩或无需赔偿"
+  },
+  {
+    "query": "央视全面叫停涉姆巴佩赛事和广告播出",
+    "display_query": "央视全面叫停涉姆巴佩赛事和广告播出"
+  },
   { "query": "万圣节", "display_query": "万圣节" },
   { "query": "披荆斩棘", "display_query": "披荆斩棘" },
   { "query": "湖人VS热火", "display_query": "湖人VS热火" },
-  { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
   {
     "query": "怎样避免活在信息茧房之中",
     "display_query": "怎样避免活在信息茧房之中"
@@ -11,7 +38,6 @@
     "query": "为什么大多数人没有超强的执行力",
     "display_query": "为什么大多数人没有超强的执行力"
   },
-  { "query": "王楚钦vs林德", "display_query": "王楚钦vs林德" },
   {
     "query": "人到中年为什么对许多事没了兴趣",
     "display_query": "人到中年为什么对许多事没了兴趣"

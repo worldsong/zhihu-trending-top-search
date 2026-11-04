@@ -15,15 +15,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 04 2026 06:05:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 04 2026 10:46:33 GMT+0800 (China Standard Time) -->
 
+1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek崩了)
+1. [王楚钦vs林德](https://www.zhihu.com/search?q=王楚钦vs林德)
+1. [TES vs iG](https://www.zhihu.com/search?q=TES vs iG)
+1. [Yandex数据中心遭乌袭击停运](https://www.zhihu.com/search?q=Yandex数据中心遭乌袭击停运)
+1. [厉娜许飞友谊破裂谁的错](https://www.zhihu.com/search?q=厉娜许飞友谊破裂谁的错)
+1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=反诈博主徽剑被曝遇害)
+1. [东鹏饮料终止与姆巴佩合作](https://www.zhihu.com/search?q=东鹏饮料终止与姆巴佩合作)
+1. [蒙牛终止与姆巴佩全部合作](https://www.zhihu.com/search?q=蒙牛终止与姆巴佩全部合作)
+1. [东鹏解约姆巴佩或无需赔偿](https://www.zhihu.com/search?q=东鹏解约姆巴佩或无需赔偿)
+1. [央视全面叫停涉姆巴佩赛事和广告播出](https://www.zhihu.com/search?q=央视全面叫停涉姆巴佩赛事和广告播出)
 1. [万圣节](https://www.zhihu.com/search?q=万圣节)
 1. [披荆斩棘](https://www.zhihu.com/search?q=披荆斩棘)
 1. [湖人VS热火](https://www.zhihu.com/search?q=湖人VS热火)
-1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek崩了)
 1. [怎样避免活在信息茧房之中](https://www.zhihu.com/search?q=怎样避免活在信息茧房之中)
 1. [为什么大多数人没有超强的执行力](https://www.zhihu.com/search?q=为什么大多数人没有超强的执行力)
-1. [王楚钦vs林德](https://www.zhihu.com/search?q=王楚钦vs林德)
 1. [人到中年为什么对许多事没了兴趣](https://www.zhihu.com/search?q=人到中年为什么对许多事没了兴趣)
 1. [失业真的是一件很可怕的事吗](https://www.zhihu.com/search?q=失业真的是一件很可怕的事吗)
 1. [嫁金钗](https://www.zhihu.com/search?q=嫁金钗)

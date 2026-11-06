@@ -15,26 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 06 2026 16:38:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 07 2026 00:22:54 GMT+0800 (China Standard Time) -->
 
-1. [GEN 晋级四强](https://www.zhihu.com/search?q=GEN 晋级四强)
-1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek崩了)
+1. [谷雨](https://www.zhihu.com/search?q=谷雨)
 1. [黄渤担心遗传父母的阿尔兹海默症](https://www.zhihu.com/search?q=黄渤担心遗传父母的阿尔兹海默症)
 1. [美股科技股遭遇抛售潮](https://www.zhihu.com/search?q=美股科技股遭遇抛售潮)
 1. [厉娜许飞友谊破裂谁的错](https://www.zhihu.com/search?q=厉娜许飞友谊破裂谁的错)
 1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=反诈博主徽剑被曝遇害)
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=开造啦！好奇岛)
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=好奇岛装扮游戏)
+1. [王子璇 文吉儿](https://www.zhihu.com/search?q=王子璇 文吉儿)
 1. [王子璇文吉儿关系](https://www.zhihu.com/search?q=王子璇文吉儿关系)
-1. [红果短剧登顶台湾App下载榜首](https://www.zhihu.com/search?q=红果短剧登顶台湾App下载榜首)
-1. [炒股群又恢复了欢声笑语](https://www.zhihu.com/search?q=炒股群又恢复了欢声笑语)
-1. [TES vs iG](https://www.zhihu.com/search?q=TES vs iG)
-1. [中国男篮集训名单出炉](https://www.zhihu.com/search?q=中国男篮集训名单出炉)
-1. [美股](https://www.zhihu.com/search?q=美股)
-1. [火箭vs森林狼](https://www.zhihu.com/search?q=火箭vs森林狼)
-1. [GEN战胜LYON](https://www.zhihu.com/search?q=GEN战胜LYON)
-1. [塞尔达传说时之笛](https://www.zhihu.com/search?q=塞尔达传说时之笛)
-1. [原神](https://www.zhihu.com/search?q=原神)
+1. [dsh 推出 Creator Mode](https://www.zhihu.com/search?q=dsh 推出 Creator Mode)
 
 <!-- END -->
 

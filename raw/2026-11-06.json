@@ -1,4 +1,23 @@
 [
+  { "query": "GEN 晋级四强", "display_query": "GEN 晋级四强" },
+  { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
+  {
+    "query": "黄渤担心遗传父母的阿尔兹海默症",
+    "display_query": "黄渤担心遗传父母的阿尔兹海默症"
+  },
+  { "query": "美股科技股遭遇抛售潮", "display_query": "美股科技股遭遇抛售潮" },
+  {
+    "query": "厉娜许飞友谊破裂谁的错",
+    "display_query": "厉娜许飞友谊破裂谁的错"
+  },
+  { "query": "反诈博主徽剑被曝遇害", "display_query": "反诈博主徽剑被曝遇害" },
+  { "query": "开造啦！好奇岛", "display_query": "开造啦！好奇岛" },
+  { "query": "好奇岛装扮游戏", "display_query": "好奇岛装扮游戏" },
+  { "query": "王子璇文吉儿关系", "display_query": "王子璇文吉儿关系" },
+  {
+    "query": "红果短剧登顶台湾App下载榜首",
+    "display_query": "红果短剧登顶台湾App下载榜首"
+  },
   {
     "query": "炒股群又恢复了欢声笑语",
     "display_query": "炒股群又恢复了欢声笑语"
@@ -6,12 +25,8 @@
   { "query": "TES vs iG", "display_query": "TES vs iG" },
   { "query": "中国男篮集训名单出炉", "display_query": "中国男篮集训名单出炉" },
   { "query": "美股", "display_query": "美股" },
-  { "query": "DeepSeek崩了", "display_query": "DeepSeek崩了" },
   { "query": "火箭vs森林狼", "display_query": "火箭vs森林狼" },
   { "query": "GEN战胜LYON", "display_query": "GEN战胜LYON" },
   { "query": "塞尔达传说时之笛", "display_query": "塞尔达传说时之笛" },
-  { "query": "反诈博主徽剑被曝遇害", "display_query": "反诈博主徽剑被曝遇害" },
-  { "query": "开造啦！好奇岛", "display_query": "开造啦！好奇岛" },
-  { "query": "GEN 晋级四强", "display_query": "GEN 晋级四强" },
   { "query": "原神", "display_query": "原神" }
 ]

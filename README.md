@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 07 2026 00:22:54 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 07 2026 05:49:03 GMT+0800 (China Standard Time) -->
 
 1. [谷雨](https://www.zhihu.com/search?q=谷雨)
 1. [黄渤担心遗传父母的阿尔兹海默症](https://www.zhihu.com/search?q=黄渤担心遗传父母的阿尔兹海默症)

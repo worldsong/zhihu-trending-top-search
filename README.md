@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 07 2026 22:26:51 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 08 2026 03:06:32 GMT+0800 (China Standard Time) -->
 
 1. [谷雨](https://www.zhihu.com/search?q=谷雨)
 1. [中国空间站将迎首位外籍航天员](https://www.zhihu.com/search?q=中国空间站将迎首位外籍航天员)
@@ -27,11 +27,6 @@
 1. [王子璇 文吉儿](https://www.zhihu.com/search?q=王子璇 文吉儿)
 1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=知乎好奇岛装扮游戏)
 1. [副教授白保国去世留下绝笔信](https://www.zhihu.com/search?q=副教授白保国去世留下绝笔信)
-1. [足协通报批评云南玉昆队](https://www.zhihu.com/search?q=足协通报批评云南玉昆队)
-1. [茶饮江湖，腰部大换血](https://www.zhihu.com/search?q=茶饮江湖，腰部大换血)
-1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=反诈博主徽剑被曝遇害)
-1. [王子璇文吉儿关系](https://www.zhihu.com/search?q=王子璇文吉儿关系)
-1. [dsh 推出 Creator Mode](https://www.zhihu.com/search?q=dsh 推出 Creator Mode)
 
 <!-- END -->
 

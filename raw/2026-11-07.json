@@ -1,5 +1,13 @@
 [
-  { "query": "谷雨", "display_query": "谷雨" },
+  {
+    "query": "足协通报批评云南玉昆队",
+    "display_query": "足协通报批评云南玉昆队"
+  },
+  { "query": "茶饮江湖，腰部大换血", "display_query": "茶饮江湖，腰部大换血" },
+  {
+    "query": "中国空间站将迎首位外籍航天员",
+    "display_query": "中国空间站将迎首位外籍航天员"
+  },
   {
     "query": "黄渤担心遗传父母的阿尔兹海默症",
     "display_query": "黄渤担心遗传父母的阿尔兹海默症"
@@ -9,10 +17,12 @@
     "query": "厉娜许飞友谊破裂谁的错",
     "display_query": "厉娜许飞友谊破裂谁的错"
   },
-  { "query": "反诈博主徽剑被曝遇害", "display_query": "反诈博主徽剑被曝遇害" },
   { "query": "开造啦！好奇岛", "display_query": "开造啦！好奇岛" },
   { "query": "好奇岛装扮游戏", "display_query": "好奇岛装扮游戏" },
   { "query": "王子璇 文吉儿", "display_query": "王子璇 文吉儿" },
+  { "query": "知乎好奇岛装扮游戏", "display_query": "知乎好奇岛装扮游戏" },
+  { "query": "谷雨", "display_query": "谷雨" },
+  { "query": "反诈博主徽剑被曝遇害", "display_query": "反诈博主徽剑被曝遇害" },
   { "query": "王子璇文吉儿关系", "display_query": "王子璇文吉儿关系" },
   { "query": "dsh 推出 Creator Mode", "display_query": "dsh 推出 Creator Mode" }
 ]

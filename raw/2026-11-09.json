@@ -1,5 +1,5 @@
 [
-  { "query": "王楚钦以赛代练", "display_query": "王楚钦以赛代练" },
+  { "query": "谷雨", "display_query": "谷雨" },
   {
     "query": "中国空间站将迎首位外籍航天员",
     "display_query": "中国空间站将迎首位外籍航天员"
@@ -14,5 +14,6 @@
   { "query": "知乎好奇岛装扮游戏", "display_query": "知乎好奇岛装扮游戏" },
   { "query": "字节时间论战", "display_query": "字节时间论战" },
   { "query": "卫龙换帅90后余风接棒", "display_query": "卫龙换帅90后余风接棒" },
-  { "query": "duanju成专属英文单词", "display_query": "duanju成专属英文单词" }
+  { "query": "duanju成专属英文单词", "display_query": "duanju成专属英文单词" },
+  { "query": "王楚钦以赛代练", "display_query": "王楚钦以赛代练" }
 ]

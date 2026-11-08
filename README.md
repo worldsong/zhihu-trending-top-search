@@ -15,9 +15,9 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 09 2026 00:24:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 09 2026 04:49:10 GMT+0800 (China Standard Time) -->
 
-1. [王楚钦以赛代练](https://www.zhihu.com/search?q=王楚钦以赛代练)
+1. [谷雨](https://www.zhihu.com/search?q=谷雨)
 1. [中国空间站将迎首位外籍航天员](https://www.zhihu.com/search?q=中国空间站将迎首位外籍航天员)
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=开造啦！好奇岛)
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=好奇岛装扮游戏)
@@ -27,6 +27,7 @@
 1. [字节时间论战](https://www.zhihu.com/search?q=字节时间论战)
 1. [卫龙换帅90后余风接棒](https://www.zhihu.com/search?q=卫龙换帅90后余风接棒)
 1. [duanju成专属英文单词](https://www.zhihu.com/search?q=duanju成专属英文单词)
+1. [王楚钦以赛代练](https://www.zhihu.com/search?q=王楚钦以赛代练)
 
 <!-- END -->
 

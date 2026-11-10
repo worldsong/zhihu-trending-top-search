@@ -15,17 +15,24 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 10 2026 08:54:29 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 10 2026 15:50:15 GMT+0800 (China Standard Time) -->
 
-1. [金子涵称被下药中毒](https://www.zhihu.com/search?q=金子涵称被下药中毒)
 1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=反诈博主徽剑被曝遇害)
+1. [开造啦！好奇岛](https://www.zhihu.com/search?q=开造啦！好奇岛)
+1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=好奇岛装扮游戏)
+1. [小城良方被指医学漏洞百出](https://www.zhihu.com/search?q=小城良方被指医学漏洞百出)
+1. [大体老师骨骼被写轻浮文字](https://www.zhihu.com/search?q=大体老师骨骼被写轻浮文字)
+1. [网曝《后会友期》大结局](https://www.zhihu.com/search?q=网曝《后会友期》大结局)
+1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=知乎好奇岛装扮游戏)
+1. [字节时间论战](https://www.zhihu.com/search?q=字节时间论战)
+1. [54岁大哥自学AI短剧登顶红果榜](https://www.zhihu.com/search?q=54岁大哥自学AI短剧登顶红果榜)
+1. [黄渤自曝今年几乎没戏拍](https://www.zhihu.com/search?q=黄渤自曝今年几乎没戏拍)
+1. [金子涵称被下药中毒](https://www.zhihu.com/search?q=金子涵称被下药中毒)
 1. [英伟达](https://www.zhihu.com/search?q=英伟达)
 1. [76人VS公牛](https://www.zhihu.com/search?q=76人VS公牛)
 1. [人到中年为什么对许多事没了兴趣](https://www.zhihu.com/search?q=人到中年为什么对许多事没了兴趣)
 1. [红果短剧为何让人着迷](https://www.zhihu.com/search?q=红果短剧为何让人着迷)
 1. [刘邦凭什么七年得天下](https://www.zhihu.com/search?q=刘邦凭什么七年得天下)
-1. [开造啦！好奇岛](https://www.zhihu.com/search?q=开造啦！好奇岛)
-1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=好奇岛装扮游戏)
 1. [为什么有些人会喜欢看红果短剧](https://www.zhihu.com/search?q=为什么有些人会喜欢看红果短剧)
 1. [日本地震](https://www.zhihu.com/search?q=日本地震)
 

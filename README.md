@@ -15,15 +15,20 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 10 2026 15:50:15 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 10 2026 23:51:59 GMT+0800 (China Standard Time) -->
 
-1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=反诈博主徽剑被曝遇害)
+1. [波兰检方就枪击案展开涉恐调查](https://www.zhihu.com/search?q=波兰检方就枪击案展开涉恐调查)
+1. [理想澄清团购返佣与公司无关](https://www.zhihu.com/search?q=理想澄清团购返佣与公司无关)
+1. [湖人6连胜](https://www.zhihu.com/search?q=湖人6连胜)
+1. [AI 漫剧《持械入宋》热播](https://www.zhihu.com/search?q=AI
+   漫剧《持械入宋》热播)
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=开造啦！好奇岛)
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=好奇岛装扮游戏)
 1. [小城良方被指医学漏洞百出](https://www.zhihu.com/search?q=小城良方被指医学漏洞百出)
 1. [大体老师骨骼被写轻浮文字](https://www.zhihu.com/search?q=大体老师骨骼被写轻浮文字)
 1. [网曝《后会友期》大结局](https://www.zhihu.com/search?q=网曝《后会友期》大结局)
 1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=知乎好奇岛装扮游戏)
+1. [反诈博主徽剑被曝遇害](https://www.zhihu.com/search?q=反诈博主徽剑被曝遇害)
 1. [字节时间论战](https://www.zhihu.com/search?q=字节时间论战)
 1. [54岁大哥自学AI短剧登顶红果榜](https://www.zhihu.com/search?q=54岁大哥自学AI短剧登顶红果榜)
 1. [黄渤自曝今年几乎没戏拍](https://www.zhihu.com/search?q=黄渤自曝今年几乎没戏拍)

@@ -1,5 +1,6 @@
 [
-  { "query": "日本地震", "display_query": "日本地震" },
+  { "query": "金子涵称被下药中毒", "display_query": "金子涵称被下药中毒" },
+  { "query": "反诈博主徽剑被曝遇害", "display_query": "反诈博主徽剑被曝遇害" },
   { "query": "英伟达", "display_query": "英伟达" },
   { "query": "76人VS公牛", "display_query": "76人VS公牛" },
   {
@@ -8,11 +9,11 @@
   },
   { "query": "红果短剧为何让人着迷", "display_query": "红果短剧为何让人着迷" },
   { "query": "刘邦凭什么七年得天下", "display_query": "刘邦凭什么七年得天下" },
-  { "query": "反诈博主徽剑被曝遇害", "display_query": "反诈博主徽剑被曝遇害" },
   { "query": "开造啦！好奇岛", "display_query": "开造啦！好奇岛" },
   { "query": "好奇岛装扮游戏", "display_query": "好奇岛装扮游戏" },
   {
     "query": "为什么有些人会喜欢看红果短剧",
     "display_query": "为什么有些人会喜欢看红果短剧"
-  }
+  },
+  { "query": "日本地震", "display_query": "日本地震" }
 ]

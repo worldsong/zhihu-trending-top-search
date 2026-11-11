@@ -15,24 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 11 2026 16:30:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 12 2026 00:41:45 GMT+0800 (China Standard Time) -->
 
+1. [金鸡百花奖](https://www.zhihu.com/search?q=金鸡百花奖)
+1. [金鸡奖](https://www.zhihu.com/search?q=金鸡奖)
+1. [诺基亚失败的本质原因是什么](https://www.zhihu.com/search?q=诺基亚失败的本质原因是什么)
+1. [怎样避免活在信息茧房之中](https://www.zhihu.com/search?q=怎样避免活在信息茧房之中)
+1. [全球有多少城市能撑起来14日游](https://www.zhihu.com/search?q=全球有多少城市能撑起来14日游)
+1. [为什么成功人士都精力充沛](https://www.zhihu.com/search?q=为什么成功人士都精力充沛)
+1. [立场重要还是是非重要](https://www.zhihu.com/search?q=立场重要还是是非重要)
 1. [薄肌理论](https://www.zhihu.com/search?q=薄肌理论)
-1. [AI 漫剧《持械入宋》热播](https://www.zhihu.com/search?q=AI
-   漫剧《持械入宋》热播)
-1. [开造啦！好奇岛](https://www.zhihu.com/search?q=开造啦！好奇岛)
-1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=好奇岛装扮游戏)
-1. [网曝《后会友期》大结局](https://www.zhihu.com/search?q=网曝《后会友期》大结局)
-1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=知乎好奇岛装扮游戏)
-1. [腾讯混元发布Hy4正式版](https://www.zhihu.com/search?q=腾讯混元发布Hy4正式版)
-1. [妻子私装监控拍丈夫出轨被判非法](https://www.zhihu.com/search?q=妻子私装监控拍丈夫出轨被判非法)
-1. [「不想打工」的人形机器人在仓库吃灰](https://www.zhihu.com/search?q=「不想打工」的人形机器人在仓库吃灰)
-1. [家长让孩子只上半天学](https://www.zhihu.com/search?q=家长让孩子只上半天学)
-1. [理想澄清团购返佣与公司无关](https://www.zhihu.com/search?q=理想澄清团购返佣与公司无关)
-1. [合肥地震](https://www.zhihu.com/search?q=合肥地震)
-1. [湖人6连胜](https://www.zhihu.com/search?q=湖人6连胜)
-1. [小城良方被指医学漏洞百出](https://www.zhihu.com/search?q=小城良方被指医学漏洞百出)
-1. [大体老师骨骼被写轻浮文字](https://www.zhihu.com/search?q=大体老师骨骼被写轻浮文字)
+1. [极简主义后你不会买什么东西](https://www.zhihu.com/search?q=极简主义后你不会买什么东西)
+1. [为什么有些人会喜欢看红果短剧](https://www.zhihu.com/search?q=为什么有些人会喜欢看红果短剧)
 
 <!-- END -->
 

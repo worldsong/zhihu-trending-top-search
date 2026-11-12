@@ -1,11 +1,35 @@
 [
+  { "query": "许飞厉娜和好可能性", "display_query": "许飞厉娜和好可能性" },
+  { "query": "大连英博夺得中超冠军", "display_query": "大连英博夺得中超冠军" },
+  {
+    "query": "崔添翼谈DeepSeek开源框架",
+    "display_query": "崔添翼谈DeepSeek开源框架"
+  },
+  {
+    "query": "胖东来回应洗发水被指产地造假",
+    "display_query": "胖东来回应洗发水被指产地造假"
+  },
+  { "query": "BLG 3-1 T1", "display_query": "BLG 3-1 T1" },
+  { "query": "S16决赛BLG对战GEN", "display_query": "S16决赛BLG对战GEN" },
+  {
+    "query": "Faker回应不敌BLG止步四强",
+    "display_query": "Faker回应不敌BLG止步四强"
+  },
+  {
+    "query": "商场卫生间照镜子需要先看广告",
+    "display_query": "商场卫生间照镜子需要先看广告"
+  },
+  { "query": "主持人实测滴滴抽成", "display_query": "主持人实测滴滴抽成" },
+  {
+    "query": "玛莎拉蒂将与尊界江淮合作",
+    "display_query": "玛莎拉蒂将与尊界江淮合作"
+  },
   { "query": "薄肌理论", "display_query": "薄肌理论" },
   { "query": "山东泰山 vs 成都蓉城", "display_query": "山东泰山 vs 成都蓉城" },
   {
     "query": "大连英博 vs 天津津门虎",
     "display_query": "大连英博 vs 天津津门虎"
   },
-  { "query": "许飞厉娜和好可能性", "display_query": "许飞厉娜和好可能性" },
   {
     "query": "胖东来热卖洗发水被指假日本制造",
     "display_query": "胖东来热卖洗发水被指假日本制造"
@@ -18,14 +42,9 @@
     "query": "成都蓉城 2-3 山东鲁能",
     "display_query": "成都蓉城 2-3 山东鲁能"
   },
-  { "query": "大连英博夺得中超冠军", "display_query": "大连英博夺得中超冠军" },
   {
     "query": "疑似秦始皇儿子头骨面容被复原",
     "display_query": "疑似秦始皇儿子头骨面容被复原"
-  },
-  {
-    "query": "崔添翼谈DeepSeek开源框架",
-    "display_query": "崔添翼谈DeepSeek开源框架"
   },
   { "query": "金鸡百花奖", "display_query": "金鸡百花奖" },
   { "query": "金鸡奖", "display_query": "金鸡奖" },

@@ -1,4 +1,32 @@
 [
+  { "query": "薄肌理论", "display_query": "薄肌理论" },
+  { "query": "山东泰山 vs 成都蓉城", "display_query": "山东泰山 vs 成都蓉城" },
+  {
+    "query": "大连英博 vs 天津津门虎",
+    "display_query": "大连英博 vs 天津津门虎"
+  },
+  { "query": "许飞厉娜和好可能性", "display_query": "许飞厉娜和好可能性" },
+  {
+    "query": "胖东来热卖洗发水被指假日本制造",
+    "display_query": "胖东来热卖洗发水被指假日本制造"
+  },
+  {
+    "query": "大连英博 3-1 天津津门虎",
+    "display_query": "大连英博 3-1 天津津门虎"
+  },
+  {
+    "query": "成都蓉城 2-3 山东鲁能",
+    "display_query": "成都蓉城 2-3 山东鲁能"
+  },
+  { "query": "大连英博夺得中超冠军", "display_query": "大连英博夺得中超冠军" },
+  {
+    "query": "疑似秦始皇儿子头骨面容被复原",
+    "display_query": "疑似秦始皇儿子头骨面容被复原"
+  },
+  {
+    "query": "崔添翼谈DeepSeek开源框架",
+    "display_query": "崔添翼谈DeepSeek开源框架"
+  },
   { "query": "金鸡百花奖", "display_query": "金鸡百花奖" },
   { "query": "金鸡奖", "display_query": "金鸡奖" },
   {
@@ -18,7 +46,6 @@
     "display_query": "为什么成功人士都精力充沛"
   },
   { "query": "立场重要还是是非重要", "display_query": "立场重要还是是非重要" },
-  { "query": "薄肌理论", "display_query": "薄肌理论" },
   {
     "query": "极简主义后你不会买什么东西",
     "display_query": "极简主义后你不会买什么东西"

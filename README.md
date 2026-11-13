@@ -15,22 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 13 2026 18:10:40 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 14 2026 02:11:39 GMT+0800 (China Standard Time) -->
 
-1. [AI 漫剧《持械入宋》热播](https://www.zhihu.com/search?q=AI
-   漫剧《持械入宋》热播)
+1. [崩坏星穹铁道](https://www.zhihu.com/search?q=崩坏星穹铁道)
+1. [哪些迹象表明公司不行了](https://www.zhihu.com/search?q=哪些迹象表明公司不行了)
+1. [怎样避免活在信息茧房之中](https://www.zhihu.com/search?q=怎样避免活在信息茧房之中)
+1. [活塞vs奇才](https://www.zhihu.com/search?q=活塞vs奇才)
+1. [立场重要还是是非重要](https://www.zhihu.com/search?q=立场重要还是是非重要)
 1. [大连英博夺得中超冠军](https://www.zhihu.com/search?q=大连英博夺得中超冠军)
 1. [胖东来回应洗发水被指产地造假](https://www.zhihu.com/search?q=胖东来回应洗发水被指产地造假)
-1. [BLG 3-1 T1](https://www.zhihu.com/search?q=BLG 3-1 T1)
-1. [S16决赛BLG对战GEN](https://www.zhihu.com/search?q=S16决赛BLG对战GEN)
-1. [Faker回应不敌BLG止步四强](https://www.zhihu.com/search?q=Faker回应不敌BLG止步四强)
 1. [Claude Fable 5.2 发布](https://www.zhihu.com/search?q=Claude Fable 5.2 发布)
-1. [男子搬家遭敲诈威胁除非把房子卖了](https://www.zhihu.com/search?q=男子搬家遭敲诈威胁除非把房子卖了)
-1. [路虎起诉比亚迪抄袭](https://www.zhihu.com/search?q=路虎起诉比亚迪抄袭)
 1. [特斯拉10月国内零售8817台](https://www.zhihu.com/search?q=特斯拉10月国内零售8817台)
-1. [许飞厉娜和好可能性](https://www.zhihu.com/search?q=许飞厉娜和好可能性)
-1. [曝某新能源车被曝前后轮毂装反](https://www.zhihu.com/search?q=曝某新能源车被曝前后轮毂装反)
-1. [商场卫生间照镜子需要先看广告](https://www.zhihu.com/search?q=商场卫生间照镜子需要先看广告)
+1. [特斯拉中国 10 月销量暴跌](https://www.zhihu.com/search?q=特斯拉中国 10
+   月销量暴跌)
 
 <!-- END -->
 

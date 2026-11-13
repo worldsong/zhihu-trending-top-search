@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 13 2026 05:10:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 13 2026 10:11:22 GMT+0800 (China Standard Time) -->
 
 1. [AI 漫剧《持械入宋》热播](https://www.zhihu.com/search?q=AI
    漫剧《持械入宋》热播)
@@ -25,9 +25,10 @@
 1. [BLG 3-1 T1](https://www.zhihu.com/search?q=BLG 3-1 T1)
 1. [S16决赛BLG对战GEN](https://www.zhihu.com/search?q=S16决赛BLG对战GEN)
 1. [Faker回应不敌BLG止步四强](https://www.zhihu.com/search?q=Faker回应不敌BLG止步四强)
-1. [商场卫生间照镜子需要先看广告](https://www.zhihu.com/search?q=商场卫生间照镜子需要先看广告)
 1. [曝某新能源车被曝前后轮毂装反](https://www.zhihu.com/search?q=曝某新能源车被曝前后轮毂装反)
 1. [Claude Fable 5.2 发布](https://www.zhihu.com/search?q=Claude Fable 5.2 发布)
+1. [男子搬家遭敲诈威胁除非把房子卖了](https://www.zhihu.com/search?q=男子搬家遭敲诈威胁除非把房子卖了)
+1. [商场卫生间照镜子需要先看广告](https://www.zhihu.com/search?q=商场卫生间照镜子需要先看广告)
 
 <!-- END -->
 

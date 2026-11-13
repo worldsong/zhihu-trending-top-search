@@ -16,12 +16,19 @@
     "display_query": "Faker回应不敌BLG止步四强"
   },
   {
-    "query": "商场卫生间照镜子需要先看广告",
-    "display_query": "商场卫生间照镜子需要先看广告"
-  },
-  {
     "query": "曝某新能源车被曝前后轮毂装反",
     "display_query": "曝某新能源车被曝前后轮毂装反"
   },
-  { "query": "Claude Fable 5.2 发布", "display_query": "Claude Fable 5.2 发布" }
+  {
+    "query": "Claude Fable 5.2 发布",
+    "display_query": "Claude Fable 5.2 发布"
+  },
+  {
+    "query": "男子搬家遭敲诈威胁除非把房子卖了",
+    "display_query": "男子搬家遭敲诈威胁除非把房子卖了"
+  },
+  {
+    "query": "商场卫生间照镜子需要先看广告",
+    "display_query": "商场卫生间照镜子需要先看广告"
+  }
 ]

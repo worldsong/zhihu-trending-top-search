@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 15 2026 01:23:10 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 15 2026 05:43:53 GMT+0800 (China Standard Time) -->
 
 1. [崩坏星穹铁道](https://www.zhihu.com/search?q=崩坏星穹铁道)
 1. [哪些迹象表明公司不行了](https://www.zhihu.com/search?q=哪些迹象表明公司不行了)

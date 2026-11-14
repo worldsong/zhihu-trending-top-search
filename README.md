@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Nov 14 2026 12:40:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 14 2026 19:49:27 GMT+0800 (China Standard Time) -->
 
 1. [崩坏星穹铁道](https://www.zhihu.com/search?q=崩坏星穹铁道)
 1. [哪些迹象表明公司不行了](https://www.zhihu.com/search?q=哪些迹象表明公司不行了)
@@ -24,6 +24,9 @@
 1. [立场重要还是是非重要](https://www.zhihu.com/search?q=立场重要还是是非重要)
 1. [大连英博夺得中超冠军](https://www.zhihu.com/search?q=大连英博夺得中超冠军)
 1. [胖东来回应洗发水被指产地造假](https://www.zhihu.com/search?q=胖东来回应洗发水被指产地造假)
+1. [第39届金鸡奖](https://www.zhihu.com/search?q=第39届金鸡奖)
+1. [郑大圣爆冷获金鸡奖最佳导演](https://www.zhihu.com/search?q=郑大圣爆冷获金鸡奖最佳导演)
+1. [RTX5080暴跌4000元](https://www.zhihu.com/search?q=RTX5080暴跌4000元)
 1. [Claude Fable 5.2 发布](https://www.zhihu.com/search?q=Claude Fable 5.2 发布)
 1. [饶毅：黄仁勋事件证明海外华人受歧视](https://www.zhihu.com/search?q=饶毅：黄仁勋事件证明海外华人受歧视)
 1. [成都入选《国家地理》全球最佳旅行地](https://www.zhihu.com/search?q=成都入选《国家地理》全球最佳旅行地)

@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 15 2026 23:55:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 16 2026 04:38:15 GMT+0800 (China Standard Time) -->
 
 1. [崩坏星穹铁道](https://www.zhihu.com/search?q=崩坏星穹铁道)
 1. [哪些迹象表明公司不行了](https://www.zhihu.com/search?q=哪些迹象表明公司不行了)
@@ -27,11 +27,6 @@
 1. [大连英博夺得中超冠军](https://www.zhihu.com/search?q=大连英博夺得中超冠军)
 1. [乘客称高铁座椅充电越充越掉电](https://www.zhihu.com/search?q=乘客称高铁座椅充电越充越掉电)
 1. [gta6主机版为30帧](https://www.zhihu.com/search?q=gta6主机版为30帧)
-1. [AI 漫剧《持械入宋》热播](https://www.zhihu.com/search?q=AI
-   漫剧《持械入宋》热播)
-1. [郑大圣爆冷获金鸡奖最佳导演](https://www.zhihu.com/search?q=郑大圣爆冷获金鸡奖最佳导演)
-1. [胖东来回应洗发水被指产地造假](https://www.zhihu.com/search?q=胖东来回应洗发水被指产地造假)
-1. [RTX5080暴跌4000元](https://www.zhihu.com/search?q=RTX5080暴跌4000元)
 
 <!-- END -->
 

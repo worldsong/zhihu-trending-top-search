@@ -15,28 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Nov 16 2026 15:25:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 17 2026 01:33:54 GMT+0800 (China Standard Time) -->
 
-1. [中国砒霜治疗成国际方案](https://www.zhihu.com/search?q=中国砒霜治疗成国际方案)
-1. [美国又有近万架航班取消或延误](https://www.zhihu.com/search?q=美国又有近万架航班取消或延误)
-1. [女子西西弗买200元书坐咖啡区被拒](https://www.zhihu.com/search?q=女子西西弗买200元书坐咖啡区被拒)
-1. [女子西西弗买书后坐咖啡区被拒](https://www.zhihu.com/search?q=女子西西弗买书后坐咖啡区被拒)
-1. [知乎智能搜索全新上线](https://www.zhihu.com/search?q=知乎智能搜索全新上线)
-1. [《后会友期》第五期](https://www.zhihu.com/search?q=《后会友期》第五期)
-1. [张雪回应「读书无用论」](https://www.zhihu.com/search?q=张雪回应「读书无用论」)
-1. [网红高迪大美宣布离婚](https://www.zhihu.com/search?q=网红高迪大美宣布离婚)
-1. [黄仁勋辞任英伟达CEO](https://www.zhihu.com/search?q=黄仁勋辞任英伟达CEO)
-1. [知乎智能搜索skill](https://www.zhihu.com/search?q=知乎智能搜索skill)
-1. [崩坏星穹铁道](https://www.zhihu.com/search?q=崩坏星穹铁道)
-1. [哪些迹象表明公司不行了](https://www.zhihu.com/search?q=哪些迹象表明公司不行了)
-1. [怎样避免活在信息茧房之中](https://www.zhihu.com/search?q=怎样避免活在信息茧房之中)
-1. [活塞vs奇才](https://www.zhihu.com/search?q=活塞vs奇才)
-1. [立场重要还是是非重要](https://www.zhihu.com/search?q=立场重要还是是非重要)
-1. [2026年诺贝尔化学奖](https://www.zhihu.com/search?q=2026年诺贝尔化学奖)
+1. [70城最新房价出炉](https://www.zhihu.com/search?q=70城最新房价出炉)
+1. [美股三大指数集体低开](https://www.zhihu.com/search?q=美股三大指数集体低开)
+1. [亚马尔](https://www.zhihu.com/search?q=亚马尔)
+1. [西班牙vs英格兰](https://www.zhihu.com/search?q=西班牙vs英格兰)
+1. [尼克斯vs猛龙](https://www.zhihu.com/search?q=尼克斯vs猛龙)
+1. [谢霆锋杭州演唱会](https://www.zhihu.com/search?q=谢霆锋杭州演唱会)
 1. [男子为自证财力将他人新房拆成毛坯](https://www.zhihu.com/search?q=男子为自证财力将他人新房拆成毛坯)
-1. [大连英博夺得中超冠军](https://www.zhihu.com/search?q=大连英博夺得中超冠军)
-1. [乘客称高铁座椅充电越充越掉电](https://www.zhihu.com/search?q=乘客称高铁座椅充电越充越掉电)
-1. [gta6主机版为30帧](https://www.zhihu.com/search?q=gta6主机版为30帧)
+1. [社恐到这种程度可能是生病了](https://www.zhihu.com/search?q=社恐到这种程度可能是生病了)
+1. [10月销量前十仍有两款燃油车](https://www.zhihu.com/search?q=10月销量前十仍有两款燃油车)
+1. [知乎智能搜索全新上线](https://www.zhihu.com/search?q=知乎智能搜索全新上线)
 
 <!-- END -->
 

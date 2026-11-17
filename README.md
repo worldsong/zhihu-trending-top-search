@@ -15,18 +15,23 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Tue Nov 17 2026 09:10:33 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Tue Nov 17 2026 17:48:43 GMT+0800 (China Standard Time) -->
 
 1. [70城最新房价出炉](https://www.zhihu.com/search?q=70城最新房价出炉)
 1. [美股三大指数集体低开](https://www.zhihu.com/search?q=美股三大指数集体低开)
+1. [男子为自证财力将他人新房拆成毛坯](https://www.zhihu.com/search?q=男子为自证财力将他人新房拆成毛坯)
+1. [社恐到这种程度可能是生病了](https://www.zhihu.com/search?q=社恐到这种程度可能是生病了)
+1. [Claude Fable 5.2 发布](https://www.zhihu.com/search?q=Claude Fable 5.2 发布)
+1. [知乎智能搜索全新上线](https://www.zhihu.com/search?q=知乎智能搜索全新上线)
+1. [《后会友期》第五期](https://www.zhihu.com/search?q=《后会友期》第五期)
+1. [网红高迪大美宣布离婚](https://www.zhihu.com/search?q=网红高迪大美宣布离婚)
+1. [黄仁勋辞任英伟达CEO](https://www.zhihu.com/search?q=黄仁勋辞任英伟达CEO)
+1. [知乎智能搜索skill](https://www.zhihu.com/search?q=知乎智能搜索skill)
 1. [亚马尔](https://www.zhihu.com/search?q=亚马尔)
 1. [西班牙vs英格兰](https://www.zhihu.com/search?q=西班牙vs英格兰)
 1. [尼克斯vs猛龙](https://www.zhihu.com/search?q=尼克斯vs猛龙)
 1. [谢霆锋杭州演唱会](https://www.zhihu.com/search?q=谢霆锋杭州演唱会)
-1. [男子为自证财力将他人新房拆成毛坯](https://www.zhihu.com/search?q=男子为自证财力将他人新房拆成毛坯)
-1. [社恐到这种程度可能是生病了](https://www.zhihu.com/search?q=社恐到这种程度可能是生病了)
 1. [10月销量前十仍有两款燃油车](https://www.zhihu.com/search?q=10月销量前十仍有两款燃油车)
-1. [知乎智能搜索全新上线](https://www.zhihu.com/search?q=知乎智能搜索全新上线)
 
 <!-- END -->
 

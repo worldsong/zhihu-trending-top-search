@@ -15,23 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 18 2026 17:20:37 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 19 2026 02:28:05 GMT+0800 (China Standard Time) -->
 
+1. [GTA6](https://www.zhihu.com/search?q=GTA6)
+1. [GEN官宣四人离队](https://www.zhihu.com/search?q=GEN官宣四人离队)
+1. [你觉得人最重要的能力是什么](https://www.zhihu.com/search?q=你觉得人最重要的能力是什么)
 1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026名古屋亚运会)
-1. [男子为自证财力将他人新房拆成毛坯](https://www.zhihu.com/search?q=男子为自证财力将他人新房拆成毛坯)
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=开造啦！好奇岛)
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=好奇岛装扮游戏)
 1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=知乎好奇岛装扮游戏)
+1. [我的有罪之人](https://www.zhihu.com/search?q=我的有罪之人)
 1. [三甲医院医生推荐患者去三乙医院](https://www.zhihu.com/search?q=三甲医院医生推荐患者去三乙医院)
 1. [知乎智能搜索全新上线](https://www.zhihu.com/search?q=知乎智能搜索全新上线)
-1. [《后会友期》第五期](https://www.zhihu.com/search?q=《后会友期》第五期)
-1. [黄仁勋辞任英伟达CEO](https://www.zhihu.com/search?q=黄仁勋辞任英伟达CEO)
-1. [知乎智能搜索skill](https://www.zhihu.com/search?q=知乎智能搜索skill)
-1. [谷雨](https://www.zhihu.com/search?q=谷雨)
-1. [GEN官宣四人离队](https://www.zhihu.com/search?q=GEN官宣四人离队)
-1. [Claude Fable 5.2 发布](https://www.zhihu.com/search?q=Claude Fable 5.2 发布)
-1. [知乎智能搜索](https://www.zhihu.com/search?q=知乎智能搜索)
-1. [黄仁勋辞职前言论](https://www.zhihu.com/search?q=黄仁勋辞职前言论)
 
 <!-- END -->
 

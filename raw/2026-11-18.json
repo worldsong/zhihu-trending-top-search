@@ -1,18 +1,26 @@
 [
-  { "query": "谷雨", "display_query": "谷雨" },
-  { "query": "GEN官宣四人离队", "display_query": "GEN官宣四人离队" },
+  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
   {
     "query": "男子为自证财力将他人新房拆成毛坯",
     "display_query": "男子为自证财力将他人新房拆成毛坯"
   },
+  { "query": "开造啦！好奇岛", "display_query": "开造啦！好奇岛" },
+  { "query": "好奇岛装扮游戏", "display_query": "好奇岛装扮游戏" },
+  { "query": "知乎好奇岛装扮游戏", "display_query": "知乎好奇岛装扮游戏" },
   {
-    "query": "Claude Fable 5.2 发布",
-    "display_query": "Claude Fable 5.2 发布"
+    "query": "三甲医院医生推荐患者去三乙医院",
+    "display_query": "三甲医院医生推荐患者去三乙医院"
   },
   { "query": "知乎智能搜索全新上线", "display_query": "知乎智能搜索全新上线" },
   { "query": "《后会友期》第五期", "display_query": "《后会友期》第五期" },
   { "query": "黄仁勋辞任英伟达CEO", "display_query": "黄仁勋辞任英伟达CEO" },
   { "query": "知乎智能搜索skill", "display_query": "知乎智能搜索skill" },
+  { "query": "谷雨", "display_query": "谷雨" },
+  { "query": "GEN官宣四人离队", "display_query": "GEN官宣四人离队" },
+  {
+    "query": "Claude Fable 5.2 发布",
+    "display_query": "Claude Fable 5.2 发布"
+  },
   { "query": "知乎智能搜索", "display_query": "知乎智能搜索" },
   { "query": "黄仁勋辞职前言论", "display_query": "黄仁勋辞职前言论" }
 ]

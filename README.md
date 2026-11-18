@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Nov 18 2026 02:48:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Nov 18 2026 09:23:34 GMT+0800 (China Standard Time) -->
 
 1. [谷雨](https://www.zhihu.com/search?q=谷雨)
 1. [GEN官宣四人离队](https://www.zhihu.com/search?q=GEN官宣四人离队)

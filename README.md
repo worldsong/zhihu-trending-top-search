@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 19 2026 02:28:05 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 19 2026 08:47:59 GMT+0800 (China Standard Time) -->
 
 1. [GTA6](https://www.zhihu.com/search?q=GTA6)
 1. [GEN官宣四人离队](https://www.zhihu.com/search?q=GEN官宣四人离队)

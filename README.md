@@ -15,23 +15,18 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 19 2026 16:03:21 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 20 2026 01:46:12 GMT+0800 (China Standard Time) -->
 
+1. [GTA6](https://www.zhihu.com/search?q=GTA6)
+1. [gen官宣四人离队](https://www.zhihu.com/search?q=gen官宣四人离队)
+1. [声生不息](https://www.zhihu.com/search?q=声生不息)
+1. [英伟达](https://www.zhihu.com/search?q=英伟达)
+1. [金价](https://www.zhihu.com/search?q=金价)
 1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026名古屋亚运会)
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=开造啦！好奇岛)
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=好奇岛装扮游戏)
 1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=知乎好奇岛装扮游戏)
 1. [知乎智能搜索全新上线](https://www.zhihu.com/search?q=知乎智能搜索全新上线)
-1. [知乎智能搜索skill](https://www.zhihu.com/search?q=知乎智能搜索skill)
-1. [知乎智能搜索](https://www.zhihu.com/search?q=知乎智能搜索)
-1. [星舰飞船首次成功回收](https://www.zhihu.com/search?q=星舰飞船首次成功回收)
-1. [BLG 3-1 GEN](https://www.zhihu.com/search?q=BLG 3-1 GEN)
-1. [BLG 夺冠](https://www.zhihu.com/search?q=BLG 夺冠)
-1. [GTA6](https://www.zhihu.com/search?q=GTA6)
-1. [GEN官宣四人离队](https://www.zhihu.com/search?q=GEN官宣四人离队)
-1. [你觉得人最重要的能力是什么](https://www.zhihu.com/search?q=你觉得人最重要的能力是什么)
-1. [我的有罪之人](https://www.zhihu.com/search?q=我的有罪之人)
-1. [三甲医院医生推荐患者去三乙医院](https://www.zhihu.com/search?q=三甲医院医生推荐患者去三乙医院)
 
 <!-- END -->
 

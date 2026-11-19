@@ -1,12 +1,14 @@
 [
-  { "query": "GTA6", "display_query": "GTA6" },
-  { "query": "gen官宣四人离队", "display_query": "gen官宣四人离队" },
+  { "query": "腾讯2026年Q3财报", "display_query": "腾讯2026年Q3财报" },
   { "query": "声生不息", "display_query": "声生不息" },
+  { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" },
   { "query": "英伟达", "display_query": "英伟达" },
   { "query": "金价", "display_query": "金价" },
   { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
   { "query": "开造啦！好奇岛", "display_query": "开造啦！好奇岛" },
   { "query": "好奇岛装扮游戏", "display_query": "好奇岛装扮游戏" },
   { "query": "知乎好奇岛装扮游戏", "display_query": "知乎好奇岛装扮游戏" },
-  { "query": "知乎智能搜索全新上线", "display_query": "知乎智能搜索全新上线" }
+  { "query": "知乎智能搜索全新上线", "display_query": "知乎智能搜索全新上线" },
+  { "query": "GTA6", "display_query": "GTA6" },
+  { "query": "gen官宣四人离队", "display_query": "gen官宣四人离队" }
 ]

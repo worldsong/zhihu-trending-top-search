@@ -15,18 +15,22 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 20 2026 07:57:06 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Nov 20 2026 13:06:52 GMT+0800 (China Standard Time) -->
 
-1. [腾讯2026年Q3财报](https://www.zhihu.com/search?q=腾讯2026年Q3财报)
-1. [声生不息](https://www.zhihu.com/search?q=声生不息)
 1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=美股三大指数集体收跌)
-1. [英伟达](https://www.zhihu.com/search?q=英伟达)
-1. [金价](https://www.zhihu.com/search?q=金价)
 1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026名古屋亚运会)
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=开造啦！好奇岛)
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=好奇岛装扮游戏)
+1. [小城良方被指医学漏洞百出](https://www.zhihu.com/search?q=小城良方被指医学漏洞百出)
 1. [知乎好奇岛装扮游戏](https://www.zhihu.com/search?q=知乎好奇岛装扮游戏)
 1. [知乎智能搜索全新上线](https://www.zhihu.com/search?q=知乎智能搜索全新上线)
+1. [黄仁勋辞任英伟达CEO](https://www.zhihu.com/search?q=黄仁勋辞任英伟达CEO)
+1. [知乎智能搜索skill](https://www.zhihu.com/search?q=知乎智能搜索skill)
+1. [知乎智能搜索](https://www.zhihu.com/search?q=知乎智能搜索)
+1. [腾讯2026年Q3财报](https://www.zhihu.com/search?q=腾讯2026年Q3财报)
+1. [声生不息](https://www.zhihu.com/search?q=声生不息)
+1. [英伟达](https://www.zhihu.com/search?q=英伟达)
+1. [金价](https://www.zhihu.com/search?q=金价)
 1. [GTA6](https://www.zhihu.com/search?q=GTA6)
 1. [gen官宣四人离队](https://www.zhihu.com/search?q=gen官宣四人离队)
 

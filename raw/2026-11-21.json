@@ -1,6 +1,4 @@
 [
-  { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" },
-  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
   { "query": "开造啦！好奇岛", "display_query": "开造啦！好奇岛" },
   { "query": "好奇岛装扮游戏", "display_query": "好奇岛装扮游戏" },
   {
@@ -11,5 +9,10 @@
   { "query": "罗小黑战记", "display_query": "罗小黑战记" },
   { "query": "知乎好奇岛装扮游戏", "display_query": "知乎好奇岛装扮游戏" },
   { "query": "知乎智能搜索全新上线", "display_query": "知乎智能搜索全新上线" },
+  { "query": "知乎智能搜索skill", "display_query": "知乎智能搜索skill" },
+  { "query": "知乎智能搜索", "display_query": "知乎智能搜索" },
+  { "query": "BLG 3-1 GEN", "display_query": "BLG 3-1 GEN" },
+  { "query": "美股三大指数集体收跌", "display_query": "美股三大指数集体收跌" },
+  { "query": "2026名古屋亚运会", "display_query": "2026名古屋亚运会" },
   { "query": "黄仁勋辞任英伟达CEO", "display_query": "黄仁勋辞任英伟达CEO" }
 ]

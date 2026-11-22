@@ -15,7 +15,7 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Nov 22 2026 06:29:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Nov 22 2026 10:42:31 GMT+0800 (China Standard Time) -->
 
 1. [开造啦！好奇岛](https://www.zhihu.com/search?q=开造啦！好奇岛)
 1. [好奇岛装扮游戏](https://www.zhihu.com/search?q=好奇岛装扮游戏)

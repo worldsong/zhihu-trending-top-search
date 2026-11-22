@@ -1,6 +1,9 @@
 [
-  { "query": "开造啦！好奇岛", "display_query": "开造啦！好奇岛" },
-  { "query": "好奇岛装扮游戏", "display_query": "好奇岛装扮游戏" },
+  {
+    "query": "拼多多三季度营收1083亿",
+    "display_query": "拼多多三季度营收1083亿"
+  },
+  { "query": "DeepSeek限额", "display_query": "DeepSeek限额" },
   { "query": "王子璇 文吉儿", "display_query": "王子璇 文吉儿" },
   { "query": "罗小黑战记", "display_query": "罗小黑战记" },
   { "query": "知乎好奇岛装扮游戏", "display_query": "知乎好奇岛装扮游戏" },
@@ -14,5 +17,7 @@
   {
     "query": "DeepSeek调整对话上限长度",
     "display_query": "DeepSeek调整对话上限长度"
-  }
+  },
+  { "query": "开造啦！好奇岛", "display_query": "开造啦！好奇岛" },
+  { "query": "好奇岛装扮游戏", "display_query": "好奇岛装扮游戏" }
 ]

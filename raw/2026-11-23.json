@@ -1,6 +1,17 @@
 [
+  {
+    "query": "1991年张大爷试卷实为梗图",
+    "display_query": "1991年张大爷试卷实为梗图"
+  },
+  {
+    "query": "韩国网友感谢中国演奏阿里郎",
+    "display_query": "韩国网友感谢中国演奏阿里郎"
+  },
+  { "query": "上海地铁涨价", "display_query": "上海地铁涨价" },
+  { "query": "英伟达被查", "display_query": "英伟达被查" },
   { "query": "开造啦！好奇岛", "display_query": "开造啦！好奇岛" },
   { "query": "好奇岛装扮游戏", "display_query": "好奇岛装扮游戏" },
+  { "query": "罗小黑战记", "display_query": "罗小黑战记" },
   { "query": "知乎好奇岛装扮游戏", "display_query": "知乎好奇岛装扮游戏" },
   {
     "query": "三甲医院医生推荐患者去三乙医院",
@@ -18,6 +29,5 @@
     "query": "DeepSeek调整对话上限长度",
     "display_query": "DeepSeek调整对话上限长度"
   },
-  { "query": "王子璇 文吉儿", "display_query": "王子璇 文吉儿" },
-  { "query": "罗小黑战记", "display_query": "罗小黑战记" }
+  { "query": "王子璇 文吉儿", "display_query": "王子璇 文吉儿" }
 ]

@@ -15,24 +15,19 @@
 ## 今日热搜榜
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Nov 27 2026 18:29:44 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Nov 28 2026 03:42:22 GMT+0800 (China Standard Time) -->
 
-1. [古乐风华录定档](https://www.zhihu.com/search?q=古乐风华录定档)
+1. [A股](https://www.zhihu.com/search?q=A股)
+1. [92号汽油重返7元时代](https://www.zhihu.com/search?q=92号汽油重返7元时代)
 1. [AI 漫剧《持械入宋》热播](https://www.zhihu.com/search?q=AI
    漫剧《持械入宋》热播)
+1. [后会友期](https://www.zhihu.com/search?q=后会友期)
 1. [沈阳一商场保洁大叔凭高颜值出圈](https://www.zhihu.com/search?q=沈阳一商场保洁大叔凭高颜值出圈)
 1. [山姆上架国航3970元四次卡](https://www.zhihu.com/search?q=山姆上架国航3970元四次卡)
 1. [Hy4 flash 正式开源](https://www.zhihu.com/search?q=Hy4 flash 正式开源)
 1. [知乎数据开放平台新玩法](https://www.zhihu.com/search?q=知乎数据开放平台新玩法)
 1. [DeepSeek调整API定价](https://www.zhihu.com/search?q=DeepSeek调整API定价)
 1. [AI证明黎曼猜想](https://www.zhihu.com/search?q=AI证明黎曼猜想)
-1. [最新殡仪馆公墓管理办法公布](https://www.zhihu.com/search?q=最新殡仪馆公墓管理办法公布)
-1. [AI证明黎曼猜想科学家能否获菲奖](https://www.zhihu.com/search?q=AI证明黎曼猜想科学家能否获菲奖)
-1. [SpaceX申请部署百万颗卫星](https://www.zhihu.com/search?q=SpaceX申请部署百万颗卫星)
-1. [蔡磊进入渐冻症终末期](https://www.zhihu.com/search?q=蔡磊进入渐冻症终末期)
-1. [黄仁勋辞任英伟达CEO](https://www.zhihu.com/search?q=黄仁勋辞任英伟达CEO)
-1. [多所高校推出一分钱早餐](https://www.zhihu.com/search?q=多所高校推出一分钱早餐)
-1. [利物浦4比0大胜曼联](https://www.zhihu.com/search?q=利物浦4比0大胜曼联)
 
 <!-- END -->
 
